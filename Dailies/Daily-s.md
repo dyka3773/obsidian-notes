@@ -1,13 +1,13 @@
 
 ```dataview
 CALENDAR file.ctime
-FROM #tag 
+FROM #daily 
 ```
 
 ### Recently Modified Notes
 ```dataview
 TABLE file.mtime as "Last Update", file.folder as "Path", file.cday as "Creation Time"
-FROM #tag
+FROM #daily
 SORT file.mtime DESC
 LIMIT 10
 ```

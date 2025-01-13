@@ -4,7 +4,7 @@ aliases:
 tags:
   - tech
 ---
-The producers are the clients that send messages to the Kafka cluster.
+The producers are the clients that send messages to the [[Kafka]] cluster.
 They can send messages to a specific topic or a partition of a topic.
 Where the message is sent depends on the partitioning strategy used and the key of the message which is optional.
 The partitioning strategy can be [[round-robin]] (no-key) or based on the key of the message (or any other custom strategy).
@@ -16,9 +16,9 @@ value.serializer=org.apache.kafka.common.serialization.StringSerializer
 topic.name=example_topic
 ```
 
-The `bootstrap.servers` is the address of the Kafka cluster.
+The `bootstrap.servers` is the address of the [[Kafka]] cluster.
 The `key.serializer` and `value.serializer` are the serializers for the key and value of the message.
-The serializers are used to convert the key and value of the message to bytes before sending them to the Kafka cluster.
+The serializers are used to convert the key and value of the message to bytes before sending them to the [[Kafka]] cluster.
 The `value.serializer` can be almost anything, but the usual scenarios are:
 - `org.apache.kafka.common.serialization.StringSerializer` for string messages (UTF-8) that have no real structure
 - `io.confluent.kafka.serializers.KafkaAvroSerializer` for messages that have a schema (like JSON, XML, etc.), where the schema is stored in the [[Schema Registry]], and the messages are serialized using the [[Avro]] serialization format.

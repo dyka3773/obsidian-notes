@@ -4,32 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "4e0d9f6684d7a110",
+        "id": "c99889282eb82a01",
         "type": "tabs",
         "children": [
           {
-            "id": "8f1a2b17947490be",
+            "id": "d5ac284899f47837",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech notes/Kafka/Kafka Producer.md",
+                "file": "Dailies/2025-01-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kafka Producer"
+              "title": "2025-01-13"
             }
           }
         ]
       },
       {
-        "id": "c99889282eb82a01",
+        "id": "19824bfbc3d3d923",
         "type": "tabs",
         "children": [
           {
-            "id": "e67ed038bd884e46",
+            "id": "1c6cab49b00c7429",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech notes/Kafka/Kafka Producer.md",
+                "file": "Dailies/2025-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kafka Producer"
+              "title": "Backlinks for 2025-01-13"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech notes/Kafka/Kafka Producer.md",
+                "file": "Dailies/2025-01-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kafka Producer"
+              "title": "Outgoing links from 2025-01-13"
             }
           },
           {
@@ -156,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech notes/Kafka/Kafka Producer.md"
+                "file": "Dailies/2025-01-13.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Kafka Producer"
+              "title": "Outline of 2025-01-13"
             }
           },
           {
@@ -202,42 +202,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f1a2b17947490be",
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
-    "Tech notes/General Tools/DBMS Tools/MySQL Workbench.md",
+    "Dailies/Daily-s.md",
+    "Homepage.md",
+    "Tech notes/Tech Notes.md",
+    "templates/Tag homepage template.md",
+    "Dailies/2025-01-13.md",
+    "templates/Daily note template.md",
+    "Tech notes/Oracle/Useful Metadata Queries.md",
     "Tech notes/Kafka/Schema Registry.md",
+    "Tech notes/Kafka/REST Proxy.md",
+    "Tech notes/Kafka/Other Useful Kafka Tools.md",
+    "Tech notes/Kafka/KSQLdb.md",
     "Tech notes/Kafka/Kafka Producer.md",
     "Tech notes/Kafka/Kafka Consumer.md",
-    "producer.md",
-    "Homepage.md",
-    "templates/Tag homepage template.md",
-    "Tech notes/Tech Notes.md",
-    "templates/Tech note template.md",
-    "Unfinished Notes.md",
+    "Tech notes/Kafka/Kafka Connect.md",
     "Tech notes/Kafka/Kafka.md",
+    "Tech notes/Kafka/Control Center.md",
+    "Tech notes/Oracle/TRANSACTION_ID.md",
+    "Tech notes/Oracle/Synonyms.md",
+    "Tech notes/Oracle/Schemas and Users.md",
+    "Tech notes/Oracle/Oracle DBMS.md",
+    "Tech notes/Oracle/Invisible Columns.md",
+    "Tech notes/Oracle/DBMS Metadata Views.md",
+    "Tech notes/Oracle",
+    "Tech notes/Batch/Interesting reads.md",
+    "Tech notes/bash/Useful Scripts/backup/Backup.md",
+    "Tech notes/Batch/CALL.md",
+    "Tech notes/Batch/ECHO %~dp0.md",
     "Tech notes/Kafka",
-    "Tech notes/General Tools/Misc Tools/Trello.md",
-    "Tech notes/General Tools/Misc Tools/Figma.md",
-    "Tech notes/General Tools/Misc Tools/draw.io.md",
-    "Tech notes/General Tools/Misc Tools/Postman.md",
-    "templates/Tech Tool template.md",
-    "Tech notes/General Tools/DBMS Tools/Oracle SQL Developer.md",
-    "Tech notes/General Tools/IDEs and Editors/VS Code.md",
-    "Tech notes/General Tools/IDEs and Editors/Intellij IDEA.md",
-    "Tech notes/Batch/START.md",
     "Tech notes/General Tools/Misc Tools",
     "Tech notes/General Tools/DBMS Tools",
     "Tech notes/General Tools/IDEs and Editors",
     "Tech notes/General Tools",
-    "Tech notes/Batch/Interesting reads.md",
-    "Tech notes/Batch/PAUSE & TIMEOUT.md",
-    "Tech notes/Batch/ECHO %~dp0.md",
-    "Tech notes/Batch/CALL.md",
-    "Tech notes/bash/Useful Scripts/backup/Backup.md",
     "Dailies",
     "Tech notes",
     "templates",
-    "Tech notes/Batch",
-    "Tech notes/bash/Useful Scripts/backup/backup.sh"
+    "Tech notes/Batch"
   ]
 }

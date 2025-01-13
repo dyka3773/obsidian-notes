@@ -1,3 +1,4 @@
+
 ```dataview
 CALENDAR file.ctime
 FROM #tech 
@@ -10,8 +11,5 @@ FROM #tech
 SORT file.mtime DESC
 LIMIT 10
 ```
-
-
-
 
 See also the [[Homepage]] for a general view.
