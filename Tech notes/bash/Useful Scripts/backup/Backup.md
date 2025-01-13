@@ -1,6 +1,7 @@
 ---
 tags:
   - tech
+  - bash
 ---
 This script is used to backup files and folders under a hardcoded directory.
 
