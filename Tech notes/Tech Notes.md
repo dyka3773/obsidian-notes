@@ -5,6 +5,7 @@ FROM #tech
 ```
 
 ### Recently Modified Notes
+
 ```dataview
 TABLE file.mtime as "Last Update", file.folder as "Path", file.cday as "Creation Time"
 FROM #tech 

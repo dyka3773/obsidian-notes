@@ -2,6 +2,7 @@
 tags:
   - tech
   - bash
+  - snippet
 ---
 This script is used to backup files and folders under a hardcoded directory.
 

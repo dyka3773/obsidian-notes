@@ -21,7 +21,7 @@ They are also stored in an ordered fashion using an offset.
 To the Kafka application, everything is either a [[Kafka Producer|producer]], a [[Kafka Consumer|consumer]], or a broker.
 The producers and consumers are the clients of the Kafka application.
 The brokers are the servers that form the Kafka cluster.
-The Producers and Consumers can be written in any language that supports the Kafka API (Java, Python, Go, etc.) or can use the REST API that Kafka provides.
+The Producers and Consumers can be written in any language that supports the Kafka API (Java, [[Python]], Go, etc.) or can use the REST API that Kafka provides.
 The Kafka cluster can be deployed on-premise or on the cloud (It usually is a [[docker]] container).
 It also supports other 3rd party tools like [[Schema Registry]], [[REST Proxy]], etc. that can be used to manage the Kafka cluster. (I'll talk about them later)
 

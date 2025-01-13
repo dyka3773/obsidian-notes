@@ -75,7 +75,7 @@ public class ConsumerDemo {
 }
 ```
 
-A similar example in Python:
+A similar example in [[Python]]:
 
 ```python
 from kafka import KafkaConsumer

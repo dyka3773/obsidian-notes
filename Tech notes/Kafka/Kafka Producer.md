@@ -77,7 +77,7 @@ public class ProducerDemo {
 }
 ```
 
-A similar example in Python:
+A similar example in [[Python]]:
 
 ```python
 
@@ -112,5 +112,5 @@ producer.flush()
 producer.close()
 ```
 
-> Note: For the Python example, I'm using the [kafka-python](https://kafka-python.readthedocs.io/en/master/index.html) library. 
+> Note: For the [[Python]] example, I'm using the [kafka-python](https://kafka-python.readthedocs.io/en/master/index.html) library. 
 > It is not the official library, but it is the most popular one.

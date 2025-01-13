@@ -118,7 +118,7 @@ public class Person extends SpecificRecordBase {
 }
 ```
 
-and the corresponding metaclass in Python would be:
+and the corresponding metaclass in [[Python]] would be:
 
 ```python
 from typing import Dict, Any, Union, TypeVar, Type, cast

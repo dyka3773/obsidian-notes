@@ -1,0 +1,11 @@
+---
+tags:
+  - tech
+  - python
+  - lists
+---
+- `__enter__`: The enter method. It is called when the `with` statement is used on an object. (It is called before the `with` statement's code block is executed.)
+- `__exit__`: The exit method. It is called when the `with` statement is used on an object. (It is called even if an [[Exceptions & Errors|exception]] is raised inside the `with` statement or when the `with` statement ends normally.)
+- `__len__`: The length method. It is called when the `len()` function is called on an object.
+- `__contains__`: The contains method. It is called when the `in` operator is used on an object.
+- `__del__`: The destructor method. It is called when an object is about to be destroyed and it allows the class to perform any cleanup actions. (It is rarely used.)

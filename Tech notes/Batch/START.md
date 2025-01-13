@@ -5,7 +5,7 @@ tags:
 ---
 ## Open a new command prompt window
 
-`START` will instantiate a new `CMD.exe` shell for the called batch. This will inherit variables from the calling shell, but any variable changes will be discarded when the second script ends.
+`START` will instantiate a new `CMD.exe` shell for the called [[batch]]. This will inherit variables from the calling shell, but any variable changes will be discarded when the second script ends.
 
 ```cmd
 @REM This opens a new command prompt window and continues the execution of the batch file
