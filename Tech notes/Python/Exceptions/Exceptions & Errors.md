@@ -12,16 +12,16 @@ aliases:
 
 Exceptions are errors that occur during the execution of a program.
 They interrupt the normal flow of the program and usually end it.
-Like in many other languages, in Python, exceptions are split into two categories: Handled and unhandled exceptions.
+Like in many other languages, in [[Python]], exceptions are split into two categories: Handled and unhandled exceptions.
 
 Handled exceptions are caught by the program and dealt with.
 Unhandled exceptions are not caught by the program and end it.
 
-`BaseException` is the base class for all exceptions in Python. 
+`BaseException` is the base class for all exceptions in [[Python]]. 
 One of its subclasses is `Exception`, it is used for all exceptions that are non fatal and can be handled.
 Exceptions which are not subclasses of `Exception` are typically not handled and are used to indicate that the program should be terminated.
 
-The following diagram shows the hierarchy of the most common exceptions in Python:
+The following diagram shows the hierarchy of the most common exceptions in [[Python]]:
 
 ![](https://python3.info/_images/exception-hierarchy.png)
 

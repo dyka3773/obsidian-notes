@@ -40,9 +40,19 @@ print("Hello World")
 - [[Type hinting]]
 - [[Packages & Modules]]
 - [[Exceptions & Errors]]
+- [[Arguments]]
+- [[Logging]]
+- [[Strings]]
 
 See also [[Python Quirks]].
 
-## Uses
+## Paradigms
 
-- [[Arguments]]
+- [[Functional Paradigm|Functional Paradigm in Python]]
+- [[OOP Paradigm in Python]]
+- [[Concurrent Paradigm in Python]]
+
+## Snippets and Code Examples
+
+See [[Tech notes/Python/Useful Snippets/Useful Snippets|Useful Snippets]]
+

@@ -6,7 +6,7 @@ aliases:
   - comprehension
 ---
 In [[Python]], list comprehension is a way to create lists in a declarative way.
-It is a syntactic construct that allows us to create lists from other lists, generators, etc.
+It is a syntactic construct that allows us to create lists from other lists, [[Generators]], etc.
 It is mostly used to replace `map()` and `filter()` functions when the function we want to apply is a simple [[Lambda Functions|lambda]] function.
 For more complex functions, it is better to use `map()` and `filter()` as (to my opinion) they are more readable.
 
@@ -43,7 +43,7 @@ print(my_list) # [2, 4, 6, 8, 10]
  print(my_set) # {2, 4, 6, 8, 10}
  ```
 
-> **NOTE 3**: List comprehension can also be used to create generators. 
+> **NOTE 3**: List comprehension can also be used to create [[Generators]]. 
 > For example:
 ```python
  my_generator = (x for x in range(1, 11) if x % 2 == 0)

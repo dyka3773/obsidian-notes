@@ -22,7 +22,7 @@ x = "Sally" # x is now of type str
 print(x)
 ```
 
-String variables can be declared either by using single or double quotes.
+[[Strings|String]] variables can be declared either by using single or double quotes.
 
 ```python
 x = "John"
@@ -30,7 +30,7 @@ x = "John"
 x = 'John'
 ```
 
-> **Note 1**: Triple quotes are used to span the string across multiple lines.
+> **Note 1**: Triple quotes are used to span the [[Strings|string]] across multiple lines.
 ```python 
 x = """Lorem ipsum dolor sit amet,
 consectetur adipiscing elit,

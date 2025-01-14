@@ -13,7 +13,7 @@ Here are some of these features:
 - [[Lambda Functions]]
 - [[Function Attributes]]
 - [[Decorators]]
-- [[Generators]]
+- [[Generators]] vs [[Iterables]] vs [[Iterators]] (see comparison in [[Iterators vs Iterables vs Generators example]])
 - [f-strings and their shorthand](https://docs.python.org/3/reference/lexical_analysis.html#f-strings)
 - [[args and kwargs]]
 - [`__slots__`](https://stackoverflow.com/a/28059785/15552149)

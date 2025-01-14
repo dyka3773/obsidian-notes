@@ -2,4 +2,4 @@
 tags:
   - tech
 ---
-See also [[Useful Snippets]].
+See also [[Tech notes/PHP/Useful Snippets|Useful Snippets]].

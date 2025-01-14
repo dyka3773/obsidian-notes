@@ -15,6 +15,6 @@ This is a multi-line comment
 """
 ```
 
-> **Note 1**: Triple quotes are used to span the comment across multiple lines, to create multi-line strings and to create docstrings.
+> **Note 1**: Triple quotes are used to span the comment across multiple lines, to create multi-line [[Strings]] and to create docstrings.
 
 > Note 2: I think that depending on how you can compile your code, your comments can be omitted from the produced bytecode to make it more lightweight and fast.
