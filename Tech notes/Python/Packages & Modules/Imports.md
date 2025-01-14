@@ -2,8 +2,11 @@
 tags:
   - tech
   - python
+aliases:
+  - importing
+  - import
 ---
-Imports are used to import modules, packages, and symbols (functions, variables, etc) from modules and packages.
+Imports are used to import [[Packages & Modules|modules]], [[Packages & Modules|packages]], and symbols (functions, [[variables]], etc) from [[Packages & Modules|modules]] and [[Packages & Modules|packages]].
 
 To import a module, use the `import` keyword followed by the module name:
 

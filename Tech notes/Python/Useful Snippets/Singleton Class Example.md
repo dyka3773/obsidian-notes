@@ -53,6 +53,6 @@ print(m1 is m2) # True
 > **Note**: There is a `wrapper_singleton.instance` in the code above.
 > This is a function attribute.
 > 
-> I know it's weird, but it's a thing in Python.
+> I know it's weird, but it's a thing in [[Python]].
 > 
 > You can read more about it in the [PEP proposal](https://peps.python.org/pep-0232/) and [this](https://stackoverflow.com/questions/338101/python-function-attributes-uses-and-abuses) StackOverflow question.

@@ -6,7 +6,7 @@ aliases:
   - self
 ---
 In [[Python]], `this` is not a keyword and also the first argument of a method is always a reference to the object itself.
-Thus, a common convention is to use `self` or `this` as the first argument of a method, with which you can access the class's instance and class variables.
+Thus, a common convention is to use `self` or `this` as the first argument of a method, with which you can access the class's instance and class [[variables]].
 
 ```python
 class Foo:

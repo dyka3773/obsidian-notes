@@ -2,6 +2,8 @@
 tags:
   - tech
   - python
+aliases:
+  - chaining
 ---
 It is useful sometimes to catch an [[Exceptions & Errors|exception]] and then re-raise it or raise a different one.
 This can be done using the `raise ... from` statement.

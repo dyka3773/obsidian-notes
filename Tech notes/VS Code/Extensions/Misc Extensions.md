@@ -91,9 +91,9 @@ tags:
 
 - This extension provides useful features for working with WSL.
 - It allows you to connect to a WSL instance and then browse the files and folders on that instance.
-- This way you can use VS Code to edit and run scripts on your WSL instance.
+- This way you can use [[VS Code]] to edit and run scripts on your WSL instance.
 
 ## Dev Containers *(ID: ms-vscode-remote.remote-containers)*
 
-- This extension enables you to use a Docker container as a full-featured development environment. (For example, you can use it to run Python scripts without having Python installed on your machine.)
+- This extension enables you to use a Docker container as a full-featured development environment. (For example, you can use it to run [[Python]] scripts without having [[Python]] installed on your machine.)
 - It **requires** you to have Docker installed and configured.

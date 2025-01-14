@@ -4,7 +4,7 @@ tags:
   - snippet
   - python
 ---
-Print all the parameters passed to a function and its return value:
+Print all the [[Arguments|parameters]] passed to a function and its return value:
 
 ```python
 from functools import wraps

@@ -10,6 +10,6 @@ tags:
 - `__file__`: The file attribute. It is the name of the file in which the class or function was defined. (It is rarely used.)
 - `__dict__`: The dictionary attribute. It is the dictionary containing the class's or function's namespace.
 - `__all__`: The all attribute. It is a list of [[Strings]] containing the names of the objects that should be imported when `from <package_or_module_name> import *` is used.
-  > **Note**: This attribute is only used when `from <package_or_module_name> import *` is used. It doesn't hide any object (that is not contained in this variable but is present in the module or package) if the user imports that object explicitly. 
+  > **Note**: This attribute is only used when `from <package_or_module_name> import *` is used. It doesn't hide any object (that is not contained in this variable but is present in the module or package) if the user [[imports]] that object explicitly. 
   > 
   > See [this](https://stackoverflow.com/questions/44834/what-does-all-mean-in-python) for more information.

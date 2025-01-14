@@ -31,5 +31,5 @@ Some of the most important points of this style guide are highlighted in this do
 - Use 1 blank line before a `return` statement.
 - Wrap lines that are longer than 79 characters.
 - Use `"""docstrings"""` to document classes, methods and functions.
-- Use `#` for comments.
+- Use `#` for [[comments]].
 - Don't use fancy encodings if your code is meant to be used in international environments. Plain ASCII works best in any case. (Even though Python 3 supports UTF-8 by default)

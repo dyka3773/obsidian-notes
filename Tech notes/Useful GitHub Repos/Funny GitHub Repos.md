@@ -24,7 +24,7 @@ Description: A Programming language from down under.
 
 Link: [Here](https://github.com/satwikkansal/wtfpython)
 
-Description: A collection of surprising Python snippets and lesser-known features.
+Description: A collection of surprising [[Python]] snippets and lesser-known features.
 ## YoutubeCLI
 
 Link: [Here](https://github.com/icitry/YoutubeCLI)

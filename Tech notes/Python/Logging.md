@@ -9,7 +9,7 @@ aliases:
 ## Introduction
 
 As in every other language logging lets you track events that happen when some software runs. 
-You can use it to record which functions were called, when and what errors were raised.
+You can use it to record which functions were called, when and what [[Exceptions & Errors|errors]] were raised.
 
 The logging module lets you define a logger object that you can use to log messages. 
 You can define multiple loggers and use them to log different messages. 

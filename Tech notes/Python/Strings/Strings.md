@@ -8,7 +8,7 @@ aliases:
 
 ## Introduction
 
-String literals are used to represent strings in Python.
+String literals are used to represent strings in [[Python]].
 They can be enclosed in single quotes (`'...'`), double quotes (`"..."`) or triple quotes (`"""..."""`) with the same result. `\` can be used to escape quotes.
 
 ```python

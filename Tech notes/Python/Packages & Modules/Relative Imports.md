@@ -3,7 +3,7 @@ tags:
   - tech
   - python
 ---
-Relative imports are used to import modules and packages relative to the current module.
+Relative imports are used to import [[Packages & Modules|modules]] and [[Packages & Modules|packages]] relative to the current module.
 
 > **Note**: Relative imports are based on the name of the current module. Since the name of the main module is always `__main__`, **relative imports cannot be used in the main module**.
 

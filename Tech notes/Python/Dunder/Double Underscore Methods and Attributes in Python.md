@@ -11,7 +11,7 @@ aliases:
 ## Introduction
 
 In [[Python]], there are a lot of methods and attributes that start and end with double underscores. 
-These are called dunder methods and dunder attributes.
+These are called dunder methods and [[dunder attributes]].
 (They are also called magic methods and magic attributes)
 
 Most of them have derived from the early prototypes of [[Python]], and they are used to implement a lot of the language's features.

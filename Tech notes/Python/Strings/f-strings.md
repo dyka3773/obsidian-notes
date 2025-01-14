@@ -6,7 +6,7 @@ aliases:
   - formatted string
   - formatted strings
 ---
-f-Strings provide a concise and convenient way to embed python expressions inside [[Strings|string]] literals for formatting.
+f-Strings provide a concise and convenient way to embed [[python]] expressions inside [[Strings|string]] literals for formatting.
 The `f` or `F` prefix before the [[Strings|string]] indicates that it is an f-string.
 The [[Strings|string]] itself can be formatted in much the same way that you would with `str.format()`.
 
@@ -20,7 +20,7 @@ The [[Strings|string]] itself can be formatted in much the same way that you wou
 
 ## Expressions
 
-You can put any valid python expression inside the braces and it will be evaluated and formatted.
+You can put any valid [[python]] expression inside the braces and it will be evaluated and formatted.
 
 ```python
 >>> f"{2 * 37}"
@@ -31,7 +31,7 @@ You can put any valid python expression inside the braces and it will be evaluat
 
 ## Callables
 
-You can call any callable python object inside the braces and it will be evaluated and formatted.
+You can call any callable [[python]] object inside the braces and it will be evaluated and formatted.
 
 ```python
 >>> def to_lowercase(input):

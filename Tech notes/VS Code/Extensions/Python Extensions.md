@@ -6,12 +6,12 @@ tags:
 
 ## Python *(ID: ms-python.python)*
 
-- This is a pack of extensions that provide language support for Python.
-- It provides syntax highlighting, code snippets, debug support and a Python interactive window.
+- This is a pack of [[Useful VS Code Extensions|extensions]] that provide language support for [[Python]].
+- It provides syntax highlighting, code snippets, debug support and a [[Python]] interactive window.
 
 ## autoDocstring *(ID: njpwerner.autodocstring)*
 
-- This extension is particularly useful for writing docstrings for Python functions.
+- This extension is particularly useful for writing docstrings for [[Python]] functions.
 
 ## Jinja *(ID: wholroyd.jinja)*
 
@@ -25,10 +25,10 @@ tags:
 
 ## Jupyter *(ID: ms-toolsai.jupyter)*
 
-- This is a pack of extensions that provide a variety of useful features for working with Jupyter notebooks.
+- This is a pack of [[Useful VS Code Extensions|extensions]] that provide a variety of useful features for working with Jupyter notebooks.
 - They provide syntax highlighting, code snippets, debug support and interactive Jupyter notebooks.
 
 ## Python Environment Manager *(ID: donjayamanne.python-environment-manager)*
 
-- This extension allows you to manage Python environments.
-- This is quite useful when you have multiple Python projects that use different versions of Python and different Python packages.
+- This extension allows you to manage [[Python]] environments.
+- This is quite useful when you have multiple [[Python]] projects that use different versions of [[Python]] and different [[Python]] [[Packages & Modules|packages]].

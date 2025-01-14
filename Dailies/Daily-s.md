@@ -1,3 +1,7 @@
+---
+tags:
+  - homepage
+---
 
 ```dataview
 CALENDAR file.ctime

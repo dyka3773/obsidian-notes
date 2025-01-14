@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#homepage  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5087618855792646,
+  "scale": 0.7132754626224519,
   "close": true
 }

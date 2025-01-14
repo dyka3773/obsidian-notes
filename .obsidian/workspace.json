@@ -13,29 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Unfinished Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          }
-        ]
-      },
-      {
-        "id": "024f8646ad5559c0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "78ac61fbae4dfa95",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Unfinished Notes"
             }
           }
         ]
@@ -153,11 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Homepage.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Homepage"
+              "title": "Outline"
             }
           },
           {
@@ -210,38 +192,73 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "069f6dacbcb4e8cc",
+  "floating": {
+    "id": "9b78e05ab0ef645a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4de4da564d428c91",
+        "type": "window",
+        "children": [
+          {
+            "id": "28e71b159b678221",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "78ac61fbae4dfa95",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1214,
+        "y": 704,
+        "width": 671,
+        "height": 1072,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "78ac61fbae4dfa95",
   "lastOpenFiles": [
+    "Unfinished Notes.md",
+    "Homepage.md",
+    "Tech notes/Tech Notes.md",
     "Dailies/Daily-s.md",
-    "Dailies/2025-01-14.md",
-    "Dailies/2025-01-13.md",
+    "templates/Tag homepage template.md",
+    "templates/Tech Tool template.md",
+    "templates/Tech note template.md",
+    "templates/Daily note template.md",
     "Tech notes/VS Code/Visual Studio Code.md",
     "Tech notes/VS Code/Useful VS Code Extensions.md",
-    "Tech notes/Tech Notes.md",
-    "Tech notes/VS Code/Extensions/Misc Extensions.md",
-    "Tech notes/VS Code/Extensions/Data MarkUp or Markdown Extensions.md",
     "Tech notes/VS Code/Extensions/Web Development Extensions.md",
-    "Tech notes/VS Code/Extensions/Extensions for Git.md",
-    "Tech notes/VS Code/Extensions/Extensions for DBMSs.md",
+    "Tech notes/VS Code/Extensions/Python Extensions.md",
+    "Tech notes/VS Code/Extensions/Powershell Extensions.md",
     "Tech notes/VS Code/Extensions/Other DBMS Extensions.md",
     "Tech notes/VS Code/Extensions/Oracle Extensions.md",
-    "Tech notes/VS Code/Extensions/MySQL Extensions.md",
-    "Tech notes/VS Code/Extensions/Extensions for Specific Languages.md",
-    "Tech notes/VS Code/Extensions/Powershell Extensions.md",
     "Tech notes/VS Code/Extensions/NodeJS Extensions.md",
-    "Tech notes/VS Code/Extensions/Python Extensions.md",
-    "Tech notes/VS Code/Extensions",
-    "Tech notes/Useful GitHub Repos/Awesome Lists.md",
-    "Tech notes/VS Code",
+    "Tech notes/VS Code/Extensions/MySQL Extensions.md",
+    "Tech notes/VS Code/Extensions/Misc Extensions.md",
+    "Tech notes/VS Code/Extensions/Extensions for Specific Languages.md",
+    "Tech notes/VS Code/Extensions/Extensions for Git.md",
+    "Tech notes/VS Code/Extensions/Extensions for DBMSs.md",
+    "Tech notes/VS Code/Extensions/Data MarkUp or Markdown Extensions.md",
     "Tech notes/Useful GitHub Repos/Useful GitHub Repos.md",
+    "Tech notes/Useful GitHub Repos/Useful GitHub Actions.md",
     "Tech notes/Useful GitHub Repos/Interesting GitHub Repos.md",
     "Tech notes/Useful GitHub Repos/Funny GitHub Repos.md",
-    "Tech notes/Useful GitHub Repos/Useful GitHub Actions.md",
-    "Tech notes/Useful GitHub Repos/Actions/Markdown link checker.md",
+    "Tech notes/VS Code/Extensions",
+    "Tech notes/VS Code",
     "Tech notes/Useful GitHub Repos/Actions",
     "Tech notes/Useful GitHub Repos",
-    "Unfinished Notes.md",
-    "Tech notes/PHP/Useful Snippets.md",
     "Tech notes/Python/Paradigms/OOP Paradigm",
     "Tech notes/Python/Paradigms",
     "Tech notes/Python/Useful Snippets",

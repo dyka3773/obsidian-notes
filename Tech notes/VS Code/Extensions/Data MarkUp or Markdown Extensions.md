@@ -20,5 +20,5 @@ tags:
 ## Markdown All in One *(ID: yzhang.markdown-all-in-one)*
 
 - This extension provides a variety of useful features for working with Markdown files.
-- It supports a variety of keyboard shortcuts for common Markdown actions.
+- It supports a variety of keyboard shortcuts for common Markdown [[Useful GitHub Actions|actions]].
 - It also supports linting and table of contents generation.

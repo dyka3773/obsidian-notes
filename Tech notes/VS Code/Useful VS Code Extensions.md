@@ -2,8 +2,12 @@
 tags:
   - tech
   - lists
+aliases:
+  - vscode extensions
+  - extensions
+  - vs code extensions
 ---
-> Note: See also [[Awesome Lists#**Awesome VS Code**]] for a curated list of delightful VS Code packages and resources.
+> Note: See also [[Awesome Lists#**Awesome VS Code**]] for a curated list of delightful [[VS Code]] packages and resources.
 
 ## Categories
 - [[Extensions for Specific Languages]]

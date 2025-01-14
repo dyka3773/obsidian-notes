@@ -1,3 +1,7 @@
+---
+tags:
+  - homepage
+---
 [![Check Markdown for broken links](https://github.com/dyka3773/tech-notes/actions/workflows/md-broken-link-check.yml/badge.svg)](https://github.com/dyka3773/tech-notes/actions/workflows/md-broken-link-check.yml)
 ## Notes Created
 

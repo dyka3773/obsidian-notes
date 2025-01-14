@@ -15,7 +15,7 @@ Description: A curated list of awesome machine learning frameworks, libraries an
 ### **Awesome Python**
 Link: [Here](https://github.com/vinta/awesome-python)
 
-Description: A curated list of awesome Python frameworks, libraries, software and resources.
+Description: A curated list of awesome [[Python]] frameworks, libraries, software and resources.
 ### **Awesome Java**
 Link: [Here](https://github.com/akullpp/awesome-java)
 
@@ -35,8 +35,8 @@ Description: A collection of awesome Open Source projects where you can contribu
 ### **Awesome Actions**
 Link: [Here](https://github.com/sdras/awesome-actions)
 
-Description: A curated list of awesome actions to use on GitHub
+Description: A curated list of awesome [[Useful GitHub Actions|actions]] to use on GitHub
 ### **Awesome VS Code**
 Link: [Here](https://github.com/viatsko/awesome-vscode)
 
-Description: A curated list of delightful VS Code packages and resources.
+Description: A curated list of delightful [[VS Code]] packages and resources.

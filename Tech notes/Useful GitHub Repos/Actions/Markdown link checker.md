@@ -4,7 +4,7 @@ tags:
 ---
 Link: [Here](https://github.com/gaurav-nelson/github-action-markdown-link-check)
 
-Description: A GitHub Action to check for broken links in [[Markdown]] files.
+Description: A [[Useful GitHub Actions|GitHub Action]] to check for broken links in [[Markdown]] files.
 
 ### Sample usage:
 
