@@ -11,7 +11,7 @@
       "query": "tag:#tech  ",
       "color": {
         "a": 1,
-        "rgb": 61183
+        "rgb": 6419711
       }
     },
     {
@@ -31,14 +31,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 1.00155925155925,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.254677754677755,
-  "repelStrength": 7.00623700623701,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 70,
-  "scale": 0.5087618855792629,
+  "linkDistance": 250,
+  "scale": 0.5087618855792646,
   "close": true
 }
