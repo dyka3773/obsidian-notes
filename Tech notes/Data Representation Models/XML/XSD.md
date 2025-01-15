@@ -3,6 +3,7 @@ tags:
   - tech
 aliases:
   - XML Schema Definition
+  - XML Schema
 ---
 The [[XML]] Schema language is also referred to as [[XML]] Schema Definition (XSD).
 

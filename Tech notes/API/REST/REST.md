@@ -7,14 +7,14 @@ aliases:
   - RESTful API
   - Representational State Transfer
 ---
-Representational State Transfer (REST) is an architectural style that defines a set of constraints to be used for creating web services. 
-RESTful web services allow the requesting systems to access and manipulate textual representations of web resources by using a uniform and predefined set of stateless operations.
+Representational State Transfer (REST) is an architectural style that defines a set of constraints to be used for creating [[web services]]. 
+RESTful [[web services]] allow the requesting systems to access and manipulate textual representations of web resources by using a uniform and predefined set of stateless operations.
 
 The client sends a request to the server, and the server sends a response back to the client.
 The response and request are built around the transfer of representations of resources.
 A resource can be any object that can be accessed by the client, such as a document or an image.
 
-RESTful web services are built to work best on the web using the [[HTTP]] protocol.
+RESTful [[web services]] are built to work best on the web using the [[HTTP]] protocol.
 They can be used by virtually any programming language and are easy to test and debug.
 
 The REST architectural style takes advantage of the [[HTTP]] protocol by using the [[HTTP methods]] to perform operations on resources.
