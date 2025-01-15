@@ -2,3 +2,8 @@
 tags:
   - daily
 ---
+
+- [ ] 
+
+
+See summary of daily notes in [[Daily-s]].

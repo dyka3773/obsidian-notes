@@ -21,15 +21,15 @@ The `key.serializer` and `value.serializer` are the serializers for the key and 
 The serializers are used to convert the key and value of the message to bytes before sending them to the [[Kafka]] cluster.
 The `value.serializer` can be almost anything, but the usual scenarios are:
 - `org.apache.kafka.common.serialization.StringSerializer` for string messages (UTF-8) that have no real structure
-- `io.confluent.kafka.serializers.KafkaAvroSerializer` for messages that have a schema (like JSON, XML, etc.), where the schema is stored in the [[Schema Registry]], and the messages are serialized using the [[Avro]] serialization format.
-- `io.confluent.kafka.serializers.KafkaJsonSerializer` for messages that have a schema (like JSON, XML, etc.), where the schema is stored in the [[Schema Registry]], and the messages are serialized using the [[JSON]] serialization format.
-- `io.confluent.kafka.serializers.protobuf.KafkaProtobufSerializer` for messages that have a schema (like JSON, XML, etc.), where the schema is stored in the [[Schema Registry]], and the messages are serialized using the [[Protobuf]] serialization format.
+- `io.confluent.kafka.serializers.KafkaAvroSerializer` for messages that have a schema (like [[JSON]], [[XML]], etc.), where the schema is stored in the [[Schema Registry]], and the messages are serialized using the [[Avro]] serialization format.
+- `io.confluent.kafka.serializers.KafkaJsonSerializer` for messages that have a schema (like [[JSON]], [[XML]], etc.), where the schema is stored in the [[Schema Registry]], and the messages are serialized using the [[JSON]] serialization format.
+- `io.confluent.kafka.serializers.protobuf.KafkaProtobufSerializer` for messages that have a schema (like [[JSON]], [[XML]], etc.), where the schema is stored in the [[Schema Registry]], and the messages are serialized using the [[Protobuf]] serialization format.
 
 The `topic.name` is the name of the topic to which the messages will be sent.
 
-> Note: In the case of the Avro, JSON, and Protobuf serializers, the schema is stored in the [[Schema Registry]], and the messages are serialized using the schema. This means that another property is needed to specify the address of the [[Schema Registry]]. The property is `schema.registry.url`.
+> Note: In the case of the [[Avro]], [[JSON]], and Protobuf serializers, the schema is stored in the [[Schema Registry]], and the messages are serialized using the schema. This means that another property is needed to specify the address of the [[Schema Registry]]. The property is `schema.registry.url`.
 
-Let's take a look at a simple producer example in Java:
+Let's take a look at a simple producer example in [[Java]]:
 
 ```java
 import org.apache.kafka.clients.producer.KafkaProducer;

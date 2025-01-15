@@ -14,14 +14,14 @@ Description: Generate 3D objects conditioned on text or images.
 Link: [Here](https://github.com/imaginelenses/blendit)
 
 Description: A tool for creating and editing 3D models using natural language commands.
-## API diff viewer
+## [[API]] diff viewer
 Link: [Here](https://github.com/udamir/api-diff-viewer)
 
-Description: React component to view the difference between two Json based API documents.
+Description: React component to view the difference between two [[JSON]] based [[API]] documents.
 ## Degraph Maven Plugin
 Link: [Here](https://github.com/ferstl/depgraph-maven-plugin)
 
-Description: A Maven plugin that generates dependency graphs in various formats (DOT, GML, PlantUML, JSON and Text)
+Description: A Maven plugin that generates dependency graphs in various formats (DOT, GML, PlantUML, [[JSON]] and Text)
 ## SVG pan zoom
 Link: [Here](https://github.com/bumbu/svg-pan-zoom)
 

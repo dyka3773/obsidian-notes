@@ -23,4 +23,4 @@ FLATTEN file.outlinks AS OUT
 WHERE !OUT.file AND !(contains(meta(OUT).path, "/"))
 GROUP BY file.link AS Source
 ```
-See more info on [[Unfinished Notes]].
+See more info on [[Unlinked Notes]].

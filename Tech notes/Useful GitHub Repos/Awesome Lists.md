@@ -19,7 +19,7 @@ Description: A curated list of awesome [[Python]] frameworks, libraries, softwar
 ### **Awesome Java**
 Link: [Here](https://github.com/akullpp/awesome-java)
 
-Description: A curated list of awesome frameworks, libraries and software for the Java programming language.
+Description: A curated list of awesome frameworks, libraries and software for the [[Java]] programming language.
 ### **Awesome First PR Opportunities**
 Link: [Here](https://github.com/MunGell/awesome-for-beginners)
 

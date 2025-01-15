@@ -13,9 +13,9 @@ tags:
 
 - This extension provides language support for YAML files.
 
-## XML *(ID: redhat.vscode-xml)*
+## [[XML]] *(ID: redhat.vscode-xml)*
 
-- This extension provides language support for XML files.
+- This extension provides language support for [[XML]] files.
 
 ## Markdown All in One *(ID: yzhang.markdown-all-in-one)*
 

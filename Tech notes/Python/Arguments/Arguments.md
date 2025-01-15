@@ -49,7 +49,7 @@ func2(x=1, y=2) # This is valid
 func2(1, 2) # This is not valid
 ```
 
-> **Note**: This is mostly used when the function is part of an API and you want to prevent the user from passing certain arguments in a certain way.
+> **Note**: This is mostly used when the function is part of an [[API]] and you want to prevent the user from passing certain arguments in a certain way.
 
 ## Features
 

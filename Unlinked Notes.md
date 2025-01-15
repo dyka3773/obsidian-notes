@@ -7,7 +7,7 @@ WHERE !OUT.file AND !(contains(meta(OUT).path, "/"))
 GROUP BY file.link AS Source
 ```
 
-### List View grouped by file containing the unfinished notes
+### List View grouped by file containing the unlinked notes
 ```dataview
 LIST rows.OUT
 FLATTEN file.outlinks AS OUT

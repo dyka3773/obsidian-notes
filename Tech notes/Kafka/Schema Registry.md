@@ -10,7 +10,7 @@ It is not required by the producers and consumers, but it is highly recommended 
 It is usually deployed as a docker container and usually on the same machine as the [[Kafka]] cluster.
 It is also usually deployed with the [[REST Proxy]].
 
-The Schema Registry has a [[REST API]] that can be used to manage the schemas.
+The Schema Registry has a [[REST|REST API]] that can be used to manage the schemas.
 The most important endpoints are:
 - `POST /subjects/{subject}/versions` - used to register a new schema for a subject
 - `GET /subjects/{subject}/versions/{version}` - used to get a specific version of a schema for a subject
@@ -41,7 +41,7 @@ For example, the schema for a message that has a `name` and an `age` field that 
 The schema is usually stored in a file with the `.avsc` extension.
 
 There are also tools to generate a metaclass from the schema that can be used to serialize and deserialize the messages in the language of your choice.
-For example, for the schema above, the metaclass in Java would be:
+For example, for the schema above, the metaclass in [[Java]] would be:
 
 ```java
 package com.example;
@@ -185,7 +185,7 @@ class Person(object):
 
 These metaclasses allow you to initialize and access the fields of the message in a type-safe way.
 They can also be used to easily serialize and deserialize the messages.
-For example in the Java example above, the message can be serialized like this:
+For example in the [[Java]] example above, the message can be serialized like this:
 
 ```java
 import com.example.Person;

@@ -21,7 +21,7 @@ They are also stored in an ordered fashion using an offset.
 To the Kafka application, everything is either a [[Kafka Producer|producer]], a [[Kafka Consumer|consumer]], or a broker.
 The producers and consumers are the clients of the Kafka application.
 The brokers are the servers that form the Kafka cluster.
-The Producers and Consumers can be written in any language that supports the Kafka API (Java, [[Python]], Go, etc.) or can use the REST API that Kafka provides.
+The Producers and Consumers can be written in any language that supports the Kafka [[API]] ([[Java]], [[Python]], Go, etc.) or can use the [[REST|REST API]] that Kafka provides.
 The Kafka cluster can be deployed on-premise or on the cloud (It usually is a [[docker]] container).
 It also supports other 3rd party tools like [[Schema Registry]], [[REST Proxy]], etc. that can be used to manage the Kafka cluster. (I'll talk about them later)
 
@@ -43,7 +43,7 @@ This can be achieved by setting the `auto.offset.reset` property of the [[Kafka 
 
 ### Testing `auto.register.schemas=false` or `auto.create.topics.enable=false`
 
-When testing these configurations, it is useful to create a [[REST]] client that can be used to create or delete topics and schemas before or after each test, because as far as I know, there is no way to create or delete topics and schemas from the Kafka API if these configurations are set to false.
+When testing these configurations, it is useful to create a [[REST]] client that can be used to create or delete topics and schemas before or after each test, because as far as I know, there is no way to create or delete topics and schemas from the Kafka [[API]] if these configurations are set to false.
 
 ## Resources
 

@@ -32,7 +32,7 @@ The `auto.offset.reset` is the offset from where the consumer will start consumi
 - `latest` - the consumer will start consuming messages from the end of the topic
 - `none` - the consumer will throw an error if no offset was committed to the [[Kafka]] cluster
 
-Let's take a look at a simple consumer example in Java:
+Let's take a look at a simple consumer example in [[Java]]:
 
 ```java
 

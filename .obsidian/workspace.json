@@ -8,21 +8,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa31bc07820bc708",
+            "id": "3fe321bb6529d8ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unfinished Notes.md",
+                "file": "Tech notes/Data Representation Models/XML/XML.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unfinished Notes"
+              "title": "XML"
+            }
+          },
+          {
+            "id": "53816f4b7605260a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech notes/Tech Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tech Notes"
+            }
+          },
+          {
+            "id": "6f3956320a437031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unlinked Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unlinked Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,15 +224,15 @@
     }
   },
   "floating": {
-    "id": "9b78e05ab0ef645a",
+    "id": "f7b10cdf365171d9",
     "type": "floating",
     "children": [
       {
-        "id": "4de4da564d428c91",
+        "id": "fb2bc76fed9f7aa4",
         "type": "window",
         "children": [
           {
-            "id": "28e71b159b678221",
+            "id": "b7f5f0459afe7acb",
             "type": "tabs",
             "children": [
               {
@@ -218,52 +249,52 @@
           }
         ],
         "direction": "vertical",
-        "x": -1214,
-        "y": 704,
-        "width": 671,
+        "x": 597,
+        "y": 20,
+        "width": 853,
         "height": 1072,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "78ac61fbae4dfa95",
+  "active": "6f3956320a437031",
   "lastOpenFiles": [
-    "Unfinished Notes.md",
-    "Homepage.md",
+    "Unlinked Notes.md",
+    "Tech notes/Data Representation Models/XML/XML.md",
+    "Tech notes/Data Representation Models/JSON.md",
+    "Tech notes/Data Representation Models/XML/XSD.md",
+    "Tech notes/Microservices/Microservices.md",
+    "Tech notes/Python/Paradigms/OOP Paradigm/OOP Design Patterns in Python.md",
+    "Tech notes/Python/Useful Snippets/Singleton Class Example.md",
+    "Tech notes/Design Patterns/Design Patterns.md",
+    "Tech notes/API/SOAP/SOAP.md",
+    "Tech notes/API/SOAP/WSDL.md",
+    "Tech notes/Data Representation Models/XML",
+    "Tech notes/Data Representation Models",
+    "Tech notes/API/API.md",
+    "Tech notes/API/SOAP",
+    "Dailies/2025-01-15.md",
+    "Tech notes/Microservices",
     "Tech notes/Tech Notes.md",
-    "Dailies/Daily-s.md",
-    "templates/Tag homepage template.md",
-    "templates/Tech Tool template.md",
-    "templates/Tech note template.md",
-    "templates/Daily note template.md",
-    "Tech notes/VS Code/Visual Studio Code.md",
-    "Tech notes/VS Code/Useful VS Code Extensions.md",
-    "Tech notes/VS Code/Extensions/Web Development Extensions.md",
-    "Tech notes/VS Code/Extensions/Python Extensions.md",
-    "Tech notes/VS Code/Extensions/Powershell Extensions.md",
-    "Tech notes/VS Code/Extensions/Other DBMS Extensions.md",
-    "Tech notes/VS Code/Extensions/Oracle Extensions.md",
-    "Tech notes/VS Code/Extensions/NodeJS Extensions.md",
-    "Tech notes/VS Code/Extensions/MySQL Extensions.md",
-    "Tech notes/VS Code/Extensions/Misc Extensions.md",
-    "Tech notes/VS Code/Extensions/Extensions for Specific Languages.md",
-    "Tech notes/VS Code/Extensions/Extensions for Git.md",
-    "Tech notes/VS Code/Extensions/Extensions for DBMSs.md",
-    "Tech notes/VS Code/Extensions/Data MarkUp or Markdown Extensions.md",
-    "Tech notes/Useful GitHub Repos/Useful GitHub Repos.md",
-    "Tech notes/Useful GitHub Repos/Useful GitHub Actions.md",
-    "Tech notes/Useful GitHub Repos/Interesting GitHub Repos.md",
-    "Tech notes/Useful GitHub Repos/Funny GitHub Repos.md",
-    "Tech notes/VS Code/Extensions",
-    "Tech notes/VS Code",
-    "Tech notes/Useful GitHub Repos/Actions",
-    "Tech notes/Useful GitHub Repos",
-    "Tech notes/Python/Paradigms/OOP Paradigm",
-    "Tech notes/Python/Paradigms",
-    "Tech notes/Python/Useful Snippets",
-    "Tech notes/Python/Strings",
-    "Tech notes/Python/Iterables",
-    "Tech notes/Python/Exceptions"
+    "Tech notes/API/REST/REST.md",
+    "Tech notes/Design Patterns",
+    "Tech notes/Networking/HTTP/HTTP.md",
+    "Tech notes/Kafka/Avro.md",
+    "Tech notes/Networking/HTTP/HTTP methods.md",
+    "Tech notes/Networking/HTTP",
+    "Tech notes/Networking",
+    "Tech notes/API/GraphQL vs REST.md",
+    "Tech notes/API/GraphQL/GraphQL.md",
+    "Tech notes/API/GraphQL/Queries.md",
+    "Tech notes/docker.md",
+    "Tech notes/Kafka/Schema Registry.md",
+    "Tech notes/Kafka/REST Proxy.md",
+    "RESTful API.md",
+    "Tech notes/API/REST",
+    "Tech notes/API",
+    "Tech notes/API/GraphQL",
+    "Tech notes/Java/Weblogic.md",
+    "Tech notes/Hotswap.md"
   ]
 }
