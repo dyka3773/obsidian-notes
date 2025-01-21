@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech notes/Webservices/SAML.md",
+                "file": "Tech notes/API/API vs Connector vs Integration.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAML"
+              "title": "API vs Connector vs Integration"
             }
           },
           {
@@ -256,8 +256,9 @@
   },
   "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
-    "Tech notes/API/SOAP vs REST.md",
+    "Tech notes/API/API vs Connector vs Integration.md",
     "Tech notes/Webservices/SAML.md",
+    "Tech notes/API/SOAP vs REST.md",
     "Tech notes/Webservices/WS-Security.md",
     "Tech notes/Webservices/Web Services.md",
     "Tech notes/VS Code/Extensions/Web Development Extensions.md",
@@ -288,7 +289,6 @@
     "Tech notes/Tech Notes.md",
     "Tech notes/API/REST/REST.md",
     "Tech notes/Design Patterns",
-    "Tech notes/Networking/HTTP/HTTP.md",
     "Tech notes/Networking/HTTP",
     "Tech notes/Networking",
     "Tech notes/API/REST"
