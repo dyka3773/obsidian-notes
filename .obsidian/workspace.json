@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech notes/API/API vs Connector vs Integration.md",
+                "file": "Tech notes/Java/Libraries/JAX-RS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API vs Connector vs Integration"
+              "title": "JAX-RS"
             }
           },
           {
@@ -254,8 +254,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "a77ce181c6004adf",
   "lastOpenFiles": [
+    "Tech notes/Java/Libraries/JAX-WS.md",
     "Tech notes/API/API vs Connector vs Integration.md",
     "Tech notes/Webservices/SAML.md",
     "Tech notes/API/SOAP vs REST.md",
@@ -266,7 +267,6 @@
     "Tech notes/Python/Arguments/Arguments.md",
     "Tech notes/API/API.md",
     "Tech notes/Java/Java Webservices.md",
-    "Tech notes/Java/Libraries/JAX-WS.md",
     "Tech notes/Java/Libraries/JAX-RS.md",
     "Tech notes/API/SOAP/SOAP.md",
     "Tech notes/API/SOAP/WSDL.md",
