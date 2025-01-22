@@ -6,6 +6,7 @@
       {
         "id": "22138462b3fc33b2",
         "type": "tabs",
+        "dimension": 47.00704225352113,
         "children": [
           {
             "id": "53816f4b7605260a",
@@ -41,8 +42,9 @@
         "currentTab": 1
       },
       {
-        "id": "6226059a17c2fcc9",
+        "id": "9633597788c2125a",
         "type": "tabs",
+        "dimension": 52.99295774647887,
         "children": [
           {
             "id": "78ac61fbae4dfa95",
@@ -224,11 +226,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "6f3956320a437031",
   "lastOpenFiles": [
-    "Tech notes/Tech Notes.md",
-    "Tech notes/Data Formats/SVG.md",
+    "Tech notes/General Tools/DBMS Tools/Oracle SQL Developer.md",
     "Unlinked Notes.md",
+    "Tech notes/VS Code/Extensions/NodeJS Extensions.md",
+    "Tech notes/Tech Notes.md",
+    "Tech notes/JavaScript/AJAX.md",
+    "Tech notes/JavaScript/jQuery/jQuery.md",
+    "Tech notes/JavaScript/jQuery/jQuery AJAX.md",
+    "Tech notes/JavaScript/jQuery/Manipulating DOM Elements.md",
+    "Tech notes/JavaScript/jQuery/jQuery Method Chaining.md",
+    "Tech notes/JavaScript/jQuery/Starting point.md",
+    "Tech notes/JavaScript/jQuery/noConflict() function.md",
+    "Tech notes/JavaScript/jQuery/jQuery Functions.md",
+    "Tech notes/JavaScript/jQuery/static utility functions.md",
+    "Tech notes/JavaScript/jQuery/object methods.md",
+    "Tech notes/JavaScript/jQuery",
+    "Tech notes/Front-End Technologies/CSS/Bootstrap.md",
+    "Tech notes/Front-End Technologies/CSS/CSS.md",
+    "Tech notes/Front-End Technologies/CSS",
+    "Tech notes/Data Formats/SVG.md",
     "Tech notes/Data Formats",
     "Tech notes/Web Dev Terminology/JWT.md",
     "Tech notes/Web Dev Terminology",
@@ -241,26 +259,10 @@
     "Tech notes/Java/JavaEE/JMS.md",
     "Tech notes/JavaScript",
     "Tech notes/Front-End Technologies/HTML.md",
-    "Tech notes/Front-End Technologies/CSS.md",
     "Tech notes/VS Code/Extensions/Misc Extensions.md",
-    "Tech notes/Technical Terms/Progressive Web Apps.md",
     "Tech notes/Front-End Technologies",
-    "Dailies/2025-01-22.md",
-    "Tech notes/Java/Frameworks/Quartz/Quartz.md",
-    "Dailies/2025-01-21.md",
-    "Tech notes/Java/Libraries/JNDI.md",
-    "Tech notes/Java/Classpath.md",
-    "Tech notes/Java/JavaEE/JTA.md",
-    "Tech notes/Java/JavaEE/@Transactional.md",
-    "Tech notes/Web Dev Terminology/Webservices/SAML.md",
     "Tech notes/Java/Frameworks/Quartz",
-    "Tech notes/General Frameworks/Selenium/Selenium.md",
-    "Tech notes/Java/Frameworks/Spring/Spring.md",
     "Tech notes/General Frameworks/Selenium",
-    "Tech notes/General Frameworks",
-    "Tech notes/Java/Frameworks/Spring/Spring Annotations.md",
-    "Tech notes/Java/JavaBean.md",
-    "Tech notes/Java/Frameworks/Spring",
-    "Tech notes/Java/JavaEE"
+    "Tech notes/General Frameworks"
   ]
 }
