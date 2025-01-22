@@ -9,4 +9,4 @@ Link: https://www.figma.com/
 - It can be used to design UI mockups, wireframes, and prototypes.
 - It can be used offline as a desktop application.
 - It is configurable and extensible through the use of plugins.
-- It can also export the CSS code of the UI elements.
+- It can also export the [[CSS]] code of the UI elements.

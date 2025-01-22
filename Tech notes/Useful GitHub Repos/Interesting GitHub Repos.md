@@ -25,7 +25,7 @@ Description: A Maven plugin that generates dependency graphs in various formats 
 ## SVG pan zoom
 Link: [Here](https://github.com/bumbu/svg-pan-zoom)
 
-Description: A JavaScript library that enables panning and zooming of SVG images.
+Description: A [[JavaScript]] library that enables panning and zooming of SVG images.
 ## arXiv RSS Feed
 Link: [Here](https://github.com/ehijano/rss_fetch)
 
