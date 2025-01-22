@@ -2,7 +2,7 @@
 tags:
   - tech
 ---
-[[Java]] API for XML Web Services (JAX-WS) is a standardized [[API]] for creating and consuming [[SOAP]] (Simple Object Access Protocol) [[web services]].
+[[Java]] API for XML Web Services (JAX-WS) is a standardized [[API]] for creating and consuming [[SOAP]] (Simple Object Access Protocol) [[Web Services]].
 
 <!-- markdown-link-check-disable-next-line -->
 See [this article](https://www.baeldung.com/jax-ws) for an example on how to create a simple project on JAX-WS.

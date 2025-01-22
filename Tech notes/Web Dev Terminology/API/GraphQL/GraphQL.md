@@ -3,26 +3,26 @@ tags:
   - tech
 ---
 
-GraphQL is a query language for APIs and a runtime for executing those [[queries]] by using a type system you define for your data. It was developed by Facebook in 2012 and released as an open-source project in 2015.
+GraphQL is a query language for APIs and a runtime for executing those [[Queries]] by using a type system you define for your data. It was developed by Facebook in 2012 and released as an open-source project in 2015.
 It is an alternative to [[REST|RESTful API]]s and is designed to provide a more efficient and powerful way to interact with data.
 
 ## Features
 
-- **Hierarchical**: GraphQL [[queries]] are hierarchical and allow you to request only the data you need.
+- **Hierarchical**: GraphQL [[Queries]] are hierarchical and allow you to request only the data you need.
 - **Strongly Typed**: GraphQL uses a type system to define the schema of your [[API]].
 - **Introspective**: GraphQL APIs are self-documenting and allow you to query the schema itself.
 - **Real-time**: GraphQL supports real-time updates using subscriptions.
-- **Batching**: GraphQL allows you to batch multiple [[queries]] into a single request.
+- **Batching**: GraphQL allows you to batch multiple [[Queries]] into a single request.
 - **Versionless**: GraphQL APIs are versionless and allow you to evolve your [[API]] without breaking changes.
 - **Client-driven**: GraphQL allows clients to request the data they need and avoid over-fetching.
 - **Tooling**: GraphQL has a rich ecosystem of tools and libraries for building and consuming APIs.
-- **Performance**: GraphQL allows you to optimize [[queries]] and reduce the number of round trips to the server.
+- **Performance**: GraphQL allows you to optimize [[Queries]] and reduce the number of round trips to the server.
 - **Security**: GraphQL allows you to define fine-grained access control rules for your data.
 - **Flexibility**: GraphQL allows you to define custom scalar types and directives to extend the schema.
 
 ## Components
 
-- **Schema**: The schema defines the types and [[queries]] that are available in your [[API]].
+- **Schema**: The schema defines the types and [[Queries]] that are available in your [[API]].
 - **Types**: Types define the shape of your data and the operations that can be performed on it.
 - **Queries**: [[Queries]] are used to fetch data from the [[API]].
 - **Mutations**: Mutations are used to modify data in the [[API]].

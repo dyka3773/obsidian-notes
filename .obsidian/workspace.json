@@ -37,7 +37,8 @@
               "title": "Unlinked Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6226059a17c2fcc9",
@@ -223,13 +224,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "53816f4b7605260a",
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
-    "Tech notes/Data Representation Models/JSON.md",
+    "Tech notes/Tech Notes.md",
+    "Tech notes/Data Formats/SVG.md",
+    "Unlinked Notes.md",
+    "Tech notes/Data Formats",
+    "Tech notes/Web Dev Terminology/JWT.md",
+    "Tech notes/Web Dev Terminology",
+    "Tech notes/Technical Terms/CRUD.md",
+    "Tech notes/Networking/HTTP/HTTP methods.md",
+    "Tech notes/Data Formats/Data Representation Models/JSON.md",
     "Tech notes/JavaScript/JavaScript.md",
     "Tech notes/JavaScript/NodeJS/Node.js.md",
     "Tech notes/JavaScript/NodeJS",
-    "Unlinked Notes.md",
     "Tech notes/Java/JavaEE/JMS.md",
     "Tech notes/JavaScript",
     "Tech notes/Front-End Technologies/HTML.md",
@@ -244,7 +252,7 @@
     "Tech notes/Java/Classpath.md",
     "Tech notes/Java/JavaEE/JTA.md",
     "Tech notes/Java/JavaEE/@Transactional.md",
-    "Tech notes/Webservices/SAML.md",
+    "Tech notes/Web Dev Terminology/Webservices/SAML.md",
     "Tech notes/Java/Frameworks/Quartz",
     "Tech notes/General Frameworks/Selenium/Selenium.md",
     "Tech notes/Java/Frameworks/Spring/Spring.md",
@@ -252,13 +260,7 @@
     "Tech notes/General Frameworks",
     "Tech notes/Java/Frameworks/Spring/Spring Annotations.md",
     "Tech notes/Java/JavaBean.md",
-    "Tech notes/Java/Frameworks/Spring/Spring Boot.md",
     "Tech notes/Java/Frameworks/Spring",
-    "Tech notes/Java/JavaEE/EJB.md",
-    "Tech notes/Java/JavaEE/Message Driven Beans.md",
-    "Tech notes/Technical Terms/Design Patterns/Singleton.md",
-    "Tech notes/Java/JavaEE",
-    "Tech notes/Technical Terms",
-    "Tech notes/Java/Frameworks"
+    "Tech notes/Java/JavaEE"
   ]
 }

@@ -24,7 +24,7 @@ Many organizations that provide data in formatted [[HTML]] pages will also provi
 
 Software system designed to support interoperable **machine-to-machine interaction over a network**. It has an interface described in a machine-processable format (specifically **[[WSDL]]**). Systems **interact** with the web service in a **manner prescribed by its description ([[WSDL]]) using [[SOAP]]-messages**, typically conveyed using [[HTTP]] with an [[XML]] serialization in conjunction with other web-related standards.
 
-Webservices is [[xml]]-based language-independent communication protocol which supports:
+Webservices is [[XML]]-based language-independent communication protocol which supports:
 - Remotely executing methods
 - handling errors
 - authentication/authorization
