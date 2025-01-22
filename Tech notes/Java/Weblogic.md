@@ -13,4 +13,4 @@ The Suite version is a more advanced version that includes additional features s
 ## Resources
 
 - [Weblogic Server Administration](https://www.youtube.com/playlist?list=PLRt-r4QiDOMfzsw2vchVr9xpcqq5gZt-1)
-- Possible tool to [[hotswap]] Weblogic [here](https://github.com/HotswapProjects/HotswapAgent)
+- Possible tool to [[Hotswap]] Weblogic [here](https://github.com/HotswapProjects/HotswapAgent)
