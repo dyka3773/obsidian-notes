@@ -5,7 +5,7 @@ tags:
   - snippet
 aliases: []
 ---
-In order to create a singleton class, you can override its `__new__` method to return the same instance every time.
+In order to create a [[Singleton]] class, you can override its `__new__` method to return the same instance every time.
 
 Here is an example:
 

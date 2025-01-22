@@ -11,7 +11,7 @@ tags:
 
 To be honest, I have used `__new__` very few times and I can only think of a few cases where it might be useful.
 
-For example, if you want to create a singleton class, you can override `__new__` to return the same instance every time.
+For example, if you want to create a [[Singleton]] class, you can override `__new__` to return the same instance every time.
 
 ```python
 class Singleton:
@@ -26,4 +26,4 @@ s1 = Singleton()
 s2 = Singleton()
 print(s1 is s2) # True
 ```
-> The file [[Singleton Class Example]] contains yet another way to create a Singleton class in case you're interested.
+> The file [[Singleton Class Example]] contains yet another way to create a [[Singleton]] class in case you're interested.

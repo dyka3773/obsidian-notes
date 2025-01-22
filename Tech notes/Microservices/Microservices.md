@@ -65,6 +65,6 @@ The articles listed here present a structured approach for designing, building, 
 
 ## Resources
 
-- [[Design patterns]] for applications that use microservices [here](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a)
+- [[Design Patterns]] for applications that use microservices [here](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a)
 - [[Graphql]] design on microservices [here](https://medium.com/@mena.meseha/practice-of-graphql-in-microservice-architecture-e8f2d698f93b)
 -  Microsoft's intro to Microservices [here](https://learn.microsoft.com/en-us/azure/architecture/microservices/) from which I have copied almost everything for this note :')
