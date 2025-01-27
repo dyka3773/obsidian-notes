@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Markdown link checker",
+      "path": "Tech notes/Useful GitHub Repos/Actions/Markdown link checker.md"
+    },
+    {
+      "basename": "MySQL Workbench",
+      "path": "Tech notes/General Tools/DBMS Tools/MySQL Workbench.md"
+    },
+    {
+      "basename": "JAX-WS",
+      "path": "Tech notes/Java/Libraries/JAX-WS.md"
+    },
+    {
+      "basename": "JAX-RS",
+      "path": "Tech notes/Java/Libraries/JAX-RS.md"
+    },
+    {
+      "basename": "Microservices",
+      "path": "Tech notes/Web Dev Terminology/Microservices/Microservices.md"
+    },
+    {
+      "basename": "2025-01-27",
+      "path": "Dailies/2025-01-27.md"
+    },
+    {
       "basename": "2025-01-23",
       "path": "Dailies/2025-01-23.md"
     },

@@ -1,0 +1,12 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://www.baeldung.com"
+    },
+    {
+      "pattern": "https://www.mysql.com/products/workbench/"
+    }
+  ],
+  "retryCount": 5,
+  "retryOn429": true
+}
