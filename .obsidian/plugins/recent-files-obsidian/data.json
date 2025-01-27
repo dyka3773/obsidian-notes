@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Tech Notes",
+      "path": "Tech notes/Tech Notes.md"
+    },
+    {
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
+    },
+    {
+      "basename": "Databases",
+      "path": "Tech notes/Databases/Databases.md"
+    },
+    {
+      "basename": "Relational Databases",
+      "path": "Tech notes/Databases/Relational Databases/Relational Databases.md"
+    },
+    {
+      "basename": "Keys",
+      "path": "Tech notes/Databases/Relational Databases/Keys/Keys.md"
+    },
+    {
+      "basename": "Foreign Key",
+      "path": "Tech notes/Databases/Relational Databases/Keys/Foreign Key.md"
+    },
+    {
+      "basename": "Database Index",
+      "path": "Tech notes/Databases/Relational Databases/Database Index.md"
+    },
+    {
+      "basename": "Unique Key",
+      "path": "Tech notes/Databases/Relational Databases/Keys/Unique Key.md"
+    },
+    {
+      "basename": "Primary Key",
+      "path": "Tech notes/Databases/Relational Databases/Keys/Primary Key.md"
+    },
+    {
+      "basename": "Constraints",
+      "path": "Tech notes/Databases/Relational Databases/Constraints.md"
+    },
+    {
+      "basename": "PowerShell",
+      "path": "Tech notes/Powershell/PowerShell.md"
+    },
+    {
+      "basename": "Useful Snippets & Commands",
+      "path": "Tech notes/Powershell/Useful Snippets & Commands.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "2025-01-27",
+      "path": "Dailies/2025-01-27.md"
+    },
+    {
       "basename": "Markdown link checker",
       "path": "Tech notes/Useful GitHub Repos/Actions/Markdown link checker.md"
     },
@@ -21,16 +77,8 @@
       "path": "Tech notes/Web Dev Terminology/Microservices/Microservices.md"
     },
     {
-      "basename": "2025-01-27",
-      "path": "Dailies/2025-01-27.md"
-    },
-    {
       "basename": "2025-01-23",
       "path": "Dailies/2025-01-23.md"
-    },
-    {
-      "basename": "Tech Notes",
-      "path": "Tech notes/Tech Notes.md"
     }
   ],
   "omittedPaths": [],
