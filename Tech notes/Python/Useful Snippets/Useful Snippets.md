@@ -4,6 +4,6 @@ tags:
   - python
   - lists
 ---
-- [[Debugging]]
-- [[Singleton Class Example]]
+- [[Debugging Snippet]]
+- [[Singleton Python Class Example]]
 - [[Caching Function Calls with LRU Cache]]

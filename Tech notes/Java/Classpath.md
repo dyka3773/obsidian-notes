@@ -10,7 +10,7 @@ Similar to the classic [dynamic loading](https://en.wikipedia.org/wiki/Library_
 The classpath tells [[Java]] where to look in the filesystem for files defining these classes.
 
 The virtual machine searches for and loads classes in this order:
-1. **bootstrap classes**: the classes that are fundamental to the Java Platform (comprising the public classes of the Java Class Library, and the private classes that are necessary for this library to be functional).
+1. **bootstrap classes**: the classes that are fundamental to the [[Java]] Platform (comprising the public classes of the Java Class Library, and the private classes that are necessary for this library to be functional).
 2. **extension classes**: packages that are in the extension directory of the [[Java Runtime Environment]] or [[JDK]].
 3. **user-defined packages and libraries**
 

@@ -2,10 +2,12 @@
 tags:
   - tech
   - batch
+aliases:
+  - "`CALL`"
 ---
-Besides [[START]] there is also a command called `CALL` which is used to execute another [[batch]] file. 
+Besides [[START Command|`START`]] there is also a command called `CALL` which is used to execute another [[batch]] file. 
 
-## [[START]] vs CALL
+## [[START Command|START]] vs CALL
 
 The main difference between `CALL` and `START` is that `CALL` will execute the [[batch]] file in the same shell, while `START` will execute the [[batch]] file in a new shell. This also means that the calling [[batch]] file will wait for the called [[batch]] file to finish before continuing its execution.
 

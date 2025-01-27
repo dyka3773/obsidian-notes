@@ -10,7 +10,6 @@ tags:
 - It supports a variety of languages and allows you to customize the regex used to find TODOs.
 - It also supports a variety of themes and allows you to customize the colors used to display TODOs and other tags.
 
-<!-- omit in toc -->
 #### Settings Example
 
 ```json
@@ -95,5 +94,5 @@ tags:
 
 ## Dev Containers *(ID: ms-vscode-remote.remote-containers)*
 
-- This extension enables you to use a Docker container as a full-featured development environment. (For example, you can use it to run [[Python]] scripts without having [[Python]] installed on your machine.)
-- It **requires** you to have Docker installed and configured.
+- This extension enables you to use a [[Docker]] container as a full-featured development environment. (For example, you can use it to run [[Python]] scripts without having [[Python]] installed on your machine.)
+- It **requires** you to have [[Docker]] installed and configured.

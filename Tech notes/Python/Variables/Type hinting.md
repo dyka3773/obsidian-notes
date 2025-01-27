@@ -4,7 +4,7 @@ tags:
   - python
 aliases:
   - type annotation
-  - annotation
+  - python annotation
 ---
 [[Python]] is a dynamically typed language, which means that you don't have to declare the [[Variable Types|type of a variable]] when you create one.
 However, you can use type hinting to specify the [[Variable Types|type of a variable]].

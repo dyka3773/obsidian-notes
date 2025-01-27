@@ -2,6 +2,8 @@
 tags:
   - tech
   - batch
+aliases:
+  - "`START`"
 ---
 ## Open a new command prompt window
 

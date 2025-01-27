@@ -3,7 +3,8 @@ tags:
   - tech
   - python
 aliases:
-  - log
+  - python logging
+  - python log
 ---
 
 ## Introduction

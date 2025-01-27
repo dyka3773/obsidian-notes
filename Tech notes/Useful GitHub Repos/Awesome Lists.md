@@ -12,11 +12,11 @@ Description: A curated list of awesome lists.
 Link: [Here](https://github.com/josephmisiti/awesome-machine-learning)
 
 Description: A curated list of awesome machine learning frameworks, libraries and software (by language).
-### **Awesome Python**
+### **Awesome [[Python]]**
 Link: [Here](https://github.com/vinta/awesome-python)
 
 Description: A curated list of awesome [[Python]] frameworks, libraries, software and resources.
-### **Awesome Java**
+### **Awesome [[Java]]**
 Link: [Here](https://github.com/akullpp/awesome-java)
 
 Description: A curated list of awesome frameworks, libraries and software for the [[Java]] programming language.
@@ -32,11 +32,11 @@ Description: A collection of awesome readme templates to display on your profile
 Link: [Here](https://github.com/szabgab/awesome-for-non-programmers)
 
 Description: A collection of awesome Open Source projects where you can contribute without any programming knowledge.
-### **Awesome Actions**
+### **Awesome [[Useful GitHub Actions|Actions]]**
 Link: [Here](https://github.com/sdras/awesome-actions)
 
 Description: A curated list of awesome [[Useful GitHub Actions|actions]] to use on GitHub
-### **Awesome VS Code**
+### **Awesome [[VS Code]]**
 Link: [Here](https://github.com/viatsko/awesome-vscode)
 
 Description: A curated list of delightful [[VS Code]] packages and resources.

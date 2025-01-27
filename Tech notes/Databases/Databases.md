@@ -1,6 +1,8 @@
 ---
 tags:
   - tech
+aliases:
+  - DBMS
 ---
 
 Databases are a collection of data that is stored in a computer system.

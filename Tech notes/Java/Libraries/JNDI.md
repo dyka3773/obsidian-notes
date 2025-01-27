@@ -5,15 +5,15 @@ tags:
 aliases:
   - Java Naming and Directory Interface
 ---
-The Java Naming and Directory Interface (JNDI) is a [[Java]] [[API]] for a directory service that allows Java software clients to discover and look up data and resources (in the form of Java objects) via a name. 
+The Java Naming and Directory Interface (JNDI) is a [[Java]] [[API]] for a directory service that allows [[Java]] software clients to discover and look up data and resources (in the form of [[Java]] objects) via a name. 
 Like all [[Java]] [[API]]s that interface with host systems, JNDI is independent of the underlying implementation.
 The information looked up via JNDI may be supplied by a server, a flat file, or a database; the choice is up to the implementation used.
 
 Typical uses of JNDI include:
-- connecting a Java application to an external directory service (such as an address database or an LDAP server),
+- connecting a [[Java]] application to an external directory service (such as an address database or an LDAP server),
 - allowing a Java Servlet to look up configuration information provided by the hosting web container.
 
-The API provides:
+The [[API]] provides:
 - a mechanism to bind an object to a name
 - a directory-lookup interface that allows general queries
 - an event interface that allows clients to determine when directory entries have been modified
@@ -28,7 +28,7 @@ A name can be any string such as "com.example.ejb.MyBean".
 A name can also be an object that implements the Name interface; however, a string is the most common way to name an object. 
 A name is bound to an object in the directory by storing either the object or a reference to the object in the directory service identified by the name.
 
-The JNDI API defines a context that specifies where to look for an object. 
+The JNDI [[API]] defines a context that specifies where to look for an object. 
 The initial context is typically used as a starting point.
 
 In the simplest case, an initial context must be created using the specific implementation and extra parameters required by the implementation. 

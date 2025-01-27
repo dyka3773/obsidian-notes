@@ -16,8 +16,8 @@ except ExceptionType as e:
     raise
 ```
 
-> Note: This will re-raise the exception with the note attached to it.
-> The notes only have a point if the exception is re-raised, otherwise they are lost.
+> Note: This will re-raise the [[Exceptions & Errors|exception]] with the note attached to it.
+> The notes only have a point if the [[Exceptions & Errors|exception]] is re-raised, otherwise they are lost.
 
 Near real world example:
 

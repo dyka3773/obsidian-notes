@@ -3,8 +3,10 @@ tags:
   - tech
   - python
 aliases:
-  - packages
-  - modules
+  - Python Packages
+  - Python Modules
+  - Packages
+  - Modules
 ---
 
 ## Introduction
@@ -20,6 +22,6 @@ Packages can be of 2 types:
 - [[Regular Packages]]
 - [[Namespace Packages]]
 
-## Importing packages
+## [[Imports|Importing]] packages
 
 See [[Imports]] and [[Relative Imports]].

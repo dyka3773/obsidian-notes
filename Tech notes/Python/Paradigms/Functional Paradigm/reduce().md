@@ -22,7 +22,7 @@ result = reduce(lambda x, y: x + y, my_list)
 print(result) # 15
 ```
 
-> **NOTE 1**: `reduce()` is not a built-in function in [[Python]] 3, so we need to import it from the `functools` module.
+> **NOTE 1**: `reduce()` is not a built-in function in [[Python]] 3, so we need to [[Imports|import]] it from the `functools` module.
 
 The above is equivalent to the following:
 ```python

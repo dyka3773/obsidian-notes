@@ -2,6 +2,7 @@
 tags:
   - tech
 ---
+
 #### All the [[DBMS Metadata Views|Metadata Views]] and What They Do
 
 ```sql

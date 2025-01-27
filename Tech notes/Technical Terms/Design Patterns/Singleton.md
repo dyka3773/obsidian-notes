@@ -4,7 +4,7 @@ tags:
 aliases:
   - Singleton Pattern
 ---
-The singleton pattern is a software design pattern that restricts the instantiation of a class to a singular instance.
+The singleton pattern is a software [[Design Patterns|design pattern]] that restricts the instantiation of a class to a singular instance.
 The pattern is useful when exactly one object is needed to coordinate actions across a system.
 
 More specifically, the singleton pattern allows classes to:

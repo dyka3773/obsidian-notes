@@ -3,7 +3,7 @@ tags:
   - tech
 ---
 Cascading Style Sheets (CSS) is a style sheet language used for specifying the presentation and styling of a document written in a markup language such as [[HTML]] or [[XML]] (including XML dialects such as [[SVG]], MathML or [[XHTML]]).
-CSS is a cornerstone technology of the World Wide Web, alongside HTML and [[JavaScript]].
+CSS is a cornerstone technology of the World Wide Web, alongside [[HTML]] and [[JavaScript]].
 
 CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts.
 This separation can improve:

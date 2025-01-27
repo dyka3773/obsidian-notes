@@ -20,10 +20,10 @@ It has application programming interfaces ([[API]]s) for working with text, date
 Although [[Java]] and JavaScript are similar in name and syntax, the two languages are distinct and differ greatly in design.
 
 ## Related Technologies
-### Java
+### [[Java]]
 A common misconception is that JavaScript is directly related to [[Java]].
 Both indeed have a [[C]]-like syntax (the [[C]] language being their most immediate common ancestor language).
-In particular, all [[Java]] keywords were reserved in original JavaScript, JavaScript's standard library follows Java's naming conventions, and JavaScript's `Math` and `Date` objects are based on classes from Java 1.0.
+In particular, all [[Java]] keywords were reserved in original JavaScript, JavaScript's standard library follows [[Java]]'s naming conventions, and JavaScript's `Math` and `Date` objects are based on classes from Java 1.0.
 
 The differences between the two languages are more prominent than their similarities.
 - [[Java]] has [[static typing]], while JavaScript's typing is dynamic.
@@ -31,7 +31,7 @@ The differences between the two languages are more prominent than their similari
 - [[Java]]'s objects are [[class-based]], while JavaScript's are [[prototype-based]]
 - [[Java]] did not support functional programming until Java 8, while JavaScript has done so from the beginning.
 
-### JSON
+### [[JSON]]
 [[JSON]] is a data format derived from JavaScript; hence the name JavaScript Object Notation. 
 It is a widely used format supported by many other programming languages.
 

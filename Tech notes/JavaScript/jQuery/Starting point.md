@@ -17,4 +17,4 @@ or
 ```js
 $(fn); // The function named fn, defined elsewhere, is called when the page has loaded.
 ```
-Historically, `$(document).ready(callback)` has been the de facto idiom for running code after the [[DOM]] is ready. However, since jQuery 3.0, developers are encouraged to use the much shorter `$(handler)` signature instead.
+Historically, `$(document).ready(callback)` has been the de facto idiom for running code after the [[DOM]] is ready. However, since [[jQuery]] 3.0, developers are encouraged to use the much shorter `$(handler)` signature instead.

@@ -26,4 +26,4 @@ s1 = Singleton()
 s2 = Singleton()
 print(s1 is s2) # True
 ```
-> The file [[Singleton Class Example]] contains yet another way to create a [[Singleton]] class in case you're interested.
+> The file [[Singleton Python Class Example]] contains yet another way to create a [[Singleton]] class in case you're interested.

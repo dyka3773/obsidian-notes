@@ -3,7 +3,6 @@ tags:
   - tech
   - lists
 aliases:
-  - actions
   - github action
 ---
 

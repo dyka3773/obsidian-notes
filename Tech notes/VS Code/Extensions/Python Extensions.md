@@ -4,7 +4,7 @@ tags:
   - lists
 ---
 
-## Python *(ID: ms-python.python)*
+## [[Python]] *(ID: ms-python.python)*
 
 - This is a pack of [[Useful VS Code Extensions|extensions]] that provide language support for [[Python]].
 - It provides syntax highlighting, code snippets, debug support and a [[Python]] interactive window.

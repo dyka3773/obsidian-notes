@@ -3,7 +3,8 @@ tags:
   - tech
   - python
 aliases:
-  - string
+  - Python strings
+  - Python String
 ---
 
 ## Introduction

@@ -3,8 +3,8 @@ tags:
   - tech
   - python
 aliases:
-  - importing
-  - import
+  - Python Imports
+  - Python importing
 ---
 Imports are used to import [[Packages & Modules|modules]], [[Packages & Modules|packages]], and symbols (functions, [[variables]], etc) from [[Packages & Modules|modules]] and [[Packages & Modules|packages]].
 

@@ -4,7 +4,6 @@ tags:
   - python
 aliases:
   - python types
-  - types
   - type of a variable
 ---
 [[Python]] has the following built-in types:

@@ -10,8 +10,8 @@ aliases:
 
 ### Useful Commands
 - [[ECHO %~dp0]]
-- [[CALL]]
+- [[CALL Command]]
 - [[PAUSE & TIMEOUT]]
-- [[START]]
+- [[START Command]]
 
 See also [[Interesting reads]]

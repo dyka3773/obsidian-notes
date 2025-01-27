@@ -22,7 +22,7 @@ Description: React component to view the difference between two [[JSON]] based [
 Link: [Here](https://github.com/ferstl/depgraph-maven-plugin)
 
 Description: A Maven plugin that generates dependency graphs in various formats (DOT, GML, PlantUML, [[JSON]] and Text)
-## SVG pan zoom
+## [[SVG]] pan zoom
 Link: [Here](https://github.com/bumbu/svg-pan-zoom)
 
 Description: A [[JavaScript]] library that enables panning and zooming of [[SVG]] images.

@@ -39,7 +39,7 @@ Link: [Here](https://github.com/Syknapse/Contribute-To-This-Project)
 
 Description: A tutorial to help first-time contributors to participate in a simple and easy project where you can learn how to create a pull request to contribute to a project on GitHub by adding your profile page and 3 Dev Resources you find useful in an [[HTML]] card element in the project's website.
 
-## Public APIs
+## Public [[API]]s
 Link: [Here](https://github.com/bradtraversy/public-apis)
 
 Description: A collective list of free APIs for use in software and web development.

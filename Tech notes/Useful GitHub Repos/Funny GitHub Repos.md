@@ -20,7 +20,7 @@ Description: A repository with photoshopped images of anime boys holding program
 Link: [Here](https://github.com/zackradisic/aussieplusplus)
 
 Description: A Programming language from down under.
-## WTF Python
+## WTF [[Python]]
 
 Link: [Here](https://github.com/satwikkansal/wtfpython)
 

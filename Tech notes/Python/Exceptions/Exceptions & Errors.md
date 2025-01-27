@@ -3,10 +3,8 @@ tags:
   - tech
   - python
 aliases:
-  - exception
-  - error
-  - exceptions
-  - errors
+  - Python Exception
+  - Python Error
 ---
 ## Introduction
 

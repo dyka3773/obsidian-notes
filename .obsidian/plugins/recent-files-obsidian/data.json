@@ -1,128 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Exceptions & Errors",
-      "path": "Tech notes/Python/Exceptions/Exceptions & Errors.md"
-    },
-    {
-      "basename": "Relational Databases",
-      "path": "Tech notes/Databases/Relational Databases/Relational Databases.md"
-    },
-    {
-      "basename": "Database Transactions",
-      "path": "Tech notes/Databases/Database Transactions.md"
-    },
-    {
-      "basename": "ACID",
-      "path": "Tech notes/Technical Terms/Transactions/ACID.md"
-    },
-    {
-      "basename": "Durability",
-      "path": "Tech notes/Technical Terms/Transactions/Durability.md"
-    },
-    {
-      "basename": "Isolation",
-      "path": "Tech notes/Technical Terms/Transactions/Isolation.md"
-    },
-    {
-      "basename": "Consistency",
-      "path": "Tech notes/Technical Terms/Transactions/Consistency.md"
-    },
-    {
-      "basename": "Atomicity",
-      "path": "Tech notes/Technical Terms/Transactions/Atomicity.md"
-    },
-    {
-      "basename": "Transactions",
-      "path": "Tech notes/Technical Terms/Transactions/Transactions.md"
-    },
-    {
-      "basename": "Keys",
-      "path": "Tech notes/Databases/Relational Databases/Keys/Keys.md"
-    },
-    {
-      "basename": "args and kwargs",
-      "path": "Tech notes/Python/Conventions/args and kwargs.md"
-    },
-    {
-      "basename": "UUID",
-      "path": "Tech notes/Technical Terms/UUID.md"
-    },
-    {
-      "basename": "CRUD",
-      "path": "Tech notes/Technical Terms/CRUD.md"
-    },
-    {
-      "basename": "Tech Notes",
-      "path": "Tech notes/Tech Notes.md"
-    },
-    {
       "basename": "Unlinked Notes",
       "path": "Unlinked Notes.md"
-    },
-    {
-      "basename": "Databases",
-      "path": "Tech notes/Databases/Databases.md"
-    },
-    {
-      "basename": "Foreign Key",
-      "path": "Tech notes/Databases/Relational Databases/Keys/Foreign Key.md"
-    },
-    {
-      "basename": "Database Index",
-      "path": "Tech notes/Databases/Relational Databases/Database Index.md"
-    },
-    {
-      "basename": "Unique Key",
-      "path": "Tech notes/Databases/Relational Databases/Keys/Unique Key.md"
-    },
-    {
-      "basename": "Primary Key",
-      "path": "Tech notes/Databases/Relational Databases/Keys/Primary Key.md"
-    },
-    {
-      "basename": "Constraints",
-      "path": "Tech notes/Databases/Relational Databases/Constraints.md"
-    },
-    {
-      "basename": "PowerShell",
-      "path": "Tech notes/Powershell/PowerShell.md"
-    },
-    {
-      "basename": "Useful Snippets & Commands",
-      "path": "Tech notes/Powershell/Useful Snippets & Commands.md"
     },
     {
       "basename": "Homepage",
       "path": "Homepage.md"
     },
     {
-      "basename": "2025-01-27",
-      "path": "Dailies/2025-01-27.md"
+      "basename": "empty files",
+      "path": "empty files.md"
     },
     {
-      "basename": "Markdown link checker",
-      "path": "Tech notes/Useful GitHub Repos/Actions/Markdown link checker.md"
+      "basename": "Tech Tool template",
+      "path": "templates/Tech Tool template.md"
     },
     {
-      "basename": "MySQL Workbench",
-      "path": "Tech notes/General Tools/DBMS Tools/MySQL Workbench.md"
+      "basename": "Tech note template",
+      "path": "templates/Tech note template.md"
     },
     {
-      "basename": "JAX-WS",
-      "path": "Tech notes/Java/Libraries/JAX-WS.md"
+      "basename": "Tag homepage template",
+      "path": "templates/Tag homepage template.md"
     },
     {
-      "basename": "JAX-RS",
-      "path": "Tech notes/Java/Libraries/JAX-RS.md"
+      "basename": "Daily note template",
+      "path": "templates/Daily note template.md"
+    },
+    {
+      "basename": "Tech Notes",
+      "path": "Tech notes/Tech Notes.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "Tech notes/Docker.md"
+    },
+    {
+      "basename": "JWT",
+      "path": "Tech notes/Web Dev Terminology/JWT.md"
+    },
+    {
+      "basename": "XML Signature",
+      "path": "Tech notes/Web Dev Terminology/Webservices/XML Signature.md"
+    },
+    {
+      "basename": "XML Encryption",
+      "path": "Tech notes/Web Dev Terminology/Webservices/XML Encryption.md"
+    },
+    {
+      "basename": "WS-Security",
+      "path": "Tech notes/Web Dev Terminology/Webservices/WS-Security.md"
+    },
+    {
+      "basename": "Web Services",
+      "path": "Tech notes/Web Dev Terminology/Webservices/Web Services.md"
+    },
+    {
+      "basename": "SAML",
+      "path": "Tech notes/Web Dev Terminology/Webservices/SAML.md"
     },
     {
       "basename": "Microservices",
       "path": "Tech notes/Web Dev Terminology/Microservices/Microservices.md"
     },
     {
-      "basename": "2025-01-23",
-      "path": "Dailies/2025-01-23.md"
+      "basename": "SOAP vs REST",
+      "path": "Tech notes/Web Dev Terminology/API/SOAP vs REST.md"
+    },
+    {
+      "basename": "OpenAPI",
+      "path": "Tech notes/Web Dev Terminology/API/OpenAPI.md"
+    },
+    {
+      "basename": "GraphQL vs REST",
+      "path": "Tech notes/Web Dev Terminology/API/GraphQL vs REST.md"
+    },
+    {
+      "basename": "API vs Connector vs Integration",
+      "path": "Tech notes/Web Dev Terminology/API/API vs Connector vs Integration.md"
+    },
+    {
+      "basename": "API",
+      "path": "Tech notes/Web Dev Terminology/API/API.md"
+    },
+    {
+      "basename": "WSDL",
+      "path": "Tech notes/Web Dev Terminology/API/SOAP/WSDL.md"
+    },
+    {
+      "basename": "SOAP",
+      "path": "Tech notes/Web Dev Terminology/API/SOAP/SOAP.md"
+    },
+    {
+      "basename": "REST",
+      "path": "Tech notes/Web Dev Terminology/API/REST/REST.md"
+    },
+    {
+      "basename": "GraphQL Queries",
+      "path": "Tech notes/Web Dev Terminology/API/GraphQL/GraphQL Queries.md"
+    },
+    {
+      "basename": "GraphQL",
+      "path": "Tech notes/Web Dev Terminology/API/GraphQL/GraphQL.md"
+    },
+    {
+      "basename": "Visual Studio Code",
+      "path": "Tech notes/VS Code/Visual Studio Code.md"
+    },
+    {
+      "basename": "Useful VS Code Extensions",
+      "path": "Tech notes/VS Code/Useful VS Code Extensions.md"
+    },
+    {
+      "basename": "Web Development Extensions",
+      "path": "Tech notes/VS Code/Extensions/Web Development Extensions.md"
+    },
+    {
+      "basename": "Python Extensions",
+      "path": "Tech notes/VS Code/Extensions/Python Extensions.md"
+    },
+    {
+      "basename": "Powershell Extensions",
+      "path": "Tech notes/VS Code/Extensions/Powershell Extensions.md"
+    },
+    {
+      "basename": "Other DBMS Extensions",
+      "path": "Tech notes/VS Code/Extensions/Other DBMS Extensions.md"
+    },
+    {
+      "basename": "Oracle Extensions",
+      "path": "Tech notes/VS Code/Extensions/Oracle Extensions.md"
+    },
+    {
+      "basename": "NodeJS Extensions",
+      "path": "Tech notes/VS Code/Extensions/NodeJS Extensions.md"
+    },
+    {
+      "basename": "MySQL Extensions",
+      "path": "Tech notes/VS Code/Extensions/MySQL Extensions.md"
+    },
+    {
+      "basename": "Misc Extensions",
+      "path": "Tech notes/VS Code/Extensions/Misc Extensions.md"
+    },
+    {
+      "basename": "Extensions for Specific Languages",
+      "path": "Tech notes/VS Code/Extensions/Extensions for Specific Languages.md"
+    },
+    {
+      "basename": "Extensions for Git",
+      "path": "Tech notes/VS Code/Extensions/Extensions for Git.md"
+    },
+    {
+      "basename": "Extensions for DBMSs",
+      "path": "Tech notes/VS Code/Extensions/Extensions for DBMSs.md"
+    },
+    {
+      "basename": "Data MarkUp or Markdown Extensions",
+      "path": "Tech notes/VS Code/Extensions/Data MarkUp or Markdown Extensions.md"
+    },
+    {
+      "basename": "Useful GitHub Repos",
+      "path": "Tech notes/Useful GitHub Repos/Useful GitHub Repos.md"
+    },
+    {
+      "basename": "Useful GitHub Actions",
+      "path": "Tech notes/Useful GitHub Repos/Useful GitHub Actions.md"
+    },
+    {
+      "basename": "Interesting GitHub Repos",
+      "path": "Tech notes/Useful GitHub Repos/Interesting GitHub Repos.md"
+    },
+    {
+      "basename": "Funny GitHub Repos",
+      "path": "Tech notes/Useful GitHub Repos/Funny GitHub Repos.md"
+    },
+    {
+      "basename": "Awesome Lists",
+      "path": "Tech notes/Useful GitHub Repos/Awesome Lists.md"
+    },
+    {
+      "basename": "Markdown link checker",
+      "path": "Tech notes/Useful GitHub Repos/Actions/Markdown link checker.md"
+    },
+    {
+      "basename": "UUID",
+      "path": "Tech notes/Technical Terms/UUID.md"
+    },
+    {
+      "basename": "Progressive Web Apps",
+      "path": "Tech notes/Technical Terms/Progressive Web Apps.md"
+    },
+    {
+      "basename": "Hotswap",
+      "path": "Tech notes/Technical Terms/Hotswap.md"
+    },
+    {
+      "basename": "Framework vs Library",
+      "path": "Tech notes/Technical Terms/Framework vs Library.md"
     }
   ],
   "omittedPaths": [],

@@ -13,8 +13,8 @@ Create, read, update, and delete (CRUD) are the four basic operations (actions) 
 > CRUD is also sometimes used to describe user interface conventions that facilitate viewing, searching, and changing information using computer-based forms and reports.
 
 # Use Cases
-## Databases
-The acronym CRUD refers to the major operations which are implemented by databases.
+## [[Databases]]
+The acronym CRUD refers to the major operations which are implemented by [[databases]].
 Each letter in the acronym can be mapped to a standard Structured Query Language ([[SQL]]) statement.
 
 |  CRUD  |  SQL   |
@@ -28,7 +28,7 @@ CRUD functionality can for example be implemented with [[document databases]], o
 
 Some big data systems do not implement UPDATE, but have only a timestamped INSERT ([[journaling]]), storing a completely new version of the object each time.
 
-## RESTful APIs
+## [[REST|RESTful]] APIs
 The acronym CRUD also appears in the discussion of [[REST|RESTful APIs]].
 Each letter in the acronym may be mapped to an [[HTTP methods|HTTP Method]]
 

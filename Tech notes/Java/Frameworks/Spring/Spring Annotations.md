@@ -11,11 +11,11 @@ This annotation is applied to fields, setter methods, and constructors. The `@Au
 
 ## `@Configuration`
 
-This annotation is used on classes that define beans. 
-`@Configuration` is an analog for an [[XML]] configuration file, it is configuration using Java classes. 
+This annotation is used on classes that define [[JavaBean|beans]]. 
+`@Configuration` is an analog for an [[XML]] configuration file, it is configuration using [[Java]] classes. 
 A [[Java]] class annotated with `@Configuration` is a configuration by itself and will have methods to instantiate and configure the dependencies.
 
-Annotated classes will be processed by the [[Spring]] container to generate bean definitions and service requests for those beans at runtime.
+Annotated classes will be processed by the [[Spring]] container to generate [[JavaBean|bean]] definitions and service requests for those [[JavaBean|beans]] at runtime.
 
 `@Configuration` is also a `@Component`. This means subject to component-scanning
 **But**: `@Configuration` classes may **not only be bootstrapped using component scanning**, but may also **themselves configure component scanning using the `@ComponentScan` annotation**
@@ -25,24 +25,24 @@ One `@Configuration` may be **injected into another** using `@Import(OtherConfig
 ## `@Bean`
 
 This annotation is used at the method level. 
-The `@Bean` annotation works with `@Configuration` to create [[Spring]] beans. 
+The `@Bean` annotation works with `@Configuration` to create [[Spring]] [[JavaBean|beans]]. 
 As mentioned earlier, `@Configuration` will have methods to instantiate and configure dependencies. 
 Such methods will be annotated with `@Bean`. 
-The method annotated with this annotation works as the bean ID, and it creates and returns the actual bean.
+The method annotated with this annotation works as the bean ID, and it creates and returns the actual [[JavaBean|bean]].
 
 ## `@Lazy`
 
 This annotation is used on component classes. 
 By default, all autowired dependencies are created and configured at startup. 
-But if you want to initialize a bean lazily, you can use the `@Lazy` annotation over the class. 
-This means that the bean will be created and initialized only when it is first requested for. 
+But if you want to initialize a [[JavaBean|bean]] lazily, you can use the `@Lazy` annotation over the class. 
+This means that the [[JavaBean|bean]] will be created and initialized only when it is first requested for. 
 You can also use this annotation on `@Configuration` classes. 
 This indicates that all `@Bean` methods within that `@Configuration` class should be lazily initialized.
 
 ## `@Component`
 
 This annotation is used on classes to indicate a [[Spring]] component. 
-The `@Component` annotation marks the [[Java]] class as a bean or component so that the component-scanning mechanism of [[Spring]] can add it into the application context.
+The `@Component` annotation marks the [[Java]] class as a [[JavaBean|bean]] or component so that the component-scanning mechanism of [[Spring]] can add it into the application context.
 
 ## `@Controller`
 
