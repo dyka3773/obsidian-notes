@@ -8,5 +8,6 @@
     }
   ],
   "retryCount": 5,
-  "retryOn429": true
+  "retryOn429": true,
+  "aliveStatusCodes": [200, 206, 429]
 }
