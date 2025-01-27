@@ -2,7 +2,7 @@
 tags:
   - tech
 ---
-You can get the `TRANSACTION_ID` of a transaction using the `DBMS_TRANSACTION.LOCAL_TRANSACTION_ID` function.
+You can get the `TRANSACTION_ID` of a [[Database Transactions|transaction]] using the `DBMS_TRANSACTION.LOCAL_TRANSACTION_ID` function.
 
 ```sql
 SET SERVEROUTPUT ON
@@ -14,4 +14,4 @@ BEGIN
 END;
 ```
 
-This is extremely useful when used in conjunction with the [[Invisible Columns]] feature to track the changes made by a transaction to a table.
+This is extremely useful when used in conjunction with the [[Invisible Columns]] feature to track the changes made by a [[Database Transactions|transaction]] to a table.

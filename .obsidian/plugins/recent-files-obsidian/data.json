@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Exceptions & Errors",
+      "path": "Tech notes/Python/Exceptions/Exceptions & Errors.md"
+    },
+    {
+      "basename": "Relational Databases",
+      "path": "Tech notes/Databases/Relational Databases/Relational Databases.md"
+    },
+    {
+      "basename": "Database Transactions",
+      "path": "Tech notes/Databases/Database Transactions.md"
+    },
+    {
+      "basename": "ACID",
+      "path": "Tech notes/Technical Terms/Transactions/ACID.md"
+    },
+    {
+      "basename": "Durability",
+      "path": "Tech notes/Technical Terms/Transactions/Durability.md"
+    },
+    {
+      "basename": "Isolation",
+      "path": "Tech notes/Technical Terms/Transactions/Isolation.md"
+    },
+    {
+      "basename": "Consistency",
+      "path": "Tech notes/Technical Terms/Transactions/Consistency.md"
+    },
+    {
+      "basename": "Atomicity",
+      "path": "Tech notes/Technical Terms/Transactions/Atomicity.md"
+    },
+    {
+      "basename": "Transactions",
+      "path": "Tech notes/Technical Terms/Transactions/Transactions.md"
+    },
+    {
+      "basename": "Keys",
+      "path": "Tech notes/Databases/Relational Databases/Keys/Keys.md"
+    },
+    {
+      "basename": "args and kwargs",
+      "path": "Tech notes/Python/Conventions/args and kwargs.md"
+    },
+    {
+      "basename": "UUID",
+      "path": "Tech notes/Technical Terms/UUID.md"
+    },
+    {
+      "basename": "CRUD",
+      "path": "Tech notes/Technical Terms/CRUD.md"
+    },
+    {
       "basename": "Tech Notes",
       "path": "Tech notes/Tech Notes.md"
     },
@@ -11,14 +63,6 @@
     {
       "basename": "Databases",
       "path": "Tech notes/Databases/Databases.md"
-    },
-    {
-      "basename": "Relational Databases",
-      "path": "Tech notes/Databases/Relational Databases/Relational Databases.md"
-    },
-    {
-      "basename": "Keys",
-      "path": "Tech notes/Databases/Relational Databases/Keys/Keys.md"
     },
     {
       "basename": "Foreign Key",

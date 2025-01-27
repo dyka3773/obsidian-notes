@@ -1,6 +1,7 @@
 ---
 tags:
   - tech
+aliases: []
 ---
 Each row in a table has its own [[Unique Key]].
 Rows in a table can be linked to rows in other tables by adding a column for the [[Unique Key]] of the linked row (such columns are known as [[Foreign Key]]s).

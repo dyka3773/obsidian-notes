@@ -23,7 +23,7 @@ For example, each row of a "class" table corresponds to a class, and a "class" c
 
 ## Features
 - [[Keys]]
-- [[Transactions]]
+- [[Database Transactions]]
 - [[Stored Procedures]]
 - [[Views]]
 - [[Constraints]]

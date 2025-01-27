@@ -32,12 +32,12 @@ Some big data systems do not implement UPDATE, but have only a timestamped INSER
 The acronym CRUD also appears in the discussion of [[REST|RESTful APIs]].
 Each letter in the acronym may be mapped to an [[HTTP methods|HTTP Method]]
 
-|  CRUD  |                         HTTP                         |
-| :----: | :--------------------------------------------------: |
-| Create | POST (sometimes PUT if we don't have `id` or `uuid`) |
-|  Read  |                         GET                          |
-| Update |           PUT to replace, PATCH to modify            |
-| Delete |                        DELETE                        |
+|  CRUD  |                             HTTP                             |
+| :----: | :----------------------------------------------------------: |
+| Create | POST (sometimes PUT if we don't have `id` or [[UUID\|uuid]]) |
+|  Read  |                             GET                              |
+| Update |               PUT to replace, PATCH to modify                |
+| Delete |                            DELETE                            |
 In [[HTTP]], the GET (read), PUT (create and update), POST (create), and DELETE (delete) methods are CRUD operations as they have storage management semantics, meaning that they let user agents directly manipulate the states of target resources.
 The POST method, on the other hand, is a process operation that has target-resource-specific semantics which typically exceed the scope of CRUD operations.
 
