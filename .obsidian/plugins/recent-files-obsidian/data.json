@@ -5,6 +5,18 @@
       "path": "Dailies/2025-01-30.md"
     },
     {
+      "basename": "2025-01-21",
+      "path": "Dailies/2025-01-21.md"
+    },
+    {
+      "basename": "Java",
+      "path": "Tech notes/Java/Java.md"
+    },
+    {
+      "basename": "empty files",
+      "path": "empty files.md"
+    },
+    {
       "basename": "Docker",
       "path": "Tech notes/Docker.md"
     },
@@ -13,12 +25,20 @@
       "path": "Unlinked Notes.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Homepage.md"
+      "basename": "WSDL",
+      "path": "Tech notes/Web Dev Terminology/API/SOAP/WSDL.md"
     },
     {
-      "basename": "empty files",
-      "path": "empty files.md"
+      "basename": "XML",
+      "path": "Tech notes/Data Formats/Data Representation Models/XML/XML.md"
+    },
+    {
+      "basename": "Tech Notes",
+      "path": "Tech notes/Tech Notes.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
     },
     {
       "basename": "Tech Tool template",
@@ -35,10 +55,6 @@
     {
       "basename": "Daily note template",
       "path": "templates/Daily note template.md"
-    },
-    {
-      "basename": "Tech Notes",
-      "path": "Tech notes/Tech Notes.md"
     },
     {
       "basename": "JWT",
@@ -87,10 +103,6 @@
     {
       "basename": "API",
       "path": "Tech notes/Web Dev Terminology/API/API.md"
-    },
-    {
-      "basename": "WSDL",
-      "path": "Tech notes/Web Dev Terminology/API/SOAP/WSDL.md"
     },
     {
       "basename": "SOAP",
@@ -187,18 +199,6 @@
     {
       "basename": "Markdown link checker",
       "path": "Tech notes/Useful GitHub Repos/Actions/Markdown link checker.md"
-    },
-    {
-      "basename": "UUID",
-      "path": "Tech notes/Technical Terms/UUID.md"
-    },
-    {
-      "basename": "Progressive Web Apps",
-      "path": "Tech notes/Technical Terms/Progressive Web Apps.md"
-    },
-    {
-      "basename": "Hotswap",
-      "path": "Tech notes/Technical Terms/Hotswap.md"
     }
   ],
   "omittedPaths": [],

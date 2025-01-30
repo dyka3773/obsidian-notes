@@ -232,8 +232,46 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "7303226742a22f28",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Dailies/2025-01-30.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224425,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 2025-01-30"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -253,18 +291,22 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "2e414827d56e9922",
+  "active": "98b970dfc18b3465",
   "lastOpenFiles": [
+    "Dailies/2025-01-21.md",
+    "Tech notes/Java/Java.md",
+    "empty files.md",
     "Tech notes/Docker.md",
     "Dailies/2025-01-30.md",
     "Unlinked Notes.md",
+    "Tech notes/Web Dev Terminology/API/SOAP/WSDL.md",
+    "Tech notes/Data Formats/Data Representation Models/XML/XML.md",
+    "Tech notes/Tech Notes.md",
     "Homepage.md",
-    "empty files.md",
     "templates/Tech Tool template.md",
     "templates/Tech note template.md",
     "templates/Tag homepage template.md",
     "templates/Daily note template.md",
-    "Tech notes/Tech Notes.md",
     "Tech notes/Web Dev Terminology/JWT.md",
     "Tech notes/Web Dev Terminology/Webservices/XML Signature.md",
     "Tech notes/Web Dev Terminology/Webservices/XML Encryption.md",
@@ -277,10 +319,6 @@
     "Tech notes/Web Dev Terminology/API/GraphQL vs REST.md",
     "Tech notes/Web Dev Terminology/API/API vs Connector vs Integration.md",
     "Tech notes/Web Dev Terminology/API/API.md",
-    "Tech notes/Web Dev Terminology/API/SOAP/WSDL.md",
-    "Tech notes/Web Dev Terminology/API/SOAP/SOAP.md",
-    "Tech notes/Web Dev Terminology/API/REST/REST.md",
-    "Tech notes/Web Dev Terminology/API/GraphQL/GraphQL Queries.md",
     "Tech notes/Technical Terms/Transactions",
     "Tech notes/Databases/Relational Databases/Keys",
     "Tech notes/Databases/Relational Databases",
