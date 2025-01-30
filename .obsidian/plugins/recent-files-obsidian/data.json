@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-01-30",
+      "path": "Dailies/2025-01-30.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "Tech notes/Docker.md"
+    },
+    {
       "basename": "Unlinked Notes",
       "path": "Unlinked Notes.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Tech Notes",
       "path": "Tech notes/Tech Notes.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "Tech notes/Docker.md"
     },
     {
       "basename": "JWT",
@@ -195,10 +199,6 @@
     {
       "basename": "Hotswap",
       "path": "Tech notes/Technical Terms/Hotswap.md"
-    },
-    {
-      "basename": "Framework vs Library",
-      "path": "Tech notes/Technical Terms/Framework vs Library.md"
     }
   ],
   "omittedPaths": [],

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Dailies/2025-01-30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unlinked Notes"
+              "title": "2025-01-30"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Tech notes/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Unlinked Notes"
+              "title": "Backlinks for Docker"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Tech notes/Docker.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Unlinked Notes"
+              "title": "Outgoing links from Docker"
             }
           },
           {
@@ -180,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unlinked Notes.md"
+                "file": "Tech notes/Docker.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Unlinked Notes"
+              "title": "Outline of Docker"
             }
           },
           {
@@ -218,6 +218,22 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "29a106e995e55d1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78ac61fbae4dfa95",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,43 +253,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "floating": {
-    "id": "3af742672db03967",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f61238ecf32f0a59",
-        "type": "window",
-        "children": [
-          {
-            "id": "fc8c31e70dadffd7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "78ac61fbae4dfa95",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1116,
-        "y": 855,
-        "width": 744,
-        "height": 642,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "069f6dacbcb4e8cc",
+  "active": "2e414827d56e9922",
   "lastOpenFiles": [
+    "Tech notes/Docker.md",
+    "Dailies/2025-01-30.md",
+    "Unlinked Notes.md",
     "Homepage.md",
     "empty files.md",
     "templates/Tech Tool template.md",
@@ -281,7 +265,6 @@
     "templates/Tag homepage template.md",
     "templates/Daily note template.md",
     "Tech notes/Tech Notes.md",
-    "Tech notes/Docker.md",
     "Tech notes/Web Dev Terminology/JWT.md",
     "Tech notes/Web Dev Terminology/Webservices/XML Signature.md",
     "Tech notes/Web Dev Terminology/Webservices/XML Encryption.md",
@@ -298,8 +281,6 @@
     "Tech notes/Web Dev Terminology/API/SOAP/SOAP.md",
     "Tech notes/Web Dev Terminology/API/REST/REST.md",
     "Tech notes/Web Dev Terminology/API/GraphQL/GraphQL Queries.md",
-    "Tech notes/Web Dev Terminology/API/GraphQL/GraphQL.md",
-    "Tech notes/VS Code/Visual Studio Code.md",
     "Tech notes/Technical Terms/Transactions",
     "Tech notes/Databases/Relational Databases/Keys",
     "Tech notes/Databases/Relational Databases",
