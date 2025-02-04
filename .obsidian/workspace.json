@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-01-30.md",
+                "file": "Dailies/2025-02-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-30"
+              "title": "2025-02-04"
             }
           },
           {
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-01-30.md",
+                "file": "Dailies/2025-02-04.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,7 +267,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-01-30"
+              "title": "Graph of 2025-02-04"
             }
           }
         ],
@@ -291,13 +291,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "98b970dfc18b3465",
+  "active": "2e414827d56e9922",
   "lastOpenFiles": [
+    "Dailies/2025-01-30.md",
+    "Dailies/2025-02-04.md",
     "Dailies/2025-01-21.md",
     "Tech notes/Java/Java.md",
     "empty files.md",
     "Tech notes/Docker.md",
-    "Dailies/2025-01-30.md",
     "Unlinked Notes.md",
     "Tech notes/Web Dev Terminology/API/SOAP/WSDL.md",
     "Tech notes/Data Formats/Data Representation Models/XML/XML.md",
@@ -318,7 +319,6 @@
     "Tech notes/Web Dev Terminology/API/OpenAPI.md",
     "Tech notes/Web Dev Terminology/API/GraphQL vs REST.md",
     "Tech notes/Web Dev Terminology/API/API vs Connector vs Integration.md",
-    "Tech notes/Web Dev Terminology/API/API.md",
     "Tech notes/Technical Terms/Transactions",
     "Tech notes/Databases/Relational Databases/Keys",
     "Tech notes/Databases/Relational Databases",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-02-04",
+      "path": "Dailies/2025-02-04.md"
+    },
+    {
       "basename": "2025-01-30",
       "path": "Dailies/2025-01-30.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Awesome Lists",
       "path": "Tech notes/Useful GitHub Repos/Awesome Lists.md"
-    },
-    {
-      "basename": "Markdown link checker",
-      "path": "Tech notes/Useful GitHub Repos/Actions/Markdown link checker.md"
     }
   ],
   "omittedPaths": [],
