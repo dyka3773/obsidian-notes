@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-02-04.md",
+                "file": "Tech notes/Java/JavaEE/Frameworks/JSF/JSF.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-04"
+              "title": "JSF"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech notes/Docker.md",
+                "file": "Tech notes/Java/JavaEE/Frameworks/JSF/JSF.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Docker"
+              "title": "Outgoing links from JSF"
             }
           },
           {
@@ -217,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "29a106e995e55d1a",
@@ -239,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-02-04.md",
+                "file": "Tech notes/Java/JavaEE/Frameworks/JSF/JSF.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -267,7 +267,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-02-04"
+              "title": "Graph of JSF"
             }
           }
         ],
@@ -293,8 +293,11 @@
   },
   "active": "2e414827d56e9922",
   "lastOpenFiles": [
-    "Dailies/2025-01-30.md",
+    "Tech notes/Java/JavaEE/Frameworks/JSF/JSF.md",
+    "Tech notes/Java/JavaEE/Frameworks",
     "Dailies/2025-02-04.md",
+    "Tech notes/Java/JavaEE/Frameworks/JSF",
+    "Dailies/2025-01-30.md",
     "Dailies/2025-01-21.md",
     "Tech notes/Java/Java.md",
     "empty files.md",
@@ -317,8 +320,6 @@
     "Tech notes/Web Dev Terminology/Microservices/Microservices.md",
     "Tech notes/Web Dev Terminology/API/SOAP vs REST.md",
     "Tech notes/Web Dev Terminology/API/OpenAPI.md",
-    "Tech notes/Web Dev Terminology/API/GraphQL vs REST.md",
-    "Tech notes/Web Dev Terminology/API/API vs Connector vs Integration.md",
     "Tech notes/Technical Terms/Transactions",
     "Tech notes/Databases/Relational Databases/Keys",
     "Tech notes/Databases/Relational Databases",
@@ -326,8 +327,6 @@
     "Tech notes/JavaScript/jQuery",
     "Tech notes/Front-End Technologies/CSS",
     "Tech notes/Data Formats",
-    "Tech notes/Web Dev Terminology",
-    "Tech notes/JavaScript/NodeJS",
-    "Tech notes/JavaScript"
+    "Tech notes/Web Dev Terminology"
   ]
 }

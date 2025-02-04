@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "JSF",
+      "path": "Tech notes/Java/JavaEE/Frameworks/JSF/JSF.md"
+    },
+    {
       "basename": "2025-02-04",
       "path": "Dailies/2025-02-04.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Funny GitHub Repos",
       "path": "Tech notes/Useful GitHub Repos/Funny GitHub Repos.md"
-    },
-    {
-      "basename": "Awesome Lists",
-      "path": "Tech notes/Useful GitHub Repos/Awesome Lists.md"
     }
   ],
   "omittedPaths": [],
