@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Misc Tools",
+      "path": "Tech notes/General Tools/Misc Tools/Misc Tools.md"
+    },
+    {
+      "basename": "Figma",
+      "path": "Tech notes/General Tools/Misc Tools/Figma.md"
+    },
+    {
+      "basename": "General Tools",
+      "path": "Tech notes/General Tools/General Tools.md"
+    },
+    {
+      "basename": "DBMS Tools",
+      "path": "Tech notes/General Tools/DBMS Tools/DBMS Tools.md"
+    },
+    {
+      "basename": "IDEs and Editors",
+      "path": "Tech notes/General Tools/IDEs and Editors/IDEs and Editors.md"
+    },
+    {
       "basename": "JSF",
       "path": "Tech notes/Java/JavaEE/Frameworks/JSF/JSF.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Extensions for DBMSs",
       "path": "Tech notes/VS Code/Extensions/Extensions for DBMSs.md"
-    },
-    {
-      "basename": "Data MarkUp or Markdown Extensions",
-      "path": "Tech notes/VS Code/Extensions/Data MarkUp or Markdown Extensions.md"
-    },
-    {
-      "basename": "Useful GitHub Repos",
-      "path": "Tech notes/Useful GitHub Repos/Useful GitHub Repos.md"
-    },
-    {
-      "basename": "Useful GitHub Actions",
-      "path": "Tech notes/Useful GitHub Repos/Useful GitHub Actions.md"
-    },
-    {
-      "basename": "Interesting GitHub Repos",
-      "path": "Tech notes/Useful GitHub Repos/Interesting GitHub Repos.md"
-    },
-    {
-      "basename": "Funny GitHub Repos",
-      "path": "Tech notes/Useful GitHub Repos/Funny GitHub Repos.md"
     }
   ],
   "omittedPaths": [],

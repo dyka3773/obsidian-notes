@@ -2,9 +2,15 @@
 tags:
   - tech
   - lists
+  - tools
 ---
 Uncategorized tools that I use are:
-- [[draw.io]]
-- [[Figma]]
-- [[Postman]]
-- [[Trello]]
+```dataview
+LIST
+FROM #tools and ! #lists
+WHERE file.folder=this.file.folder
+```
+
+
+
+
