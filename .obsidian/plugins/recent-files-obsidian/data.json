@@ -1,36 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-02-05",
-      "path": "Dailies/2025-02-05.md"
+      "basename": "General Tools",
+      "path": "Tech notes/General Tools/General Tools.md"
     },
     {
       "basename": "Misc Tools",
       "path": "Tech notes/General Tools/Misc Tools/Misc Tools.md"
     },
     {
-      "basename": "Figma",
-      "path": "Tech notes/General Tools/Misc Tools/Figma.md"
+      "basename": "IDEs and Editors",
+      "path": "Tech notes/General Tools/IDEs and Editors/IDEs and Editors.md"
     },
     {
-      "basename": "General Tools",
-      "path": "Tech notes/General Tools/General Tools.md"
+      "basename": "MySQL Workbench",
+      "path": "Tech notes/General Tools/DBMS Tools/MySQL Workbench.md"
     },
     {
       "basename": "DBMS Tools",
       "path": "Tech notes/General Tools/DBMS Tools/DBMS Tools.md"
     },
     {
-      "basename": "IDEs and Editors",
-      "path": "Tech notes/General Tools/IDEs and Editors/IDEs and Editors.md"
+      "basename": "Figma",
+      "path": "Tech notes/General Tools/Misc Tools/Figma.md"
     },
     {
-      "basename": "JSF",
-      "path": "Tech notes/Java/JavaEE/Frameworks/JSF/JSF.md"
+      "basename": "2025-02-05",
+      "path": "Dailies/2025-02-05.md"
     },
     {
       "basename": "2025-02-04",
       "path": "Dailies/2025-02-04.md"
+    },
+    {
+      "basename": "JSF",
+      "path": "Tech notes/Java/JavaEE/Frameworks/JSF/JSF.md"
     },
     {
       "basename": "2025-01-30",
@@ -195,10 +199,6 @@
     {
       "basename": "Extensions for Specific Languages",
       "path": "Tech notes/VS Code/Extensions/Extensions for Specific Languages.md"
-    },
-    {
-      "basename": "Extensions for Git",
-      "path": "Tech notes/VS Code/Extensions/Extensions for Git.md"
     }
   ],
   "omittedPaths": [],

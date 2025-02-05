@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e414827d56e9922",
+            "id": "615638d99724f20b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech notes/General Tools/Misc Tools/Misc Tools.md",
+                "file": "Tech notes/General Tools/General Tools.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,46 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Misc Tools"
-            }
-          },
-          {
-            "id": "6fdefacbf49ca057",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dailies/2025-02-05.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-02-05"
-            }
-          },
-          {
-            "id": "8865c2e030f17a81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech notes/General Tools/Misc Tools/Figma.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Figma"
+              "title": "General Tools"
             }
           },
           {
@@ -100,8 +61,7 @@
               "title": "Unlinked Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dailies/2025-02-05.md",
+                "file": "Tech notes/General Tools/General Tools.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-02-05"
+              "title": "Outgoing links from General Tools"
             }
           },
           {
@@ -267,7 +227,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "29a106e995e55d1a",
@@ -289,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-02-05.md",
+                "file": "Tech notes/General Tools/General Tools.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -317,7 +277,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-02-05"
+              "title": "Graph of General Tools"
             }
           }
         ],
@@ -341,17 +301,18 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "6fdefacbf49ca057",
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
-    "Dailies/2025-02-05.md",
-    "Tech notes/General Tools/Misc Tools/Figma.md",
     "Tech notes/General Tools/Misc Tools/Misc Tools.md",
-    "Tech notes/General Tools/General Tools.md",
-    "Tech notes/General Tools/DBMS Tools/DBMS Tools.md",
     "Tech notes/General Tools/IDEs and Editors/IDEs and Editors.md",
+    "Tech notes/General Tools/DBMS Tools/MySQL Workbench.md",
+    "Tech notes/General Tools/DBMS Tools/DBMS Tools.md",
+    "Tech notes/General Tools/General Tools.md",
+    "Tech notes/General Tools/Misc Tools/Figma.md",
+    "Dailies/2025-02-05.md",
+    "Dailies/2025-02-04.md",
     "Tech notes/Java/JavaEE/Frameworks/JSF/JSF.md",
     "Tech notes/Java/JavaEE/Frameworks",
-    "Dailies/2025-02-04.md",
     "Tech notes/Java/JavaEE/Frameworks/JSF",
     "Dailies/2025-01-30.md",
     "Dailies/2025-01-21.md",
@@ -370,7 +331,6 @@
     "Tech notes/Web Dev Terminology/JWT.md",
     "Tech notes/Web Dev Terminology/Webservices/XML Signature.md",
     "Tech notes/Web Dev Terminology/Webservices/XML Encryption.md",
-    "Tech notes/Web Dev Terminology/Webservices/WS-Security.md",
     "Tech notes/Technical Terms/Transactions",
     "Tech notes/Databases/Relational Databases/Keys",
     "Tech notes/Databases/Relational Databases",
