@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-02-05",
+      "path": "Dailies/2025-02-05.md"
+    },
+    {
       "basename": "Misc Tools",
       "path": "Tech notes/General Tools/Misc Tools/Misc Tools.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Extensions for Git",
       "path": "Tech notes/VS Code/Extensions/Extensions for Git.md"
-    },
-    {
-      "basename": "Extensions for DBMSs",
-      "path": "Tech notes/VS Code/Extensions/Extensions for DBMSs.md"
     }
   ],
   "omittedPaths": [],
