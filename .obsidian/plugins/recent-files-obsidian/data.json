@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "General Tools",
-      "path": "Tech notes/General Tools/General Tools.md"
+      "basename": "Jenkins",
+      "path": "Tech notes/General Tools/Misc Tools/Jenkins.md"
+    },
+    {
+      "basename": "Figma",
+      "path": "Tech notes/General Tools/Misc Tools/Figma.md"
     },
     {
       "basename": "Misc Tools",
       "path": "Tech notes/General Tools/Misc Tools/Misc Tools.md"
+    },
+    {
+      "basename": "General Tools",
+      "path": "Tech notes/General Tools/General Tools.md"
+    },
+    {
+      "basename": "Postman",
+      "path": "Tech notes/General Tools/Misc Tools/Postman.md"
+    },
+    {
+      "basename": "2025-02-05",
+      "path": "Dailies/2025-02-05.md"
     },
     {
       "basename": "IDEs and Editors",
@@ -19,14 +35,6 @@
     {
       "basename": "DBMS Tools",
       "path": "Tech notes/General Tools/DBMS Tools/DBMS Tools.md"
-    },
-    {
-      "basename": "Figma",
-      "path": "Tech notes/General Tools/Misc Tools/Figma.md"
-    },
-    {
-      "basename": "2025-02-05",
-      "path": "Dailies/2025-02-05.md"
     },
     {
       "basename": "2025-02-04",
@@ -191,14 +199,6 @@
     {
       "basename": "MySQL Extensions",
       "path": "Tech notes/VS Code/Extensions/MySQL Extensions.md"
-    },
-    {
-      "basename": "Misc Extensions",
-      "path": "Tech notes/VS Code/Extensions/Misc Extensions.md"
-    },
-    {
-      "basename": "Extensions for Specific Languages",
-      "path": "Tech notes/VS Code/Extensions/Extensions for Specific Languages.md"
     }
   ],
   "omittedPaths": [],

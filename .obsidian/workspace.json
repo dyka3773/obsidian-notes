@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech notes/General Tools/General Tools.md",
+                "file": "Tech notes/General Tools/Misc Tools/Jenkins.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "General Tools"
+              "title": "Jenkins"
             }
           },
           {
@@ -163,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech notes/General Tools/General Tools.md",
+                "file": "Tech notes/General Tools/Misc Tools/Jenkins.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from General Tools"
+              "title": "Outgoing links from Jenkins"
             }
           },
           {
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tech notes/General Tools/General Tools.md",
+                "file": "Tech notes/General Tools/Misc Tools/Jenkins.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,11 +277,10 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Tools"
+              "title": "Graph of Jenkins"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -303,13 +302,15 @@
   },
   "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
+    "Tech notes/General Tools/Misc Tools/Jenkins.md",
+    "Tech notes/General Tools/Misc Tools/Figma.md",
     "Tech notes/General Tools/Misc Tools/Misc Tools.md",
+    "Tech notes/General Tools/General Tools.md",
+    "Tech notes/General Tools/Misc Tools/Postman.md",
+    "Dailies/2025-02-05.md",
     "Tech notes/General Tools/IDEs and Editors/IDEs and Editors.md",
     "Tech notes/General Tools/DBMS Tools/MySQL Workbench.md",
     "Tech notes/General Tools/DBMS Tools/DBMS Tools.md",
-    "Tech notes/General Tools/General Tools.md",
-    "Tech notes/General Tools/Misc Tools/Figma.md",
-    "Dailies/2025-02-05.md",
     "Dailies/2025-02-04.md",
     "Tech notes/Java/JavaEE/Frameworks/JSF/JSF.md",
     "Tech notes/Java/JavaEE/Frameworks",
@@ -329,8 +330,6 @@
     "templates/Tag homepage template.md",
     "templates/Daily note template.md",
     "Tech notes/Web Dev Terminology/JWT.md",
-    "Tech notes/Web Dev Terminology/Webservices/XML Signature.md",
-    "Tech notes/Web Dev Terminology/Webservices/XML Encryption.md",
     "Tech notes/Technical Terms/Transactions",
     "Tech notes/Databases/Relational Databases/Keys",
     "Tech notes/Databases/Relational Databases",
