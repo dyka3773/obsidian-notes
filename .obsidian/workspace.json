@@ -172,11 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tech notes/Software Terminology/Networking/HTTP/HTTP.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from HTTP"
             }
           },
           {
@@ -200,12 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Tech notes/Software Terminology/Networking/HTTP/HTTP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of HTTP"
             }
           },
           {
@@ -239,7 +241,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "29a106e995e55d1a",
@@ -261,6 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Tech notes/Software Terminology/Networking/HTTP/HTTP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,7 +313,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of HTTP"
             }
           }
         ],
@@ -369,7 +372,7 @@
       }
     ]
   },
-  "active": "e3cb5ede3b94905c",
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
     "Tech notes/Software Terminology/Networking/HTTP/HTTP.md",
     "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/HTTP Methods.md",
