@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-02-11",
+      "path": "Dailies/2025-02-11.md"
+    },
+    {
       "basename": "Jenkins",
       "path": "Tech notes/General Tools/Misc Tools/Jenkins.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "NodeJS Extensions",
       "path": "Tech notes/VS Code/Extensions/NodeJS Extensions.md"
-    },
-    {
-      "basename": "MySQL Extensions",
-      "path": "Tech notes/VS Code/Extensions/MySQL Extensions.md"
     }
   ],
   "omittedPaths": [],

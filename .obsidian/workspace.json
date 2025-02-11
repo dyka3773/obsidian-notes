@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech notes/General Tools/Misc Tools/Jenkins.md",
+                "file": "Dailies/2025-02-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jenkins"
+              "title": "2025-02-11"
             }
           },
           {
@@ -300,9 +300,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "615638d99724f20b",
   "lastOpenFiles": [
     "Tech notes/General Tools/Misc Tools/Jenkins.md",
+    "Dailies/2025-02-11.md",
     "Tech notes/General Tools/Misc Tools/Figma.md",
     "Tech notes/General Tools/Misc Tools/Misc Tools.md",
     "Tech notes/General Tools/General Tools.md",
@@ -329,7 +330,6 @@
     "templates/Tech note template.md",
     "templates/Tag homepage template.md",
     "templates/Daily note template.md",
-    "Tech notes/Web Dev Terminology/JWT.md",
     "Tech notes/Technical Terms/Transactions",
     "Tech notes/Databases/Relational Databases/Keys",
     "Tech notes/Databases/Relational Databases",
