@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Daily-s",
-      "path": "Dailies/Daily-s.md"
-    },
-    {
-      "basename": "General TODO Notes",
-      "path": "General TODO Notes.md"
+      "basename": "Tech Notes",
+      "path": "Tech notes/Tech Notes.md"
     },
     {
       "basename": "Tech Notes TODO",
       "path": "Tech notes/Tech Notes TODO.md"
+    },
+    {
+      "basename": "Tag homepage template",
+      "path": "templates/Tag homepage template.md"
+    },
+    {
+      "basename": "Daily-s",
+      "path": "Dailies/Daily-s.md"
+    },
+    {
+      "basename": "2025-02-11",
+      "path": "Dailies/2025-02-11.md"
+    },
+    {
+      "basename": "General TODO Notes",
+      "path": "General TODO Notes.md"
     },
     {
       "basename": "General Tools",
@@ -25,20 +37,12 @@
       "path": "templates/TODO Notes template.md"
     },
     {
-      "basename": "Tech Notes",
-      "path": "Tech notes/Tech Notes.md"
-    },
-    {
       "basename": "empty files",
       "path": "empty files.md"
     },
     {
       "basename": "Unlinked Notes",
       "path": "Unlinked Notes.md"
-    },
-    {
-      "basename": "2025-02-11",
-      "path": "Dailies/2025-02-11.md"
     },
     {
       "basename": "Homepage",
@@ -111,10 +115,6 @@
     {
       "basename": "Tech note template",
       "path": "templates/Tech note template.md"
-    },
-    {
-      "basename": "Tag homepage template",
-      "path": "templates/Tag homepage template.md"
     },
     {
       "basename": "Daily note template",
@@ -195,10 +195,6 @@
     {
       "basename": "Web Development Extensions",
       "path": "Tech notes/VS Code/Extensions/Web Development Extensions.md"
-    },
-    {
-      "basename": "Python Extensions",
-      "path": "Tech notes/VS Code/Extensions/Python Extensions.md"
     }
   ],
   "omittedPaths": [],

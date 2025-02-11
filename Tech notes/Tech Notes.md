@@ -8,6 +8,16 @@ CALENDAR file.ctime
 FROM #tech 
 ```
 
+#### Things left TODO
+
+```dataview
+TASK
+FROM #tech  
+WHERE !completed AND !contains(file.path, "templates")
+GROUP BY file.link
+```
+
+
 ### Recently Modified Notes
 
 ```dataview
