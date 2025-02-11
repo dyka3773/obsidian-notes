@@ -52,7 +52,7 @@ Description: A list of popular/awesome videos games, add-ons, maps, etc. hosted 
 ## GitHub Cheat Sheet
 Link: [Here](https://github.com/tiimgreen/github-cheat-sheet)
 
-Description: A list of cool features of Git and GitHub.
+Description: A list of cool features of [[Git]] and GitHub.
 
 ## The Book of Secret Knowledge
 Link: [Here](https://github.com/trimstray/the-book-of-secret-knowledge)

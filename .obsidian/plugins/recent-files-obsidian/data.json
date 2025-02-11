@@ -1,200 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Tech Notes",
-      "path": "Tech notes/Tech Notes.md"
+      "basename": "HTTP",
+      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP.md"
+    },
+    {
+      "basename": "HTTP Methods",
+      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/HTTP Methods.md"
+    },
+    {
+      "basename": "PATCH",
+      "path": "PATCH.md"
+    },
+    {
+      "basename": "TRACE",
+      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/TRACE.md"
+    },
+    {
+      "basename": "OPTIONS",
+      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/OPTIONS.md"
+    },
+    {
+      "basename": "DELETE",
+      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/DELETE.md"
+    },
+    {
+      "basename": "PUT",
+      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/PUT.md"
+    },
+    {
+      "basename": "HEAD",
+      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/HEAD.md"
+    },
+    {
+      "basename": "POST",
+      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/POST.md"
+    },
+    {
+      "basename": "GET",
+      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/GET.md"
     },
     {
       "basename": "Tech Notes TODO",
       "path": "Tech notes/Tech Notes TODO.md"
     },
     {
-      "basename": "Tag homepage template",
-      "path": "templates/Tag homepage template.md"
+      "basename": "HTML",
+      "path": "Tech notes/Front-End Technologies/HTML.md"
     },
     {
-      "basename": "Daily-s",
-      "path": "Dailies/Daily-s.md"
-    },
-    {
-      "basename": "2025-02-11",
-      "path": "Dailies/2025-02-11.md"
-    },
-    {
-      "basename": "General TODO Notes",
-      "path": "General TODO Notes.md"
-    },
-    {
-      "basename": "General Tools",
-      "path": "Tech notes/General Tools/General Tools.md"
-    },
-    {
-      "basename": "2025-01-30",
-      "path": "Dailies/2025-01-30.md"
-    },
-    {
-      "basename": "TODO Notes template",
-      "path": "templates/TODO Notes template.md"
-    },
-    {
-      "basename": "empty files",
-      "path": "empty files.md"
-    },
-    {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.md"
-    },
-    {
-      "basename": "Jenkins",
-      "path": "Tech notes/General Tools/Misc Tools/Jenkins.md"
-    },
-    {
-      "basename": "Figma",
-      "path": "Tech notes/General Tools/Misc Tools/Figma.md"
+      "basename": "Git",
+      "path": "Tech notes/Git/Git.md"
     },
     {
       "basename": "Misc Tools",
       "path": "Tech notes/General Tools/Misc Tools/Misc Tools.md"
     },
     {
-      "basename": "Postman",
-      "path": "Tech notes/General Tools/Misc Tools/Postman.md"
+      "basename": "Jenkins",
+      "path": "Tech notes/General Tools/Misc Tools/Jenkins.md"
     },
     {
-      "basename": "2025-02-05",
-      "path": "Dailies/2025-02-05.md"
+      "basename": "Full Stack Development",
+      "path": "Tech notes/Software Terminology/Web Dev Terminology/General Terminology/Full Stack Development.md"
     },
     {
-      "basename": "IDEs and Editors",
-      "path": "Tech notes/General Tools/IDEs and Editors/IDEs and Editors.md"
+      "basename": "Frontend Development",
+      "path": "Tech notes/Software Terminology/Web Dev Terminology/General Terminology/Frontend Development.md"
     },
     {
-      "basename": "MySQL Workbench",
-      "path": "Tech notes/General Tools/DBMS Tools/MySQL Workbench.md"
+      "basename": "Backend Development",
+      "path": "Tech notes/Software Terminology/Web Dev Terminology/General Terminology/Backend Development.md"
     },
     {
-      "basename": "DBMS Tools",
-      "path": "Tech notes/General Tools/DBMS Tools/DBMS Tools.md"
+      "basename": "Cookie",
+      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Cookie.md"
     },
     {
-      "basename": "2025-02-04",
-      "path": "Dailies/2025-02-04.md"
+      "basename": "Cookie Wall",
+      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Cookie Wall.md"
+    },
+    {
+      "basename": "Zombie Cookie",
+      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Zombie Cookie.md"
+    },
+    {
+      "basename": "Supercookie",
+      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Supercookie.md"
+    },
+    {
+      "basename": "Same-site Cookie",
+      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Same-site Cookie.md"
+    },
+    {
+      "basename": "HTTP-only Cookie",
+      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/HTTP-only Cookie.md"
+    },
+    {
+      "basename": "Secure Cookie",
+      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Secure Cookie.md"
+    },
+    {
+      "basename": "Persistent Cookie",
+      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Persistent Cookie.md"
+    },
+    {
+      "basename": "Session Cookie",
+      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Session Cookie.md"
+    },
+    {
+      "basename": "Bootstrap",
+      "path": "Tech notes/Front-End Technologies/CSS/Bootstrap.md"
+    },
+    {
+      "basename": "API",
+      "path": "Tech notes/Software Terminology/Web Dev Terminology/API/API.md"
+    },
+    {
+      "basename": "Tech Notes",
+      "path": "Tech notes/Tech Notes.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "2025-02-11",
+      "path": "Dailies/2025-02-11.md"
+    },
+    {
+      "basename": "2025-01-27",
+      "path": "Dailies/2025-01-27.md"
+    },
+    {
+      "basename": "Quartz",
+      "path": "Tech notes/Java/Frameworks/Quartz/Quartz.md"
+    },
+    {
+      "basename": "Spring Boot",
+      "path": "Tech notes/Java/Frameworks/Spring/Spring Boot.md"
+    },
+    {
+      "basename": "Spring Annotations",
+      "path": "Tech notes/Java/Frameworks/Spring/Spring Annotations.md"
+    },
+    {
+      "basename": "Spring",
+      "path": "Tech notes/Java/Frameworks/Spring/Spring.md"
+    },
+    {
+      "basename": "Message Driven Beans",
+      "path": "Tech notes/Java/JavaEE/Message Driven Beans.md"
+    },
+    {
+      "basename": "JTA",
+      "path": "Tech notes/Java/JavaEE/JTA.md"
+    },
+    {
+      "basename": "JMS",
+      "path": "Tech notes/Java/JavaEE/JMS.md"
+    },
+    {
+      "basename": "JavaEE",
+      "path": "Tech notes/Java/JavaEE/JavaEE.md"
+    },
+    {
+      "basename": "EJB",
+      "path": "Tech notes/Java/JavaEE/EJB.md"
+    },
+    {
+      "basename": "@Transactional",
+      "path": "Tech notes/Java/JavaEE/@Transactional.md"
     },
     {
       "basename": "JSF",
       "path": "Tech notes/Java/JavaEE/Frameworks/JSF/JSF.md"
     },
     {
-      "basename": "2025-01-21",
-      "path": "Dailies/2025-01-21.md"
+      "basename": "JUnit",
+      "path": "Tech notes/Java/Libraries/JUnit.md"
     },
     {
-      "basename": "Java",
-      "path": "Tech notes/Java/Java.md"
+      "basename": "JNDI",
+      "path": "Tech notes/Java/Libraries/JNDI.md"
     },
     {
-      "basename": "Docker",
-      "path": "Tech notes/Docker.md"
+      "basename": "JAX-WS",
+      "path": "Tech notes/Java/Libraries/JAX-WS.md"
     },
     {
-      "basename": "WSDL",
-      "path": "Tech notes/Web Dev Terminology/API/SOAP/WSDL.md"
+      "basename": "JAX-RS",
+      "path": "Tech notes/Java/Libraries/JAX-RS.md"
     },
     {
-      "basename": "XML",
-      "path": "Tech notes/Data Formats/Data Representation Models/XML/XML.md"
+      "basename": "Apache CXF",
+      "path": "Tech notes/Java/Libraries/Apache CXF.md"
     },
     {
-      "basename": "Tech Tool template",
-      "path": "templates/Tech Tool template.md"
-    },
-    {
-      "basename": "Tech note template",
-      "path": "templates/Tech note template.md"
-    },
-    {
-      "basename": "Daily note template",
-      "path": "templates/Daily note template.md"
-    },
-    {
-      "basename": "JWT",
-      "path": "Tech notes/Web Dev Terminology/JWT.md"
-    },
-    {
-      "basename": "XML Signature",
-      "path": "Tech notes/Web Dev Terminology/Webservices/XML Signature.md"
-    },
-    {
-      "basename": "XML Encryption",
-      "path": "Tech notes/Web Dev Terminology/Webservices/XML Encryption.md"
-    },
-    {
-      "basename": "WS-Security",
-      "path": "Tech notes/Web Dev Terminology/Webservices/WS-Security.md"
-    },
-    {
-      "basename": "Web Services",
-      "path": "Tech notes/Web Dev Terminology/Webservices/Web Services.md"
-    },
-    {
-      "basename": "SAML",
-      "path": "Tech notes/Web Dev Terminology/Webservices/SAML.md"
-    },
-    {
-      "basename": "Microservices",
-      "path": "Tech notes/Web Dev Terminology/Microservices/Microservices.md"
-    },
-    {
-      "basename": "SOAP vs REST",
-      "path": "Tech notes/Web Dev Terminology/API/SOAP vs REST.md"
-    },
-    {
-      "basename": "OpenAPI",
-      "path": "Tech notes/Web Dev Terminology/API/OpenAPI.md"
-    },
-    {
-      "basename": "GraphQL vs REST",
-      "path": "Tech notes/Web Dev Terminology/API/GraphQL vs REST.md"
-    },
-    {
-      "basename": "API vs Connector vs Integration",
-      "path": "Tech notes/Web Dev Terminology/API/API vs Connector vs Integration.md"
-    },
-    {
-      "basename": "API",
-      "path": "Tech notes/Web Dev Terminology/API/API.md"
-    },
-    {
-      "basename": "SOAP",
-      "path": "Tech notes/Web Dev Terminology/API/SOAP/SOAP.md"
-    },
-    {
-      "basename": "REST",
-      "path": "Tech notes/Web Dev Terminology/API/REST/REST.md"
-    },
-    {
-      "basename": "GraphQL Queries",
-      "path": "Tech notes/Web Dev Terminology/API/GraphQL/GraphQL Queries.md"
-    },
-    {
-      "basename": "GraphQL",
-      "path": "Tech notes/Web Dev Terminology/API/GraphQL/GraphQL.md"
-    },
-    {
-      "basename": "Visual Studio Code",
-      "path": "Tech notes/VS Code/Visual Studio Code.md"
-    },
-    {
-      "basename": "Useful VS Code Extensions",
-      "path": "Tech notes/VS Code/Useful VS Code Extensions.md"
-    },
-    {
-      "basename": "Web Development Extensions",
-      "path": "Tech notes/VS Code/Extensions/Web Development Extensions.md"
+      "basename": "Classpath",
+      "path": "Tech notes/Java/Classpath.md"
     }
   ],
   "omittedPaths": [],

@@ -21,6 +21,10 @@
     {
       "folder": "Tech notes/General Tools",
       "template": "templates/Tech Tool template.md"
+    },
+    {
+      "folder": "Tech notes/**",
+      "template": "templates/Tech note template.md"
     }
   ],
   "enable_file_templates": false,

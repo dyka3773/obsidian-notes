@@ -1,6 +1,7 @@
 ---
 tags:
   - tech
+  - java
 aliases:
   - spring-boot
   - springboot

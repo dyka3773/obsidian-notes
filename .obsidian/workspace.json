@@ -8,7 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3cb5ede3b94905c",
+            "id": "e8566b32873201a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech notes/Software Terminology/Networking/HTTP/HTTP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "HTTP"
+            }
+          },
+          {
+            "id": "ebb5c99a3f1b9e5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,21 +50,6 @@
                   "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
-              },
-              "icon": "lucide-file",
-              "title": "Tech Notes"
-            }
-          },
-          {
-            "id": "ebb5c99a3f1b9e5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech notes/Tech Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
               },
               "icon": "lucide-file",
               "title": "Tech Notes"
@@ -93,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "markdown-link",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,12 +172,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech notes/Tech Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tech Notes"
+              "title": "Outgoing links"
             }
           },
           {
@@ -178,7 +186,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -190,10 +200,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech notes/Docker.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Docker"
+              "title": "Outline"
             }
           },
           {
@@ -227,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "29a106e995e55d1a",
@@ -249,9 +261,8 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tech notes/Tech Notes.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -261,7 +272,29 @@
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "colorGroups": [
+                    {
+                      "query": "tag:#tech  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14720594
+                      }
+                    },
+                    {
+                      "query": "tag:#daily ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7462994
+                      }
+                    },
+                    {
+                      "query": "tag:#homepage  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -272,12 +305,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224425,
+                  "scale": 0.7132754626224431,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Tech Notes"
+              "title": "Graph view"
             }
           }
         ],
@@ -301,43 +334,78 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
+  "floating": {
+    "id": "af9f86032b11c618",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d254b612f7a4714d",
+        "type": "window",
+        "children": [
+          {
+            "id": "55e8a9c33a56fdb0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e3cb5ede3b94905c",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1920,
+        "y": 194,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "e3cb5ede3b94905c",
   "lastOpenFiles": [
+    "Tech notes/Software Terminology/Networking/HTTP/HTTP.md",
+    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/HTTP Methods.md",
+    "PATCH.md",
+    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/TRACE.md",
+    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/OPTIONS.md",
+    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/CONNECT.md",
+    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/DELETE.md",
+    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/PUT.md",
+    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/HEAD.md",
+    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/POST.md",
+    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/GET.md",
+    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods",
     "Tech notes/Tech Notes TODO.md",
-    "templates/Tag homepage template.md",
-    "Tech notes/Tech Notes.md",
-    "Dailies/Daily-s.md",
-    "Dailies/2025-02-11.md",
-    "templates/Backlog of tasks Done.md",
-    "General TODO Notes.md",
-    "Tech notes/General Tools/General Tools.md",
-    "Dailies/2025-01-30.md",
-    "templates/TODO Notes template.md",
-    "empty files.md",
-    "Unlinked Notes.md",
-    "Homepage.md",
-    "Tech notes/General Tools/Misc Tools/Jenkins.md",
-    "Tech notes/General Tools/Misc Tools/Figma.md",
+    "Tech notes/Front-End Technologies/HTML.md",
+    "Tech notes/Git/Git.md",
+    "Tech notes/Git",
     "Tech notes/General Tools/Misc Tools/Misc Tools.md",
-    "Tech notes/General Tools/Misc Tools/Postman.md",
-    "Dailies/2025-02-05.md",
-    "Tech notes/General Tools/IDEs and Editors/IDEs and Editors.md",
-    "Tech notes/General Tools/DBMS Tools/MySQL Workbench.md",
-    "Tech notes/General Tools/DBMS Tools/DBMS Tools.md",
-    "Dailies/2025-02-04.md",
-    "Tech notes/Java/JavaEE/Frameworks/JSF/JSF.md",
+    "Tech notes/General Tools/Misc Tools/Jenkins.md",
+    "Tech notes/Software Terminology/Web Dev Terminology/General Terminology/Full Stack Development.md",
+    "Tech notes/Software Terminology/Web Dev Terminology/General Terminology/Frontend Development.md",
+    "Tech notes/Software Terminology/Web Dev Terminology/General Terminology/Backend Development.md",
+    "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Cookie.md",
+    "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Cookie Wall.md",
+    "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Zombie Cookie.md",
+    "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Supercookie.md",
+    "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Same-site Cookie.md",
+    "Tech notes/Software Terminology/Web Dev Terminology/Cookies/HTTP-only Cookie.md",
+    "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Secure Cookie.md",
+    "Tech notes/Software Terminology/Web Dev Terminology/Cookies",
+    "Tech notes/Software Terminology/Web Dev Terminology/General Terminology",
+    "Tech notes/Software Terminology",
     "Tech notes/Java/JavaEE/Frameworks",
     "Tech notes/Java/JavaEE/Frameworks/JSF",
-    "Dailies/2025-01-21.md",
-    "Tech notes/Java/Java.md",
-    "Tech notes/Docker.md",
-    "Tech notes/Technical Terms/Transactions",
+    "Tech notes/Software Terminology/Technical Terms/Transactions",
     "Tech notes/Databases/Relational Databases/Keys",
-    "Tech notes/Databases/Relational Databases",
-    "Tech notes/Databases",
-    "Tech notes/JavaScript/jQuery",
-    "Tech notes/Front-End Technologies/CSS",
-    "Tech notes/Data Formats",
-    "Tech notes/Web Dev Terminology"
+    "Tech notes/Databases/Relational Databases"
   ]
 }

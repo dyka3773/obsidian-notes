@@ -1,6 +1,7 @@
 ---
 tags:
   - tech
+  - java
 aliases:
   - Jakarta Enterprise Beans
   - Enterprise JavaBean

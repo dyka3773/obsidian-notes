@@ -7,7 +7,7 @@ A database [[Transactions|transaction]] symbolizes a unit of work, performed wit
 A transaction generally represents any change in a database.
 [[Transactions]] in a database environment have two main purposes:
 1. To provide reliable units of work that allow correct recovery from failures and keep a database consistent even in cases of system failure.
-2. To provide [[isolation]] between programs accessing a database concurrently. If this [[isolation]] is not provided, the programs' outcomes are possibly erroneous.
+2. To provide [[Isolation]] between programs accessing a database concurrently. If this [[Isolation]] is not provided, the programs' outcomes are possibly erroneous.
 In a database management system, a transaction is a single unit of logic or work, sometimes made up of multiple operations. 
 Any logical calculation done in a consistent mode in a database is known as a transaction. 
 One example is a transfer from one bank account to another: the complete transaction requires subtracting the amount to be transferred from one account and adding that same amount to the other.

@@ -2,7 +2,7 @@
 tags:
   - tech
 ---
-Bootstrap (formerly Twitter Bootstrap) is a free and open-source [[CSS]] framework directed at responsive, mobile-first front-end web development. It contains [[HTML]], [[CSS]] and (optionally) [[JavaScript]]-based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other interface components.
+Bootstrap (formerly Twitter Bootstrap) is a free and open-source [[CSS]] framework directed at responsive, mobile-first [[Frontend Development|front-end]] web development. It contains [[HTML]], [[CSS]] and (optionally) [[JavaScript]]-based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other interface components.
 
 ## Where to Get Bootstrap 5?
 

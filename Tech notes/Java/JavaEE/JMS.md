@@ -1,6 +1,7 @@
 ---
 tags:
   - tech
+  - java
 aliases:
   - Jakarta Messaging API
   - Java Message Service

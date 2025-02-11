@@ -1,6 +1,7 @@
 ---
 tags:
   - tech
+  - java
 ---
 JAX-RS is nothing more than a specification, a set of interfaces and annotations offered by [[JavaEE|Java EE]].
 Most (if not all) of the stuff that you need is already implemented by your web server.

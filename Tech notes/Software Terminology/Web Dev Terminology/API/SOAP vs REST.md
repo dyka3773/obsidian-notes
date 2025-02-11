@@ -12,7 +12,7 @@ tags:
 |                                                          Usually for S2S communication                                                           |                                         Can be used for C2S communication                                         |
 |                                                 Has security features (signing, encryption, etc)                                                 |                                                                                                                   |
 | When it comes to exception handling, [[Web Services]] can describe the exact set of possible faults that can occur, so that clients are prepared |                                               No predefined faults                                                |
-|                                                                                                                                                  | Working with URL resources, using existing [[HTTP methods]] to perform operations on them (usually just [[CRUD]]) |
+|                                                                                                                                                  | Working with URL resources, using existing [[HTTP Methods]] to perform operations on them (usually just [[CRUD]]) |
 
 ## Tooling
 

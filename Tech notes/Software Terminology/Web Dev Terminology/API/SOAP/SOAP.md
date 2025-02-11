@@ -12,7 +12,7 @@ It uses [[WSDL]] and [[XSD]] to send [[XML]] messages.
 
 ## Top-Down & Bottom-Up
 
-There are two ways of building SOAP [[web services]]. We can go with a top-down approach or a bottom-up approach.
+There are two ways of building SOAP [[Web Services]]. We can go with a top-down approach or a bottom-up approach.
 
 In a top-down (contract-first) approach, a [[WSDL]] document is created, and the necessary [[metaclasses]] are generated from the [[WSDL]]. In a bottom-up (contract-last) approach, the [[metaclasses]] are written, and the [[WSDL]] is generated from them.
 

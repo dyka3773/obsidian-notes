@@ -17,13 +17,13 @@ A resource can be any object that can be accessed by the client, such as a docum
 RESTful [[Web Services]] are built to work best on the web using the [[HTTP]] protocol.
 They can be used by virtually any programming language and are easy to test and debug.
 
-The REST architectural style takes advantage of the [[HTTP]] protocol by using the [[HTTP methods]] to perform operations on resources.
+The REST architectural style takes advantage of the [[HTTP]] protocol by using the [[HTTP Methods]] to perform operations on resources.
 The most common operations are:
-- GET: Retrieve a resource
-- POST: Create a new resource
-- PUT: Update a resource
-- DELETE: Remove a resource
-- PATCH: Update a resource partially
+- [[GET]]: Retrieve a resource
+- [[POST]]: Create a new resource
+- [[PUT]]: Update a resource
+- [[DELETE]]: Remove a resource
+- [[PATCH]]: Update a resource partially
 
 Usually, RESTful APIs return data in [[JSON]] or (less frequent) [[XML]] format.
 
