@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily-s",
+      "path": "Dailies/Daily-s.md"
+    },
+    {
+      "basename": "General TODO Notes",
+      "path": "General TODO Notes.md"
+    },
+    {
       "basename": "Tech Notes TODO",
       "path": "Tech notes/Tech Notes TODO.md"
+    },
+    {
+      "basename": "General Tools",
+      "path": "Tech notes/General Tools/General Tools.md"
+    },
+    {
+      "basename": "2025-01-30",
+      "path": "Dailies/2025-01-30.md"
+    },
+    {
+      "basename": "TODO Notes template",
+      "path": "templates/TODO Notes template.md"
     },
     {
       "basename": "Tech Notes",
@@ -37,10 +57,6 @@
       "path": "Tech notes/General Tools/Misc Tools/Misc Tools.md"
     },
     {
-      "basename": "General Tools",
-      "path": "Tech notes/General Tools/General Tools.md"
-    },
-    {
       "basename": "Postman",
       "path": "Tech notes/General Tools/Misc Tools/Postman.md"
     },
@@ -67,10 +83,6 @@
     {
       "basename": "JSF",
       "path": "Tech notes/Java/JavaEE/Frameworks/JSF/JSF.md"
-    },
-    {
-      "basename": "2025-01-30",
-      "path": "Dailies/2025-01-30.md"
     },
     {
       "basename": "2025-01-21",
@@ -187,18 +199,6 @@
     {
       "basename": "Python Extensions",
       "path": "Tech notes/VS Code/Extensions/Python Extensions.md"
-    },
-    {
-      "basename": "Powershell Extensions",
-      "path": "Tech notes/VS Code/Extensions/Powershell Extensions.md"
-    },
-    {
-      "basename": "Other DBMS Extensions",
-      "path": "Tech notes/VS Code/Extensions/Other DBMS Extensions.md"
-    },
-    {
-      "basename": "Oracle Extensions",
-      "path": "Tech notes/VS Code/Extensions/Oracle Extensions.md"
     }
   ],
   "omittedPaths": [],

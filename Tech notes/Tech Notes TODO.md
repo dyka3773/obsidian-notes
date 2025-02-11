@@ -5,7 +5,7 @@ tags:
 ---
 
 - [ ] [[Camunda]]
-- [ ] 
+
 ## Unlinked mentions in each file
 
 > See also [[Unlinked Notes]] for all possible unlinked notes and different ways to view them.
