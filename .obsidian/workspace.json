@@ -263,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tech notes/Software Terminology/Networking/HTTP/HTTP.md",
+                "file": "Dailies/2025-02-11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,7 +313,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of HTTP"
+              "title": "Graph of 2025-02-11"
             }
           }
         ],
@@ -353,10 +353,24 @@
                 "id": "e3cb5ede3b94905c",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dailies/2025-02-11.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-02-11"
                 }
               }
             ]
@@ -365,14 +379,14 @@
         "direction": "vertical",
         "x": -1920,
         "y": 194,
-        "width": 960,
-        "height": 1040,
+        "width": 768,
+        "height": 832,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "e3cb5ede3b94905c",
   "lastOpenFiles": [
     "Tech notes/Software Terminology/Networking/HTTP/HTTP.md",
     "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/HTTP Methods.md",
