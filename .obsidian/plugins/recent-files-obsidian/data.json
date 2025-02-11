@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Tech Notes TODO",
+      "path": "Tech notes/Tech Notes TODO.md"
+    },
+    {
+      "basename": "Tech Notes",
+      "path": "Tech notes/Tech Notes.md"
+    },
+    {
+      "basename": "empty files",
+      "path": "empty files.md"
+    },
+    {
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
+    },
+    {
       "basename": "2025-02-11",
       "path": "Dailies/2025-02-11.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
     },
     {
       "basename": "Jenkins",
@@ -61,16 +81,8 @@
       "path": "Tech notes/Java/Java.md"
     },
     {
-      "basename": "empty files",
-      "path": "empty files.md"
-    },
-    {
       "basename": "Docker",
       "path": "Tech notes/Docker.md"
-    },
-    {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
     },
     {
       "basename": "WSDL",
@@ -79,14 +91,6 @@
     {
       "basename": "XML",
       "path": "Tech notes/Data Formats/Data Representation Models/XML/XML.md"
-    },
-    {
-      "basename": "Tech Notes",
-      "path": "Tech notes/Tech Notes.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.md"
     },
     {
       "basename": "Tech Tool template",
@@ -195,10 +199,6 @@
     {
       "basename": "Oracle Extensions",
       "path": "Tech notes/VS Code/Extensions/Oracle Extensions.md"
-    },
-    {
-      "basename": "NodeJS Extensions",
-      "path": "Tech notes/VS Code/Extensions/NodeJS Extensions.md"
     }
   ],
   "omittedPaths": [],

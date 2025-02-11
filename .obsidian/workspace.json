@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "615638d99724f20b",
+            "id": "e3cb5ede3b94905c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-02-11.md",
+                "file": "Tech notes/Tech Notes TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-11"
+              "title": "Tech Notes TODO"
             }
           },
           {
@@ -300,10 +300,15 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "615638d99724f20b",
+  "active": "e3cb5ede3b94905c",
   "lastOpenFiles": [
-    "Tech notes/General Tools/Misc Tools/Jenkins.md",
+    "Tech notes/Tech Notes.md",
+    "empty files.md",
+    "Tech notes/Tech Notes TODO.md",
+    "Unlinked Notes.md",
     "Dailies/2025-02-11.md",
+    "Homepage.md",
+    "Tech notes/General Tools/Misc Tools/Jenkins.md",
     "Tech notes/General Tools/Misc Tools/Figma.md",
     "Tech notes/General Tools/Misc Tools/Misc Tools.md",
     "Tech notes/General Tools/General Tools.md",
@@ -319,17 +324,12 @@
     "Dailies/2025-01-30.md",
     "Dailies/2025-01-21.md",
     "Tech notes/Java/Java.md",
-    "empty files.md",
     "Tech notes/Docker.md",
-    "Unlinked Notes.md",
     "Tech notes/Web Dev Terminology/API/SOAP/WSDL.md",
     "Tech notes/Data Formats/Data Representation Models/XML/XML.md",
-    "Tech notes/Tech Notes.md",
-    "Homepage.md",
     "templates/Tech Tool template.md",
     "templates/Tech note template.md",
     "templates/Tag homepage template.md",
-    "templates/Daily note template.md",
     "Tech notes/Technical Terms/Transactions",
     "Tech notes/Databases/Relational Databases/Keys",
     "Tech notes/Databases/Relational Databases",
