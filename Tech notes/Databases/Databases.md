@@ -16,7 +16,7 @@ Some of the most common types of databases include [[relational databases]], [[N
 [[Relational databases]] are the most common type of database.
 They store data in tables, which are made up of rows and columns.
 Each row in a table represents a single record, and each column represents a single field.
-[[Relational databases]] use a structured query language ([[SQL]]) to interact with the data.
+[[Relational databases]] use a [[SQL|structured query language]] ([[SQL]]) to interact with the data.
 
 Some popular [[relational databases]] include:
 - [[MySQL]]

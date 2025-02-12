@@ -19,4 +19,6 @@ HTTP is the foundation of data communication for the World Wide Web, where [[HTM
 - HTTP/3 is a revision of previous HTTP/2 in order to use [[QUIC]] + [[UDP]] transport protocols instead of [[TCP]].
 > Before that version, [[TCP]]/[[IP]] connections were used; but now, only the [[IP]] layer is used (which [[UDP]], like [[TCP]], builds on). This slightly improves the average speed of communications and to avoid the occasional problem of [[TCP]] connection congestion that can temporarily block or slow down the data flow of all its streams.
 
-See also [[HTTP Methods]].
+## Features
+- [[HTTP Methods]]
+- [[HTTP Status Codes]]

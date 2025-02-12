@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8566b32873201a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech notes/Software Terminology/Networking/HTTP/HTTP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "HTTP"
-            }
-          },
-          {
             "id": "ebb5c99a3f1b9e5e",
             "type": "leaf",
             "state": {
@@ -47,8 +23,8 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
@@ -56,15 +32,24 @@
             }
           },
           {
-            "id": "6f3956320a437031",
+            "id": "3b093614431806c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Unlinked Notes.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Unlinked Notes"
@@ -172,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech notes/Software Terminology/Networking/HTTP/HTTP.md",
+                "file": "Tech notes/Tech Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HTTP"
+              "title": "Outgoing links from Tech Notes"
             }
           },
           {
@@ -263,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-02-11.md",
+                "file": "Tech notes/Tech Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,12 +293,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224431,
+                  "scale": 0.7132754626224435,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-02-11"
+              "title": "Graph of Tech Notes"
             }
           }
         ],
@@ -353,24 +338,10 @@
                 "id": "e3cb5ede3b94905c",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dailies/2025-02-11.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-02-11"
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               }
             ]
@@ -379,50 +350,50 @@
         "direction": "vertical",
         "x": -1920,
         "y": 194,
-        "width": 768,
-        "height": 832,
-        "maximize": false,
+        "width": 960,
+        "height": 1040,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "e3cb5ede3b94905c",
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
-    "Tech notes/Software Terminology/Networking/HTTP/HTTP.md",
-    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/HTTP Methods.md",
-    "PATCH.md",
-    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/TRACE.md",
-    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/OPTIONS.md",
-    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/CONNECT.md",
-    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/DELETE.md",
-    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/PUT.md",
-    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/HEAD.md",
-    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/POST.md",
-    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/GET.md",
-    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods",
+    "Tech notes/Docker",
     "Tech notes/Tech Notes TODO.md",
-    "Tech notes/Front-End Technologies/HTML.md",
-    "Tech notes/Git/Git.md",
+    "Unlinked Notes.md",
+    "Homepage.md",
+    "General TODO Notes.md",
+    "empty files.md",
+    "Tech notes/Tech Notes.md",
+    "Dailies/2025-02-11.md",
+    "Tech notes/Software Terminology/Networking/SSL.md",
+    "Tech notes/Databases/SQL.md",
+    "Tech notes/Software Terminology/QA Terminology/Testing Types/Software Testing Types.md",
+    "Tech notes/Software Terminology/QA Terminology/Testing Types/Performance Testing.md",
+    "Tech notes/Software Terminology/QA Terminology/Testing Types/Specification-based Testing.md",
+    "Tech notes/Software Terminology/QA Terminology/Testing Types/Black-box Testing.md",
+    "Tech notes/Software Terminology/QA Terminology/Testing Types/White-box Testing.md",
+    "Tech notes/Software Terminology/QA Terminology/Testing Types/Code Coverage.md",
+    "Tech notes/Software Terminology/QA Terminology/Testing Types",
+    "Tech notes/Software Terminology/QA Terminology/Test Environments/Test Environment.md",
+    "Tech notes/Software Terminology/QA Terminology/Test Environments/Production environment.md",
+    "Tech notes/Software Terminology/QA Terminology/Test Environments/Staging environment.md",
+    "Tech notes/Software Terminology/QA Terminology/Test Environments/Testing environment.md",
+    "Tech notes/Software Terminology/QA Terminology/Test Environments/Development environment.md",
+    "Tech notes/Software Terminology/QA Terminology/Test Environments",
+    "Tech notes/Software Terminology/QA Terminology",
+    "Tech notes/Software Terminology/DevOps Terminology",
+    "Tech notes/Software Terminology/Web Dev Terminology/Minification.md",
+    "Tech notes/Software Terminology/Networking/HTTP/HTTP.md",
+    "Tech notes/Software Terminology/Networking/HTTP/HTTP Status Codes.md",
+    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/HTTP Methods.md",
+    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/PATCH.md",
+    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods",
     "Tech notes/Git",
-    "Tech notes/General Tools/Misc Tools/Misc Tools.md",
-    "Tech notes/General Tools/Misc Tools/Jenkins.md",
-    "Tech notes/Software Terminology/Web Dev Terminology/General Terminology/Full Stack Development.md",
-    "Tech notes/Software Terminology/Web Dev Terminology/General Terminology/Frontend Development.md",
-    "Tech notes/Software Terminology/Web Dev Terminology/General Terminology/Backend Development.md",
-    "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Cookie.md",
-    "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Cookie Wall.md",
-    "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Zombie Cookie.md",
-    "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Supercookie.md",
-    "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Same-site Cookie.md",
-    "Tech notes/Software Terminology/Web Dev Terminology/Cookies/HTTP-only Cookie.md",
-    "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Secure Cookie.md",
     "Tech notes/Software Terminology/Web Dev Terminology/Cookies",
     "Tech notes/Software Terminology/Web Dev Terminology/General Terminology",
     "Tech notes/Software Terminology",
-    "Tech notes/Java/JavaEE/Frameworks",
-    "Tech notes/Java/JavaEE/Frameworks/JSF",
-    "Tech notes/Software Terminology/Technical Terms/Transactions",
-    "Tech notes/Databases/Relational Databases/Keys",
-    "Tech notes/Databases/Relational Databases"
+    "Tech notes/Java/JavaEE/Frameworks"
   ]
 }

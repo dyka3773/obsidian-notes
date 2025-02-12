@@ -3,7 +3,7 @@ tags:
   - todo
 ---
 
-## Tech notes
+## [[Tech notes]]
 ```dataview
 TASK
 FROM #todo 

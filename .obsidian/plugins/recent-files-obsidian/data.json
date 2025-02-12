@@ -1,12 +1,96 @@
 {
   "recentFiles": [
     {
+      "basename": "Tech Notes",
+      "path": "Tech notes/Tech Notes.md"
+    },
+    {
+      "basename": "Tech Notes TODO",
+      "path": "Tech notes/Tech Notes TODO.md"
+    },
+    {
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "General TODO Notes",
+      "path": "General TODO Notes.md"
+    },
+    {
+      "basename": "empty files",
+      "path": "empty files.md"
+    },
+    {
       "basename": "2025-02-11",
       "path": "Dailies/2025-02-11.md"
     },
     {
+      "basename": "SSL",
+      "path": "Tech notes/Software Terminology/Networking/SSL.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "Tech notes/Databases/SQL.md"
+    },
+    {
+      "basename": "Software Testing Types",
+      "path": "Tech notes/Software Terminology/QA Terminology/Testing Types/Software Testing Types.md"
+    },
+    {
+      "basename": "Performance Testing",
+      "path": "Tech notes/Software Terminology/QA Terminology/Testing Types/Performance Testing.md"
+    },
+    {
+      "basename": "Specification-based Testing",
+      "path": "Tech notes/Software Terminology/QA Terminology/Testing Types/Specification-based Testing.md"
+    },
+    {
+      "basename": "Black-box Testing",
+      "path": "Tech notes/Software Terminology/QA Terminology/Testing Types/Black-box Testing.md"
+    },
+    {
+      "basename": "White-box Testing",
+      "path": "Tech notes/Software Terminology/QA Terminology/Testing Types/White-box Testing.md"
+    },
+    {
+      "basename": "Code Coverage",
+      "path": "Tech notes/Software Terminology/QA Terminology/Testing Types/Code Coverage.md"
+    },
+    {
+      "basename": "Test Environment",
+      "path": "Tech notes/Software Terminology/QA Terminology/Test Environments/Test Environment.md"
+    },
+    {
+      "basename": "Production environment",
+      "path": "Tech notes/Software Terminology/QA Terminology/Test Environments/Production environment.md"
+    },
+    {
+      "basename": "Staging environment",
+      "path": "Tech notes/Software Terminology/QA Terminology/Test Environments/Staging environment.md"
+    },
+    {
+      "basename": "Testing environment",
+      "path": "Tech notes/Software Terminology/QA Terminology/Test Environments/Testing environment.md"
+    },
+    {
+      "basename": "Development environment",
+      "path": "Tech notes/Software Terminology/QA Terminology/Test Environments/Development environment.md"
+    },
+    {
+      "basename": "Minification",
+      "path": "Tech notes/Software Terminology/Web Dev Terminology/Minification.md"
+    },
+    {
       "basename": "HTTP",
       "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP.md"
+    },
+    {
+      "basename": "HTTP Status Codes",
+      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Status Codes.md"
     },
     {
       "basename": "HTTP Methods",
@@ -14,7 +98,7 @@
     },
     {
       "basename": "PATCH",
-      "path": "PATCH.md"
+      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/PATCH.md"
     },
     {
       "basename": "TRACE",
@@ -43,10 +127,6 @@
     {
       "basename": "GET",
       "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/GET.md"
-    },
-    {
-      "basename": "Tech Notes TODO",
-      "path": "Tech notes/Tech Notes TODO.md"
     },
     {
       "basename": "HTML",
@@ -119,86 +199,6 @@
     {
       "basename": "API",
       "path": "Tech notes/Software Terminology/Web Dev Terminology/API/API.md"
-    },
-    {
-      "basename": "Tech Notes",
-      "path": "Tech notes/Tech Notes.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.md"
-    },
-    {
-      "basename": "2025-01-27",
-      "path": "Dailies/2025-01-27.md"
-    },
-    {
-      "basename": "Quartz",
-      "path": "Tech notes/Java/Frameworks/Quartz/Quartz.md"
-    },
-    {
-      "basename": "Spring Boot",
-      "path": "Tech notes/Java/Frameworks/Spring/Spring Boot.md"
-    },
-    {
-      "basename": "Spring Annotations",
-      "path": "Tech notes/Java/Frameworks/Spring/Spring Annotations.md"
-    },
-    {
-      "basename": "Spring",
-      "path": "Tech notes/Java/Frameworks/Spring/Spring.md"
-    },
-    {
-      "basename": "Message Driven Beans",
-      "path": "Tech notes/Java/JavaEE/Message Driven Beans.md"
-    },
-    {
-      "basename": "JTA",
-      "path": "Tech notes/Java/JavaEE/JTA.md"
-    },
-    {
-      "basename": "JMS",
-      "path": "Tech notes/Java/JavaEE/JMS.md"
-    },
-    {
-      "basename": "JavaEE",
-      "path": "Tech notes/Java/JavaEE/JavaEE.md"
-    },
-    {
-      "basename": "EJB",
-      "path": "Tech notes/Java/JavaEE/EJB.md"
-    },
-    {
-      "basename": "@Transactional",
-      "path": "Tech notes/Java/JavaEE/@Transactional.md"
-    },
-    {
-      "basename": "JSF",
-      "path": "Tech notes/Java/JavaEE/Frameworks/JSF/JSF.md"
-    },
-    {
-      "basename": "JUnit",
-      "path": "Tech notes/Java/Libraries/JUnit.md"
-    },
-    {
-      "basename": "JNDI",
-      "path": "Tech notes/Java/Libraries/JNDI.md"
-    },
-    {
-      "basename": "JAX-WS",
-      "path": "Tech notes/Java/Libraries/JAX-WS.md"
-    },
-    {
-      "basename": "JAX-RS",
-      "path": "Tech notes/Java/Libraries/JAX-RS.md"
-    },
-    {
-      "basename": "Apache CXF",
-      "path": "Tech notes/Java/Libraries/Apache CXF.md"
-    },
-    {
-      "basename": "Classpath",
-      "path": "Tech notes/Java/Classpath.md"
     }
   ],
   "omittedPaths": [],

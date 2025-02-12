@@ -15,9 +15,9 @@ Create, read, update, and delete (CRUD) are the four basic operations (actions) 
 # Use Cases
 ## [[Databases]]
 The acronym CRUD refers to the major operations which are implemented by [[databases]].
-Each letter in the acronym can be mapped to a standard Structured Query Language ([[SQL]]) statement.
+Each letter in the acronym can be mapped to a standard [[SQL|Structured Query Language]] ([[SQL]]) statement.
 
-|  CRUD  |  SQL   |
+|  CRUD  |  [[SQL]]   |
 | :----: | :----: |
 | Create | INSERT |
 |  Read  | SELECT |
