@@ -5,6 +5,14 @@
       "path": "Tech notes/Java/Java.md"
     },
     {
+      "basename": "Python Exception Chaining",
+      "path": "Tech notes/Python/Exceptions/Python Exception Chaining.md"
+    },
+    {
+      "basename": "Advanced Exception Handling",
+      "path": "Tech notes/Python/Exceptions/Advanced Exception Handling.md"
+    },
+    {
       "basename": "Java Platform",
       "path": "Tech notes/Java/Java Platform.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "HTML",
       "path": "Tech notes/Front-End Technologies/HTML.md"
-    },
-    {
-      "basename": "Git",
-      "path": "Tech notes/Git/Git.md"
     }
   ],
   "omittedPaths": [],

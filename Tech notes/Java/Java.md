@@ -18,7 +18,17 @@ In addition, several languages have been designed to run natively on the [[JVM]]
 
 ## Common Features added to the language through the years
 
-| Version | Feature(s)                                   |
-| :-----: | :------------------------------------------- |
-|   17    | - [[pattern matching for switch statements]] |
-|   16    | - [[Record Classes]]<br>-                    |
+| **Version** | **Feature(s)**                                                                                                                  |
+|:-----------:|:------------------------------------------------------------------------------------------------------------------------------- |
+|     17      | - [[Sealed Classes]]                                                                                                            |
+|     16      | - [[Pattern Matching for instanceof]]<br>- [[Record Classes]]                                                                   |
+|     15      | - [[Text Blocks]]                                                                                                               |
+|     14      | - [[Switch expressions]]                                                                                                        |
+|     10      | - [[Local Variable Type Inference]]                                                                                             |
+|      9      | - [[JShell]]<br>- [[Jigsaw Module System]]                                                                                      |
+|      8      | - [[Lambda Expressions]]<br>- [[Streams API]]                                                                                   |
+|      5      | - [[Generics]]<br>- [[Autoboxing & Unboxing]]<br>- [[Static Import]]<br>- [[Varargs]]<br>- [[Enumerators]]<br>- [[Annotations]] |
+|      4      | - [[Java Exception Chaining\|Exception Chaining]]                                                                               |
+|      2      | - [[Collections]]                                                                                                               |
+|     1.1     | - [[Inner Classes]]<br>- [[reflection]]<br>- [[JavaBean\|Java Beans]]<br>- [[JDBC]]                                             |
+See also [this article](https://www.marcobehler.com/guides/a-guide-to-java-versions-and-features#_practical_information)

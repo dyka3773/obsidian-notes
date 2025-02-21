@@ -6,5 +6,5 @@ tags:
 ---
 
 - [[Exception Groups]]
-- [[Exception Chaining]]
+- [[Python Exception Chaining|Exception Chaining]]
 - [[Exception Notes]]

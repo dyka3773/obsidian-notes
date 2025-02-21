@@ -406,10 +406,12 @@
       }
     ]
   },
-  "active": "679f68c6cf0f8625",
+  "active": "196bd427a4ce4442",
   "lastOpenFiles": [
-    "pattern matching for switch statements.md",
+    "Tech notes/Python/Exceptions/Python Exception Chaining.md",
+    "Tech notes/Python/Exceptions/Advanced Exception Handling.md",
     "Tech notes/Java/Java.md",
+    "pattern matching for switch statements.md",
     "Tech notes/Java/Java Platform.md",
     "Tech notes/Java/JVM.md",
     "Tech notes/Java/Java Class Library.md",
@@ -433,8 +435,6 @@
     "Tech notes/Tech Notes TODO.md",
     "General TODO Notes.md",
     "Tech notes/Software Terminology/Networking/SSL.md",
-    "Tech notes/Databases/SQL.md",
-    "Tech notes/Software Terminology/QA Terminology/Testing Types/Software Testing Types.md",
     "Tech notes/Software Terminology/QA Terminology/Testing Types",
     "Tech notes/Software Terminology/QA Terminology/Test Environments",
     "Tech notes/Software Terminology/QA Terminology",
