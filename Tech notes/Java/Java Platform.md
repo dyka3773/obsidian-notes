@@ -28,4 +28,3 @@ The success of [[Java]] and its write once, run anywhere concept has led to othe
 [[.NET]] was built from the ground-up to support multiple programming languages, while the Java platform was initially built to support only the [[Java]] language, although many other languages have been made for [[JVM]] since.
 Like [[Java]], [[.NET]] languages compile to byte code and are executed by the Common Language Runtime (CLR), which is similar in purpose to the [[JVM]].
 Like the [[JVM]], the CLR provides memory management through automatic garbage collection, and allows [[.NET]] byte code to run on multiple operating systems.
-

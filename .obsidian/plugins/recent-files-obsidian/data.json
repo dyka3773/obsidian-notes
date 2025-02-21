@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "List of JVM languages",
+      "path": "Tech notes/Java/List of JVM languages.md"
+    },
+    {
+      "basename": "Java Platform",
+      "path": "Tech notes/Java/Java Platform.md"
+    },
+    {
       "basename": "Java",
       "path": "Tech notes/Java/Java.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Advanced Exception Handling",
       "path": "Tech notes/Python/Exceptions/Advanced Exception Handling.md"
-    },
-    {
-      "basename": "Java Platform",
-      "path": "Tech notes/Java/Java Platform.md"
     },
     {
       "basename": "JVM",
@@ -195,10 +199,6 @@
     {
       "basename": "GET",
       "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/GET.md"
-    },
-    {
-      "basename": "HTML",
-      "path": "Tech notes/Front-End Technologies/HTML.md"
     }
   ],
   "omittedPaths": [],
