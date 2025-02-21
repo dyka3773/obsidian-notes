@@ -25,7 +25,7 @@ The most common operations are:
 - [[DELETE]]: Remove a resource
 - [[PATCH]]: Update a resource partially
 
-Usually, RESTful APIs return data in [[JSON]] or (less frequent) [[XML]] format.
+Usually, RESTful [[API|APIs]] return data in [[JSON]] or (less frequent) [[XML]] format.
 
-A downside of RESTful APIs is that they can be slow when the client needs to make multiple requests to different endpoints to get all the data it needs.
+A downside of RESTful [[API|APIs]] is that they can be slow when the client needs to make multiple requests to different endpoints to get all the data it needs.
 This is known as the "over-fetching" problem. (More on this [here](https://stackoverflow.com/a/44568365/15552149))

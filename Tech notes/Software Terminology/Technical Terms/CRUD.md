@@ -28,7 +28,7 @@ CRUD functionality can for example be implemented with [[document databases]], o
 
 Some big data systems do not implement UPDATE, but have only a timestamped INSERT ([[journaling]]), storing a completely new version of the object each time.
 
-## [[REST|RESTful]] APIs
+## [[REST|RESTful]] [[API|APIs]]
 The acronym CRUD also appears in the discussion of [[REST|RESTful APIs]].
 Each letter in the acronym may be mapped to an [[HTTP Methods|HTTP Method]]
 

@@ -20,5 +20,5 @@ Because a PWA is delivered in the form of a webpage or website built using commo
 - Can be installed on mobile home screen with custom icon (`manifest.json` setting)
 - Run on browser window and support an **app-like view** (no address bar/browser menus) (`manifest.json` setting)
 - Can access mobile device features
-- Can be accessed when offline (Through `service-workers`: intercepting requests and using cache api)
+- Can be accessed when offline (Through `service-workers`: intercepting requests and using cache [[api]])
 - Can receive web push notifications

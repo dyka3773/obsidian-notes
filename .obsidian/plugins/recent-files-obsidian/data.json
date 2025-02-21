@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Java Platform",
+      "path": "Tech notes/Java/Java Platform.md"
+    },
+    {
+      "basename": "JRE",
+      "path": "Tech notes/Java/JRE.md"
+    },
+    {
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
+    },
+    {
+      "basename": "JDK",
+      "path": "Tech notes/Java/JDK.md"
+    },
+    {
       "basename": "Java",
       "path": "Tech notes/Java/Java.md"
+    },
+    {
+      "basename": "Classpath",
+      "path": "Tech notes/Java/Classpath.md"
+    },
+    {
+      "basename": "JVM",
+      "path": "Tech notes/Java/JVM.md"
+    },
+    {
+      "basename": "Java SE",
+      "path": "Tech notes/Java/Java SE.md"
+    },
+    {
+      "basename": "API",
+      "path": "Tech notes/Software Terminology/Web Dev Terminology/API/API.md"
+    },
+    {
+      "basename": "XML",
+      "path": "Tech notes/Data Formats/Data Representation Models/XML/XML.md"
+    },
+    {
+      "basename": "JavaEE",
+      "path": "Tech notes/Java/JavaEE/JavaEE.md"
+    },
+    {
+      "basename": "Awesome Lists",
+      "path": "Tech notes/Useful GitHub Repos/Awesome Lists.md"
     },
     {
       "basename": "2025-02-21",
@@ -35,10 +79,6 @@
     {
       "basename": "Tech Notes TODO",
       "path": "Tech notes/Tech Notes TODO.md"
-    },
-    {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
     },
     {
       "basename": "General TODO Notes",
@@ -159,46 +199,6 @@
     {
       "basename": "Jenkins",
       "path": "Tech notes/General Tools/Misc Tools/Jenkins.md"
-    },
-    {
-      "basename": "Full Stack Development",
-      "path": "Tech notes/Software Terminology/Web Dev Terminology/General Terminology/Full Stack Development.md"
-    },
-    {
-      "basename": "Frontend Development",
-      "path": "Tech notes/Software Terminology/Web Dev Terminology/General Terminology/Frontend Development.md"
-    },
-    {
-      "basename": "Backend Development",
-      "path": "Tech notes/Software Terminology/Web Dev Terminology/General Terminology/Backend Development.md"
-    },
-    {
-      "basename": "Cookie",
-      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Cookie.md"
-    },
-    {
-      "basename": "Cookie Wall",
-      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Cookie Wall.md"
-    },
-    {
-      "basename": "Zombie Cookie",
-      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Zombie Cookie.md"
-    },
-    {
-      "basename": "Supercookie",
-      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Supercookie.md"
-    },
-    {
-      "basename": "Same-site Cookie",
-      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Same-site Cookie.md"
-    },
-    {
-      "basename": "HTTP-only Cookie",
-      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/HTTP-only Cookie.md"
-    },
-    {
-      "basename": "Secure Cookie",
-      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Secure Cookie.md"
     }
   ],
   "omittedPaths": [],

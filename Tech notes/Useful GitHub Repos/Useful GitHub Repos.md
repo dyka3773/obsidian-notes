@@ -42,7 +42,7 @@ Description: A tutorial to help first-time contributors to participate in a simp
 ## Public [[API]]s
 Link: [Here](https://github.com/bradtraversy/public-apis)
 
-Description: A collective list of free APIs for use in software and web development.
+Description: A collective list of free [[API|APIs]] for use in software and web development.
 
 ## Games on GitHub
 Link: [Here](https://github.com/leereilly/games)

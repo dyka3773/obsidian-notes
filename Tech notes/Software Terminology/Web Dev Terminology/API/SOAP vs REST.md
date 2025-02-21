@@ -19,7 +19,7 @@ tags:
 |                               [[SOAP]]                                |       [[REST]]       |
 | :-------------------------------------------------------------------: | :------------------: |
 | Debugging and testing webservices: [SOAP UI](https://www.soapui.org/) |     [[Postman]]      |
-|     Generating ws-clients: `wsdl2java`, `wsgen` (from oracle jdk)     | Advanced REST Client |
+|     Generating ws-clients: `wsdl2java`, `wsgen` (from oracle [[jdk]])     | Advanced REST Client |
 |                                                                       |     [[OpenAPI]]      |
 
 ## Authentication
