@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ebb5c99a3f1b9e5e",
+            "id": "87deb2f2c05e2d7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech notes/Tech Notes.md",
+                "file": "Tech notes/Java/Java.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tech Notes"
+              "title": "Java"
+            }
+          },
+          {
+            "id": "27ada9698e9caea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           },
           {
@@ -157,12 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech notes/Tech Notes.md",
+                "file": "Tech notes/Java/Java.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tech Notes"
+              "title": "Outgoing links from Java"
             }
           },
           {
@@ -248,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-02-21.md",
+                "file": "Tech notes/Java/Java.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +322,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-02-21"
+              "title": "Graph of Java"
             }
           }
         ],
@@ -338,24 +362,10 @@
                 "id": "e3cb5ede3b94905c",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dailies/2025-02-21.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-02-21"
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               }
             ]
@@ -371,17 +381,20 @@
       }
     ]
   },
-  "active": "e3cb5ede3b94905c",
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
     "Dailies/2025-02-21.md",
+    "empty files.md",
+    "Tech notes/Java/Java.md",
+    "templates/Daily note template.md",
+    "Dailies/2025-02-11.md",
+    "Homepage.md",
+    "Tech notes/General Tools/General Tools.md",
     "Tech notes/Tech Notes.md",
     "Tech notes/Docker",
     "Tech notes/Tech Notes TODO.md",
     "Unlinked Notes.md",
-    "Homepage.md",
     "General TODO Notes.md",
-    "empty files.md",
-    "Dailies/2025-02-11.md",
     "Tech notes/Software Terminology/Networking/SSL.md",
     "Tech notes/Databases/SQL.md",
     "Tech notes/Software Terminology/QA Terminology/Testing Types/Software Testing Types.md",
@@ -401,9 +414,6 @@
     "Tech notes/Software Terminology/DevOps Terminology",
     "Tech notes/Software Terminology/Web Dev Terminology/Minification.md",
     "Tech notes/Software Terminology/Networking/HTTP/HTTP.md",
-    "Tech notes/Software Terminology/Networking/HTTP/HTTP Status Codes.md",
-    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/HTTP Methods.md",
-    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/PATCH.md",
     "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods",
     "Tech notes/Git",
     "Tech notes/Software Terminology/Web Dev Terminology/Cookies",

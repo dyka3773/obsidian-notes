@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Java",
+      "path": "Tech notes/Java/Java.md"
+    },
+    {
       "basename": "2025-02-21",
       "path": "Dailies/2025-02-21.md"
+    },
+    {
+      "basename": "empty files",
+      "path": "empty files.md"
+    },
+    {
+      "basename": "Daily note template",
+      "path": "templates/Daily note template.md"
+    },
+    {
+      "basename": "2025-02-11",
+      "path": "Dailies/2025-02-11.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "General Tools",
+      "path": "Tech notes/General Tools/General Tools.md"
     },
     {
       "basename": "Tech Notes",
@@ -17,20 +41,8 @@
       "path": "Unlinked Notes.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Homepage.md"
-    },
-    {
       "basename": "General TODO Notes",
       "path": "General TODO Notes.md"
-    },
-    {
-      "basename": "empty files",
-      "path": "empty files.md"
-    },
-    {
-      "basename": "2025-02-11",
-      "path": "Dailies/2025-02-11.md"
     },
     {
       "basename": "SSL",
@@ -187,18 +199,6 @@
     {
       "basename": "Secure Cookie",
       "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Secure Cookie.md"
-    },
-    {
-      "basename": "Persistent Cookie",
-      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Persistent Cookie.md"
-    },
-    {
-      "basename": "Session Cookie",
-      "path": "Tech notes/Software Terminology/Web Dev Terminology/Cookies/Session Cookie.md"
-    },
-    {
-      "basename": "Bootstrap",
-      "path": "Tech notes/Front-End Technologies/CSS/Bootstrap.md"
     }
   ],
   "omittedPaths": [],

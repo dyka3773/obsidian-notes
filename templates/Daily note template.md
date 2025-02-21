@@ -5,5 +5,11 @@ tags:
 
 - [ ] 
 
+### Notes Created/Updated Today
+```dataview
+TABLE file.mtime as "Last Update", file.etags as "Tags"
+WHERE file.mday = this.file.cday
+SORT file.mtime DESC
+```
 
-See summary of daily notes in [[Daily-s]].
+See also a summary of daily notes in [[Daily-s]].
