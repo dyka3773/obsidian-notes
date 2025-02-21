@@ -248,7 +248,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tech notes/Tech Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +297,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Tech Notes"
+              "title": "Graph view"
             }
           }
         ],
@@ -357,15 +356,15 @@
       }
     ]
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "e3cb5ede3b94905c",
   "lastOpenFiles": [
+    "Tech notes/Tech Notes.md",
     "Tech notes/Docker",
     "Tech notes/Tech Notes TODO.md",
     "Unlinked Notes.md",
     "Homepage.md",
     "General TODO Notes.md",
     "empty files.md",
-    "Tech notes/Tech Notes.md",
     "Dailies/2025-02-11.md",
     "Tech notes/Software Terminology/Networking/SSL.md",
     "Tech notes/Databases/SQL.md",
@@ -393,7 +392,6 @@
     "Tech notes/Git",
     "Tech notes/Software Terminology/Web Dev Terminology/Cookies",
     "Tech notes/Software Terminology/Web Dev Terminology/General Terminology",
-    "Tech notes/Software Terminology",
-    "Tech notes/Java/JavaEE/Frameworks"
+    "Tech notes/Software Terminology"
   ]
 }

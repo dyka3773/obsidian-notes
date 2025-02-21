@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-02-21",
+      "path": "Dailies/2025-02-21.md"
+    },
+    {
       "basename": "Tech Notes",
       "path": "Tech notes/Tech Notes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Bootstrap",
       "path": "Tech notes/Front-End Technologies/CSS/Bootstrap.md"
-    },
-    {
-      "basename": "API",
-      "path": "Tech notes/Software Terminology/Web Dev Terminology/API/API.md"
     }
   ],
   "omittedPaths": [],
