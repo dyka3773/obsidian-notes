@@ -47,8 +47,8 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
@@ -103,7 +103,8 @@
               "title": "Unlinked Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech notes/Java/Java Platform.md",
+                "file": "Tech notes/Java/Java.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Java Platform"
+              "title": "Outgoing links from Java"
             }
           },
           {
@@ -274,7 +275,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "29a106e995e55d1a",
@@ -296,7 +297,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tech notes/Java/Java Platform.md",
+                "file": "Tech notes/Java/Java.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -341,12 +342,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3823010968769969,
+                  "scale": 0.3823010968769973,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Java Platform"
+              "title": "Graph of Java"
             }
           }
         ],
@@ -400,20 +401,22 @@
         "y": 194,
         "width": 960,
         "height": 1040,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "87deb2f2c05e2d7d",
+  "active": "679f68c6cf0f8625",
   "lastOpenFiles": [
-    "Tech notes/Java/JRE.md",
+    "pattern matching for switch statements.md",
+    "Tech notes/Java/Java.md",
     "Tech notes/Java/Java Platform.md",
+    "Tech notes/Java/JVM.md",
+    "Tech notes/Java/Java Class Library.md",
+    "Tech notes/Java/JRE.md",
     "Unlinked Notes.md",
     "Tech notes/Java/JDK.md",
-    "Tech notes/Java/Java.md",
     "Tech notes/Java/Classpath.md",
-    "Tech notes/Java/JVM.md",
     "Tech notes/Java/Java SE.md",
     "Tech notes/Software Terminology/Web Dev Terminology/API/API.md",
     "Tech notes/Data Formats/Data Representation Models/XML/XML.md",
@@ -432,8 +435,6 @@
     "Tech notes/Software Terminology/Networking/SSL.md",
     "Tech notes/Databases/SQL.md",
     "Tech notes/Software Terminology/QA Terminology/Testing Types/Software Testing Types.md",
-    "Tech notes/Software Terminology/QA Terminology/Testing Types/Performance Testing.md",
-    "Tech notes/Software Terminology/QA Terminology/Testing Types/Specification-based Testing.md",
     "Tech notes/Software Terminology/QA Terminology/Testing Types",
     "Tech notes/Software Terminology/QA Terminology/Test Environments",
     "Tech notes/Software Terminology/QA Terminology",

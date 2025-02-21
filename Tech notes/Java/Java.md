@@ -16,3 +16,9 @@ Writing in the Java programming language is the primary way to produce code that
 Bytecode compilers are also available for other languages, including [[Ada]], [[JavaScript]], [[Kotlin]] (Google's preferred Android language), [[Python]], and [[Ruby]].
 In addition, several languages have been designed to run natively on the [[JVM]], including [[Clojure]], [[Groovy]], and [[Scala]].
 
+## Common Features added to the language through the years
+
+| Version | Feature(s)                                   |
+| :-----: | :------------------------------------------- |
+|   17    | - [[pattern matching for switch statements]] |
+|   16    | - [[Record Classes]]<br>-                    |

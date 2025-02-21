@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Java",
+      "path": "Tech notes/Java/Java.md"
+    },
+    {
       "basename": "Java Platform",
       "path": "Tech notes/Java/Java Platform.md"
+    },
+    {
+      "basename": "JVM",
+      "path": "Tech notes/Java/JVM.md"
+    },
+    {
+      "basename": "Java Class Library",
+      "path": "Tech notes/Java/Java Class Library.md"
     },
     {
       "basename": "JRE",
@@ -17,16 +29,8 @@
       "path": "Tech notes/Java/JDK.md"
     },
     {
-      "basename": "Java",
-      "path": "Tech notes/Java/Java.md"
-    },
-    {
       "basename": "Classpath",
       "path": "Tech notes/Java/Classpath.md"
-    },
-    {
-      "basename": "JVM",
-      "path": "Tech notes/Java/JVM.md"
     },
     {
       "basename": "Java SE",
@@ -191,14 +195,6 @@
     {
       "basename": "Git",
       "path": "Tech notes/Git/Git.md"
-    },
-    {
-      "basename": "Misc Tools",
-      "path": "Tech notes/General Tools/Misc Tools/Misc Tools.md"
-    },
-    {
-      "basename": "Jenkins",
-      "path": "Tech notes/General Tools/Misc Tools/Jenkins.md"
     }
   ],
   "omittedPaths": [],
