@@ -8,7 +8,7 @@ tags:
 Apache Kafka is a distributed streaming platform.
 It is used for building real-time data pipelines and streaming apps.
 It is horizontally scalable, can support fault-tolerance.
-It uses a pub-sub messaging system like [[Message Queues]], but the messages are not popped out of the queue once consumed.
+It uses a pub-sub messaging system like [[Message Queue|Message Queues]], but the messages are not popped out of the queue once consumed.
 There is a retention period for the messages, after which they are deleted.
 There is the concept of consumer groups, where multiple consumers can consume messages from the same topic in parallel even if they are on the same machine.
 There is also the concept of partitions, where a topic can be divided into multiple partitions for fault-tolerance and parallelism.

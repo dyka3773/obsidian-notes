@@ -7,7 +7,7 @@ aliases:
 ---
 Message Driven Beans are business objects whose execution is triggered by messages instead of by method calls.
 The Message Driven Bean is used among others to provide a high level ease-of-use abstraction for the lower level [[JMS]] (Java Message Service) specification.
-It may subscribe to [[JMS]] message queues or message topics, which typically happens via the `activationConfig` attribute of the `@MessageDriven` annotation.
+It may subscribe to [[JMS]] [[Message Queue|message queues]] or message topics, which typically happens via the `activationConfig` attribute of the `@MessageDriven` annotation.
 They were added in [[EJB]] to allow event-driven processing. 
 
 Unlike session beans, an MDB does not have a client view (Local/Remote/No-interface), i.e. clients cannot look-up an MDB instance. 

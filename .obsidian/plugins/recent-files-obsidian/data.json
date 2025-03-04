@@ -1,36 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-03-04",
-      "path": "Dailies/2025-03-04.md"
+      "basename": "Message Queue",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Message Queue.md"
     },
     {
-      "basename": "Visual Studio Code",
-      "path": "Tech notes/VS Code/Visual Studio Code.md"
+      "basename": "Kafka",
+      "path": "Tech notes/General Frameworks/Kafka/Kafka.md"
     },
     {
-      "basename": "VS Code",
-      "path": "Tech notes/General Tools/IDEs and Editors/VS Code.md"
+      "basename": "Progressive Web Apps",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Progressive Web Apps.md"
     },
     {
-      "basename": "draw.io",
-      "path": "Tech notes/General Tools/Misc Tools/draw.io.md"
+      "basename": "Round-robin",
+      "path": "Tech notes/Terminology & Definitions/Computer Science Terminology/Algorithm Terminology/Round-robin.md"
     },
     {
-      "basename": "JVM",
-      "path": "Tech notes/Programming Languages/Java/JVM.md"
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
     },
     {
-      "basename": "empty files",
-      "path": "empty files.md"
+      "basename": "CDN",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/CDN.md"
+    },
+    {
+      "basename": "Timestamp",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Timestamp.md"
     },
     {
       "basename": "Homepage",
       "path": "Homepage.md"
     },
     {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
+      "basename": "JIT",
+      "path": "Tech notes/Terminology & Definitions/Computer Science Terminology/Compiler Terminology/JIT.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "Tech notes/Programming Languages/JavaScript/JavaScript.md"
+    },
+    {
+      "basename": "List of JVM languages",
+      "path": "Tech notes/Programming Languages/Java/List of JVM languages.md"
+    },
+    {
+      "basename": "JVM",
+      "path": "Tech notes/Programming Languages/Java/JVM.md"
+    },
+    {
+      "basename": "Visual Studio Code",
+      "path": "Tech notes/General Tools/IDEs and Editors/VS Code/Visual Studio Code.md"
+    },
+    {
+      "basename": "Useful VS Code Extensions",
+      "path": "Tech notes/General Tools/IDEs and Editors/VS Code/Useful VS Code Extensions.md"
+    },
+    {
+      "basename": "IDEs and Editors",
+      "path": "Tech notes/General Tools/IDEs and Editors/IDEs and Editors.md"
+    },
+    {
+      "basename": "General Tools",
+      "path": "Tech notes/General Tools/General Tools.md"
+    },
+    {
+      "basename": "2025-03-04",
+      "path": "Dailies/2025-03-04.md"
+    },
+    {
+      "basename": "draw.io",
+      "path": "Tech notes/General Tools/Misc Tools/draw.io.md"
+    },
+    {
+      "basename": "empty files",
+      "path": "empty files.md"
     },
     {
       "basename": "Java",
@@ -43,10 +87,6 @@
     {
       "basename": "Jython",
       "path": "Tech notes/Programming Languages/Jython.md"
-    },
-    {
-      "basename": "List of JVM languages",
-      "path": "Tech notes/Programming Languages/Java/List of JVM languages.md"
     },
     {
       "basename": "JDK",
@@ -82,7 +122,7 @@
     },
     {
       "basename": "API",
-      "path": "Tech notes/Software Terminology/Web Dev Terminology/API/API.md"
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/API/API.md"
     },
     {
       "basename": "XML",
@@ -105,10 +145,6 @@
       "path": "Dailies/2025-02-11.md"
     },
     {
-      "basename": "General Tools",
-      "path": "Tech notes/General Tools/General Tools.md"
-    },
-    {
       "basename": "Tech Notes",
       "path": "Tech notes/Tech Notes.md"
     },
@@ -122,7 +158,7 @@
     },
     {
       "basename": "SSL",
-      "path": "Tech notes/Software Terminology/Networking/SSL.md"
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Networking/SSL.md"
     },
     {
       "basename": "SQL",
@@ -130,75 +166,39 @@
     },
     {
       "basename": "Software Testing Types",
-      "path": "Tech notes/Software Terminology/QA Terminology/Testing Types/Software Testing Types.md"
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Software Testing Types.md"
     },
     {
       "basename": "Performance Testing",
-      "path": "Tech notes/Software Terminology/QA Terminology/Testing Types/Performance Testing.md"
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Performance Testing.md"
     },
     {
       "basename": "Specification-based Testing",
-      "path": "Tech notes/Software Terminology/QA Terminology/Testing Types/Specification-based Testing.md"
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Specification-based Testing.md"
     },
     {
       "basename": "Black-box Testing",
-      "path": "Tech notes/Software Terminology/QA Terminology/Testing Types/Black-box Testing.md"
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Black-box Testing.md"
     },
     {
       "basename": "White-box Testing",
-      "path": "Tech notes/Software Terminology/QA Terminology/Testing Types/White-box Testing.md"
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/White-box Testing.md"
     },
     {
       "basename": "Code Coverage",
-      "path": "Tech notes/Software Terminology/QA Terminology/Testing Types/Code Coverage.md"
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Code Coverage.md"
     },
     {
       "basename": "Test Environment",
-      "path": "Tech notes/Software Terminology/QA Terminology/Test Environments/Test Environment.md"
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Test Environments/Test Environment.md"
     },
     {
       "basename": "Production environment",
-      "path": "Tech notes/Software Terminology/QA Terminology/Test Environments/Production environment.md"
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Test Environments/Production environment.md"
     },
     {
       "basename": "Staging environment",
-      "path": "Tech notes/Software Terminology/QA Terminology/Test Environments/Staging environment.md"
-    },
-    {
-      "basename": "Testing environment",
-      "path": "Tech notes/Software Terminology/QA Terminology/Test Environments/Testing environment.md"
-    },
-    {
-      "basename": "Development environment",
-      "path": "Tech notes/Software Terminology/QA Terminology/Test Environments/Development environment.md"
-    },
-    {
-      "basename": "Minification",
-      "path": "Tech notes/Software Terminology/Web Dev Terminology/Minification.md"
-    },
-    {
-      "basename": "HTTP",
-      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP.md"
-    },
-    {
-      "basename": "HTTP Status Codes",
-      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Status Codes.md"
-    },
-    {
-      "basename": "HTTP Methods",
-      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/HTTP Methods.md"
-    },
-    {
-      "basename": "PATCH",
-      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/PATCH.md"
-    },
-    {
-      "basename": "TRACE",
-      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/TRACE.md"
-    },
-    {
-      "basename": "OPTIONS",
-      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/OPTIONS.md"
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Test Environments/Staging environment.md"
     }
   ],
   "omittedPaths": [],

@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "228d67babfd65f8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dailies/2025-03-04.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-04"
-            }
-          },
-          {
             "id": "27ada9698e9caea8",
             "type": "leaf",
             "state": {
@@ -78,8 +54,33 @@
               "icon": "lucide-file",
               "title": "Unlinked Notes"
             }
+          },
+          {
+            "id": "a004d48ab8a13cf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Message Queue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Message Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech notes/VS Code/Visual Studio Code.md",
+                "file": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Message Queue.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Visual Studio Code"
+              "title": "Outgoing links from Message Queue"
             }
           },
           {
@@ -250,7 +251,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "29a106e995e55d1a",
@@ -272,6 +273,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Message Queue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -316,12 +318,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.38230109687699737,
+                  "scale": 0.75143423222776,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Message Queue"
             }
           }
         ],
@@ -373,50 +375,50 @@
         "direction": "vertical",
         "x": -1920,
         "y": 194,
-        "width": 885,
-        "height": 832,
+        "width": 1105,
+        "height": 1040,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e3cb5ede3b94905c",
+  "active": "a004d48ab8a13cf4",
   "lastOpenFiles": [
-    "Tech notes/VS Code/Visual Studio Code.md",
-    "Tech notes/General Tools/IDEs and Editors/VS Code.md",
-    "Tech notes/General Tools/Misc Tools/draw.io.md",
-    "Tech notes/Programming Languages/Java/JVM.md",
-    "empty files.md",
-    "Homepage.md",
+    "Tech notes/General Frameworks/Kafka/Kafka.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Message Queue.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Progressive Web Apps.md",
+    "Tech notes/Terminology & Definitions/Computer Science Terminology/Algorithm Terminology/Round-robin.md",
     "Unlinked Notes.md",
+    "Tech notes/Terminology & Definitions/Computer Science Terminology/Algorithm Terminology",
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/CDN.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Timestamp.md",
+    "Homepage.md",
+    "Tech notes/Terminology & Definitions/Computer Science Terminology/Compiler Terminology/JIT.md",
+    "Tech notes/Programming Languages/JavaScript/JavaScript.md",
+    "Tech notes/Programming Languages/Java/List of JVM languages.md",
+    "Tech notes/Terminology & Definitions/Computer Science Terminology/Compiler Terminology",
+    "Tech notes/Terminology & Definitions/Computer Science Terminology",
+    "Tech notes/Terminology & Definitions/Software Terminology",
+    "Tech notes/Programming Languages/Java/JVM.md",
+    "Tech notes/General Tools/IDEs and Editors/VS Code/Visual Studio Code.md",
+    "Tech notes/General Tools/IDEs and Editors/VS Code/Useful VS Code Extensions.md",
+    "Tech notes/General Tools/IDEs and Editors/IDEs and Editors.md",
+    "Tech notes/General Tools/General Tools.md",
+    "Dailies/2025-03-04.md",
+    "Tech notes/General Tools/Misc Tools/draw.io.md",
+    "empty files.md",
     "Tech notes/Programming Languages/Java/Java.md",
     "Tech notes/Programming Languages/Java/Java Class Library.md",
-    "Dailies/2025-03-04.md",
     "Tech notes/Programming Languages/Jython.md",
     "Tech notes/Programming Languages",
-    "Tech notes/Programming Languages/Java/List of JVM languages.md",
     "Tech notes/Programming Languages/Java/JDK.md",
     "Dailies/2025-02-21.md",
     "Tech notes/Programming Languages/Java/Java Platform.md",
     "Tech notes/Programming Languages/Python/Exceptions/Python Exception Chaining.md",
-    "Tech notes/Programming Languages/Python/Exceptions/Advanced Exception Handling.md",
-    "pattern matching for switch statements.md",
-    "Tech notes/Programming Languages/Java/JRE.md",
-    "Tech notes/Programming Languages/Java/Classpath.md",
-    "Tech notes/Programming Languages/Java/Java SE.md",
-    "Tech notes/Software Terminology/Web Dev Terminology/API/API.md",
-    "Tech notes/Data Formats/Data Representation Models/XML/XML.md",
-    "Tech notes/Programming Languages/Java/JavaEE/JavaEE.md",
-    "Tech notes/Useful GitHub Repos/Awesome Lists.md",
-    "templates/Daily note template.md",
     "Tech notes/Docker",
-    "Tech notes/Software Terminology/QA Terminology/Testing Types",
-    "Tech notes/Software Terminology/QA Terminology/Test Environments",
-    "Tech notes/Software Terminology/QA Terminology",
-    "Tech notes/Software Terminology/DevOps Terminology",
-    "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods",
-    "Tech notes/Git",
-    "Tech notes/Software Terminology/Web Dev Terminology/Cookies",
-    "Tech notes/Software Terminology/Web Dev Terminology/General Terminology"
+    "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types",
+    "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Test Environments",
+    "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology",
+    "Tech notes/Terminology & Definitions/Software Terminology/DevOps Terminology"
   ]
 }

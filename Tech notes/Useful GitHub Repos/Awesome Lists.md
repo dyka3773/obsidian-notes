@@ -36,7 +36,7 @@ Description: A collection of awesome Open Source projects where you can contribu
 Link: [Here](https://github.com/sdras/awesome-actions)
 
 Description: A curated list of awesome [[Useful GitHub Actions|actions]] to use on GitHub
-### **Awesome [[VS Code]]**
+### **Awesome [[Visual Studio Code]]**
 Link: [Here](https://github.com/viatsko/awesome-vscode)
 
-Description: A curated list of delightful [[VS Code]] packages and resources.
+Description: A curated list of delightful [[Visual Studio Code]] packages and resources.

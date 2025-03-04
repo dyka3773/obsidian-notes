@@ -7,7 +7,7 @@ tags:
 The producers are the clients that send messages to the [[Kafka]] cluster.
 They can send messages to a specific topic or a partition of a topic.
 Where the message is sent depends on the partitioning strategy used and the key of the message which is optional.
-The partitioning strategy can be [[round-robin]] (no-key) or based on the key of the message (or any other custom strategy).
+The partitioning strategy can be [[Round-robin]] (no-key) or based on the key of the message (or any other custom strategy).
 An example configuration is something like this:
 ```properties
 bootstrap.servers=localhost:9092
