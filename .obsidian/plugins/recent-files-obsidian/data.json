@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "empty files",
+      "path": "empty files.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Homepage.md"
+    },
+    {
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
     },
     {
       "basename": "Java",
@@ -53,10 +61,6 @@
       "path": "Tech notes/Programming Languages/Java/JRE.md"
     },
     {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
-    },
-    {
       "basename": "Classpath",
       "path": "Tech notes/Programming Languages/Java/Classpath.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "Awesome Lists",
       "path": "Tech notes/Useful GitHub Repos/Awesome Lists.md"
-    },
-    {
-      "basename": "empty files",
-      "path": "empty files.md"
     },
     {
       "basename": "Daily note template",

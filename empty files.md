@@ -1,5 +1,4 @@
-- [[templates/TODO Notes template.md]]
 - [[templates/Tech note template.md]]
-- [[Java]]
-- [[Docker]]
+- [[templates/TODO Notes template.md]]
+- [[Tech notes/Docker/Docker.md]]
 - [[Tech notes/Data Formats/Data Representation Models/XML/XML.md]]
