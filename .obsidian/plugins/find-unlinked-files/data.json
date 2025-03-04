@@ -20,7 +20,9 @@
   "withoutTagsFilesToIgnore": [],
   "withoutTagsOutputFileName": "files without tags",
   "emptyFilesOutputFileName": "empty files",
-  "emptyFilesDirectories": [],
+  "emptyFilesDirectories": [
+    "templates/"
+  ],
   "emptyFilesFilesToIgnore": [],
   "emptyFilesIgnoreDirectories": true,
   "openOutputFile": true

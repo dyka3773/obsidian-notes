@@ -11,24 +11,14 @@
             "id": "228d67babfd65f8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "empty files.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": false
-                }
+                "aFile": "empty files.md",
+                "bFile": "empty files.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "empty files"
+              "icon": "diff",
+              "title": "Diff: empty files"
             }
           },
           {
@@ -181,12 +171,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "empty files.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from empty files"
+              "title": "Outgoing links"
             }
           },
           {
@@ -272,7 +261,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "empty files.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -322,7 +310,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of empty files"
+              "title": "Graph view"
             }
           }
         ],
