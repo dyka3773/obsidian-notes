@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-03-04",
+      "path": "Dailies/2025-03-04.md"
+    },
+    {
+      "basename": "Visual Studio Code",
+      "path": "Tech notes/VS Code/Visual Studio Code.md"
+    },
+    {
+      "basename": "VS Code",
+      "path": "Tech notes/General Tools/IDEs and Editors/VS Code.md"
+    },
+    {
+      "basename": "draw.io",
+      "path": "Tech notes/General Tools/Misc Tools/draw.io.md"
+    },
+    {
+      "basename": "JVM",
+      "path": "Tech notes/Programming Languages/Java/JVM.md"
+    },
+    {
       "basename": "empty files",
       "path": "empty files.md"
     },
@@ -19,14 +39,6 @@
     {
       "basename": "Java Class Library",
       "path": "Tech notes/Programming Languages/Java/Java Class Library.md"
-    },
-    {
-      "basename": "2025-03-04",
-      "path": "Dailies/2025-03-04.md"
-    },
-    {
-      "basename": "JVM",
-      "path": "Tech notes/Programming Languages/Java/JVM.md"
     },
     {
       "basename": "Jython",
@@ -187,18 +199,6 @@
     {
       "basename": "OPTIONS",
       "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/OPTIONS.md"
-    },
-    {
-      "basename": "DELETE",
-      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/DELETE.md"
-    },
-    {
-      "basename": "PUT",
-      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/PUT.md"
-    },
-    {
-      "basename": "HEAD",
-      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/HEAD.md"
     }
   ],
   "omittedPaths": [],

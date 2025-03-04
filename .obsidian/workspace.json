@@ -11,14 +11,24 @@
             "id": "228d67babfd65f8a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "empty files.md",
-                "bFile": "empty files.md",
-                "aRef": ""
+                "file": "Dailies/2025-03-04.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
+                }
               },
-              "icon": "diff",
-              "title": "Diff: empty files"
+              "icon": "lucide-file",
+              "title": "2025-03-04"
             }
           },
           {
@@ -171,11 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tech notes/VS Code/Visual Studio Code.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Visual Studio Code"
             }
           },
           {
@@ -362,22 +373,25 @@
         "direction": "vertical",
         "x": -1920,
         "y": 194,
-        "width": 1105,
-        "height": 1040,
+        "width": 885,
+        "height": 832,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "228d67babfd65f8a",
+  "active": "e3cb5ede3b94905c",
   "lastOpenFiles": [
+    "Tech notes/VS Code/Visual Studio Code.md",
+    "Tech notes/General Tools/IDEs and Editors/VS Code.md",
+    "Tech notes/General Tools/Misc Tools/draw.io.md",
+    "Tech notes/Programming Languages/Java/JVM.md",
     "empty files.md",
     "Homepage.md",
     "Unlinked Notes.md",
     "Tech notes/Programming Languages/Java/Java.md",
     "Tech notes/Programming Languages/Java/Java Class Library.md",
     "Dailies/2025-03-04.md",
-    "Tech notes/Programming Languages/Java/JVM.md",
     "Tech notes/Programming Languages/Jython.md",
     "Tech notes/Programming Languages",
     "Tech notes/Programming Languages/Java/List of JVM languages.md",
@@ -395,8 +409,6 @@
     "Tech notes/Programming Languages/Java/JavaEE/JavaEE.md",
     "Tech notes/Useful GitHub Repos/Awesome Lists.md",
     "templates/Daily note template.md",
-    "Dailies/2025-02-11.md",
-    "Tech notes/General Tools/General Tools.md",
     "Tech notes/Docker",
     "Tech notes/Software Terminology/QA Terminology/Testing Types",
     "Tech notes/Software Terminology/QA Terminology/Test Environments",
