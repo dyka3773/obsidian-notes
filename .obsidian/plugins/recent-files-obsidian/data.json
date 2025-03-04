@@ -1,56 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "Java",
+      "path": "Tech notes/Programming Languages/Java/Java.md"
+    },
+    {
+      "basename": "Java Class Library",
+      "path": "Tech notes/Programming Languages/Java/Java Class Library.md"
+    },
+    {
       "basename": "2025-03-04",
       "path": "Dailies/2025-03-04.md"
     },
     {
+      "basename": "JVM",
+      "path": "Tech notes/Programming Languages/Java/JVM.md"
+    },
+    {
+      "basename": "Jython",
+      "path": "Tech notes/Programming Languages/Jython.md"
+    },
+    {
       "basename": "List of JVM languages",
-      "path": "Tech notes/Java/List of JVM languages.md"
+      "path": "Tech notes/Programming Languages/Java/List of JVM languages.md"
+    },
+    {
+      "basename": "JDK",
+      "path": "Tech notes/Programming Languages/Java/JDK.md"
+    },
+    {
+      "basename": "2025-02-21",
+      "path": "Dailies/2025-02-21.md"
     },
     {
       "basename": "Java Platform",
-      "path": "Tech notes/Java/Java Platform.md"
-    },
-    {
-      "basename": "Java",
-      "path": "Tech notes/Java/Java.md"
+      "path": "Tech notes/Programming Languages/Java/Java Platform.md"
     },
     {
       "basename": "Python Exception Chaining",
-      "path": "Tech notes/Python/Exceptions/Python Exception Chaining.md"
+      "path": "Tech notes/Programming Languages/Python/Exceptions/Python Exception Chaining.md"
     },
     {
       "basename": "Advanced Exception Handling",
-      "path": "Tech notes/Python/Exceptions/Advanced Exception Handling.md"
-    },
-    {
-      "basename": "JVM",
-      "path": "Tech notes/Java/JVM.md"
-    },
-    {
-      "basename": "Java Class Library",
-      "path": "Tech notes/Java/Java Class Library.md"
+      "path": "Tech notes/Programming Languages/Python/Exceptions/Advanced Exception Handling.md"
     },
     {
       "basename": "JRE",
-      "path": "Tech notes/Java/JRE.md"
+      "path": "Tech notes/Programming Languages/Java/JRE.md"
     },
     {
       "basename": "Unlinked Notes",
       "path": "Unlinked Notes.md"
     },
     {
-      "basename": "JDK",
-      "path": "Tech notes/Java/JDK.md"
-    },
-    {
       "basename": "Classpath",
-      "path": "Tech notes/Java/Classpath.md"
+      "path": "Tech notes/Programming Languages/Java/Classpath.md"
     },
     {
       "basename": "Java SE",
-      "path": "Tech notes/Java/Java SE.md"
+      "path": "Tech notes/Programming Languages/Java/Java SE.md"
     },
     {
       "basename": "API",
@@ -62,15 +74,11 @@
     },
     {
       "basename": "JavaEE",
-      "path": "Tech notes/Java/JavaEE/JavaEE.md"
+      "path": "Tech notes/Programming Languages/Java/JavaEE/JavaEE.md"
     },
     {
       "basename": "Awesome Lists",
       "path": "Tech notes/Useful GitHub Repos/Awesome Lists.md"
-    },
-    {
-      "basename": "2025-02-21",
-      "path": "Dailies/2025-02-21.md"
     },
     {
       "basename": "empty files",
@@ -83,10 +91,6 @@
     {
       "basename": "2025-02-11",
       "path": "Dailies/2025-02-11.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.md"
     },
     {
       "basename": "General Tools",
@@ -195,10 +199,6 @@
     {
       "basename": "HEAD",
       "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/HEAD.md"
-    },
-    {
-      "basename": "POST",
-      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/POST.md"
     }
   ],
   "omittedPaths": [],
