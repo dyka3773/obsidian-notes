@@ -28,7 +28,7 @@ Another great strength about XML Schemas is that they are written in [[XML]].
 - You don't have to learn a new language
 - You can use your [[XML]] editor to edit your Schema files
 - You can use your [[XML]] parser to parse your Schema files
-- You can manipulate your Schema with the XML DOM
+- You can manipulate your Schema with the XML [[DOM]]
 - You can transform your Schema with XSLT
 
 XML Schemas are extensible, because they are written in [[XML]].

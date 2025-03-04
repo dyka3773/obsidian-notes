@@ -19,7 +19,7 @@ Design patterns may be viewed as a structured approach to computer programming i
 	- [[Builder]]
 	- [[Dependency Injection]]
 	- [[Factory method]]
-	- [[Lazy initialization]]
+	- [[Lazy initialization]] & [[Lazy Evaluation]]
 	- [[Singleton]]
 - Structural
 	- [[Decorator]]

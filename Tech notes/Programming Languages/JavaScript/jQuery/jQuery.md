@@ -7,9 +7,9 @@ jQuery also provides capabilities for developers to create plug-ins on top of th
 This enables developers to create abstractions for low-level interaction and animation, advanced effects and high-level, theme-able widgets. 
 The modular approach to the jQuery library allows the creation of powerful dynamic web pages and Web applications.
 
-jQuery, at its core, is a [[Document Object Model]] (DOM) manipulation library.
-The DOM is a tree-structure representation of all the elements of a Web page. 
-jQuery simplifies the syntax for finding, selecting, and manipulating these DOM elements. 
+jQuery, at its core, is a [[DOM|Document Object Model]] ([[DOM]]) manipulation library.
+The [[DOM]] is a tree-structure representation of all the elements of a Web page. 
+jQuery simplifies the syntax for finding, selecting, and manipulating these [[DOM]] elements. 
 For example, jQuery can be used for finding an element in the document with a certain property (e.g. all elements with the `h1` tag), changing one or more of its attributes (e.g. `color`, `visibility`), or making it respond to an event (e.g. a mouse click).
 
 The principles of developing with jQuery are:

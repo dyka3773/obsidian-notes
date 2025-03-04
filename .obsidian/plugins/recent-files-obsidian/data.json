@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Lazy initialization",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Lazy initialization.md"
+    },
+    {
+      "basename": "Design Patterns",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md"
+    },
+    {
+      "basename": "Lazy Evaluation",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Lazy Evaluation.md"
+    },
+    {
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
+    },
+    {
+      "basename": "Manipulating DOM Elements",
+      "path": "Tech notes/Programming Languages/JavaScript/jQuery/Manipulating DOM Elements.md"
+    },
+    {
+      "basename": "DOM",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/DOM.md"
+    },
+    {
+      "basename": "XSD",
+      "path": "Tech notes/Data Formats/Data Representation Models/XML/XSD.md"
+    },
+    {
+      "basename": "jQuery",
+      "path": "Tech notes/Programming Languages/JavaScript/jQuery/jQuery.md"
+    },
+    {
+      "basename": "Jenkins",
+      "path": "Tech notes/General Tools/Misc Tools/Jenkins.md"
+    },
+    {
+      "basename": "2025-03-04",
+      "path": "Dailies/2025-03-04.md"
+    },
+    {
+      "basename": "YAML",
+      "path": "Tech notes/Data Formats/Data Representation Models/YAML.md"
+    },
+    {
       "basename": "Message Queue",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Message Queue.md"
+    },
+    {
+      "basename": "Durability",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Transactions/Durability.md"
+    },
+    {
+      "basename": "CRUD",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/CRUD.md"
     },
     {
       "basename": "Kafka",
@@ -15,10 +67,6 @@
     {
       "basename": "Round-robin",
       "path": "Tech notes/Terminology & Definitions/Computer Science Terminology/Algorithm Terminology/Round-robin.md"
-    },
-    {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
     },
     {
       "basename": "CDN",
@@ -63,10 +111,6 @@
     {
       "basename": "General Tools",
       "path": "Tech notes/General Tools/General Tools.md"
-    },
-    {
-      "basename": "2025-03-04",
-      "path": "Dailies/2025-03-04.md"
     },
     {
       "basename": "draw.io",
@@ -155,50 +199,6 @@
     {
       "basename": "General TODO Notes",
       "path": "General TODO Notes.md"
-    },
-    {
-      "basename": "SSL",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Networking/SSL.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Tech notes/Databases/SQL.md"
-    },
-    {
-      "basename": "Software Testing Types",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Software Testing Types.md"
-    },
-    {
-      "basename": "Performance Testing",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Performance Testing.md"
-    },
-    {
-      "basename": "Specification-based Testing",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Specification-based Testing.md"
-    },
-    {
-      "basename": "Black-box Testing",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Black-box Testing.md"
-    },
-    {
-      "basename": "White-box Testing",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/White-box Testing.md"
-    },
-    {
-      "basename": "Code Coverage",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Code Coverage.md"
-    },
-    {
-      "basename": "Test Environment",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Test Environments/Test Environment.md"
-    },
-    {
-      "basename": "Production environment",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Test Environments/Production environment.md"
-    },
-    {
-      "basename": "Staging environment",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Test Environments/Staging environment.md"
     }
   ],
   "omittedPaths": [],

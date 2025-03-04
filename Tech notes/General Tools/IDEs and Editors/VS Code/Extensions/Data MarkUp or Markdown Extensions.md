@@ -6,12 +6,12 @@ tags:
 
 ## learn-yaml *(ID: docsmsft.docs-yaml)*
 
-- This extension is particularly useful for learning how to write YAML files.
-- It offers validation, hover help, and completion for YAML files.
+- This extension is particularly useful for learning how to write [[YAML]] files.
+- It offers validation, hover help, and completion for [[YAML]] files.
 
 ## [[YAML]] *(ID: redhat.vscode-yaml)*
 
-- This extension provides language support for YAML files.
+- This extension provides language support for [[YAML]] files.
 
 ## [[XML]] *(ID: redhat.vscode-xml)*
 
