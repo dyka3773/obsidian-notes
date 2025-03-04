@@ -297,7 +297,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tech notes/Java/List of JVM languages.md",
+                "file": "Dailies/2025-03-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -347,7 +347,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of List of JVM languages"
+              "title": "Graph of 2025-03-04"
             }
           }
         ],
@@ -392,8 +392,33 @@
                   "icon": "lucide-git-fork",
                   "title": "Graph view"
                 }
+              },
+              {
+                "id": "b74e201c204f937b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dailies/2025-03-04.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-03-04"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -406,8 +431,9 @@
       }
     ]
   },
-  "active": "679f68c6cf0f8625",
+  "active": "b74e201c204f937b",
   "lastOpenFiles": [
+    "Dailies/2025-03-04.md",
     "Tech notes/Java/Java Platform.md",
     "Tech notes/Java/List of JVM languages.md",
     "Tech notes/Java/Java.md",
@@ -434,7 +460,6 @@
     "Tech notes/Tech Notes.md",
     "Tech notes/Docker",
     "Tech notes/Tech Notes TODO.md",
-    "General TODO Notes.md",
     "Tech notes/Software Terminology/QA Terminology/Testing Types",
     "Tech notes/Software Terminology/QA Terminology/Test Environments",
     "Tech notes/Software Terminology/QA Terminology",

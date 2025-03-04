@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-03-04",
+      "path": "Dailies/2025-03-04.md"
+    },
+    {
       "basename": "List of JVM languages",
       "path": "Tech notes/Java/List of JVM languages.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "POST",
       "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/POST.md"
-    },
-    {
-      "basename": "GET",
-      "path": "Tech notes/Software Terminology/Networking/HTTP/HTTP Methods/GET.md"
     }
   ],
   "omittedPaths": [],
