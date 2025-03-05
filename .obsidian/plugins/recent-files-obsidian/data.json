@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-03-05",
-      "path": "Dailies/2025-03-05.md"
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Homepage.md"
+      "basename": "Scalability",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Scalability.md"
+    },
+    {
+      "basename": "QUIC vs TCP",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Networking/QUIC vs TCP.md"
+    },
+    {
+      "basename": "QUIC",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Networking/QUIC.md"
+    },
+    {
+      "basename": "HTTP Methods",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Networking/HTTP/HTTP Methods/HTTP Methods.md"
+    },
+    {
+      "basename": "CONNECT",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Networking/HTTP/HTTP Methods/CONNECT.md"
+    },
+    {
+      "basename": "POST",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Networking/HTTP/HTTP Methods/POST.md"
+    },
+    {
+      "basename": "Idempotence",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Idempotence.md"
+    },
+    {
+      "basename": "Consistency",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Transactions/Consistency.md"
+    },
+    {
+      "basename": "Tech Notes TODO",
+      "path": "Tech notes/Tech Notes TODO.md"
+    },
+    {
+      "basename": "MIME type",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/MIME type.md"
+    },
+    {
+      "basename": "2025-03-05",
+      "path": "Dailies/2025-03-05.md"
     },
     {
       "basename": "2025-03-04",
       "path": "Dailies/2025-03-04.md"
     },
     {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
+      "basename": "Homepage",
+      "path": "Homepage.md"
     },
     {
       "basename": "Design Patterns",
@@ -43,10 +83,6 @@
     {
       "basename": "General TODO Notes",
       "path": "General TODO Notes.md"
-    },
-    {
-      "basename": "Tech Notes TODO",
-      "path": "Tech notes/Tech Notes TODO.md"
     },
     {
       "basename": "Lazy Evaluation",
@@ -163,42 +199,6 @@
     {
       "basename": "JDK",
       "path": "Tech notes/Programming Languages/Java/JDK.md"
-    },
-    {
-      "basename": "2025-02-21",
-      "path": "Dailies/2025-02-21.md"
-    },
-    {
-      "basename": "Java Platform",
-      "path": "Tech notes/Programming Languages/Java/Java Platform.md"
-    },
-    {
-      "basename": "Python Exception Chaining",
-      "path": "Tech notes/Programming Languages/Python/Exceptions/Python Exception Chaining.md"
-    },
-    {
-      "basename": "Advanced Exception Handling",
-      "path": "Tech notes/Programming Languages/Python/Exceptions/Advanced Exception Handling.md"
-    },
-    {
-      "basename": "JRE",
-      "path": "Tech notes/Programming Languages/Java/JRE.md"
-    },
-    {
-      "basename": "Classpath",
-      "path": "Tech notes/Programming Languages/Java/Classpath.md"
-    },
-    {
-      "basename": "Java SE",
-      "path": "Tech notes/Programming Languages/Java/Java SE.md"
-    },
-    {
-      "basename": "API",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/API/API.md"
-    },
-    {
-      "basename": "XML",
-      "path": "Tech notes/Data Formats/Data Representation Models/XML/XML.md"
     }
   ],
   "omittedPaths": [],

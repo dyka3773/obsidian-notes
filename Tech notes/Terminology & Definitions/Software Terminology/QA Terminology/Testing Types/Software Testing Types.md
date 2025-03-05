@@ -25,8 +25,8 @@ A hybrid approach called grey-box that includes aspects of both boxes may also b
 These are usually found in the code requirements documentation, although some development methodologies work from use cases or user stories.
 Functional tests tend to answer the question of "can the user do this" or "does this particular feature work."
 
-Non-functional testing refers to aspects of the software that may not be related to a specific function or user action, such as scalability or other performance, behavior under certain constraints, or security.
-Testing will determine the breaking point, the point at which extremes of scalability or performance leads to unstable execution.
+Non-functional testing refers to aspects of the software that may not be related to a specific function or user action, such as [[scalability]] or other performance, behavior under certain constraints, or security.
+Testing will determine the breaking point, the point at which extremes of [[scalability]] or performance leads to unstable execution.
 Non-functional requirements tend to be those that reflect the quality of the product, particularly in the context of the suitability perspective of its users.
 
 ## Other Types of Testing

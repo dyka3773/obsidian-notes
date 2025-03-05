@@ -2,7 +2,7 @@
 tags:
   - tech
 ---
-Microservices are a popular architectural style for building applications that are resilient, highly scalable, independently deployable, and able to evolve quickly. 
+Microservices are a popular architectural style for building applications that are resilient, highly [[Scalability|scalable]], independently deployable, and able to evolve quickly. 
 A microservices architecture consists of a collection of small, autonomous services. 
 Each service is self-contained and should implement a single business capability within a bounded context. 
 A bounded context is a natural division within a business and provides an explicit boundary within which a domain model exists.
@@ -31,7 +31,7 @@ Besides for the services themselves, some other components appear in a typical m
 - **Small code base**. In a monolithic application, there is a tendency over time for code dependencies to become tangled. Adding a new feature requires touching code in a lot of places. By not sharing code or data stores, a microservices architecture minimizes dependencies, and that makes it easier to add new features.
 - **Mix of technologies**. Teams can pick the technology that best fits their service, using a mix of technology stacks as appropriate.
 - **Fault isolation**. If an individual microservice becomes unavailable, it won't disrupt the entire application, as long as any upstream microservices are designed to handle faults correctly. For example, you can implement the [Circuit Breaker pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker), or you can design your solution so that the microservices communicate with each other using [asynchronous messaging patterns](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication).
-- **Scalability**. Services can be scaled independently, letting you scale out subsystems that require more resources, without scaling out the entire application. Using an orchestrator such as Kubernetes, you can pack a higher density of services onto a single host, which allows for more efficient utilization of resources.
+- **[[Scalability]]**. Services can be scaled independently, letting you [[Scalability|scale]] out subsystems that require more resources, without scaling out the entire application. Using an orchestrator such as Kubernetes, you can pack a higher density of services onto a single host, which allows for more efficient utilization of resources.
 - **Data isolation**. It is much easier to perform schema updates, because only a single microservice is affected. In a monolithic application, schema updates can become very challenging, because different parts of the application might all touch the same data, making any alterations to the schema risky.
 
 ## Challenges

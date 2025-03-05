@@ -11,7 +11,7 @@ Node.js runs on the V8 JavaScript engine, and executes [[JavaScript]] code outsi
 Node.js lets developers use [[JavaScript]] to write command line tools and for server-side scripting.
 
 Node.js has an [[event-driven architecture]] capable of [[asynchronous I/O]]. 
-These design choices aim to optimize throughput and scalability in web applications with many input/output operations, as well as for real-time Web applications (e.g., real-time communication programs and browser games).
+These design choices aim to optimize throughput and [[scalability]] in web applications with many input/output operations, as well as for real-time Web applications (e.g., real-time communication programs and browser games).
 
 [[JavaScript]] is the only language that Node.js supports natively, but many compile-to-JS languages are available.
 As a result, Node.js applications can be written in CoffeeScript, [[Dart]], [[TypeScript]], ClojureScript and others.
