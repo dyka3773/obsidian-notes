@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-03-05",
+      "path": "Dailies/2025-03-05.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Homepage.md"
+    },
+    {
+      "basename": "2025-03-04",
+      "path": "Dailies/2025-03-04.md"
     },
     {
       "basename": "Unlinked Notes",
@@ -63,10 +71,6 @@
     {
       "basename": "Jenkins",
       "path": "Tech notes/General Tools/Misc Tools/Jenkins.md"
-    },
-    {
-      "basename": "2025-03-04",
-      "path": "Dailies/2025-03-04.md"
     },
     {
       "basename": "YAML",
@@ -195,10 +199,6 @@
     {
       "basename": "XML",
       "path": "Tech notes/Data Formats/Data Representation Models/XML/XML.md"
-    },
-    {
-      "basename": "JavaEE",
-      "path": "Tech notes/Programming Languages/Java/JavaEE/JavaEE.md"
     }
   ],
   "omittedPaths": [],
