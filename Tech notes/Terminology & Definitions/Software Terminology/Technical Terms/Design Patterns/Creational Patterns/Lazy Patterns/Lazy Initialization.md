@@ -3,7 +3,7 @@ tags:
   - tech
 ---
 In computer programming, lazy initialization is the tactic of delaying the creation of an object, the calculation of a value, or some other expensive process until the first time it is needed.
-It is a kind of [[lazy evaluation]] that refers specifically to the instantiation of objects or other resources.
+It is a kind of [[Lazy Evaluation]] that refers specifically to the instantiation of objects or other resources.
 
 This is typically accomplished by augmenting an accessor method (or property getter) to check whether a private member, acting as a cache, has already been initialized.
 If it has, it is returned straight away.

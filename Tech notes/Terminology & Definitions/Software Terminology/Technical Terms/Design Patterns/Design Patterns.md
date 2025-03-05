@@ -19,7 +19,14 @@ Design patterns may be viewed as a structured approach to computer programming i
 	- [[Builder]]
 	- [[Dependency Injection]]
 	- [[Factory method]]
-	- [[Lazy initialization]] & [[Lazy Evaluation]]
+	- Lazy Patterns:
+		- [[Lazy Initialization]]
+		- [[Lazy Evaluation]]
+		- [[Lazy Loading]] and its implementations:
+			- [[Lazy Initialization]] (yes, the same as above)
+			- [[Virtual Proxy]]
+			- [[Ghost]]
+			- [[Value Holder]]
 	- [[Singleton]]
 - Structural
 	- [[Decorator]]

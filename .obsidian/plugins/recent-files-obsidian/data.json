@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Lazy initialization",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Lazy initialization.md"
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
     },
     {
       "basename": "Design Patterns",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md"
     },
     {
-      "basename": "Lazy Evaluation",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Lazy Evaluation.md"
+      "basename": "Lazy Loading",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Loading.md"
     },
     {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
+      "basename": "Ghost",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Loading Methods/Ghost.md"
+    },
+    {
+      "basename": "Value Holder",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Loading Methods/Value Holder.md"
+    },
+    {
+      "basename": "Virtual Proxy",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Loading Methods/Virtual Proxy.md"
+    },
+    {
+      "basename": "Lazy Initialization",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Initialization.md"
+    },
+    {
+      "basename": "General TODO Notes",
+      "path": "General TODO Notes.md"
+    },
+    {
+      "basename": "Tech Notes TODO",
+      "path": "Tech notes/Tech Notes TODO.md"
+    },
+    {
+      "basename": "Lazy Evaluation",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Evaluation.md"
     },
     {
       "basename": "Manipulating DOM Elements",
@@ -75,10 +103,6 @@
     {
       "basename": "Timestamp",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Timestamp.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.md"
     },
     {
       "basename": "JIT",
@@ -175,30 +199,6 @@
     {
       "basename": "JavaEE",
       "path": "Tech notes/Programming Languages/Java/JavaEE/JavaEE.md"
-    },
-    {
-      "basename": "Awesome Lists",
-      "path": "Tech notes/Useful GitHub Repos/Awesome Lists.md"
-    },
-    {
-      "basename": "Daily note template",
-      "path": "templates/Daily note template.md"
-    },
-    {
-      "basename": "2025-02-11",
-      "path": "Dailies/2025-02-11.md"
-    },
-    {
-      "basename": "Tech Notes",
-      "path": "Tech notes/Tech Notes.md"
-    },
-    {
-      "basename": "Tech Notes TODO",
-      "path": "Tech notes/Tech Notes TODO.md"
-    },
-    {
-      "basename": "General TODO Notes",
-      "path": "General TODO Notes.md"
     }
   ],
   "omittedPaths": [],
