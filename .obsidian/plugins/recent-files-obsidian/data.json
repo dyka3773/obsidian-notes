@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Markup Languages Comparison",
-      "path": "Tech notes/Computer Languages/Markup Languages/Markup Languages Comparison.md"
+      "basename": "2025-03-05",
+      "path": "Dailies/2025-03-05.md"
+    },
+    {
+      "basename": "NodeJS Extensions",
+      "path": "Tech notes/General Tools/IDEs and Editors/VS Code/Extensions/NodeJS Extensions.md"
+    },
+    {
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
     },
     {
       "basename": "Markdown",
       "path": "Tech notes/Computer Languages/Markup Languages/Markdown/Markdown.md"
     },
     {
-      "basename": "Basic Markdown Syntax Guide",
-      "path": "Tech notes/Computer Languages/Markup Languages/Markdown/Basic Markdown Syntax Guide.md"
+      "basename": "Markup Languages Comparison",
+      "path": "Tech notes/Computer Languages/Markup Languages/Markup Languages Comparison.md"
     },
     {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
+      "basename": "Basic Markdown Syntax Guide",
+      "path": "Tech notes/Computer Languages/Markup Languages/Markdown/Basic Markdown Syntax Guide.md"
     },
     {
       "basename": "SSO",
@@ -75,10 +83,6 @@
     {
       "basename": "MIME type",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/MIME type.md"
-    },
-    {
-      "basename": "2025-03-05",
-      "path": "Dailies/2025-03-05.md"
     },
     {
       "basename": "2025-03-04",
@@ -195,10 +199,6 @@
     {
       "basename": "IDEs and Editors",
       "path": "Tech notes/General Tools/IDEs and Editors/IDEs and Editors.md"
-    },
-    {
-      "basename": "General Tools",
-      "path": "Tech notes/General Tools/General Tools.md"
     }
   ],
   "omittedPaths": [],
