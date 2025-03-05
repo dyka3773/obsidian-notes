@@ -4,6 +4,8 @@ tags:
 aliases:
   - Message Queues
   - mailbox
+  - Messaging Queues
+  - Messaging Queue
 ---
 In computer science, message queues and mailboxes are software-engineering components typically used for inter-process communication (IPC), or for inter-thread communication within the same process.
 They use a queue for messaging the passing of control or of content. 

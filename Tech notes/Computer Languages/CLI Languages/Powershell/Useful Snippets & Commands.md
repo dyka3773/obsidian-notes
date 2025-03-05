@@ -4,7 +4,7 @@ tags:
   - snippet
 ---
 
-#### Open a new [[Powershell]] window having admin privileges
+#### Open a new [[PowerShell]] window having admin privileges
 
 ```powershell
 start-process PowerShell -verb runas

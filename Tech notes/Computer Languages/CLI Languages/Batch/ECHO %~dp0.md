@@ -3,7 +3,7 @@ tags:
   - tech
   - batch
 ---
-## Getting the parent directory of the [[batch]] file being executed
+## Getting the parent directory of the [[Batch]] file being executed
 
 > The equivalent of `dirname` in [[bash]]
 

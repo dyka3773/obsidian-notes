@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Markup Languages Comparison",
+      "path": "Tech notes/Computer Languages/Markup Languages/Markup Languages Comparison.md"
+    },
+    {
+      "basename": "Markdown",
+      "path": "Tech notes/Computer Languages/Markup Languages/Markdown/Markdown.md"
+    },
+    {
+      "basename": "Basic Markdown Syntax Guide",
+      "path": "Tech notes/Computer Languages/Markup Languages/Markdown/Basic Markdown Syntax Guide.md"
+    },
+    {
       "basename": "Unlinked Notes",
       "path": "Unlinked Notes.md"
     },
     {
+      "basename": "SSO",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/SSO.md"
+    },
+    {
       "basename": "Scalability",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Scalability.md"
+    },
+    {
+      "basename": "TTL",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/TTL.md"
+    },
+    {
+      "basename": "Message Queue",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Message Queue.md"
+    },
+    {
+      "basename": "Databases",
+      "path": "Tech notes/Databases/Databases.md"
+    },
+    {
+      "basename": "Consistency",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Transactions/Consistency.md"
+    },
+    {
+      "basename": "CDN",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/CDN.md"
     },
     {
       "basename": "QUIC vs TCP",
@@ -31,10 +67,6 @@
     {
       "basename": "Idempotence",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Idempotence.md"
-    },
-    {
-      "basename": "Consistency",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Transactions/Consistency.md"
     },
     {
       "basename": "Tech Notes TODO",
@@ -90,7 +122,7 @@
     },
     {
       "basename": "Manipulating DOM Elements",
-      "path": "Tech notes/Programming Languages/JavaScript/jQuery/Manipulating DOM Elements.md"
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/JavaScript/jQuery/Manipulating DOM Elements.md"
     },
     {
       "basename": "DOM",
@@ -98,11 +130,11 @@
     },
     {
       "basename": "XSD",
-      "path": "Tech notes/Data Formats/Data Representation Models/XML/XSD.md"
+      "path": "Tech notes/Computer Languages/Data Exchange Languages/XML/XSD.md"
     },
     {
       "basename": "jQuery",
-      "path": "Tech notes/Programming Languages/JavaScript/jQuery/jQuery.md"
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/JavaScript/jQuery/jQuery.md"
     },
     {
       "basename": "Jenkins",
@@ -110,11 +142,7 @@
     },
     {
       "basename": "YAML",
-      "path": "Tech notes/Data Formats/Data Representation Models/YAML.md"
-    },
-    {
-      "basename": "Message Queue",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Message Queue.md"
+      "path": "Tech notes/Computer Languages/Data Exchange Languages/YAML.md"
     },
     {
       "basename": "Durability",
@@ -137,10 +165,6 @@
       "path": "Tech notes/Terminology & Definitions/Computer Science Terminology/Algorithm Terminology/Round-robin.md"
     },
     {
-      "basename": "CDN",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/CDN.md"
-    },
-    {
       "basename": "Timestamp",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Timestamp.md"
     },
@@ -150,15 +174,15 @@
     },
     {
       "basename": "JavaScript",
-      "path": "Tech notes/Programming Languages/JavaScript/JavaScript.md"
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/JavaScript/JavaScript.md"
     },
     {
       "basename": "List of JVM languages",
-      "path": "Tech notes/Programming Languages/Java/List of JVM languages.md"
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/List of JVM languages.md"
     },
     {
       "basename": "JVM",
-      "path": "Tech notes/Programming Languages/Java/JVM.md"
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JVM.md"
     },
     {
       "basename": "Visual Studio Code",
@@ -175,30 +199,6 @@
     {
       "basename": "General Tools",
       "path": "Tech notes/General Tools/General Tools.md"
-    },
-    {
-      "basename": "draw.io",
-      "path": "Tech notes/General Tools/Misc Tools/draw.io.md"
-    },
-    {
-      "basename": "empty files",
-      "path": "empty files.md"
-    },
-    {
-      "basename": "Java",
-      "path": "Tech notes/Programming Languages/Java/Java.md"
-    },
-    {
-      "basename": "Java Class Library",
-      "path": "Tech notes/Programming Languages/Java/Java Class Library.md"
-    },
-    {
-      "basename": "Jython",
-      "path": "Tech notes/Programming Languages/Jython.md"
-    },
-    {
-      "basename": "JDK",
-      "path": "Tech notes/Programming Languages/Java/JDK.md"
     }
   ],
   "omittedPaths": [],

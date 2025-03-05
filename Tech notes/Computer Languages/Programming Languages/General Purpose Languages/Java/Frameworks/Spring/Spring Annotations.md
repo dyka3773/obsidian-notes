@@ -57,7 +57,7 @@ This annotation is a specialized form of the `@Component` annotation intended to
 
 ## `@Repository`
 
-This annotation is used on [[Java]] classes that directly access the database. 
+This annotation is used on [[Java]] classes that directly access the [[Databases|database]]. 
 The `@Repository` annotation works as a marker for any class that fulfills the role of repository or [[Data Access Object]]. 
 This annotation has an automatic translation feature. 
 For example, when an exception occurs in the `@Repository`, there is a handler for that exception and there is no need to add a try-catch block.

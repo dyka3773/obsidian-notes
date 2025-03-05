@@ -17,7 +17,7 @@ AND owner in (
 ORDER BY table_name;
 ```
 
-#### All The Tables Created by [[Oracle DBMS|Oracle]] That Contain Information About the Database
+#### All The Tables Created by [[Oracle DBMS|Oracle]] That Contain Information About the [[Databases|Database]]
 
 ```sql
 SELECT DISTINCT table_name, comments
@@ -80,7 +80,7 @@ FROM ALL_SYNONYMS;
 ```
 > **Note:** `TABLE_OWNER` and `TABLE_NAME` columns are the owner of the table and the name of the table that the [[Synonyms|synonym]] points to and `SYNONYM_NAME` is the name of the [[Synonyms|synonym]]. `OWNER` column is the owner of the [[Synonyms|synonym]].
 
-> **Note 2:** A useful query that derives from the above is to find [[synonyms]] that point to tables that do not exist in the database (eg tables that have been dropped but the [[Synonyms|synonym]] has not been removed).
+> **Note 2:** A useful query that derives from the above is to find [[synonyms]] that point to tables that do not exist in the [[Databases|database]] (eg tables that have been dropped but the [[Synonyms|synonym]] has not been removed).
 > This can be done by using the following query:
 ```sql
  SELECT *

@@ -7,10 +7,10 @@ aliases:
 ---
 The Java Naming and Directory Interface (JNDI) is a [[Java]] [[API]] for a directory service that allows [[Java]] software clients to discover and look up data and resources (in the form of [[Java]] objects) via a name. 
 Like all [[Java]] [[API]]s that interface with host systems, JNDI is independent of the underlying implementation.
-The information looked up via JNDI may be supplied by a server, a flat file, or a database; the choice is up to the implementation used.
+The information looked up via JNDI may be supplied by a server, a flat file, or a [[Databases|database]]; the choice is up to the implementation used.
 
 Typical uses of JNDI include:
-- connecting a [[Java]] application to an external directory service (such as an address database or an LDAP server),
+- connecting a [[Java]] application to an external directory service (such as an address [[Databases|database]] or an LDAP server),
 - allowing a Java Servlet to look up configuration information provided by the hosting web container.
 
 The [[API]] provides:

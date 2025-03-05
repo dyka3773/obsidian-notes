@@ -15,7 +15,7 @@ Their uniqueness does not depend on a central registration authority or coordina
 While the probability that a UUID will be duplicated is not zero, it is generally considered close enough to zero to be negligible.
 
 Thus, anyone can create a UUID and use it to identify something with near certainty that the identifier does not duplicate one that has already been, or will be, created to identify something else.
-Information labeled with UUIDs by independent parties can therefore be later combined into a single database or transmitted on the same channel, with a negligible probability of duplication.
+Information labeled with UUIDs by independent parties can therefore be later combined into a single [[Databases|database]] or transmitted on the same channel, with a negligible probability of duplication.
 
 Adoption of UUIDs is widespread, with many computing platforms providing support for generating them and for parsing their textual representation.
 

@@ -2,7 +2,7 @@
 tags:
   - tech
 ---
-Invisible columns are columns that are not visible to the user or any other process that uses the table unless they explicitly ask for them. They are used to hide columns that are used internally by the database. They are created using the `INVISIBLE` keyword in the `CREATE TABLE` statement.
+Invisible columns are columns that are not visible to the user or any other process that uses the table unless they explicitly ask for them. They are used to hide columns that are used internally by the [[Databases|database]]. They are created using the `INVISIBLE` keyword in the `CREATE TABLE` statement.
 
 ```sql
 CREATE TABLE table_name (

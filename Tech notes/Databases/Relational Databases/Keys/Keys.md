@@ -12,5 +12,5 @@ When a new row is written to the table, a new unique value for the [[Primary Key
 System performance is optimized for PKs.
 Additional technology may be applied to ensure a unique ID across the world, a [[UUID|globally unique identifier]], when there are broader system requirements.
 
-The primary keys within a database are used to define the relationships among the tables.
+The primary keys within a [[Databases|database]] are used to define the relationships among the tables.
 When a [[Primary Key|PK]] migrates to another table, it becomes a [[Foreign Key]] (FK) in the other table.

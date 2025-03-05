@@ -11,7 +11,7 @@ In software development and system design, a scalable system can grow without si
 # Types of Scalability
 ## 1. Vertical Scalability (Scaling Up)
 - Involves adding more **power** (CPU, RAM, storage) to a single machine.
-- Example: Upgrading a database server with more RAM to handle more queries.
+- Example: Upgrading a [[Databases|database]] server with more RAM to handle more queries.
 - **Pros:** Simple, no need for architectural changes.
 - **Cons:** There’s a **limit** to how much you can upgrade a single machine; expensive.
 ## 2. Horizontal Scalability (Scaling Out)
@@ -28,15 +28,15 @@ In software development and system design, a scalable system can grow without si
 # Scalability in Different Areas
 ## 1. Application Scalability
 - **[[Microservices]]**: Breaking a monolithic app into smaller, independently scalable services.
-- **[[Caching]]**: Using [[Redis]] or Memcached to reduce database load.
-- [[**Asynchronous Processing**]]: Using [[Message Queue|message queues]] ([[RabbitMQ]], [[Kafka]]) to process tasks in the background.
-## 2. Database Scalability
-- **Read Replicas**: Distribute read queries across multiple database instances.
+- **[[Caching]]**: Using [[Redis]] or Memcached to reduce [[Databases|database]] load.
+- **[[Asynchronous Processing]]**: Using [[Message Queue|message queues]] ([[RabbitMQ]], [[Kafka]]) to process tasks in the background.
+## 2. [[Databases|Database]] Scalability
+- **Read Replicas**: Distribute read queries across multiple [[Databases|database]] instances.
 - **[[Sharding]]**: Splitting large [[databases]] into smaller, independent partitions.
 - **[[NoSQL]] [[Databases]]**: Scalable alternatives like [[MongoDB]] or [[Cassandra]] for high-traffic applications.
 ## 3. Infrastructure Scalability
 - **[[Load Balancing]]**: Distribute traffic across multiple servers (e.g., Nginx, AWS ELB).
-- **[[CDN]]s (Content Delivery Networks)**: [[Cache]] content globally to reduce latency (e.g., Cloudflare, Akamai).
+- **[[CDN]]s ([[CDN|Content Delivery Networks]])**: [[Cache]] content globally to reduce latency (e.g., Cloudflare, Akamai).
 - **[[Containerization]]**: Using [[Docker]] and [[Kubernetes]] for scalable deployments.
 
 # Challenges in Scaling Systems

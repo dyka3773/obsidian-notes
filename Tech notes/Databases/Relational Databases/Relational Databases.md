@@ -5,10 +5,10 @@ aliases:
   - RDBMS
   - RDB
 ---
-A relational database (RDB) is a database based on the relational model of data. 
+A relational [[Databases|database]] (RDB) is a [[Databases|database]] based on the relational model of data. 
 (Derived by [[Relational Algebra]])
-A database management system used to maintain relational databases is a relational database management system (RDBMS).
-Most relational database systems are equipped with the option of using [[SQL]] ([[SQL|Structured Query Language]]) for querying and updating the database.
+A database management system used to maintain relational [[databases]] is a relational database management system (RDBMS).
+Most relational database systems are equipped with the option of using [[SQL]] ([[SQL|Structured Query Language]]) for querying and updating the [[Databases|database]].
 
 
 ## Relational Model

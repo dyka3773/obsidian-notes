@@ -2,7 +2,7 @@
 tags:
   - tech
 ---
-Jython is an implementation of the [[Python]] programming language designed to run on the [[Java platform]]. 
+Jython is an implementation of the [[Python]] programming language designed to run on the [[Java Platform]]. 
 It was known as JPython until 1999.
 
 Jython programs can import and use any [[Java]] class. 

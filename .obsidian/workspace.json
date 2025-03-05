@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Unlinked Notes"
             }
+          },
+          {
+            "id": "94669416174f5611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech notes/Computer Languages/Markup Languages/Markup Languages Comparison.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Markup Languages Comparison"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Tech notes/Computer Languages/Markup Languages/Markup Languages Comparison.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Unlinked Notes"
+              "title": "Outgoing links from Markup Languages Comparison"
             }
           },
           {
@@ -273,7 +297,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Tech notes/Computer Languages/Markup Languages/Markup Languages Comparison.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -318,12 +342,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.27268599173600866,
+                  "scale": 1.0534979423868391,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Unlinked Notes"
+              "title": "Graph of Markup Languages Comparison"
             }
           }
         ],
@@ -382,19 +406,35 @@
       }
     ]
   },
-  "active": "3b093614431806c6",
+  "active": "94669416174f5611",
   "lastOpenFiles": [
-    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Scalability.md",
+    "Tech notes/Computer Languages/Markup Languages/Markdown/Markdown.md",
+    "Tech notes/Computer Languages/Markup Languages/Markup Languages Comparison.md",
+    "Tech notes/Computer Languages/Markup Languages/Markdown/Basic Markdown Syntax Guide.md",
+    "Tech notes/Computer Languages/Markup Languages/Markdown",
     "Unlinked Notes.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords",
+    "Tech notes/Computer Languages/Domain Specific Language/Data Query Languages",
+    "Tech notes/Computer Languages/Domain Specific Language",
+    "Tech notes/Computer Languages/Configuration Languages",
+    "Tech notes/Computer Languages/Domain Specific Language/Style Sheet Languages",
+    "Tech notes/Computer Languages/Markup Languages",
+    "Tech notes/Computer Languages/Data Exchange Languages",
+    "Tech notes/Computer Languages/Programming Languages",
+    "Tech notes/Computer Languages/CLI Languages",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages",
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/SSO.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Scalability.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/TTL.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Message Queue.md",
+    "Tech notes/Databases/Databases.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Transactions/Consistency.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/CDN.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Networking/QUIC vs TCP.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Networking/QUIC.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Networking/HTTP/HTTP Methods/HTTP Methods.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Networking/HTTP/HTTP Methods/CONNECT.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Networking/HTTP/HTTP Methods/POST.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Idempotence.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Transactions/Consistency.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms",
     "Tech notes/Tech Notes TODO.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/MIME type.md",
     "Dailies/2025-03-05.md",
@@ -403,22 +443,6 @@
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Loading.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Loading Methods/Ghost.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Loading Methods/Value Holder.md",
-    "Tech notes/Programming Languages/PHP/test",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Loading Methods/Virtual Proxy.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Loading Methods",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Initialization.md",
-    "General TODO Notes.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Evaluation.md",
-    "Tech notes/Programming Languages/JavaScript/jQuery/Manipulating DOM Elements.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/DOM.md",
-    "Tech notes/Data Formats/Data Representation Models/XML/XSD.md",
-    "Tech notes/Programming Languages/JavaScript/jQuery/jQuery.md",
-    "Tech notes/Terminology & Definitions/Computer Science Terminology/Algorithm Terminology",
-    "Tech notes/Terminology & Definitions/Computer Science Terminology/Compiler Terminology",
-    "Tech notes/Terminology & Definitions/Computer Science Terminology",
-    "Tech notes/Terminology & Definitions/Software Terminology"
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Loading Methods/Value Holder.md"
   ]
 }

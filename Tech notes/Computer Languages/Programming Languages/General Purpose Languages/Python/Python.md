@@ -54,5 +54,5 @@ See also [[Python Quirks]].
 
 ## Snippets and Code Examples
 
-See [[Tech notes/Programming Languages/Python/Useful Snippets/Useful Snippets|Useful Snippets]]
+See [[Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Useful Snippets/Useful Snippets|Useful Snippets]]
 
