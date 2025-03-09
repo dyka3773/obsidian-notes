@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-03-09",
+      "path": "Dailies/2025-03-09.md"
+    },
+    {
       "basename": "2025-03-05",
       "path": "Dailies/2025-03-05.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Useful VS Code Extensions",
       "path": "Tech notes/General Tools/IDEs and Editors/VS Code/Useful VS Code Extensions.md"
-    },
-    {
-      "basename": "IDEs and Editors",
-      "path": "Tech notes/General Tools/IDEs and Editors/IDEs and Editors.md"
     }
   ],
   "omittedPaths": [],
