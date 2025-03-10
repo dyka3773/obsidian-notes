@@ -31,7 +31,7 @@ Description: A collection of awesome readme templates to display on your profile
 ### **Awesome for Non-Progammers**
 Link: [Here](https://github.com/szabgab/awesome-for-non-programmers)
 
-Description: A collection of awesome Open Source projects where you can contribute without any programming knowledge.
+Description: A collection of awesome [[Open Source]] projects where you can contribute without any programming knowledge.
 ### **Awesome [[Useful GitHub Actions|Actions]]**
 Link: [Here](https://github.com/sdras/awesome-actions)
 

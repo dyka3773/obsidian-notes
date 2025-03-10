@@ -39,3 +39,7 @@ Design patterns may be viewed as a structured approach to computer programming i
 	- [[Reactor]]
 	- [[Scheduler]]
 	- [[Thread Pool]]
+- Misc
+	- [[Databases|Database]]-related patterns
+		- [[DAO]]
+		- [[Repository]]

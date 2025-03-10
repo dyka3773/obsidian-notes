@@ -9,13 +9,13 @@ The Spring Framework is an application framework and inversion of control contai
 The framework's core features can be used by any [[Java]] application, but there are extensions for building web applications on top of the [[JavaEE|Java EE]] (Enterprise Edition) platform.
 The framework does not impose any specific programming model.
 The framework has become popular in the [[Java]] community as an addition to the Enterprise JavaBeans ([[EJB]]) model.
-The Spring Framework is free and [[open source]] software.
+The Spring Framework is free and [[Open Source]] software.
 
 The Spring Framework is divided into modules. 
 Applications can choose which modules they need. 
 At the heart are the modules of the core container, including a configuration model and a dependency injection mechanism. 
 Beyond that, the Spring Framework provides foundational support for different application architectures, including messaging, transactional data and persistence, and web. 
-It also includes the Servlet-based Spring MVC web framework and, in parallel, the Spring WebFlux reactive web framework.
+It also includes the [[Servlet]]-based Spring MVC web framework and, in parallel, the Spring WebFlux reactive web framework.
 
 If you are just getting started with Spring, you may want to begin using the Spring Framework by creating a [[Spring Boot]]-based application. [[Spring Boot]] provides a quick (and opinionated) way to create a production-ready Spring-based application. It is based on the Spring Framework, favors convention over configuration, and is designed to get you up and running as quickly as possible.
 

@@ -4,7 +4,7 @@ tags:
 ---
 YAML is a human-readable data serialization language.
 It is commonly used for configuration files and in applications where data is being stored or transmitted.
-YAML targets many of the same communications applications as [[XML|Extensible Markup Language]] ([[XML]]) but has a minimal syntax that intentionally differs from Standard Generalized Markup Language ([[SGML]]).
+YAML targets many of the same communications applications as [[XML|Extensible Markup Language]] ([[XML]]) but has a minimal syntax that intentionally differs from [[SGML|Standard Generalized Markup Language]] ([[SGML]]).
 It uses [[Python]]-style indentation to indicate nesting and does not require quotes around most string values (it also supports [[JSON]] style `[...]` and `{...}` mixed in the same file).
 
 Custom data types are allowed, but YAML natively encodes scalars (such as strings, integers, and floats), lists, and associative arrays (also known as maps, dictionaries or hashes).

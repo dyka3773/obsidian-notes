@@ -7,7 +7,7 @@ tags:
 ## Todo Tree *(ID: Gruntfuggly.todo-tree)*
 
 - This extension allows you to create TODOs in your code and then view them in a tree view. 
-- It supports a variety of languages and allows you to customize the regex used to find TODOs.
+- It supports a variety of languages and allows you to customize the [[Regular Expressions|regex]] used to find TODOs.
 - It also supports a variety of themes and allows you to customize the colors used to display TODOs and other tags.
 
 #### Settings Example

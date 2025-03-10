@@ -11,7 +11,7 @@ The information looked up via JNDI may be supplied by a server, a flat file, or 
 
 Typical uses of JNDI include:
 - connecting a [[Java]] application to an external directory service (such as an address [[Databases|database]] or an LDAP server),
-- allowing a Java Servlet to look up configuration information provided by the hosting web container.
+- allowing a Java [[Servlet]] to look up configuration information provided by the hosting web container.
 
 The [[API]] provides:
 - a mechanism to bind an object to a name

@@ -1,8 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "Regular Expressions",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Regular Expressions.md"
+    },
+    {
+      "basename": "JSON Schema",
+      "path": "Tech notes/Computer Languages/Data Exchange Languages/JSON/JSON Schema.md"
+    },
+    {
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
+    },
+    {
+      "basename": "Higher-Order Functions",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Higher-Order Functions.md"
+    },
+    {
+      "basename": "First-Class Functions",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/First-Class Functions.md"
+    },
+    {
+      "basename": "2025-03-10",
+      "path": "Dailies/2025-03-10.md"
+    },
+    {
       "basename": "2025-03-09",
       "path": "Dailies/2025-03-09.md"
+    },
+    {
+      "basename": "Servlet",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JavaEE/Servlet.md"
+    },
+    {
+      "basename": "Open Source",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Open Source.md"
+    },
+    {
+      "basename": "Spring",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Frameworks/Spring/Spring.md"
+    },
+    {
+      "basename": "Design Patterns",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md"
+    },
+    {
+      "basename": "DAO",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Misc/DAO.md"
+    },
+    {
+      "basename": "Spring Annotations",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Frameworks/Spring/Spring Annotations.md"
+    },
+    {
+      "basename": "JRE vs JVM vs JDK",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JRE vs JVM vs JDK.md"
+    },
+    {
+      "basename": "Java Runtime Environment",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Java Runtime Environment.md"
+    },
+    {
+      "basename": "Java Platform",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Java Platform.md"
+    },
+    {
+      "basename": "Classpath",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Classpath.md"
+    },
+    {
+      "basename": "DTD vs XSD",
+      "path": "Tech notes/Computer Languages/Data Exchange Languages/XML/DTD vs XSD.md"
+    },
+    {
+      "basename": "DTD",
+      "path": "Tech notes/Computer Languages/Data Exchange Languages/XML/DTD.md"
+    },
+    {
+      "basename": "Daily-s",
+      "path": "Dailies/Daily-s.md"
+    },
+    {
+      "basename": "Tech Notes TODO",
+      "path": "Tech notes/Tech Notes TODO.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "SGML",
+      "path": "Tech notes/Computer Languages/Markup Languages/SGML.md"
+    },
+    {
+      "basename": "Markdown",
+      "path": "Tech notes/Computer Languages/Markup Languages/Markdown/Markdown.md"
     },
     {
       "basename": "2025-03-05",
@@ -11,14 +103,6 @@
     {
       "basename": "NodeJS Extensions",
       "path": "Tech notes/General Tools/IDEs and Editors/VS Code/Extensions/NodeJS Extensions.md"
-    },
-    {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
-    },
-    {
-      "basename": "Markdown",
-      "path": "Tech notes/Computer Languages/Markup Languages/Markdown/Markdown.md"
     },
     {
       "basename": "Markup Languages Comparison",
@@ -81,24 +165,12 @@
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Idempotence.md"
     },
     {
-      "basename": "Tech Notes TODO",
-      "path": "Tech notes/Tech Notes TODO.md"
-    },
-    {
       "basename": "MIME type",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/MIME type.md"
     },
     {
       "basename": "2025-03-04",
       "path": "Dailies/2025-03-04.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.md"
-    },
-    {
-      "basename": "Design Patterns",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md"
     },
     {
       "basename": "Lazy Loading",
@@ -127,78 +199,6 @@
     {
       "basename": "Lazy Evaluation",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Evaluation.md"
-    },
-    {
-      "basename": "Manipulating DOM Elements",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/JavaScript/jQuery/Manipulating DOM Elements.md"
-    },
-    {
-      "basename": "DOM",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/DOM.md"
-    },
-    {
-      "basename": "XSD",
-      "path": "Tech notes/Computer Languages/Data Exchange Languages/XML/XSD.md"
-    },
-    {
-      "basename": "jQuery",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/JavaScript/jQuery/jQuery.md"
-    },
-    {
-      "basename": "Jenkins",
-      "path": "Tech notes/General Tools/Misc Tools/Jenkins.md"
-    },
-    {
-      "basename": "YAML",
-      "path": "Tech notes/Computer Languages/Data Exchange Languages/YAML.md"
-    },
-    {
-      "basename": "Durability",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Transactions/Durability.md"
-    },
-    {
-      "basename": "CRUD",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/CRUD.md"
-    },
-    {
-      "basename": "Kafka",
-      "path": "Tech notes/General Frameworks/Kafka/Kafka.md"
-    },
-    {
-      "basename": "Progressive Web Apps",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Progressive Web Apps.md"
-    },
-    {
-      "basename": "Round-robin",
-      "path": "Tech notes/Terminology & Definitions/Computer Science Terminology/Algorithm Terminology/Round-robin.md"
-    },
-    {
-      "basename": "Timestamp",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Timestamp.md"
-    },
-    {
-      "basename": "JIT",
-      "path": "Tech notes/Terminology & Definitions/Computer Science Terminology/Compiler Terminology/JIT.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/JavaScript/JavaScript.md"
-    },
-    {
-      "basename": "List of JVM languages",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/List of JVM languages.md"
-    },
-    {
-      "basename": "JVM",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JVM.md"
-    },
-    {
-      "basename": "Visual Studio Code",
-      "path": "Tech notes/General Tools/IDEs and Editors/VS Code/Visual Studio Code.md"
-    },
-    {
-      "basename": "Useful VS Code Extensions",
-      "path": "Tech notes/General Tools/IDEs and Editors/VS Code/Useful VS Code Extensions.md"
     }
   ],
   "omittedPaths": [],

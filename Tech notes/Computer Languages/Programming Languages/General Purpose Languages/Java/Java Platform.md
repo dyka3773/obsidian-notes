@@ -16,7 +16,7 @@ Namely:
 	- [[JavaEE|Jakarta EE]]
 - [[JVM]]
 - [[JDK]]
-- [[JRE]]
+- [[Java Runtime Environment|JRE]]
 - [[Java Class Library]]
 ### Languages
 The [[Java]] language and the [[JVM|Java Virtual Machine]] should be treated as separate entities and so third parties have produced many compilers or interpreters that target the [[JVM]]. 

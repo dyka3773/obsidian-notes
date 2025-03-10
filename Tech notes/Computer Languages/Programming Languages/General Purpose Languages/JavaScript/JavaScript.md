@@ -13,9 +13,9 @@ These engines are also utilized in some servers and a variety of apps.
 The most popular runtime system for non-browser usage is [[Node.js]].
 
 JavaScript is a high-level, often [[JIT|just-in-time compiled]] language that conforms to the [[ECMAScript]] standard.
-It has [[dynamic typing]], [[prototype-based]] [[object-orientation]], and [[first-class functions]].
+It has [[dynamic typing]], [[prototype-based]] [[object-orientation]], and [[First-Class Functions]].
 It is [[multi-paradigm]], supporting [[event-driven]], [[functional]], and [[imperative programming]] styles.
-It has application programming interfaces ([[API]]s) for working with text, dates, [[regular expressions]], standard data structures, and the [[Document Object Model]] ([[DOM]]).
+It has application programming interfaces ([[API]]s) for working with text, dates, [[Regular Expressions]], standard data structures, and the [[Document Object Model]] ([[DOM]]).
 
 Although [[Java]] and JavaScript are similar in name and syntax, the two languages are distinct and differ greatly in design.
 
