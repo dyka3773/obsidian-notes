@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Homepage.md"
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
+    },
+    {
+      "basename": "XHTML",
+      "path": "Tech notes/Computer Languages/Markup Languages/XHTML.md"
+    },
+    {
+      "basename": "CSS",
+      "path": "Tech notes/Computer Languages/Programming Languages/Domain Specific Language/Style Sheet Languages/CSS/CSS.md"
+    },
+    {
+      "basename": "LaTeX",
+      "path": "Tech notes/Computer Languages/Markup Languages/LaTeX.md"
+    },
+    {
+      "basename": "Markdown",
+      "path": "Tech notes/Computer Languages/Markup Languages/Markdown/Markdown.md"
     },
     {
       "basename": "2025-03-13",
@@ -13,12 +29,16 @@
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Regular Expressions.md"
     },
     {
-      "basename": "JSON Schema",
-      "path": "Tech notes/Computer Languages/Data Exchange Languages/JSON/JSON Schema.md"
+      "basename": "2025-03-10",
+      "path": "Dailies/2025-03-10.md"
     },
     {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "JSON Schema",
+      "path": "Tech notes/Computer Languages/Data Exchange Languages/JSON/JSON Schema.md"
     },
     {
       "basename": "Higher-Order Functions",
@@ -27,10 +47,6 @@
     {
       "basename": "First-Class Functions",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/First-Class Functions.md"
-    },
-    {
-      "basename": "2025-03-10",
-      "path": "Dailies/2025-03-10.md"
     },
     {
       "basename": "2025-03-09",
@@ -95,10 +111,6 @@
     {
       "basename": "SGML",
       "path": "Tech notes/Computer Languages/Markup Languages/SGML.md"
-    },
-    {
-      "basename": "Markdown",
-      "path": "Tech notes/Computer Languages/Markup Languages/Markdown/Markdown.md"
     },
     {
       "basename": "2025-03-05",
@@ -187,18 +199,6 @@
     {
       "basename": "Value Holder",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Loading Methods/Value Holder.md"
-    },
-    {
-      "basename": "Virtual Proxy",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Loading Methods/Virtual Proxy.md"
-    },
-    {
-      "basename": "Lazy Initialization",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Initialization.md"
-    },
-    {
-      "basename": "General TODO Notes",
-      "path": "General TODO Notes.md"
     }
   ],
   "omittedPaths": [],
