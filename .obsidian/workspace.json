@@ -158,12 +158,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unlinked Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Unlinked Notes"
+              "title": "Outgoing links"
             }
           },
           {
@@ -249,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Dailies/2025-03-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Unlinked Notes"
+              "title": "Graph of 2025-03-13"
             }
           }
         ],
@@ -339,31 +338,46 @@
                 "id": "b4ed249cac98091c",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dailies/2025-03-13.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-03-13"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": -1920,
-        "y": 194,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
+        "x": -1130,
+        "y": 475,
+        "width": 678,
+        "height": 666,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "b4ed249cac98091c",
   "lastOpenFiles": [
+    "Unlinked Notes.md",
+    "Dailies/2025-03-13.md",
     "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Smoke Testing.md",
     "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Test Environments/Testing environment.md",
     "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Test Environments/Test Environment.md",
-    "Unlinked Notes.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Queues.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Lists.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Collections.md",
@@ -394,7 +408,6 @@
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Protocols",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Scalability.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Data Structures/Key-Value Pairs.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/DBA Terminology/Unstructured Data.md",
-    "Tech notes/Databases/NoSQL Databases/NoSQL Databases.md"
+    "Tech notes/Terminology & Definitions/Software Terminology/DBA Terminology/Unstructured Data.md"
   ]
 }
