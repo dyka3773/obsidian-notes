@@ -5,6 +5,126 @@
       "path": "Unlinked Notes.md"
     },
     {
+      "basename": "Smoke Testing",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Smoke Testing.md"
+    },
+    {
+      "basename": "Testing environment",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Test Environments/Testing environment.md"
+    },
+    {
+      "basename": "Test Environment",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Test Environments/Test Environment.md"
+    },
+    {
+      "basename": "Java Queues",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Queues.md"
+    },
+    {
+      "basename": "Java Lists",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Lists.md"
+    },
+    {
+      "basename": "Collections",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Collections.md"
+    },
+    {
+      "basename": "LIFO & FIFO",
+      "path": "Tech notes/Terminology & Definitions/Computer Science Terminology/Algorithm Terminology/LIFO & FIFO.md"
+    },
+    {
+      "basename": "Design Patterns",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md"
+    },
+    {
+      "basename": "Java Maps",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Maps.md"
+    },
+    {
+      "basename": "Java Sets",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Sets.md"
+    },
+    {
+      "basename": "Tech Notes TODO",
+      "path": "Tech notes/Tech Notes TODO.md"
+    },
+    {
+      "basename": "Autoboxing & Unboxing",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Autoboxing & Unboxing.md"
+    },
+    {
+      "basename": "Weblogic",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JavaEE/Frameworks/Weblogic.md"
+    },
+    {
+      "basename": "Java Webservices",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Java Webservices.md"
+    },
+    {
+      "basename": "OAuth",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Protocols/Security Protocols/OAuth.md"
+    },
+    {
+      "basename": "Structured vs Unstructured vs Semi-Structured Data",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/DBA Terminology/Structured vs Unstructured vs Semi-Structured Data.md"
+    },
+    {
+      "basename": "AMQP",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Protocols/Messaging Protocols/AMQP/AMQP.md"
+    },
+    {
+      "basename": "Message Queue",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Data Structures/Message Queue.md"
+    },
+    {
+      "basename": "Messaging Protocols Comparison",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Protocols/Messaging Protocols/Messaging Protocols Comparison.md"
+    },
+    {
+      "basename": "AMQP Exchange",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Protocols/Messaging Protocols/AMQP/AMQP Exchange.md"
+    },
+    {
+      "basename": "empty files",
+      "path": "empty files.md"
+    },
+    {
+      "basename": "Scalability",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Scalability.md"
+    },
+    {
+      "basename": "Key-Value Pairs",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Data Structures/Key-Value Pairs.md"
+    },
+    {
+      "basename": "Unstructured Data",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/DBA Terminology/Unstructured Data.md"
+    },
+    {
+      "basename": "NoSQL Databases",
+      "path": "Tech notes/Databases/NoSQL Databases/NoSQL Databases.md"
+    },
+    {
+      "basename": "NoSQL Database Model Comparison",
+      "path": "Tech notes/Databases/NoSQL Databases/NoSQL Database Model Comparison.md"
+    },
+    {
+      "basename": "NoSQL vs SQL Databases",
+      "path": "Tech notes/Databases/NoSQL vs SQL Databases.md"
+    },
+    {
+      "basename": "Relational Databases",
+      "path": "Tech notes/Databases/Relational Databases/Relational Databases.md"
+    },
+    {
+      "basename": "Databases",
+      "path": "Tech notes/Databases/Databases.md"
+    },
+    {
+      "basename": "SQLite",
+      "path": "Tech notes/Databases/DBMSs/SQLite.md"
+    },
+    {
       "basename": "XHTML",
       "path": "Tech notes/Computer Languages/Markup Languages/XHTML.md"
     },
@@ -65,10 +185,6 @@
       "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Frameworks/Spring/Spring.md"
     },
     {
-      "basename": "Design Patterns",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md"
-    },
-    {
       "basename": "DAO",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Misc/DAO.md"
     },
@@ -78,127 +194,11 @@
     },
     {
       "basename": "JRE vs JVM vs JDK",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JRE vs JVM vs JDK.md"
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Java Platform Acronyms/JRE vs JVM vs JDK.md"
     },
     {
       "basename": "Java Runtime Environment",
       "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Java Runtime Environment.md"
-    },
-    {
-      "basename": "Java Platform",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Java Platform.md"
-    },
-    {
-      "basename": "Classpath",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Classpath.md"
-    },
-    {
-      "basename": "DTD vs XSD",
-      "path": "Tech notes/Computer Languages/Data Exchange Languages/XML/DTD vs XSD.md"
-    },
-    {
-      "basename": "DTD",
-      "path": "Tech notes/Computer Languages/Data Exchange Languages/XML/DTD.md"
-    },
-    {
-      "basename": "Daily-s",
-      "path": "Dailies/Daily-s.md"
-    },
-    {
-      "basename": "Tech Notes TODO",
-      "path": "Tech notes/Tech Notes TODO.md"
-    },
-    {
-      "basename": "SGML",
-      "path": "Tech notes/Computer Languages/Markup Languages/SGML.md"
-    },
-    {
-      "basename": "2025-03-05",
-      "path": "Dailies/2025-03-05.md"
-    },
-    {
-      "basename": "NodeJS Extensions",
-      "path": "Tech notes/General Tools/IDEs and Editors/VS Code/Extensions/NodeJS Extensions.md"
-    },
-    {
-      "basename": "Markup Languages Comparison",
-      "path": "Tech notes/Computer Languages/Markup Languages/Markup Languages Comparison.md"
-    },
-    {
-      "basename": "Basic Markdown Syntax Guide",
-      "path": "Tech notes/Computer Languages/Markup Languages/Markdown/Basic Markdown Syntax Guide.md"
-    },
-    {
-      "basename": "SSO",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/SSO.md"
-    },
-    {
-      "basename": "Scalability",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Scalability.md"
-    },
-    {
-      "basename": "TTL",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/TTL.md"
-    },
-    {
-      "basename": "Message Queue",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Message Queue.md"
-    },
-    {
-      "basename": "Databases",
-      "path": "Tech notes/Databases/Databases.md"
-    },
-    {
-      "basename": "Consistency",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Transactions/Consistency.md"
-    },
-    {
-      "basename": "CDN",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/CDN.md"
-    },
-    {
-      "basename": "QUIC vs TCP",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Networking/QUIC vs TCP.md"
-    },
-    {
-      "basename": "QUIC",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Networking/QUIC.md"
-    },
-    {
-      "basename": "HTTP Methods",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Networking/HTTP/HTTP Methods/HTTP Methods.md"
-    },
-    {
-      "basename": "CONNECT",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Networking/HTTP/HTTP Methods/CONNECT.md"
-    },
-    {
-      "basename": "POST",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Networking/HTTP/HTTP Methods/POST.md"
-    },
-    {
-      "basename": "Idempotence",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Idempotence.md"
-    },
-    {
-      "basename": "MIME type",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/MIME type.md"
-    },
-    {
-      "basename": "2025-03-04",
-      "path": "Dailies/2025-03-04.md"
-    },
-    {
-      "basename": "Lazy Loading",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Loading.md"
-    },
-    {
-      "basename": "Ghost",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Loading Methods/Ghost.md"
-    },
-    {
-      "basename": "Value Holder",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Loading Methods/Value Holder.md"
     }
   ],
   "omittedPaths": [],

@@ -4,6 +4,7 @@ tags:
 aliases:
   - RDBMS
   - RDB
+  - SQL Databases
 ---
 A relational [[Databases|database]] (RDB) is a [[Databases|database]] based on the relational model of data. 
 (Derived by [[Relational Algebra]])

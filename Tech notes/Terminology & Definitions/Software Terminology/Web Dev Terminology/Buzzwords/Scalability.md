@@ -33,7 +33,7 @@ In software development and system design, a scalable system can grow without si
 ## 2. [[Databases|Database]] Scalability
 - **Read Replicas**: Distribute read queries across multiple [[Databases|database]] instances.
 - **[[Sharding]]**: Splitting large [[databases]] into smaller, independent partitions.
-- **[[NoSQL]] [[Databases]]**: Scalable alternatives like [[MongoDB]] or [[Cassandra]] for high-traffic applications.
+- **[[NoSQL Databases]]**: Scalable alternatives like [[MongoDB]] or [[Cassandra]] for high-traffic applications.
 ## 3. Infrastructure Scalability
 - **[[Load Balancing]]**: Distribute traffic across multiple servers (e.g., Nginx, AWS ELB).
 - **[[CDN]]s ([[CDN|Content Delivery Networks]])**: [[Cache]] content globally to reduce latency (e.g., Cloudflare, Akamai).

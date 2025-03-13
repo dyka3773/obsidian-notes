@@ -10,7 +10,7 @@ The purpose of this environment is to test on a near-production level but in a n
 Thus, it represents a safe space away from the public eye to make sure everything works as expected; it is kept invisible from end-users.
 
 The focus here is to test the application or software as a whole.
-Examples of the kind of test that can be run in this environment include [[smoke testing]] and in particular load testing since it can be difficult to replicate high volumes of traffic in a staging environment to test the software or application under stress.
+Examples of the kind of test that can be run in this environment include [[Smoke Testing]] and in particular load testing since it can be difficult to replicate high volumes of traffic in a staging environment to test the software or application under stress.
 
 However, keep in mind that a staging environment is not meant to be a substitute for a real-world [[Production environment]].
 

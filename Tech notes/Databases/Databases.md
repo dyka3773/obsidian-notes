@@ -11,7 +11,7 @@ Databases are a collection of data that is stored in a computer system.
 They are used to store, retrieve, and manage data. 
 Databases are used in many different applications, such as websites, mobile apps, and desktop applications. 
 There are many different types of databases, each with its own strengths and weaknesses. 
-Some of the most common types of databases include [[relational databases]], [[NoSQL databases]], and [[object-oriented databases]].
+Some of the most common types of databases include [[relational databases]], [[NoSQL Databases]], and [[object-oriented databases]].
 
 ## [[Relational Databases]]
 
@@ -33,11 +33,11 @@ Some popular [[relational databases]] include:
 
 ## [[NoSQL Databases]]
 
-[[NoSQL databases]] are a newer type of database that are designed to handle large amounts of [[unstructured data]].
+[[NoSQL Databases]] are a newer type of database that are designed to handle large amounts of [[Unstructured Data]].
 They are often used in [[big data]] applications, where traditional [[relational databases]] would be too slow or too expensive.
-[[NoSQL databases]] are more flexible than[[ relational databases]], and can store data in a variety of formats, such as [[key-value pairs]], documents, or graphs.
+[[NoSQL Databases]] are more flexible than[[ relational databases]], and can store data in a variety of formats, such as [[Key-Value Pairs]], documents, or graphs.
 
-Some popular NoSQL databases include:
+Some popular [[NoSQL Databases]] include:
 - [[MongoDB]]
 - [[Cassandra]]
 - [[Redis]]
@@ -66,5 +66,5 @@ Some popular object-oriented databases include:
 Databases are an essential part of modern computing.
 They are used to store, retrieve, and manage data in a variety of applications.
 There are many different types of databases, each with its own strengths and weaknesses.
-[[Relational databases]] are the most common type of database, but [[NoSQL databases|NoSQL]] and [[object-oriented databases]] are becoming increasingly popular.
+[[Relational databases]] are the most common type of database, but [[NoSQL Databases|NoSQL]] and [[object-oriented databases]] are becoming increasingly popular.
 Each type of database has its own use cases, and the choice of database will depend on the specific requirements of the application.

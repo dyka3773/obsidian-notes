@@ -30,7 +30,7 @@ Testing will determine the breaking point, the point at which extremes of [[scal
 Non-functional requirements tend to be those that reflect the quality of the product, particularly in the context of the suitability perspective of its users.
 
 ## Other Types of Testing
-- [[smoke testing]]
+- [[Smoke Testing]]
 - [[sanity testing]]
 - [[Performance Testing]]
 - Internationalization and localization testing

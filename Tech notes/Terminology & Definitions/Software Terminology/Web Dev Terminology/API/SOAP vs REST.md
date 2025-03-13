@@ -26,6 +26,6 @@ tags:
 
 |    [[SOAP]]     | [[REST]]  |
 | :-------------: | :-------: |
-| [[WS-Security]] | [[oAuth]] |
+| [[WS-Security]] | [[OAuth]] |
 |    [[SAML]]     |  [[JWT]]  |
 

@@ -12,6 +12,5 @@ The Basic version is a standalone server that is used for developing and deployi
 The Suite version is a more advanced version that includes additional features such as clustering, high availability, and security.
 
 ## Resources
-
 - [Weblogic Server Administration](https://www.youtube.com/playlist?list=PLRt-r4QiDOMfzsw2vchVr9xpcqq5gZt-1)
 - Possible tool to [[Hotswap]] Weblogic [here](https://github.com/HotswapProjects/HotswapAgent)
