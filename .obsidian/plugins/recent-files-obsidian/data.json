@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-03-13",
+      "path": "Dailies/2025-03-13.md"
+    },
+    {
       "basename": "Regular Expressions",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Regular Expressions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "General TODO Notes",
       "path": "General TODO Notes.md"
-    },
-    {
-      "basename": "Lazy Evaluation",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Creational Patterns/Lazy Patterns/Lazy Evaluation.md"
     }
   ],
   "omittedPaths": [],
