@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Index"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unlinked Notes"
+              "title": "Index"
             }
           }
         ],
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Unlinked Notes"
+              "title": "Graph of Index"
             }
           }
         ],
@@ -359,18 +359,18 @@
   },
   "active": "3b093614431806c6",
   "lastOpenFiles": [
-    "package-lock.json",
+    "Unlinked Notes.md",
     "package.json",
-    "node_modules/underscore/underscore-node.mjs",
+    "node_modules/http-signature/lib/utils.js",
+    "node_modules/http-signature/lib/verify.js",
+    "node_modules/http-signature/lib/index.js",
+    "node_modules/http-signature/lib",
+    "node_modules/har-validator/lib/error.js",
+    "node_modules/har-validator/lib/promise.js",
+    "node_modules/har-validator/lib",
+    "node_modules/form-data/lib/populate.js",
+    "node_modules/form-data/lib/form_data.js",
     "node_modules/underscore/README.md",
-    "node_modules/underscore/underscore-umd.js.map",
-    "node_modules/underscore/underscore-umd-min.js.map",
-    "node_modules/underscore/underscore-node.mjs.map",
-    "node_modules/underscore/underscore-node.cjs.map",
-    "node_modules/underscore/underscore-node-f.cjs.map",
-    "node_modules/underscore/underscore-min.js.map",
-    "node_modules/underscore/underscore.js",
-    "node_modules/json-stringify-safe/test/stringify_test.js",
     "node_modules/request/README.md",
     "node_modules/request/CHANGELOG.md",
     "node_modules/core-util-is/README.md",

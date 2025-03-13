@@ -26,4 +26,4 @@ LIMIT 10
 ```
 
 
-See also the [[Homepage]] for a general view.
+See also the [[Index]] for a general view.
