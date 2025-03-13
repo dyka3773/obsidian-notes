@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-03-13.md",
+                "file": "Unlinked Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-03-13"
+              "title": "Graph of Unlinked Notes"
             }
           }
         ],
@@ -338,24 +338,10 @@
                 "id": "b4ed249cac98091c",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dailies/2025-03-13.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-03-13"
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               }
             ]
@@ -366,48 +352,49 @@
         "y": 475,
         "width": 678,
         "height": 666,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "b4ed249cac98091c",
+  "active": "3b093614431806c6",
   "lastOpenFiles": [
-    "Unlinked Notes.md",
-    "Dailies/2025-03-13.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Smoke Testing.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Test Environments/Testing environment.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Test Environments/Test Environment.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Queues.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Lists.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Collections.md",
-    "Tech notes/Terminology & Definitions/Computer Science Terminology/Algorithm Terminology/LIFO & FIFO.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Maps.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Sets.md",
-    "Tech notes/Tech Notes TODO.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Autoboxing & Unboxing.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JavaEE/Frameworks/Weblogic.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Java Platform Acronyms",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Java Webservices.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Java Platform Acronyms/JVM",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features",
-    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Protocols/Security Protocols/OAuth.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/DBA Terminology/Structured vs Unstructured vs Semi-Structured Data.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Protocols/Security Protocols",
-    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Protocols",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Protocols/Untitled",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Protocols/Messaging Protocols/AMQP/AMQP.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Data Structures/Message Queue.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Protocols/Messaging Protocols/Messaging Protocols Comparison.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Protocols/Messaging Protocols",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Protocols/Messaging Protocols/AMQP/AMQP Exchange.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Protocols/Messaging Protocols/AMQP",
-    "empty files.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Protocols",
-    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Scalability.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Data Structures/Key-Value Pairs.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/DBA Terminology/Unstructured Data.md"
+    "package-lock.json",
+    "package.json",
+    "node_modules/underscore/underscore-node.mjs",
+    "node_modules/underscore/README.md",
+    "node_modules/underscore/underscore-umd.js.map",
+    "node_modules/underscore/underscore-umd-min.js.map",
+    "node_modules/underscore/underscore-node.mjs.map",
+    "node_modules/underscore/underscore-node.cjs.map",
+    "node_modules/underscore/underscore-node-f.cjs.map",
+    "node_modules/underscore/underscore-min.js.map",
+    "node_modules/underscore/underscore.js",
+    "node_modules/json-stringify-safe/test/stringify_test.js",
+    "node_modules/request/README.md",
+    "node_modules/request/CHANGELOG.md",
+    "node_modules/core-util-is/README.md",
+    "node_modules/punycode/README.md",
+    "node_modules/psl/SECURITY.md",
+    "node_modules/psl/README.md",
+    "node_modules/psl/browserstack-logo.svg",
+    "node_modules/tweetnacl/README.md",
+    "node_modules/tweetnacl/PULL_REQUEST_TEMPLATE.md",
+    "node_modules/tweetnacl/CHANGELOG.md",
+    "node_modules/tweetnacl/AUTHORS.md",
+    "node_modules/jsbn/README.md",
+    "node_modules/safer-buffer/Readme.md",
+    "node_modules/safer-buffer/Porting-Buffer.md",
+    "node_modules/getpass/README.md",
+    "node_modules/ecc-jsbn/README.md",
+    "node_modules/bcrypt-pbkdf/README.md",
+    "node_modules/bcrypt-pbkdf/CONTRIBUTING.md",
+    "node_modules/dashdash/README.md",
+    "node_modules/dashdash/CHANGES.md",
+    "node_modules/mime-db/README.md",
+    "node_modules/mime-db/HISTORY.md",
+    "node_modules/asn1/README.md",
+    "node_modules/verror/README.md",
+    "node_modules/verror/CONTRIBUTING.md"
   ]
 }
