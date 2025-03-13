@@ -21,8 +21,8 @@ jobs:
           source: ./
           # page title to be displayed in the browser
           page_title: "My Obsidian Notes"
-          quartz_config: .github/quartz/config.ts
-          quartz_layout: .github/quartz/layout.ts
+          quartz_config: .github/quartz/quartz.config.ts
+          quartz_layout: .github/quartz/quartz.layout.ts
           quartz_icon: .github/quartz/pherc1.png
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
