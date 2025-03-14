@@ -11,20 +11,18 @@ const config: QuartzConfig = {
     pageTitle: "My Obsidian Notes",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "shoal.konst.fish",
+    analytics: null,
+    locale: "en-GR",
+    baseUrl: "dyka3773.github.io/obsidian-notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Lexend",
+        body: "Roboto",
+        code: "Courier Prime",
       },
       colors: {
         lightMode: {

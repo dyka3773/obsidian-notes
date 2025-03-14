@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General TODO Notes.md",
+                "file": "Dailies/2025-03-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "General TODO Notes"
+              "title": "2025-03-14"
             }
           }
         ],
@@ -272,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "General TODO Notes.md",
+                "file": "Dailies/2025-03-14.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -322,7 +322,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General TODO Notes"
+              "title": "Graph of 2025-03-14"
             }
           }
         ],
@@ -374,8 +374,8 @@
         "direction": "vertical",
         "x": -1580,
         "y": 553,
-        "width": 931,
-        "height": 1074,
+        "width": 746,
+        "height": 860,
         "maximize": false,
         "zoom": 0
       }
@@ -383,9 +383,9 @@
   },
   "active": "d664d94adc409f1f",
   "lastOpenFiles": [
+    "General TODO Notes.md",
     "empty files.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/PHP/test.md",
-    "General TODO Notes.md",
     "Dailies/2025-03-14.md",
     "Dailies/2025-03-13.md",
     "Unlinked Notes.md",
