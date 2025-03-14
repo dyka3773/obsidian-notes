@@ -54,38 +54,45 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
+        priority: ["frontmatter", "git", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
           dark: "github-dark",
         },
-        keepBackground: false,
+        keepBackground: true,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown(),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
-      Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.TableOfContents({
+        maxDepth: 6,
+        minEntries: 2
+      }),
+      Plugin.HardLineBreaks(),
+      Plugin.CrawlLinks({ 
+        markdownLinkResolution: "shortest" ,
+        prettyLinks: true,
+        externalLinksIcon: true
+      }),
+      Plugin.Description({
+        replaceExternalLinks: true
+      }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      // Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
-        enableRSS: true,
+        enableRSS: false,
       }),
       Plugin.Assets(),
       Plugin.Static(),
-      Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      Plugin.NotFoundPage()
     ],
   },
 }
