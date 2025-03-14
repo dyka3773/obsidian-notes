@@ -11,9 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "My Obsidian Notes",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
     baseUrl: "dyka3773.github.io/obsidian-notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
@@ -29,12 +27,12 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#F0F7F4",
-          lightgray: "#A2E3C4",
-          gray: "#7CA982",
+          lightgray: "#FFD966",
+          gray: "#F1C232",
           darkgray: "#434343",
-          dark: "#FFC000",
-          secondary: "#FFD966",
-          tertiary: "#F1C232",
+          dark: "#5762D5",
+          secondary: "#A2E3C4",
+          tertiary: "#7CA982",
           highlight: "rgba(201, 237, 220, 0.15)",
         },
         darkMode: {
