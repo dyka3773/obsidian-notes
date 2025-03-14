@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Dailies/2025-03-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "2025-03-14"
             }
           }
         ],
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Index.md",
+                "file": "Dailies/2025-03-14.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Index"
+              "title": "Graph of 2025-03-14"
             }
           }
         ],
@@ -322,43 +322,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "floating": {
-    "id": "af9f86032b11c618",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d254b612f7a4714d",
-        "type": "window",
-        "children": [
-          {
-            "id": "55e8a9c33a56fdb0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b4ed249cac98091c",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1130,
-        "y": 475,
-        "width": 678,
-        "height": 666,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "3b093614431806c6",
   "lastOpenFiles": [
+    "Index.md",
+    "Dailies/2025-03-14.md",
     "Unlinked Notes.md",
     "package.json",
     "node_modules/http-signature/lib/utils.js",
@@ -393,8 +360,6 @@
     "node_modules/dashdash/CHANGES.md",
     "node_modules/mime-db/README.md",
     "node_modules/mime-db/HISTORY.md",
-    "node_modules/asn1/README.md",
-    "node_modules/verror/README.md",
-    "node_modules/verror/CONTRIBUTING.md"
+    "node_modules/asn1/README.md"
   ]
 }
