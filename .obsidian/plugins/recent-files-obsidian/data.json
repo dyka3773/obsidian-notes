@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Index",
+      "path": "Index.md"
+    },
+    {
       "basename": "2025-03-14",
       "path": "Dailies/2025-03-14.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Tech Notes TODO",
       "path": "Tech notes/Tech Notes TODO.md"
-    },
-    {
-      "basename": "Index",
-      "path": "Index.md"
     }
   ],
   "omittedPaths": [],

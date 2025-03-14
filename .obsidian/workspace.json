@@ -79,8 +79,7 @@
               "title": "2025-03-14"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,7 +271,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-03-14.md",
+                "file": "Index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -322,7 +321,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-03-14"
+              "title": "Graph of Index"
             }
           }
         ],
@@ -362,10 +361,24 @@
                 "id": "10853345001415cd",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dailies/2025-03-14.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-03-14"
                 }
               }
             ]
@@ -376,17 +389,17 @@
         "y": 553,
         "width": 746,
         "height": 860,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "d664d94adc409f1f",
+  "active": "27ada9698e9caea8",
   "lastOpenFiles": [
+    "Dailies/2025-03-14.md",
     "General TODO Notes.md",
     "empty files.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/PHP/test.md",
-    "Dailies/2025-03-14.md",
     "Dailies/2025-03-13.md",
     "Unlinked Notes.md",
     "Tech notes/Tech Notes TODO.md",
