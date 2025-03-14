@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Index",
-      "path": "Index.md"
-    },
-    {
       "basename": "2025-03-14",
       "path": "Dailies/2025-03-14.md"
+    },
+    {
+      "basename": "CRUD",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/CRUD.md"
+    },
+    {
+      "basename": "Java",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Java.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Index.md"
     },
     {
       "basename": "General TODO Notes",
