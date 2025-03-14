@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "3b093614431806c6",
+            "id": "df244a3b9f2dbd73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-03-14.md",
+                "file": "Unlinked Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,16 +47,40 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": false
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-14"
+              "title": "Unlinked Notes"
+            }
+          },
+          {
+            "id": "d664d94adc409f1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General TODO Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "General TODO Notes"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-03-14.md",
+                "file": "General TODO Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +322,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-03-14"
+              "title": "Graph of General TODO Notes"
             }
           }
         ],
@@ -322,11 +346,51 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "3b093614431806c6",
+  "floating": {
+    "id": "3b48582dd3392dc4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "77206cdc54e704b7",
+        "type": "window",
+        "children": [
+          {
+            "id": "7c98bb0e92564faa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "10853345001415cd",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1580,
+        "y": 553,
+        "width": 931,
+        "height": 1074,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d664d94adc409f1f",
   "lastOpenFiles": [
-    "Index.md",
+    "empty files.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/PHP/test.md",
+    "General TODO Notes.md",
     "Dailies/2025-03-14.md",
+    "Dailies/2025-03-13.md",
     "Unlinked Notes.md",
+    "Tech notes/Tech Notes TODO.md",
+    "Index.md",
     "package.json",
     "node_modules/http-signature/lib/utils.js",
     "node_modules/http-signature/lib/verify.js",
@@ -355,11 +419,6 @@
     "node_modules/getpass/README.md",
     "node_modules/ecc-jsbn/README.md",
     "node_modules/bcrypt-pbkdf/README.md",
-    "node_modules/bcrypt-pbkdf/CONTRIBUTING.md",
-    "node_modules/dashdash/README.md",
-    "node_modules/dashdash/CHANGES.md",
-    "node_modules/mime-db/README.md",
-    "node_modules/mime-db/HISTORY.md",
-    "node_modules/asn1/README.md"
+    "node_modules/bcrypt-pbkdf/CONTRIBUTING.md"
   ]
 }

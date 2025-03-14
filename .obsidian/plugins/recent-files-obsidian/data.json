@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "General TODO Notes",
+      "path": "General TODO Notes.md"
+    },
+    {
+      "basename": "empty files",
+      "path": "empty files.md"
+    },
+    {
       "basename": "2025-03-14",
       "path": "Dailies/2025-03-14.md"
     },
     {
-      "basename": "Index",
-      "path": "Index.md"
+      "basename": "2025-03-13",
+      "path": "Dailies/2025-03-13.md"
     },
     {
       "basename": "Unlinked Notes",
       "path": "Unlinked Notes.md"
     },
     {
-      "basename": "2025-03-13",
-      "path": "Dailies/2025-03-13.md"
+      "basename": "Tech Notes TODO",
+      "path": "Tech notes/Tech Notes TODO.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Index.md"
     }
   ],
   "omittedPaths": [],

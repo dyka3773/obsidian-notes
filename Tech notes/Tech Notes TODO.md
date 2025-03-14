@@ -5,6 +5,10 @@ tags:
 ---
 
 - [ ] [[Camunda]]
+- [ ] [[FastAPI]]
+- [ ] [[Flask]]
+- [ ] [[ASGI]]
+- [ ] [[WSGI]]
 
 ## Unlinked mentions in each file
 

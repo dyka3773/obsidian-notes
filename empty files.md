@@ -1,2 +1,2 @@
 - [[Tech notes/Docker/Docker.md]]
-- [[XML]]
+- [[Tech notes/Computer Languages/Data Exchange Languages/XML/XML.md]]
