@@ -11,8 +11,10 @@ const config: QuartzConfig = {
     pageTitle: "My Obsidian Notes",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
-    locale: "en-GR",
+    analytics: {
+      provider: "plausible",
+    },
+    locale: "en-US",
     baseUrl: "dyka3773.github.io/obsidian-notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
