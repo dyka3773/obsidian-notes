@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "dyka3773.github.io/obsidian-notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -26,14 +26,14 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#F0F7F4",
-          lightgray: "#FFD966",
-          gray: "#F1C232",
-          darkgray: "#434343",
-          dark: "#5762D5",
-          secondary: "#A2E3C4",
-          tertiary: "#7CA982",
-          highlight: "rgba(201, 237, 220, 0.15)",
+          light: "#E6E8E6",
+          lightgray: "#F2D993",
+          gray: "#FDCA40",
+          darkgray: "#836924",
+          dark: "#080708",
+          secondary: "#1098F7",
+          tertiary: "#379634",
+          highlight: "rgba(242, 217, 147, 0.15)",
         },
         darkMode: {
           light: "#161618",
