@@ -69,7 +69,7 @@ const config: QuartzConfig = {
         maxDepth: 6,
         minEntries: 2
       }),
-      Plugin.HardLineBreaks(),
+      // Plugin.HardLineBreaks(),
       Plugin.CrawlLinks({ 
         markdownLinkResolution: "shortest" ,
         prettyLinks: true,
