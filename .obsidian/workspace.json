@@ -182,12 +182,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech notes/Docker/Docker.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Docker"
+              "title": "Outgoing links"
             }
           },
           {
@@ -211,13 +210,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech notes/Docker/Docker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Docker"
+              "title": "Outline"
             }
           },
           {
@@ -273,7 +271,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tech notes/Docker/Docker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -323,7 +320,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Docker"
+              "title": "Graph view"
             }
           }
         ],
@@ -382,11 +379,11 @@
       }
     ]
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "d664d94adc409f1f",
   "lastOpenFiles": [
+    "Tech notes/Docker/Docker.md",
     "Tech notes/Docker/Docker Swarm vs Kubernetes.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Scalability.md",
-    "Tech notes/Docker/Docker.md",
     "General TODO Notes.md",
     "empty files.md",
     "Tech notes/Computer Languages/Data Exchange Languages/XML vs JSON.md",
