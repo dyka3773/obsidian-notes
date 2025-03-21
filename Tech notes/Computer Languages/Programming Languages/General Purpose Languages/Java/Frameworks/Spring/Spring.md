@@ -22,7 +22,7 @@ If you are just getting started with Spring, you may want to begin using the Spr
 ## Creating and managing [[JavaBean|beans]]
 
 Objects created by the container are called managed objects or [[JavaBean|beans]].
-The container can be configured by loading [[XML]] (Extensible Markup Language) files or detecting specific [[Java]] annotations on configuration classes. 
+The container can be configured by loading [[XML]] ([[XML|Extensible Markup Language]]) files or detecting specific [[Java]] annotations on configuration classes. 
 These data sources contain the [[JavaBean|bean]] definitions that provide the information required to create the [[JavaBean|beans]].
 
 The `@Configuration` is a Spring-specific annotation that marks a class as the configuration class. The configuration class provides the [[JavaBean|beans]] to the Spring `ApplicationContext`.

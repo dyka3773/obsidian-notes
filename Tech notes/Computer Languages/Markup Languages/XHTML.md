@@ -22,7 +22,7 @@ It is stricter than [[HTML]] and ensures well-formed documents that are more con
 
 ## Disadvantages
 - Stricter Rules: Requires well-formed markup.
-- Deprecated in Favor of HTML5: HTML5 offers similar benefits without strict XML rules.
+- Deprecated in Favor of HTML5: HTML5 offers similar benefits without strict [[XML]] rules.
 - More Verbose: Requires explicit closing tags and attributes.
 
 # HTML vs XHTML
@@ -32,5 +32,5 @@ It is stricter than [[HTML]] and ensures well-formed documents that are more con
 | Element Closing        | **Optional in some cases** (`<p>Text`)   | **Mandatory** (`<p>Text</p>`)                 |
 | Attribute Quotes       | **Optional** (`width=100`)               | **Required** (`width="100"`)                  |
 | Attribute Minimization | **Allowed** (`<input checked>`)          | **Not Allowed** (`<input checked="checked">`) |
-| Nesting Rules          | **Lenient**                              | **Strictly follows XML rules**                |
+| Nesting Rules          | **Lenient**                              | **Strictly follows [[XML]] rules**                |
 | Doctype Declaration    | **Multiple formats**                     | **Strict doctype required**                   |

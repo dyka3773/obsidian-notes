@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Docker",
+      "path": "Tech notes/Docker/Docker.md"
+    },
+    {
+      "basename": "Docker Swarm vs Kubernetes",
+      "path": "Tech notes/Docker/Docker Swarm vs Kubernetes.md"
+    },
+    {
+      "basename": "Scalability",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Scalability.md"
+    },
+    {
+      "basename": "General TODO Notes",
+      "path": "General TODO Notes.md"
+    },
+    {
+      "basename": "empty files",
+      "path": "empty files.md"
+    },
+    {
+      "basename": "XML vs JSON",
+      "path": "Tech notes/Computer Languages/Data Exchange Languages/XML vs JSON.md"
+    },
+    {
+      "basename": "XML",
+      "path": "Tech notes/Computer Languages/Data Exchange Languages/XML/XML.md"
+    },
+    {
       "basename": "Transitive Dependency",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Transitive Dependency.md"
     },
@@ -33,10 +61,6 @@
       "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Lists.md"
     },
     {
-      "basename": "General TODO Notes",
-      "path": "General TODO Notes.md"
-    },
-    {
       "basename": "2025-03-21",
       "path": "Dailies/2025-03-21.md"
     },
@@ -51,10 +75,6 @@
     {
       "basename": "Java",
       "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Java.md"
-    },
-    {
-      "basename": "empty files",
-      "path": "empty files.md"
     },
     {
       "basename": "2025-03-13",

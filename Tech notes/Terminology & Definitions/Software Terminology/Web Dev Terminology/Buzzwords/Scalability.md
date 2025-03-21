@@ -4,6 +4,7 @@ tags:
 aliases:
   - scalable
   - scale
+  - scaling
 ---
 Scalability is the ability of a system to handle increasing workloads efficiently by adding resources (hardware, software, or both) while maintaining or improving performance. 
 In software development and system design, a scalable system can grow without significant redesign or degradation in functionality.
