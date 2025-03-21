@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Text-to-SQL.md",
+                "file": "Dailies/2025-03-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Text-to-SQL"
+              "title": "2025-03-21"
             }
           }
         ],
@@ -273,7 +273,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Text-to-SQL.md",
+                "file": "Dailies/2025-03-21.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -323,7 +323,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Text-to-SQL"
+              "title": "Graph of 2025-03-21"
             }
           }
         ],
@@ -382,8 +382,9 @@
       }
     ]
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "7ef4bfca1d394a69",
   "lastOpenFiles": [
+    "Dailies/2025-03-21.md",
     "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Text-to-SQL.md",
     "Unlinked Notes.md",
     "Tech notes/Databases/Relational Databases/Relational Databases.md",
@@ -402,7 +403,6 @@
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Collections.md",
     "Tech notes/Terminology & Definitions/Computer Science Terminology/Algorithm Terminology/LIFO & FIFO.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Lists.md",
-    "Dailies/2025-03-21.md",
     "Dailies/2025-03-14.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/CRUD.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Java.md",
