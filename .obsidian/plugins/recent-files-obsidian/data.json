@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Text-to-SQL",
+      "path": "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Text-to-SQL.md"
+    },
+    {
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
+    },
+    {
+      "basename": "Relational Databases",
+      "path": "Tech notes/Databases/Relational Databases/Relational Databases.md"
+    },
+    {
       "basename": "Docker",
       "path": "Tech notes/Docker/Docker.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "Transient Keyword",
       "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Transient Keyword.md"
-    },
-    {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
     },
     {
       "basename": "Smoke Testing",

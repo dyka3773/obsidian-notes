@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "7ef4bfca1d394a69",
+            "id": "c82a0f77936b2165",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "4b0e1d73d51a13f6",
+            "id": "7ef4bfca1d394a69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech notes/Docker/Docker.md",
+                "file": "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Text-to-SQL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,12 +71,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": false
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Text-to-SQL"
             }
           }
         ],
@@ -182,11 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Text-to-SQL.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Text-to-SQL"
             }
           },
           {
@@ -210,12 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Text-to-SQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Text-to-SQL"
             }
           },
           {
@@ -271,6 +273,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Text-to-SQL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -320,7 +323,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Text-to-SQL"
             }
           }
         ],
@@ -374,13 +377,17 @@
         "y": 194,
         "width": 826,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "d664d94adc409f1f",
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
+    "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Text-to-SQL.md",
+    "Unlinked Notes.md",
+    "Tech notes/Databases/Relational Databases/Relational Databases.md",
+    "Tech notes/Terminology & Definitions/Computer Science Terminology/AI",
     "Tech notes/Docker/Docker.md",
     "Tech notes/Docker/Docker Swarm vs Kubernetes.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Scalability.md",
@@ -391,7 +398,6 @@
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Transitive Dependency.md",
     "index.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Transient Keyword.md",
-    "Unlinked Notes.md",
     "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Smoke Testing.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Collections.md",
     "Tech notes/Terminology & Definitions/Computer Science Terminology/Algorithm Terminology/LIFO & FIFO.md",
@@ -412,11 +418,8 @@
     "node_modules/har-validator/lib/promise.js",
     "node_modules/har-validator/lib",
     "node_modules/form-data/lib/populate.js",
-    "node_modules/form-data/lib/form_data.js",
     "node_modules/underscore/README.md",
     "node_modules/request/README.md",
-    "node_modules/request/CHANGELOG.md",
-    "node_modules/core-util-is/README.md",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }
