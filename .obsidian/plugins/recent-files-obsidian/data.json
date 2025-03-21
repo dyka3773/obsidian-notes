@@ -5,16 +5,16 @@
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Transitive Dependency.md"
     },
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Transient Keyword",
       "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Transient Keyword.md"
     },
     {
       "basename": "Unlinked Notes",
       "path": "Unlinked Notes.md"
-    },
-    {
-      "basename": "Index",
-      "path": "Index.md"
     },
     {
       "basename": "Smoke Testing",
