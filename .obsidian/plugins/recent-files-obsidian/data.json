@@ -1,20 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-03-21",
-      "path": "Dailies/2025-03-21.md"
+      "basename": "Transitive Dependency",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Transitive Dependency.md"
     },
     {
-      "basename": "General TODO Notes",
-      "path": "General TODO Notes.md"
-    },
-    {
-      "basename": "2025-03-14",
-      "path": "Dailies/2025-03-14.md"
-    },
-    {
-      "basename": "Java Lists",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Lists.md"
+      "basename": "Transient Keyword",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Transient Keyword.md"
     },
     {
       "basename": "Unlinked Notes",
@@ -23,6 +15,34 @@
     {
       "basename": "Index",
       "path": "Index.md"
+    },
+    {
+      "basename": "Smoke Testing",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Smoke Testing.md"
+    },
+    {
+      "basename": "Collections",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Collections.md"
+    },
+    {
+      "basename": "LIFO & FIFO",
+      "path": "Tech notes/Terminology & Definitions/Computer Science Terminology/Algorithm Terminology/LIFO & FIFO.md"
+    },
+    {
+      "basename": "Java Lists",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Lists.md"
+    },
+    {
+      "basename": "General TODO Notes",
+      "path": "General TODO Notes.md"
+    },
+    {
+      "basename": "2025-03-21",
+      "path": "Dailies/2025-03-21.md"
+    },
+    {
+      "basename": "2025-03-14",
+      "path": "Dailies/2025-03-14.md"
     },
     {
       "basename": "CRUD",

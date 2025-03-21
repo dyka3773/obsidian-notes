@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27ada9698e9caea8",
+            "id": "1a07f754c05c44ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-03-21.md",
+                "file": "General TODO Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-21"
+              "title": "General TODO Notes"
             }
           },
           {
-            "id": "df244a3b9f2dbd73",
+            "id": "7ef4bfca1d394a69",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "10853345001415cd",
+            "id": "df244a3b9f2dbd73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Lists.md",
+                "file": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Transitive Dependency.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,15 +71,16 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "Java Lists"
+              "title": "Transitive Dependency"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dailies/2025-03-21.md",
+                "file": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Transitive Dependency.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-03-21"
+              "title": "Outgoing links from Transitive Dependency"
             }
           },
           {
@@ -235,8 +236,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -250,7 +251,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "29a106e995e55d1a",
@@ -272,7 +273,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-03-21.md",
+                "file": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Transitive Dependency.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -322,7 +323,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-03-21"
+              "title": "Graph of Transitive Dependency"
             }
           }
         ],
@@ -372,23 +373,28 @@
           }
         ],
         "direction": "vertical",
-        "x": -1580,
-        "y": 553,
-        "width": 746,
-        "height": 860,
-        "maximize": true,
+        "x": -1920,
+        "y": 194,
+        "width": 826,
+        "height": 1040,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "27ada9698e9caea8",
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Transitive Dependency.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Transient Keyword.md",
+    "Unlinked Notes.md",
+    "Index.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Smoke Testing.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Collections.md",
+    "Tech notes/Terminology & Definitions/Computer Science Terminology/Algorithm Terminology/LIFO & FIFO.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Lists.md",
     "General TODO Notes.md",
     "Dailies/2025-03-21.md",
     "Dailies/2025-03-14.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Lists.md",
-    "Unlinked Notes.md",
-    "Index.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/CRUD.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Java.md",
     "empty files.md",
@@ -414,11 +420,6 @@
     "node_modules/psl/README.md",
     "node_modules/psl/browserstack-logo.svg",
     "node_modules/tweetnacl/README.md",
-    "node_modules/tweetnacl/PULL_REQUEST_TEMPLATE.md",
-    "node_modules/tweetnacl/CHANGELOG.md",
-    "node_modules/tweetnacl/AUTHORS.md",
-    "node_modules/jsbn/README.md",
-    "node_modules/safer-buffer/Readme.md",
-    "node_modules/safer-buffer/Porting-Buffer.md"
+    "node_modules/tweetnacl/PULL_REQUEST_TEMPLATE.md"
   ]
 }
