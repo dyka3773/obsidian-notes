@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Homepage"
             }
           },
           {
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "Homepage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of index"
+              "title": "Graph of Homepage"
             }
           }
         ],
@@ -364,8 +364,8 @@
         "direction": "vertical",
         "x": -1920,
         "y": 194,
-        "width": 685,
-        "height": 832,
+        "width": 550,
+        "height": 666,
         "maximize": false,
         "zoom": 0
       }
@@ -373,8 +373,8 @@
   },
   "active": "1a07f754c05c44ea",
   "lastOpenFiles": [
-    "General TODO Notes.md",
     "Dailies/2025-03-22.md",
+    "General TODO Notes.md",
     "Unlinked Notes.md",
     "Tech notes/Databases/Relational Databases/Features/Views/Database View.md",
     "Tech notes/Databases/Databases.md",
