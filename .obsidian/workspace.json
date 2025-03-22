@@ -55,8 +55,7 @@
               "title": "Unlinked Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,6 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "General TODO Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of General TODO Notes"
             }
           }
         ],
@@ -338,10 +338,24 @@
                 "id": "d664d94adc409f1f",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dailies/2025-03-22.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-03-22"
                 }
               }
             ]
@@ -357,8 +371,9 @@
       }
     ]
   },
-  "active": "d664d94adc409f1f",
+  "active": "1a07f754c05c44ea",
   "lastOpenFiles": [
+    "Dailies/2025-03-22.md",
     "Unlinked Notes.md",
     "Tech notes/Databases/Relational Databases/Features/Views/Database View.md",
     "Tech notes/Databases/Databases.md",
@@ -391,7 +406,6 @@
     "empty files.md",
     "Tech notes/Computer Languages/Data Exchange Languages/XML vs JSON.md",
     "Tech notes/Computer Languages/Data Exchange Languages/XML/XML.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Transitive Dependency.md",
     "package.json",
     "node_modules/http-signature/lib/utils.js",
     "node_modules/http-signature/lib/verify.js",
