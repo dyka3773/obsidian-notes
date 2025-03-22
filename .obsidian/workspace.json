@@ -249,7 +249,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unlinked Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Unlinked Notes"
+              "title": "Graph view"
             }
           }
         ],
@@ -351,22 +350,22 @@
         "direction": "vertical",
         "x": -1920,
         "y": 194,
-        "width": 855,
-        "height": 1040,
+        "width": 685,
+        "height": 832,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "d664d94adc409f1f",
   "lastOpenFiles": [
+    "Unlinked Notes.md",
     "Tech notes/Databases/Relational Databases/Features/Views/Database View.md",
     "Tech notes/Databases/Databases.md",
     "Tech notes/Databases/Relational Databases/Features/Views/Normal vs Materialized Views.md",
     "Tech notes/Databases/Relational Databases/Relational Databases.md",
     "Tech notes/Databases/Relational Databases/Features/Views",
     "Tech notes/Databases/Relational Databases/Features",
-    "Unlinked Notes.md",
     "Tech notes/General Frameworks/Redis.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Transactions/Atomicity.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Paradigms/Concurrent Paradigm/Concurrent Paradigm in Python.md",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "General TODO Notes",
+      "path": "General TODO Notes.md"
+    },
+    {
+      "basename": "2025-03-22",
+      "path": "Dailies/2025-03-22.md"
+    },
+    {
       "basename": "Unlinked Notes",
       "path": "Unlinked Notes.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "asyncio",
       "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Native/asyncio.md"
-    },
-    {
-      "basename": "General TODO Notes",
-      "path": "General TODO Notes.md"
     },
     {
       "basename": "threading",
