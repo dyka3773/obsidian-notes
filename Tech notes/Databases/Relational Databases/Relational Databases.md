@@ -26,7 +26,7 @@ For example, each row of a "class" table corresponds to a class, and a "class" c
 - [[Keys]]
 - [[Database Transactions]]
 - [[Stored Procedures]]
-- [[Views]]
+- [[Database View]]
 - [[Constraints]]
 - [[Triggers]]
 - [[Database Index|Index]]

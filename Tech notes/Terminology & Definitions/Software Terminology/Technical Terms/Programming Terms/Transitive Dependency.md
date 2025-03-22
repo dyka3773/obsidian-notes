@@ -7,7 +7,7 @@ aliases:
 A **transitive dependency** occurs when **A depends on B, and B depends on C, leading A to indirectly depend on C**.
 
 # Transitive Dependency in [[Databases]] (Normalization)
-In **[[relational databases]]**, a transitive dependency exists when a **non-key attribute depends on another non-key attribute** rather than directly on the [[primary key]].
+In **[[relational databases]]**, a transitive dependency exists when a **non-key attribute depends on another non-key attribute** rather than directly on the [[Primary Key]].
 This violates **Third Normal Form ([[3NF]])**.
 
 ## Example: Breaking a Transitive Dependency

@@ -1,6 +1,8 @@
 ---
 tags:
   - tech
+aliases:
+  - atomic
 ---
 [[Transactions]] are often composed of multiple statements. 
 Atomicity guarantees that each [[Transactions|transaction]] is treated as a single "unit", which either succeeds completely or fails completely: if any of the statements constituting a [[Transactions|transaction]] fails to complete, the entire [[Transactions|transaction]] fails and the [[Databases|database]] is left unchanged.

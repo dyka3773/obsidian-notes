@@ -13,7 +13,7 @@ Any logical calculation done in a consistent mode in a [[Databases|database]] is
 One example is a transfer from one bank account to another: the complete transaction requires subtracting the amount to be transferred from one account and adding that same amount to the other.
 
 A database transaction, by definition, must be:
-- atomic (it must either be complete in its entirety or have no effect whatsoever), 
+- [[Atomicity|atomic]] (it must either be complete in its entirety or have no effect whatsoever), 
 - consistent (it must conform to existing [[constraints]] in the [[Databases|database]]), 
 - isolated (it must not affect other transactions) and 
 - durable (it must get written to persistent storage). 

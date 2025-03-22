@@ -5,7 +5,7 @@ tags:
 Git is a distributed version control system that tracks versions of files.
 It is often used to control source code by programmers who are developing software collaboratively.
 
-Frequently used commands for Git's command-line interface include:
+Frequently used commands for Git's [[CLI|command-line interface]] include:
 - `git init`, which is used to create a git repository.
 - `git clone [URL]`, which _clones_, or duplicates, a git repository from an external URL.
 - `git add [file]`, which adds a file to git's _working directory_ (files about to be committed).

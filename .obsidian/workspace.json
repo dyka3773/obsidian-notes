@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "Unlinked Notes"
             }
-          },
-          {
-            "id": "7ef4bfca1d394a69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dailies/2025-03-21.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-21"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Text-to-SQL.md",
+                "file": "Unlinked Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Text-to-SQL"
+              "title": "Outgoing links from Unlinked Notes"
             }
           },
           {
@@ -273,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-03-21.md",
+                "file": "Unlinked Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -318,12 +294,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5359795996225952,
+                  "scale": 0.5359795996225954,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-03-21"
+              "title": "Graph of Unlinked Notes"
             }
           }
         ],
@@ -375,51 +351,51 @@
         "direction": "vertical",
         "x": -1920,
         "y": 194,
-        "width": 826,
+        "width": 855,
         "height": 1040,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "7ef4bfca1d394a69",
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
-    "Dailies/2025-03-21.md",
-    "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Text-to-SQL.md",
-    "Unlinked Notes.md",
+    "Tech notes/Databases/Relational Databases/Features/Views/Database View.md",
+    "Tech notes/Databases/Databases.md",
+    "Tech notes/Databases/Relational Databases/Features/Views/Normal vs Materialized Views.md",
     "Tech notes/Databases/Relational Databases/Relational Databases.md",
+    "Tech notes/Databases/Relational Databases/Features/Views",
+    "Tech notes/Databases/Relational Databases/Features",
+    "Unlinked Notes.md",
+    "Tech notes/General Frameworks/Redis.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Transactions/Atomicity.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Paradigms/Concurrent Paradigm/Concurrent Paradigm in Python.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Native/asyncio.md",
+    "General TODO Notes.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Native/threading.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Native/multiprocessing.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Native",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Paradigms/Concurrent Paradigm",
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/CLI.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Jython.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Libraries/JDBC.md",
+    "Tech notes/Data Formats/CSV.md",
+    "Tech notes/Computer Languages/Programming Languages/Domain Specific Language/Data Query Languages/XPath.md",
+    "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Text-to-SQL.md",
+    "Dailies/2025-03-21.md",
     "Tech notes/Terminology & Definitions/Computer Science Terminology/AI",
     "Tech notes/Docker/Docker.md",
     "Tech notes/Docker/Docker Swarm vs Kubernetes.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Scalability.md",
-    "General TODO Notes.md",
     "empty files.md",
     "Tech notes/Computer Languages/Data Exchange Languages/XML vs JSON.md",
     "Tech notes/Computer Languages/Data Exchange Languages/XML/XML.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Transitive Dependency.md",
-    "index.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Transient Keyword.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Smoke Testing.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Collections.md",
-    "Tech notes/Terminology & Definitions/Computer Science Terminology/Algorithm Terminology/LIFO & FIFO.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Lists.md",
-    "Dailies/2025-03-14.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/CRUD.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Java.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/PHP/test.md",
-    "Dailies/2025-03-13.md",
-    "Tech notes/Tech Notes TODO.md",
     "package.json",
     "node_modules/http-signature/lib/utils.js",
     "node_modules/http-signature/lib/verify.js",
-    "node_modules/http-signature/lib/index.js",
-    "node_modules/http-signature/lib",
-    "node_modules/har-validator/lib/error.js",
-    "node_modules/har-validator/lib/promise.js",
-    "node_modules/har-validator/lib",
-    "node_modules/form-data/lib/populate.js",
-    "node_modules/underscore/README.md",
-    "node_modules/request/README.md",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }

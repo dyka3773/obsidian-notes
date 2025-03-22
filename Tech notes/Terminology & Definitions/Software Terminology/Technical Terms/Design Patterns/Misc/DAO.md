@@ -34,7 +34,7 @@ public interface UserDAO {
 }
 ```
 
-## A. DAO Implementation with JDBC
+## A. DAO Implementation with [[JDBC]]
 ```java
 public class UserDAOImpl implements UserDAO {
     private Connection connection;

@@ -4,7 +4,7 @@ tags:
 aliases:
   - synonym
 ---
-A synonym is an alias for a table, view, sequence, or program unit.
+A synonym is an alias for a table, [[Database View|view]], sequence, or program unit.
 It is used to provide an alternative name for an object or a level of encapsulation for an object.
     
 ```sql

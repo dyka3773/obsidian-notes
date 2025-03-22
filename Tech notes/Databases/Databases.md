@@ -5,6 +5,7 @@ aliases:
   - DBMS
   - database
   - DB
+  - DBMSs
 ---
 
 Databases are a collection of data that is stored in a computer system.

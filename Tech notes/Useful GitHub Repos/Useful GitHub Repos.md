@@ -57,7 +57,7 @@ Description: A list of cool features of [[Git]] and GitHub.
 ## The Book of Secret Knowledge
 Link: [Here](https://github.com/trimstray/the-book-of-secret-knowledge)
 
-Description: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+Description: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, [[cli]]/web tools and more.
 
 # Other Types of Repos
 

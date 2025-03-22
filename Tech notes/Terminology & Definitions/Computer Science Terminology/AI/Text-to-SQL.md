@@ -48,4 +48,13 @@ AND department = 'IT';
 ## 3. Hybrid Approach
 - Combines **rule-based methods** with **ML/NLP models**.
 - **Best of both worlds** – good accuracy and flexibility.
-
+# Challenges in Text-to-SQL
+- **Complex Queries & Joins**: Handling multiple tables, subqueries, and aggregations.
+- **Ambiguity in Natural Language**: Requires **context awareness** to avoid incorrect queries.
+- **Database Schema Mapping**: AI must understand **table structures, relationships, and [[Keys]]**.
+- **[[Scalability]]**: Needs optimization for large datasets and real-time queries.
+# Best Practices for Text-to-SQL Implementation
+- **Predefine Table Schema**: Helps AI understand column names and relationships.
+- **Handle Ambiguity**: Ask users for clarification if necessary.
+- **Optimize [[SQL]] Queries**: Ensure performance by avoiding inefficient queries.
+- **Allow User Feedback**: Let users refine [[SQL]] before execution.
