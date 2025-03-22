@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "General TODO Notes",
       "path": "General TODO Notes.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "Transitive Dependency",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Transitive Dependency.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Transient Keyword",
