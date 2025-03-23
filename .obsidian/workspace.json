@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Homepage.md",
+                "file": "Dailies/2025-03-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Homepage"
+              "title": "Graph of 2025-03-23"
             }
           }
         ],
@@ -366,16 +366,16 @@
         "y": 194,
         "width": 442,
         "height": 534,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "1a07f754c05c44ea",
+  "active": "d664d94adc409f1f",
   "lastOpenFiles": [
+    "Homepage.md",
     "Dailies/2025-03-23.md",
     "Dailies/2025-03-22.md",
-    "Homepage.md",
     "General TODO Notes.md",
     "Unlinked Notes.md",
     "Tech notes/Databases/Relational Databases/Features/Views/Database View.md",
