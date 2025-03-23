@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "22138462b3fc33b2",
+        "id": "6255b62658f8fe20",
         "type": "tabs",
         "children": [
           {
-            "id": "1a07f754c05c44ea",
+            "id": "55349870a3870b44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking/Recipes.md",
+                "file": "Cooking/Recipes/Breakfast/Peinirli.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Recipes"
-            }
-          },
-          {
-            "id": "fbc3f55568de5a20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Recipe template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Recipe template"
+              "title": "Peinirli"
             }
           }
         ]
@@ -157,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cooking/Recipes.md",
+                "file": "Cooking/Recipes/Breakfast/Peinirli.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Recipes"
+              "title": "Outgoing links from Peinirli"
             }
           },
           {
@@ -248,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cooking/Recipes.md",
+                "file": "Cooking/Recipes/Breakfast/Peinirli.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +274,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Recipes"
+              "title": "Graph of Peinirli"
             }
           }
         ],
@@ -353,26 +329,29 @@
         "y": 194,
         "width": 442,
         "height": 534,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "1a07f754c05c44ea",
+  "active": "55349870a3870b44",
   "lastOpenFiles": [
-    "Homepage.md",
     "templates/Recipe template.md",
-    "Cooking/Recipes/Man Course/Chicken Wings with Condiments.md",
+    "Cooking/Recipes/Breakfast/Peinirli.md",
+    "Cooking/Recipes/Main Course/Chicken Wings with Condiments.md",
     "Cooking/Recipes/Pastry/Pasta Flora.md",
-    "Cooking/Recipes/Sides/Pita Bread.md",
-    "Cooking/Recipes/Man Course",
+    "Cooking/Recipes/Side/Pita Bread.md",
+    "Cooking/Recipes/Breakfast",
+    "templates/Ingredient template.md",
+    "Cooking/Recipes/Recipes.md",
+    "Homepage.md",
+    "Cooking/Recipes/Main Course",
     "Cooking/Recipes/Pastry",
-    "Cooking/Recipes/Ingredients",
+    "Cooking/Ingredients",
     "Dailies/2025-03-23.md",
     "Meal Plan.md",
     "Meal Plan",
-    "Cooking/Recipes.md",
-    "Cooking/Recipes/Sides",
+    "Cooking/Recipes/Side",
     "Unlinked Notes.md",
     "Cooking/Recipes",
     "Cooking",
@@ -391,11 +370,8 @@
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Native/asyncio.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Native/threading.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Native/multiprocessing.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/CLI.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Jython.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Libraries/JDBC.md",
-    "Tech notes/Data Formats/CSV.md",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }

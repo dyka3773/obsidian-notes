@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Recipes",
-      "path": "Cooking/Recipes.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.md"
+      "basename": "Peinirli",
+      "path": "Cooking/Recipes/Breakfast/Peinirli.md"
     },
     {
       "basename": "Recipe template",
@@ -14,7 +10,7 @@
     },
     {
       "basename": "Chicken Wings with Condiments",
-      "path": "Cooking/Recipes/Man Course/Chicken Wings with Condiments.md"
+      "path": "Cooking/Recipes/Main Course/Chicken Wings with Condiments.md"
     },
     {
       "basename": "Pasta Flora",
@@ -22,7 +18,19 @@
     },
     {
       "basename": "Pita Bread",
-      "path": "Cooking/Recipes/Sides/Pita Bread.md"
+      "path": "Cooking/Recipes/Side/Pita Bread.md"
+    },
+    {
+      "basename": "Ingredient template",
+      "path": "templates/Ingredient template.md"
+    },
+    {
+      "basename": "Recipes",
+      "path": "Cooking/Recipes/Recipes.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
     },
     {
       "basename": "2025-03-23",

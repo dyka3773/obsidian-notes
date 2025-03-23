@@ -18,7 +18,7 @@ For how many?
 # Directions
 1. 
 
-Source (if any) [here]() 
+Inspiration/Source (if any) [here]() 
 # Macros
 Per portion of ?g
 ```foodiary

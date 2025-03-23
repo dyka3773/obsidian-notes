@@ -2,7 +2,8 @@
 tags:
   - homepage
 ---
-# Recipes by category
+
+# Recipes by category (tag)
 ```dataview
 TABLE WITHOUT ID (tag + "(" + length(rows.file.link) + ")") AS Tags, (rows.file.link) AS Files
 FROM #recipe 

@@ -1,7 +1,7 @@
 {
   "showProductFolderTitles": true,
   "groupEntriesByTitles": true,
-  "productsFolder": "Cooking/Recipes",
+  "productsFolder": "Cooking",
   "propertyCalories": "calories",
   "propertyProtein": "protein",
   "propertyFat": "fat",

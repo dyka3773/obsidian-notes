@@ -29,6 +29,10 @@
     {
       "folder": "Cooking/Recipes",
       "template": "templates/Recipe template.md"
+    },
+    {
+      "folder": "Cooking/Ingredients",
+      "template": "templates/Ingredient template.md"
     }
   ],
   "enable_file_templates": false,
