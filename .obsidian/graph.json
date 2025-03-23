@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "tag:#food  ",
+      "color": {
+        "a": 1,
+        "rgb": 5071359
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.2726859917360128,
+  "scale": 0.19450022690615987,
   "close": true
 }

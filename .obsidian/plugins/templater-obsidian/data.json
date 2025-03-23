@@ -25,6 +25,10 @@
     {
       "folder": "Tech notes/**",
       "template": "templates/Tech note template.md"
+    },
+    {
+      "folder": "Cooking/Recipes",
+      "template": "templates/Recipe template.md"
     }
   ],
   "enable_file_templates": false,

@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "sodium": "number",
+    "fiber": "number",
+    "cholesterol": "number",
+    "calories": "number",
+    "protein": "number"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "showProductFolderTitles": true,
+  "groupEntriesByTitles": true,
+  "productsFolder": "Cooking/Recipes",
+  "propertyCalories": "calories",
+  "propertyProtein": "protein",
+  "propertyFat": "fat",
+  "propertyCarbs": "carbs",
+  "propertyCholesterol": "cholesterol",
+  "propertySodium": "sodium",
+  "propertyFiber": "fiber",
+  "propertyDailyCalorieGoal": ""
+}

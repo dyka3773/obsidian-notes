@@ -2,6 +2,14 @@
 tags:
   - homepage
 ---
+# Recipes by category
+```dataview
+TABLE file.tags as Tags
+FROM #recipe  
+WHERE !contains(file.path, "templates")
+```
+
+# Other Recipe metadata
 
 ```dataview
 CALENDAR file.ctime
