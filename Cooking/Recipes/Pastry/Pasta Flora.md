@@ -14,16 +14,16 @@ aliases:
 ---
 # Ingredients
 For a circular tray of 23cms
-- 250g of Flour
-- 125g of Cold Butter
-- 60g of Sugar
-- 1 tsp of Salt
-- 1 capsule of Vanillin
-- 0.5 lemon's scrapes
-- 1 Large (65-70g) Egg
-- 1 Large (65-70g) Egg's Yolk
-- Butter for the tray
-- 500g of Jam (preferably Apricot, and preferably having a jelly consistency, not too runny)
+- [ ] 250g of Flour
+- [ ] 125g of Cold Butter
+- [ ] 60g of Sugar
+- [ ] 1 tsp of Salt
+- [ ] 1 capsule of Vanillin
+- [ ] 0.5 lemon's scrapes
+- [ ] 1 Large (65-70g) Egg
+- [ ] 1 Large (65-70g) Egg's Yolk
+- [ ] Butter for the tray
+- [ ] 500g of Jam (preferably Apricot, and preferably having a jelly consistency, not too runny)
 
 # Directions
 ## For the Dough

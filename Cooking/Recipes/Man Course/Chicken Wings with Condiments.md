@@ -16,15 +16,15 @@ aliases:
 ---
 # Ingredients
 For 2-3 servings:
-- 1kg of Chicken Wings
-- 4 tbsp Honey
-- 2 tbsp Mustard
-- 2 tbsp BBQ Souce
-- 4 tbsp Ketchup
-- 4 tbsp Mayo
-- 3 tbsp Oliveoil
-- Salt
-- Pepper
+- [ ] 1kg of Chicken Wings
+- [ ] 4 tbsp Honey
+- [ ] 2 tbsp Mustard
+- [ ] 2 tbsp BBQ Souce
+- [ ] 4 tbsp Ketchup
+- [ ] 4 tbsp Mayo
+- [ ] 3 tbsp Oliveoil
+- [ ] Salt
+- [ ] Pepper
 
 # Directions
 1. Preheat the oven to 180 C (200 C if no air option)

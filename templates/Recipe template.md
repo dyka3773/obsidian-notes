@@ -13,7 +13,7 @@ aliases:
 ---
 # Ingredients
 For how many?
-- 
+- [ ] 
 
 # Directions
 1. 
