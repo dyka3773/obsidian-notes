@@ -248,7 +248,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-03-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +297,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-03-23"
+              "title": "Graph view"
             }
           }
         ],
@@ -357,8 +356,19 @@
                   "icon": "lucide-file",
                   "title": "2025-03-23"
                 }
+              },
+              {
+                "id": "bb9899d8e12c84b0",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -371,7 +381,7 @@
       }
     ]
   },
-  "active": "d664d94adc409f1f",
+  "active": "bb9899d8e12c84b0",
   "lastOpenFiles": [
     "Homepage.md",
     "Dailies/2025-03-23.md",
