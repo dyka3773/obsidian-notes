@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Recipes",
+      "path": "Cooking/Recipes.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "Recipe template",
+      "path": "templates/Recipe template.md"
+    },
+    {
       "basename": "Chicken Wings with Condiments",
       "path": "Cooking/Recipes/Man Course/Chicken Wings with Condiments.md"
     },
@@ -9,24 +21,12 @@
       "path": "Cooking/Recipes/Pastry/Pasta Flora.md"
     },
     {
-      "basename": "Recipe template",
-      "path": "templates/Recipe template.md"
-    },
-    {
       "basename": "Pita Bread",
       "path": "Cooking/Recipes/Sides/Pita Bread.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Homepage.md"
-    },
-    {
       "basename": "2025-03-23",
       "path": "Dailies/2025-03-23.md"
-    },
-    {
-      "basename": "Recipes",
-      "path": "Cooking/Recipes.md"
     },
     {
       "basename": "Unlinked Notes",

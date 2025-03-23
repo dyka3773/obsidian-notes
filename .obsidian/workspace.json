@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
+                "file": "Cooking/Recipes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Recipes"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking/Recipes/Man Course/Chicken Wings with Condiments.md",
+                "file": "templates/Recipe template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chicken Wings with Condiments"
+              "title": "Recipe template"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cooking/Recipes/Man Course/Chicken Wings with Condiments.md",
+                "file": "Cooking/Recipes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chicken Wings with Condiments"
+              "title": "Outgoing links from Recipes"
             }
           },
           {
@@ -249,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cooking/Recipes/Man Course/Chicken Wings with Condiments.md",
+                "file": "Cooking/Recipes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Chicken Wings with Condiments"
+              "title": "Graph of Recipes"
             }
           }
         ],
@@ -354,20 +353,20 @@
         "y": 194,
         "width": 442,
         "height": 534,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "fbc3f55568de5a20",
+  "active": "1a07f754c05c44ea",
   "lastOpenFiles": [
-    "Cooking/Recipes/Pastry/Pasta Flora.md",
+    "Homepage.md",
     "templates/Recipe template.md",
     "Cooking/Recipes/Man Course/Chicken Wings with Condiments.md",
+    "Cooking/Recipes/Pastry/Pasta Flora.md",
     "Cooking/Recipes/Sides/Pita Bread.md",
     "Cooking/Recipes/Man Course",
     "Cooking/Recipes/Pastry",
-    "Homepage.md",
     "Cooking/Recipes/Ingredients",
     "Dailies/2025-03-23.md",
     "Meal Plan.md",

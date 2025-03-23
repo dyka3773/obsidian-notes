@@ -4,9 +4,12 @@ tags:
 ---
 # Recipes by category
 ```dataview
-TABLE file.tags as Tags
-FROM #recipe  
+TABLE WITHOUT ID (tag + "(" + length(rows.file.link) + ")") AS Tags, (rows.file.link) AS Files
+FROM #recipe 
 WHERE !contains(file.path, "templates")
+FLATTEN file.tags AS tag 
+GROUP BY tag 
+SORT length(rows.file.link) DESC
 ```
 
 # Other Recipe metadata
@@ -14,15 +17,6 @@ WHERE !contains(file.path, "templates")
 ```dataview
 CALENDAR file.ctime
 FROM #recipe 
-```
-
-#### Things left TODO
-
-```dataview
-TASK
-FROM #recipe 
-WHERE !completed AND !contains(file.path, "templates")
-GROUP BY file.link
 ```
 
 ### Recently Modified Notes

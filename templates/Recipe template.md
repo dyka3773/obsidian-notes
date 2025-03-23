@@ -24,3 +24,8 @@ Per portion of ?g
 ```foodiary
 
 ```
+# Preferred Ingredients (if any)
+- 
+
+# Other Notes (if any)
+
