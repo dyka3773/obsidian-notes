@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Homepage.md"
+      "basename": "Recipes",
+      "path": "Cooking/Recipes/Recipes.md"
+    },
+    {
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
     },
     {
       "basename": "2025-03-23",
       "path": "Dailies/2025-03-23.md"
     },
     {
-      "basename": "2025-03-22",
-      "path": "Dailies/2025-03-22.md"
+      "basename": "2025-03-21",
+      "path": "Dailies/2025-03-21.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
     },
     {
       "basename": "General TODO Notes",
       "path": "General TODO Notes.md"
-    },
-    {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
     },
     {
       "basename": "Database View",
@@ -83,10 +87,6 @@
     {
       "basename": "Text-to-SQL",
       "path": "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Text-to-SQL.md"
-    },
-    {
-      "basename": "2025-03-21",
-      "path": "Dailies/2025-03-21.md"
     },
     {
       "basename": "Docker",

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Cooking/Recipes/Recipes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unlinked Notes"
+              "title": "Recipes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +76,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -248,6 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Cooking/Recipes/Recipes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,7 +299,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Recipes"
             }
           }
         ],
@@ -334,30 +336,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "d664d94adc409f1f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dailies/2025-03-23.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-03-23"
-                }
-              },
-              {
                 "id": "bb9899d8e12c84b0",
                 "type": "leaf",
                 "state": {
@@ -367,8 +345,7 @@
                   "title": "Graph view"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -381,13 +358,17 @@
       }
     ]
   },
-  "active": "bb9899d8e12c84b0",
+  "active": "c82a0f77936b2165",
   "lastOpenFiles": [
-    "Homepage.md",
-    "Dailies/2025-03-23.md",
-    "Dailies/2025-03-22.md",
-    "General TODO Notes.md",
     "Unlinked Notes.md",
+    "Cooking/Recipes/Recipes.md",
+    "Cooking/Recipes",
+    "Cooking",
+    "Dailies/2025-03-23.md",
+    "Dailies/2025-03-21.md",
+    "Dailies/2025-03-22.md",
+    "Homepage.md",
+    "General TODO Notes.md",
     "Tech notes/Databases/Relational Databases/Features/Views/Database View.md",
     "Tech notes/Databases/Databases.md",
     "Tech notes/Databases/Relational Databases/Features/Views/Normal vs Materialized Views.md",
@@ -410,15 +391,11 @@
     "Tech notes/Data Formats/CSV.md",
     "Tech notes/Computer Languages/Programming Languages/Domain Specific Language/Data Query Languages/XPath.md",
     "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Text-to-SQL.md",
-    "Dailies/2025-03-21.md",
     "Tech notes/Terminology & Definitions/Computer Science Terminology/AI",
     "Tech notes/Docker/Docker.md",
     "Tech notes/Docker/Docker Swarm vs Kubernetes.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Scalability.md",
-    "empty files.md",
     "package.json",
-    "node_modules/http-signature/lib/utils.js",
-    "node_modules/http-signature/lib/verify.js",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }
