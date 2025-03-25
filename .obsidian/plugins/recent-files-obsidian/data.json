@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
+    },
+    {
+      "basename": "Pandas",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/Pandas/Pandas.md"
+    },
+    {
+      "basename": "DataFrame",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/Pandas/DataFrame.md"
+    },
+    {
+      "basename": "Series",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/Pandas/Series.md"
+    },
+    {
+      "basename": "JSP",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JavaEE/Frameworks/JSP.md"
+    },
+    {
+      "basename": "Servlet",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JavaEE/Servlet.md"
+    },
+    {
+      "basename": "JavaBean",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JavaBean.md"
+    },
+    {
+      "basename": "JSF",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JavaEE/Frameworks/JSF.md"
+    },
+    {
+      "basename": "Neo4j",
+      "path": "Tech notes/Databases/NoSQL Databases/Neo4j.md"
+    },
+    {
+      "basename": "XQuery",
+      "path": "Tech notes/Computer Languages/Programming Languages/Domain Specific Language/Data Query Languages/XQuery.md"
+    },
+    {
+      "basename": "XSLT",
+      "path": "Tech notes/Computer Languages/Markup Languages/XSLT.md"
+    },
+    {
+      "basename": "IDEs and Editors",
+      "path": "Tech notes/General Tools/IDEs and Editors/IDEs and Editors.md"
+    },
+    {
+      "basename": "Penne with Chicken, Pepper and White Sauce",
+      "path": "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
       "basename": "General TODO Notes",
       "path": "General TODO Notes.md"
     },
@@ -11,14 +67,6 @@
     {
       "basename": "empty files",
       "path": "empty files.md"
-    },
-    {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
-    },
-    {
-      "basename": "Penne with Chicken, Pepper and White Sauce",
-      "path": "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md"
     },
     {
       "basename": "Peinirli",
@@ -55,10 +103,6 @@
     {
       "basename": "Ingredient template",
       "path": "templates/Ingredient template.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.md"
     },
     {
       "basename": "2025-03-21",
@@ -155,38 +199,6 @@
     {
       "basename": "Transient Keyword",
       "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Transient Keyword.md"
-    },
-    {
-      "basename": "Smoke Testing",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Smoke Testing.md"
-    },
-    {
-      "basename": "Collections",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Collections.md"
-    },
-    {
-      "basename": "LIFO & FIFO",
-      "path": "Tech notes/Terminology & Definitions/Computer Science Terminology/Algorithm Terminology/LIFO & FIFO.md"
-    },
-    {
-      "basename": "Java Lists",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Lists.md"
-    },
-    {
-      "basename": "CRUD",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/CRUD.md"
-    },
-    {
-      "basename": "Java",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Java.md"
-    },
-    {
-      "basename": "2025-03-13",
-      "path": "Dailies/2025-03-13.md"
-    },
-    {
-      "basename": "Tech Notes TODO",
-      "path": "Tech notes/Tech Notes TODO.md"
     }
   ],
   "omittedPaths": [],

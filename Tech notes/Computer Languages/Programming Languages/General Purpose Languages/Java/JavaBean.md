@@ -5,6 +5,7 @@ tags:
 aliases:
   - bean
   - beans
+  - javabeans
 ---
 The 'beans' of JavaBeans are classes that encapsulate one or more objects into a single standardized object (the bean). 
 This standardization allows the beans to be handled in a more generic fashion, allowing easier code reuse and introspection. 

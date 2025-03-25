@@ -43,4 +43,4 @@ Per portion of 300g
 White Sauce Chicken Penne 300
 ```
 # Other Notes
-- In the optimal scenario, Step 5 should be performed in a time where the chicken hasn't formed a crust but has had some Maillard reaction and the vegetables are not completely cooked, since they will boil inside the sauce
+- In the optimal scenario, Step 5 should be performed in a time where the chicken hasn't formed a crust but has had some [[Maillard reaction]] and the vegetables are not completely cooked, since they will boil inside the sauce

@@ -63,7 +63,7 @@ Query language for selecting parts of an XML document.
 /library/book/title
 ```
 > **Returns:** All `<title>` elements in `<library>`.
-## [[XSLT]] (Extensible Stylesheet Language Transformations)
+## [[XSLT]] ([[XSLT|Extensible Stylesheet Language Transformations]])
 Transforms XML into other formats (e.g., [[HTML]], [[CSV]]).
 ```xml
 <xsl:template match="/">

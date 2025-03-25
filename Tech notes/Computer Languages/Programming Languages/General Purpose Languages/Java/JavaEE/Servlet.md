@@ -2,12 +2,14 @@
 tags:
   - tech
   - java
+aliases:
+  - Servlets
 ---
 A **Servlet** is a [[Java]] class used to handle [[HTTP]] requests and generate dynamic web content on the **server side**.
 It extends the capabilities of a web server by providing a mechanism to process client requests, usually from a **web browser or [[API]] client**.
 - **Key Role:** Servlets process user requests, interact with [[databases]], and return responses ([[HTML]], [[JSON]], [[XML]], etc.).
 - **Part of:** **[[JavaEE|Java EE]] ([[JavaEE|Jakarta EE]])** for building web applications.
-- **Alternative to:** Older **CGI scripts** and now often replaced by modern **[[Spring Boot]], [[REST]] [[API|APIs]], and frameworks like JSP, [[JSF]], and [[Spring MVC]]**.
+- **Alternative to:** Older **CGI scripts** and now often replaced by modern **[[Spring Boot]], [[REST]] [[API|APIs]], and frameworks like [[JSP]], [[JSF]], and [[Spring MVC]]**.
 
 # How they work
 1. **Client (Browser or [[API]]) Sends a Request** → Servlet Container receives it.
