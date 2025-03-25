@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking/Recipes/Breakfast/Peinirli.md",
+                "file": "Dailies/2025-03-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Peinirli"
+              "title": "2025-03-25"
             }
           }
         ]
@@ -224,7 +224,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cooking/Recipes/Breakfast/Peinirli.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,7 +273,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Peinirli"
+              "title": "Graph view"
             }
           }
         ],
@@ -327,17 +326,18 @@
         "direction": "vertical",
         "x": -1920,
         "y": 194,
-        "width": 442,
-        "height": 534,
+        "width": 354,
+        "height": 429,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "55349870a3870b44",
+  "active": "bb9899d8e12c84b0",
   "lastOpenFiles": [
-    "templates/Recipe template.md",
+    "Dailies/2025-03-25.md",
     "Cooking/Recipes/Breakfast/Peinirli.md",
+    "templates/Recipe template.md",
     "Cooking/Recipes/Main Course/Chicken Wings with Condiments.md",
     "Cooking/Recipes/Pastry/Pasta Flora.md",
     "Cooking/Recipes/Side/Pita Bread.md",
@@ -371,7 +371,6 @@
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Native/threading.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Native/multiprocessing.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/CLI.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Jython.md",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }
