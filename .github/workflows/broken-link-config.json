@@ -4,7 +4,13 @@
       "pattern": "^https://www.baeldung.com"
     },
     {
-      "pattern": "https://www.mysql.com/products/workbench/"
+      "pattern": "^https://www.mysql.com/products/workbench/"
+    },
+    {
+      "pattern": "^https://akispetretzikis.com/"
+    },
+    {
+      "pattern": "^https://foodstories.com.cy/"
     }
   ],
   "retryCount": 5,
