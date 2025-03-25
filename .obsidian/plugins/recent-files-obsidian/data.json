@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-03-25",
-      "path": "Dailies/2025-03-25.md"
+      "basename": "General TODO Notes",
+      "path": "General TODO Notes.md"
+    },
+    {
+      "basename": "2025-03-14",
+      "path": "Dailies/2025-03-14.md"
+    },
+    {
+      "basename": "empty files",
+      "path": "empty files.md"
+    },
+    {
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
+    },
+    {
+      "basename": "Penne with Chicken, Pepper and White Sauce",
+      "path": "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md"
     },
     {
       "basename": "Peinirli",
       "path": "Cooking/Recipes/Breakfast/Peinirli.md"
+    },
+    {
+      "basename": "Recipes",
+      "path": "Cooking/Recipes/Recipes.md"
+    },
+    {
+      "basename": "2025-03-25",
+      "path": "Dailies/2025-03-25.md"
+    },
+    {
+      "basename": "2025-03-23",
+      "path": "Dailies/2025-03-23.md"
     },
     {
       "basename": "Recipe template",
@@ -29,28 +57,12 @@
       "path": "templates/Ingredient template.md"
     },
     {
-      "basename": "Recipes",
-      "path": "Cooking/Recipes/Recipes.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Homepage.md"
     },
     {
-      "basename": "2025-03-23",
-      "path": "Dailies/2025-03-23.md"
-    },
-    {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
-    },
-    {
       "basename": "2025-03-21",
       "path": "Dailies/2025-03-21.md"
-    },
-    {
-      "basename": "General TODO Notes",
-      "path": "General TODO Notes.md"
     },
     {
       "basename": "Database View",
@@ -129,10 +141,6 @@
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Scalability.md"
     },
     {
-      "basename": "empty files",
-      "path": "empty files.md"
-    },
-    {
       "basename": "XML vs JSON",
       "path": "Tech notes/Computer Languages/Data Exchange Languages/XML vs JSON.md"
     },
@@ -163,10 +171,6 @@
     {
       "basename": "Java Lists",
       "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Collections/Java Lists.md"
-    },
-    {
-      "basename": "2025-03-14",
-      "path": "Dailies/2025-03-14.md"
     },
     {
       "basename": "CRUD",
