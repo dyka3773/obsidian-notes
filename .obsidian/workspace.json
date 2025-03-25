@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Dailies/2025-03-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unlinked Notes"
+              "title": "2025-03-26"
             }
           }
         ]
@@ -325,23 +325,25 @@
           }
         ],
         "direction": "vertical",
-        "x": -1920,
-        "y": 194,
-        "width": 1056,
-        "height": 1040,
-        "maximize": false,
+        "x": -820,
+        "y": 526,
+        "width": 354,
+        "height": 429,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "b46280b99d9327eb",
   "lastOpenFiles": [
+    "Dailies/2025-03-26.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JavaEE/Frameworks/JSP.md",
+    "Unlinked Notes.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/Pandas/Pandas.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/Pandas/DataFrame.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/Pandas/Series.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/Pandas",
-    "Unlinked Notes.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JavaEE/Frameworks/JSP.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JavaEE/Servlet.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JavaBean.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JavaEE/Frameworks/JSF.md",
@@ -362,9 +364,7 @@
     "templates/Recipe template.md",
     "Cooking/Recipes/Main Course/Chicken Wings with Condiments.md",
     "Cooking/Recipes/Pastry/Pasta Flora.md",
-    "Cooking/Recipes/Side/Pita Bread.md",
     "Cooking/Recipes/Breakfast",
-    "templates/Ingredient template.md",
     "Cooking/Recipes/Main Course",
     "Cooking/Recipes/Pastry",
     "Cooking/Ingredients",

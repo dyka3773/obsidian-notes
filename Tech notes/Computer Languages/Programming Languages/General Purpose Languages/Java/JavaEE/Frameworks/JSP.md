@@ -11,7 +11,7 @@ JSP is part of **[[JavaEE|Java EE]] ([[JavaEE|Jakarta EE]])** and is built on to
 
 **Key Features**
 - **Dynamic [[HTML]] content generation** using [[Java]] code.
-- **Separation of presentation & logic** with [[JavaBean|JavaBeans]] and [[MVC pattern]].
+- **Separation of presentation & logic** with [[JavaBean|JavaBeans]] and [[MVC|MVC pattern]].
 - **Reusable components** using JSP tags and [[JavaBean|JavaBeans]].
 - **Integration with Servlets** for advanced web applications.
 - **Session management, form handling, and [[Databases|database]] connectivity**.
@@ -69,7 +69,7 @@ public class User {
 ```
 > Uses [[JavaBean]] to separate business logic from JSP presentation.
 # JSP in [[MVC]] Architecture
-JSP is often used in **[[Model-View-Controller]] ([[MVC]])** pattern:
+JSP is often used in **[[MVC|Model-View-Controller]] ([[MVC]])** pattern:
 - **Model (M)**: [[JavaBean|JavaBeans]], [[Databases|Database]] logic.
 - **View (V)**: JSP pages (UI).
 - **Controller (C)**: [[Servlet|Servlets]] handling requests.

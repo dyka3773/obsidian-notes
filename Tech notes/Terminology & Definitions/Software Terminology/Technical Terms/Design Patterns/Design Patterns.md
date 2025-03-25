@@ -43,3 +43,5 @@ Design patterns may be viewed as a structured approach to computer programming i
 	- [[Databases|Database]]-related patterns
 		- [[DAO]]
 		- [[Repository]]
+	- Frontend-Backend integration patterns
+		- [[MVC]]

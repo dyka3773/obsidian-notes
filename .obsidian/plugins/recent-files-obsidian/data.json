@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-03-26",
+      "path": "Dailies/2025-03-26.md"
+    },
+    {
       "basename": "Unlinked Notes",
       "path": "Unlinked Notes.md"
+    },
+    {
+      "basename": "Design Patterns",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md"
+    },
+    {
+      "basename": "JSP",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JavaEE/Frameworks/JSP.md"
     },
     {
       "basename": "Pandas",
@@ -15,10 +27,6 @@
     {
       "basename": "Series",
       "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/Pandas/Series.md"
-    },
-    {
-      "basename": "JSP",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JavaEE/Frameworks/JSP.md"
     },
     {
       "basename": "Servlet",
@@ -191,14 +199,6 @@
     {
       "basename": "XML",
       "path": "Tech notes/Computer Languages/Data Exchange Languages/XML/XML.md"
-    },
-    {
-      "basename": "Transitive Dependency",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Programming Terms/Transitive Dependency.md"
-    },
-    {
-      "basename": "Transient Keyword",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Transient Keyword.md"
     }
   ],
   "omittedPaths": [],
