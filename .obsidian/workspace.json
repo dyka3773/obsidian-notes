@@ -224,7 +224,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-03-26.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,7 +273,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-03-26"
+              "title": "Graph view"
             }
           }
         ],
@@ -325,19 +324,19 @@
           }
         ],
         "direction": "vertical",
-        "x": -820,
-        "y": 526,
-        "width": 354,
-        "height": 429,
-        "maximize": true,
+        "x": -1454,
+        "y": 366,
+        "width": 284,
+        "height": 345,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "b46280b99d9327eb",
+  "active": "bb9899d8e12c84b0",
   "lastOpenFiles": [
-    "Unlinked Notes.md",
     "Dailies/2025-03-26.md",
+    "Unlinked Notes.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JavaEE/Frameworks/JSP.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/Pandas/Pandas.md",
