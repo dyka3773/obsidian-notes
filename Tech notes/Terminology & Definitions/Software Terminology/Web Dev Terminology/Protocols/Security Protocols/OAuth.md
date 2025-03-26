@@ -3,6 +3,7 @@ tags:
   - tech
 aliases:
   - Open Authorization
+  - OAuth2
 ---
 OAuth (**Open Authorization**) is an **open standard protocol** for **secure authorization** that allows applications to access a user’s data **without exposing their credentials**.
 It enables **third-party applications** to request **limited access** to a user's account on another service.

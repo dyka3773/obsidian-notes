@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-03-26",
-      "path": "Dailies/2025-03-26.md"
+      "basename": "WSGI",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/WSGI.md"
+    },
+    {
+      "basename": "WSGI vs ASGI",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/WSGI vs ASGI.md"
+    },
+    {
+      "basename": "Tech Notes TODO",
+      "path": "Tech notes/Tech Notes TODO.md"
+    },
+    {
+      "basename": "FastAPI",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/FastAPI/FastAPI.md"
+    },
+    {
+      "basename": "FastAPI WebSocket",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/FastAPI/FastAPI WebSocket.md"
+    },
+    {
+      "basename": "FastAPI BackgroundTasks",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/FastAPI/FastAPI BackgroundTasks.md"
+    },
+    {
+      "basename": "OpenAPI",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/API/OpenAPI.md"
+    },
+    {
+      "basename": "Type hinting",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Variables/Type hinting.md"
+    },
+    {
+      "basename": "OAuth",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Protocols/Security Protocols/OAuth.md"
     },
     {
       "basename": "Unlinked Notes",
       "path": "Unlinked Notes.md"
+    },
+    {
+      "basename": "2025-03-26",
+      "path": "Dailies/2025-03-26.md"
+    },
+    {
+      "basename": "2025-03-25",
+      "path": "Dailies/2025-03-25.md"
     },
     {
       "basename": "Design Patterns",
@@ -85,10 +125,6 @@
       "path": "Cooking/Recipes/Recipes.md"
     },
     {
-      "basename": "2025-03-25",
-      "path": "Dailies/2025-03-25.md"
-    },
-    {
       "basename": "2025-03-23",
       "path": "Dailies/2025-03-23.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "Jython",
       "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Jython.md"
-    },
-    {
-      "basename": "JDBC",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Libraries/JDBC.md"
-    },
-    {
-      "basename": "CSV",
-      "path": "Tech notes/Data Formats/CSV.md"
-    },
-    {
-      "basename": "XPath",
-      "path": "Tech notes/Computer Languages/Programming Languages/Domain Specific Language/Data Query Languages/XPath.md"
-    },
-    {
-      "basename": "Text-to-SQL",
-      "path": "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Text-to-SQL.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "Tech notes/Docker/Docker.md"
-    },
-    {
-      "basename": "Docker Swarm vs Kubernetes",
-      "path": "Tech notes/Docker/Docker Swarm vs Kubernetes.md"
-    },
-    {
-      "basename": "Scalability",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Scalability.md"
-    },
-    {
-      "basename": "XML vs JSON",
-      "path": "Tech notes/Computer Languages/Data Exchange Languages/XML vs JSON.md"
-    },
-    {
-      "basename": "XML",
-      "path": "Tech notes/Computer Languages/Data Exchange Languages/XML/XML.md"
     }
   ],
   "omittedPaths": [],
