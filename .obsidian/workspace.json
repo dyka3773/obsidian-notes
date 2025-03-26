@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Dailies/2025-03-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unlinked Notes"
+              "title": "2025-03-26"
             }
           }
         ]
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Dailies/2025-03-26.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,7 +274,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Unlinked Notes"
+              "title": "Graph of 2025-03-26"
             }
           }
         ],
@@ -336,8 +336,8 @@
   },
   "active": "b46280b99d9327eb",
   "lastOpenFiles": [
-    "Dailies/2025-03-26.md",
     "Unlinked Notes.md",
+    "Dailies/2025-03-26.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/JavaEE/Frameworks/JSP.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/Pandas/Pandas.md",
