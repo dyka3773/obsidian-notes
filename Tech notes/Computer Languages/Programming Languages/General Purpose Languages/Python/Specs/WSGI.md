@@ -22,3 +22,5 @@ A WSGI server acts as a bridge between a web application and a web server.
 3. **WSGI Server (Gunicorn/uWSGI)** → Passes the request to the WSGI app.
 4. **[[Python]] Web App ([[Flask]]/[[Django]])** → Processes the request and returns a response.
 5. **WSGI Server → Web Server → Client** → Sends the response back to the client.
+
+In order to understand [[ASGI]] & WSGI standards better I suggest also watching [this playlist](https://www.youtube.com/playlist?list=PLJ_usHaf3fgO_PgB1zTSlKVSqDdvh49bi)
