@@ -251,7 +251,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "29a106e995e55d1a",
@@ -263,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/WSGI.md",
+                "file": "Dailies/2025-03-31.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,7 +313,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of WSGI"
+              "title": "Graph of 2025-03-31"
             }
           }
         ]
@@ -353,10 +353,24 @@
                 "id": "bb9899d8e12c84b0",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dailies/2025-03-31.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-03-31"
                 }
               }
             ]
@@ -365,15 +379,16 @@
         "direction": "vertical",
         "x": -1920,
         "y": 194,
-        "width": 1063,
-        "height": 1040,
+        "width": 851,
+        "height": 832,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "2da17571d75324a7",
+  "active": "bb9899d8e12c84b0",
   "lastOpenFiles": [
+    "Dailies/2025-03-31.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/WSGI vs ASGI.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/WSGI.md",
     "Tech notes/Tech Notes TODO.md",
@@ -403,7 +418,6 @@
     "Tech notes/Computer Languages/Markup Languages/XSLT.md",
     "Tech notes/General Tools/IDEs and Editors/IDEs and Editors.md",
     "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md",
-    "Homepage.md",
     "Cooking/Recipes/Breakfast",
     "Cooking/Recipes/Main Course",
     "Cooking/Recipes/Pastry",

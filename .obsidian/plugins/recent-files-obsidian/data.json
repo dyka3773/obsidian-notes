@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-03-31",
+      "path": "Dailies/2025-03-31.md"
+    },
+    {
       "basename": "WSGI",
       "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/WSGI.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "CLI",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/CLI.md"
-    },
-    {
-      "basename": "Jython",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Jython.md"
     }
   ],
   "omittedPaths": [],
