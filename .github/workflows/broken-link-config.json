@@ -11,6 +11,15 @@
     },
     {
       "pattern": "^https://foodstories.com.cy/"
+    },
+    {
+      "pattern": "127.0.0.1"
+    },
+    {
+      "pattern": "^http://localhost"
+    },
+    {
+      "pattern": "^https://localhost"
     }
   ],
   "retryCount": 5,
