@@ -262,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-03-31.md",
+                "file": "Unlinked Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -312,7 +312,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-03-31"
+              "title": "Graph of Unlinked Notes"
             }
           }
         ]
@@ -371,8 +371,19 @@
                   "icon": "lucide-file",
                   "title": "2025-03-31"
                 }
+              },
+              {
+                "id": "28da851960ad33d5",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -385,10 +396,10 @@
       }
     ]
   },
-  "active": "bb9899d8e12c84b0",
+  "active": "b46280b99d9327eb",
   "lastOpenFiles": [
-    "Unlinked Notes.md",
     "Dailies/2025-03-31.md",
+    "Unlinked Notes.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/WSGI vs ASGI.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/WSGI.md",
     "Tech notes/Tech Notes TODO.md",
