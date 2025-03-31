@@ -79,8 +79,7 @@
               "title": "WSGI"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -381,13 +380,14 @@
         "y": 194,
         "width": 851,
         "height": 832,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "bb9899d8e12c84b0",
   "lastOpenFiles": [
+    "Unlinked Notes.md",
     "Dailies/2025-03-31.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/WSGI vs ASGI.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/WSGI.md",
@@ -400,7 +400,6 @@
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/API/OpenAPI.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Variables/Type hinting.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Protocols/Security Protocols/OAuth.md",
-    "Unlinked Notes.md",
     "Dailies/2025-03-26.md",
     "Dailies/2025-03-25.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md",

@@ -5,6 +5,10 @@
       "path": "Dailies/2025-03-31.md"
     },
     {
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
+    },
+    {
       "basename": "WSGI",
       "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/WSGI.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "OAuth",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Protocols/Security Protocols/OAuth.md"
-    },
-    {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
     },
     {
       "basename": "2025-03-26",
