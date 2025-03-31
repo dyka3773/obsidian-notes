@@ -78,8 +78,33 @@
               "icon": "lucide-file",
               "title": "WSGI"
             }
+          },
+          {
+            "id": "bb9899d8e12c84b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/2025-03-31.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-31"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -262,7 +287,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Dailies/2025-03-31.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -312,7 +337,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Unlinked Notes"
+              "title": "Graph of 2025-03-31"
             }
           }
         ]
@@ -349,30 +374,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "bb9899d8e12c84b0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dailies/2025-03-31.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-03-31"
-                }
-              },
-              {
                 "id": "28da851960ad33d5",
                 "type": "leaf",
                 "state": {
@@ -382,8 +383,7 @@
                   "title": "Graph view"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -391,15 +391,15 @@
         "y": 194,
         "width": 851,
         "height": 832,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "b46280b99d9327eb",
+  "active": "bb9899d8e12c84b0",
   "lastOpenFiles": [
-    "Dailies/2025-03-31.md",
     "Unlinked Notes.md",
+    "Dailies/2025-03-31.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/WSGI vs ASGI.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/WSGI.md",
     "Tech notes/Tech Notes TODO.md",
