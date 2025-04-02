@@ -4,7 +4,7 @@ tags:
   - python
 ---
 [[FastAPI]] supports [[WebSockets]] out of the box. 
-This is a simple example of how to use WebSockets with [[FastAPI]].
+This is a simple example of how to use [[WebSockets]] with [[FastAPI]].
 
 ```python
 from fastapi import WebSocket

@@ -7,7 +7,7 @@ tags:
 It is based on **[[Starlette]]** and **[[Pydantic]]**, making it **fast, easy to use, and highly efficient**.
 
 **Key Features:**
-- **Fast & Asynchronous**: Built on **[[ASGI]]** (Asynchronous Server Gateway Interface).
+- **Fast & Asynchronous**: Built on **[[ASGI]]** ([[ASGI|Asynchronous Server Gateway Interface]]).
 - **Auto-Generated [[API]] Documentation**: Comes with **[[OpenAPI|Swagger UI]]** and **[[Redoc]]**.
 - **[[Type hinting|Type Hints]] for Data Validation**: Uses **[[Pydantic]]** for automatic validation.
 - **Dependency Injection**: Easy to manage complex logic and authentication.

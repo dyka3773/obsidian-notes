@@ -6,7 +6,6 @@ tags:
 
 - [ ] [[Camunda]]
 - [ ] [[Flask]]
-- [ ] [[ASGI]]
 - [ ] [[struts]]
 
 ## Unlinked mentions in each file

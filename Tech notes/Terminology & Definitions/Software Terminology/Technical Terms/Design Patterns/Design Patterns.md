@@ -39,9 +39,9 @@ Design patterns may be viewed as a structured approach to computer programming i
 	- [[Reactor]]
 	- [[Scheduler]]
 	- [[Thread Pool]]
-- Misc
+- [[Architecture Design Patterns|Architecture Patterns]]
 	- [[Databases|Database]]-related patterns
 		- [[DAO]]
 		- [[Repository]]
-	- Frontend-Backend integration patterns
+	- [[Frontend Development|Frontend]]-[[Backend Development|Backend]] integration patterns
 		- [[MVC]]
