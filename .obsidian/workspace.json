@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-04-04.md",
+                "file": "Unlinked Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-04-04"
+              "title": "Graph of Unlinked Notes"
             }
           }
         ]
@@ -288,57 +288,9 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "floating": {
-    "id": "3b48582dd3392dc4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "77206cdc54e704b7",
-        "type": "window",
-        "children": [
-          {
-            "id": "7c98bb0e92564faa",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "64beb08d25966049",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dailies/2025-04-04.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-04-04"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1920,
-        "y": 194,
-        "width": 902,
-        "height": 832,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "64beb08d25966049",
+  "active": "b46280b99d9327eb",
   "lastOpenFiles": [
+    "Dailies/2025-04-04.md",
     "Jupyter Notebooks.md",
     "Unlinked Notes.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/IPython",
@@ -355,7 +307,6 @@
     "General TODO Notes.md",
     "Tech notes/Computer Languages/Markup Languages/XSLT.md",
     "Tech notes/Tech Notes TODO.md",
-    "Dailies/2025-04-04.md",
     "Dailies/2025-03-26.md",
     "Dailies/2025-03-31.md",
     "Dailies/2025-04-02.md",
