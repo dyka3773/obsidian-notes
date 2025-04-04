@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Penne with Chicken, Pepper and White Sauce",
-      "path": "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md"
-    },
-    {
       "basename": "Unlinked Notes",
       "path": "Unlinked Notes.md"
+    },
+    {
+      "basename": "General TODO Notes",
+      "path": "General TODO Notes.md"
+    },
+    {
+      "basename": "Jupyter Notebooks",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/IPython/Jupyter Notebooks.md"
     },
     {
       "basename": "2025-04-04",
       "path": "Dailies/2025-04-04.md"
     },
     {
-      "basename": "Jupyter Notebooks",
-      "path": "Jupyter Notebooks.md"
+      "basename": "Penne with Chicken, Pepper and White Sauce",
+      "path": "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md"
     },
     {
       "basename": "Static Site Generator",
@@ -39,10 +43,6 @@
     {
       "basename": "Databases",
       "path": "Tech notes/Databases/Databases.md"
-    },
-    {
-      "basename": "General TODO Notes",
-      "path": "General TODO Notes.md"
     },
     {
       "basename": "XSLT",

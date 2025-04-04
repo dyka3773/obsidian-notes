@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md",
+                "file": "Unlinked Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": false
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Penne with Chicken, Pepper and White Sauce"
+              "title": "Unlinked Notes"
             }
           }
         ]
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md",
+                "file": "Unlinked Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Penne with Chicken, Pepper and White Sauce"
+              "title": "Graph of Unlinked Notes"
             }
           }
         ]
@@ -290,9 +290,11 @@
   },
   "active": "b46280b99d9327eb",
   "lastOpenFiles": [
-    "Unlinked Notes.md",
+    "General TODO Notes.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/IPython/Jupyter Notebooks.md",
     "Dailies/2025-04-04.md",
-    "Jupyter Notebooks.md",
+    "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md",
+    "Unlinked Notes.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/IPython",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/Static Site Generator.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/SSG vs CMS vs SSR.md",
@@ -304,7 +306,6 @@
     "Tech notes/Operating Systems",
     "Tech notes/Databases/XML Databases.md",
     "Tech notes/Databases/Databases.md",
-    "General TODO Notes.md",
     "Tech notes/Computer Languages/Markup Languages/XSLT.md",
     "Tech notes/Tech Notes TODO.md",
     "Dailies/2025-03-26.md",
@@ -320,7 +321,6 @@
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/API/GraphQL vs REST.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/API/Untitled.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Design Patterns.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/FastAPI",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/Pandas",
