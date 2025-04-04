@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unlinked Notes"
+              "title": "Penne with Chicken, Pepper and White Sauce"
             }
           }
         ]
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Unlinked Notes"
+              "title": "Graph of Penne with Chicken, Pepper and White Sauce"
             }
           }
         ]
@@ -290,9 +290,9 @@
   },
   "active": "b46280b99d9327eb",
   "lastOpenFiles": [
+    "Unlinked Notes.md",
     "Dailies/2025-04-04.md",
     "Jupyter Notebooks.md",
-    "Unlinked Notes.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/IPython",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/Static Site Generator.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/SSG vs CMS vs SSR.md",

@@ -36,7 +36,6 @@ For 2-3 portions
 6. (Optional Step) In case you're in a hurry, feel free to add that tablespoon of flour, after the milk has started simmering, to emulsify the sauce faster.
 7. When ready pour over your pasta portion, or feel free to mix the pasta in the sauce to suck up some of its juices.
 
-Inspiration/Source (if any) [here]() 
 # Macros
 Per portion of 300g
 ```foodiary
