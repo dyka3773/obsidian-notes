@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Unlinked Notes"
             }
+          },
+          {
+            "id": "2fd677bb12e751c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General TODO Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "General TODO Notes"
+            }
           }
         ]
       }
@@ -214,7 +238,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-04-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +287,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-04-04"
+              "title": "Graph view"
             }
           }
         ]
@@ -301,27 +324,13 @@
             "type": "tabs",
             "children": [
               {
-                "id": "2fd677bb12e751c5",
+                "id": "64beb08d25966049",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dailies/2025-04-04.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-04-04"
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               }
             ]
@@ -330,21 +339,24 @@
         "direction": "vertical",
         "x": -1920,
         "y": 194,
-        "width": 934,
-        "height": 832,
+        "width": 1126,
+        "height": 1040,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "2fd677bb12e751c5",
+  "active": "64beb08d25966049",
   "lastOpenFiles": [
-    "Dailies/2025-04-04.md",
     "Unlinked Notes.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Networking/WebSockets.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Networking/WebSockets vs HTTP.md",
     "General TODO Notes.md",
     "Tech notes/Tech Notes TODO.md",
+    "Dailies/2025-04-04.md",
+    "Dailies/2025-03-26.md",
+    "Dailies/2025-03-31.md",
+    "Dailies/2025-04-02.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Networking/WebSockets.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Networking/WebSockets vs HTTP.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/ASGI.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/WSGI.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/WSGI vs ASGI.md",
@@ -356,8 +368,6 @@
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Misc/DAO vs DTO.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Misc/DTO.md",
-    "Dailies/2025-04-02.md",
-    "Dailies/2025-03-31.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/FastAPI/FastAPI.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/FastAPI/FastAPI WebSocket.md",
@@ -366,7 +376,6 @@
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/API/OpenAPI.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Variables/Type hinting.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Protocols/Security Protocols/OAuth.md",
-    "Dailies/2025-03-26.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/Pandas",
     "Tech notes/Databases/Vector Databases",
     "Cooking/Recipes/Breakfast",

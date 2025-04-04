@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-04-04",
-      "path": "Dailies/2025-04-04.md"
-    },
-    {
       "basename": "Unlinked Notes",
       "path": "Unlinked Notes.md"
-    },
-    {
-      "basename": "WebSockets",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Networking/WebSockets.md"
-    },
-    {
-      "basename": "WebSockets vs HTTP",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Networking/WebSockets vs HTTP.md"
     },
     {
       "basename": "General TODO Notes",
@@ -23,6 +11,30 @@
     {
       "basename": "Tech Notes TODO",
       "path": "Tech notes/Tech Notes TODO.md"
+    },
+    {
+      "basename": "2025-04-04",
+      "path": "Dailies/2025-04-04.md"
+    },
+    {
+      "basename": "2025-03-26",
+      "path": "Dailies/2025-03-26.md"
+    },
+    {
+      "basename": "2025-03-31",
+      "path": "Dailies/2025-03-31.md"
+    },
+    {
+      "basename": "2025-04-02",
+      "path": "Dailies/2025-04-02.md"
+    },
+    {
+      "basename": "WebSockets",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Networking/WebSockets.md"
+    },
+    {
+      "basename": "WebSockets vs HTTP",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Networking/WebSockets vs HTTP.md"
     },
     {
       "basename": "ASGI",
@@ -63,14 +75,6 @@
     {
       "basename": "DTO",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Misc/DTO.md"
-    },
-    {
-      "basename": "2025-04-02",
-      "path": "Dailies/2025-04-02.md"
-    },
-    {
-      "basename": "2025-03-31",
-      "path": "Dailies/2025-03-31.md"
     }
   ],
   "omittedPaths": [],
