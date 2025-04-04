@@ -202,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "29a106e995e55d1a",
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Dailies/2025-04-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Unlinked Notes"
+              "title": "Graph of 2025-04-04"
             }
           }
         ]
@@ -304,10 +304,24 @@
                 "id": "2fd677bb12e751c5",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dailies/2025-04-04.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-04"
                 }
               }
             ]
@@ -316,18 +330,19 @@
         "direction": "vertical",
         "x": -1920,
         "y": 194,
-        "width": 1165,
-        "height": 1040,
+        "width": 934,
+        "height": 832,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "b46280b99d9327eb",
+  "active": "2fd677bb12e751c5",
   "lastOpenFiles": [
+    "Dailies/2025-04-04.md",
+    "Unlinked Notes.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Networking/WebSockets.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Networking/WebSockets vs HTTP.md",
-    "Unlinked Notes.md",
     "General TODO Notes.md",
     "Tech notes/Tech Notes TODO.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs/ASGI.md",
@@ -352,7 +367,6 @@
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Variables/Type hinting.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Protocols/Security Protocols/OAuth.md",
     "Dailies/2025-03-26.md",
-    "Dailies/2025-03-25.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/Pandas",
     "Tech notes/Databases/Vector Databases",
     "Cooking/Recipes/Breakfast",
