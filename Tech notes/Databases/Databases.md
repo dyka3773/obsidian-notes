@@ -14,7 +14,7 @@ Databases are used in many different applications, such as websites, mobile apps
 There are many different types of databases, each with its own strengths and weaknesses. 
 Some of the most common types of databases include [[relational databases]], [[NoSQL Databases]], and [[object-oriented databases]].
 
-## [[Relational Databases]]
+# [[Relational Databases]]
 
 [[Relational databases]] are the most common type of database.
 They store data in tables, which are made up of rows and columns.
@@ -32,7 +32,7 @@ Some popular [[relational databases]] include:
 - [[Microsoft Access]]
 - [[Databricks]]
 
-## [[NoSQL Databases]]
+# [[NoSQL Databases]]
 
 [[NoSQL Databases]] are a newer type of database that are designed to handle large amounts of [[Unstructured Data]].
 They are often used in [[big data]] applications, where traditional [[relational databases]] would be too slow or too expensive.
@@ -48,7 +48,7 @@ Some popular [[NoSQL Databases]] include:
 - [[Neo4j]]
 - [[CouchDB]]
 
-## [[Object-Oriented Databases]]
+# [[Object-Oriented Databases]]
 
 [[Object-oriented databases]] are a type of database that is designed to work with [[object-oriented]] programming languages.
 They store data in objects, which are similar to the objects used in [[object-oriented]] programming.
@@ -62,10 +62,18 @@ Some popular object-oriented databases include:
 - [[Zope Object Database]]
 - [[GemStone/S]]
 
-## Conclusion
+# Conclusion
 
 Databases are an essential part of modern computing.
 They are used to store, retrieve, and manage data in a variety of applications.
 There are many different types of databases, each with its own strengths and weaknesses.
 [[Relational databases]] are the most common type of database, but [[NoSQL Databases|NoSQL]] and [[object-oriented databases]] are becoming increasingly popular.
 Each type of database has its own use cases, and the choice of database will depend on the specific requirements of the application.
+
+# Alternatives
+| Format         | Database Example            | Notes                                     |
+| -------------- | --------------------------- | ----------------------------------------- |
+| **[[JSON]]**   | [[MongoDB]], [[PostgreSQL]] | Popular for [[API\|APIs]] and web apps    |
+| **Relational** | [[MySQL]], [[PostgreSQL]]   | Tabular, strongly typed data              |
+| **Graph**      | [[Neo4j]]                   | Node-edge relationships                   |
+| **[[XML]]**    | BaseX, Oracle XML DB        | Great for document-centric or nested data |

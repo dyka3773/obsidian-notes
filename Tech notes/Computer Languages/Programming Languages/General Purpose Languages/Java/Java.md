@@ -13,7 +13,7 @@ Java 20 and 22 are no longer maintained.
 [[Java 8]], 11, 17, and 21 are long-term support versions still under maintenance.
 
 Writing in the Java programming language is the primary way to produce code that will be deployed as byte code in a [[JVM|Java virtual machine]] ([[JVM]]). 
-Bytecode compilers are also available for other languages, including [[Ada]], [[JavaScript]], [[Kotlin]] (Google's preferred Android language), [[Python]], and [[Ruby]].
+Bytecode compilers are also available for other languages, including [[Ada]], [[JavaScript]], [[Kotlin]] (Google's preferred [[Android]] language), [[Python]], and [[Ruby]].
 In addition, several languages have been designed to run natively on the [[JVM]], including [[Clojure]], [[Groovy]], and [[Scala]]. (See also the [[List of JVM languages]])
 
 ## Common Features added to the language through the years

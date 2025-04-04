@@ -5,7 +5,7 @@ tags:
 **Markdown** is a lightweight, easy-to-read, and easy-to-write **markup language** designed for formatting plain text. 
 It is widely used in documentation, blogging, and content management systems due to its simplicity and compatibility with [[HTML]].
 
-Created by John Gruber in 2004, Markdown allows users to write formatted documents without needing complex syntax like [[HTML]]. It is commonly used in README files, [[static site generator]]s, and even messaging applications like Slack and Discord.
+Created by John Gruber in 2004, Markdown allows users to write formatted documents without needing complex syntax like [[HTML]]. It is commonly used in README files, [[Static Site Generator]]s, and even messaging applications like Slack and Discord.
 
 # Key Features of Markdown
 - **Human-Readable** - The syntax is simple and easy to understand, even without rendering.

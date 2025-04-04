@@ -12,7 +12,7 @@ It is similar to [[SQL]] but works specifically with [[XML]], allowing structure
 - **Supports [[XPath]]** expressions for navigation.
 - **Performs transformations** similar to [[XSLT]].
 - **Handles structured & [[semi-structured data]]** efficiently.
-- **Works with [[XML databases]]** such as BaseX, eXistDB, and MarkLogic.
+- **Works with [[XML Databases]]** such as BaseX, eXistDB, and MarkLogic.
 # Elements & Syntax
 | **XQuery Feature**        | **Description**                                      | **Example**                                                             |
 | ------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------- |

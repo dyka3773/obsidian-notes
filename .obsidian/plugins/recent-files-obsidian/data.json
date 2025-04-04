@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Jupyter Notebooks",
+      "path": "Jupyter Notebooks.md"
+    },
+    {
       "basename": "Unlinked Notes",
       "path": "Unlinked Notes.md"
     },
     {
+      "basename": "Static Site Generator",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/Static Site Generator.md"
+    },
+    {
+      "basename": "SSG vs CMS vs SSR",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/SSG vs CMS vs SSR.md"
+    },
+    {
+      "basename": "Android",
+      "path": "Tech notes/Operating Systems/Mobile OSs/Android.md"
+    },
+    {
+      "basename": "Android vs iOS",
+      "path": "Tech notes/Operating Systems/Mobile OSs/Android vs iOS.md"
+    },
+    {
+      "basename": "XML Databases",
+      "path": "Tech notes/Databases/XML Databases.md"
+    },
+    {
+      "basename": "Databases",
+      "path": "Tech notes/Databases/Databases.md"
+    },
+    {
       "basename": "General TODO Notes",
       "path": "General TODO Notes.md"
+    },
+    {
+      "basename": "XSLT",
+      "path": "Tech notes/Computer Languages/Markup Languages/XSLT.md"
     },
     {
       "basename": "Tech Notes TODO",

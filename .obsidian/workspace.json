@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "2fd677bb12e751c5",
+            "id": "e093142eec958439",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General TODO Notes.md",
+                "file": "Jupyter Notebooks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,15 +47,16 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "General TODO Notes"
+              "title": "Jupyter Notebooks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,10 +88,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "JavaBeans",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -122,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 341.5
   },
   "right": {
     "id": "6200f5690b9571f0",
@@ -157,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Jupyter Notebooks.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Unlinked Notes"
+              "title": "Outgoing links from Jupyter Notebooks"
             }
           },
           {
@@ -238,6 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Jupyter Notebooks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,7 +289,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Jupyter Notebooks"
             }
           }
         ]
@@ -346,10 +348,23 @@
       }
     ]
   },
-  "active": "64beb08d25966049",
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
+    "Jupyter Notebooks.md",
     "Unlinked Notes.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/IPython",
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/Static Site Generator.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/SSG vs CMS vs SSR.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Maintenance & Generation/Untitled",
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building",
+    "Tech notes/Operating Systems/Mobile OSs/Android.md",
+    "Tech notes/Operating Systems/Mobile OSs/Android vs iOS.md",
+    "Tech notes/Operating Systems/Mobile OSs",
+    "Tech notes/Operating Systems",
+    "Tech notes/Databases/XML Databases.md",
+    "Tech notes/Databases/Databases.md",
     "General TODO Notes.md",
+    "Tech notes/Computer Languages/Markup Languages/XSLT.md",
     "Tech notes/Tech Notes TODO.md",
     "Dailies/2025-04-04.md",
     "Dailies/2025-03-26.md",
@@ -366,24 +381,11 @@
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/API/Untitled.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Design Patterns.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Misc/DAO vs DTO.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Misc/DTO.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/FastAPI/FastAPI.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/FastAPI/FastAPI WebSocket.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/FastAPI/FastAPI BackgroundTasks.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/FastAPI",
-    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/API/OpenAPI.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Variables/Type hinting.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Protocols/Security Protocols/OAuth.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/Pandas",
     "Tech notes/Databases/Vector Databases",
     "Cooking/Recipes/Breakfast",
-    "Cooking/Recipes/Main Course",
-    "Cooking/Recipes/Pastry",
-    "Cooking/Ingredients",
-    "Meal Plan",
-    "Cooking/Recipes/Side",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }

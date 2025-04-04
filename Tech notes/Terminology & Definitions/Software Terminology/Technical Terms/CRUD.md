@@ -24,7 +24,7 @@ Each letter in the acronym can be mapped to a standard [[SQL|Structured Query La
 | Update | UPDATE |
 | Delete | DELETE |
 Although [[relational databases]] are a common persistence layer in software applications, numerous other persistence layers exist. 
-CRUD functionality can for example be implemented with [[document databases]], object databases, [[XML databases]], text files, or binary files.
+CRUD functionality can for example be implemented with [[document databases]], object databases, [[XML Databases]], text files, or binary files.
 
 Some big data systems do not implement UPDATE, but have only a timestamped INSERT ([[journaling]]), storing a completely new version of the object each time.
 

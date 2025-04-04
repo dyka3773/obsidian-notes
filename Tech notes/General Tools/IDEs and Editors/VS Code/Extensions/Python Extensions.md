@@ -23,10 +23,10 @@ tags:
 - This extension provides a variety of useful features for working with Django projects.
 - It provides syntax highlighting, code snippets, and debug support.
 
-## Jupyter *(ID: ms-toolsai.jupyter)*
+## [[Jupyter Notebooks|Jupyter]] *(ID: ms-toolsai.jupyter)*
 
-- This is a pack of [[Useful VS Code Extensions|extensions]] that provide a variety of useful features for working with Jupyter notebooks.
-- They provide syntax highlighting, code snippets, debug support and interactive Jupyter notebooks.
+- This is a pack of [[Useful VS Code Extensions|extensions]] that provide a variety of useful features for working with [[Jupyter notebooks]].
+- They provide syntax highlighting, code snippets, debug support and interactive [[Jupyter notebooks]].
 
 ## Python Environment Manager *(ID: donjayamanne.python-environment-manager)*
 

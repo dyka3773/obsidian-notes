@@ -3,6 +3,7 @@ tags:
   - tech
 aliases:
   - Extensible Stylesheet Language Transformations
+  - XML transformations
 ---
 XSLT (Extensible Stylesheet Language Transformations) is a language used to transform [[XML]] documents into other formats like [[HTML]], [[XML]], [[JSON]], or plain text.
 It is part of the XSL (Extensible Stylesheet Language) family, designed for formatting and converting [[XML]] data.
