@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Dailies/2025-04-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unlinked Notes"
+              "title": "2025-04-06"
             }
           }
         ]
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Dailies/2025-04-06.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Unlinked Notes"
+              "title": "Graph of 2025-04-06"
             }
           }
         ]
@@ -290,11 +290,12 @@
   },
   "active": "b46280b99d9327eb",
   "lastOpenFiles": [
+    "Unlinked Notes.md",
+    "Dailies/2025-04-06.md",
     "General TODO Notes.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/IPython/Jupyter Notebooks.md",
     "Dailies/2025-04-04.md",
     "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md",
-    "Unlinked Notes.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/IPython",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/Static Site Generator.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/SSG vs CMS vs SSR.md",
@@ -320,7 +321,6 @@
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/API/SOAP vs REST.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/API/GraphQL vs REST.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/API/Untitled.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Design Patterns.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Specs",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/FastAPI",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries/Downloaded/Pandas",
