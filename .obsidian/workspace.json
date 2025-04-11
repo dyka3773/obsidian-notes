@@ -214,7 +214,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-04-11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-04-11"
+              "title": "Graph view"
             }
           }
         ]
@@ -323,8 +322,9 @@
       }
     ]
   },
-  "active": "5ae3439c39396dfc",
+  "active": "b51e745ec43a9fb6",
   "lastOpenFiles": [
+    "Dailies/2025-04-11.md",
     "Unlinked Notes.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Web Dev Architectures/JAMstack.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/General Terminology/Backend Development.md",
@@ -335,7 +335,6 @@
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Microservices/Microservices.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS/CMS.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS",
-    "Dailies/2025-04-11.md",
     "Dailies/2025-04-06.md",
     "Homepage.md",
     "Tech notes/Operating Systems/Terminology/Environment Variables/Environment Variables.md",
