@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Unlinked Notes"
             }
+          },
+          {
+            "id": "a409eaa2908e4c31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/2025-04-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-11"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -301,30 +326,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "a409eaa2908e4c31",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dailies/2025-04-11.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-04-11"
-                }
-              },
-              {
                 "id": "b51e745ec43a9fb6",
                 "type": "leaf",
                 "state": {
@@ -334,8 +335,7 @@
                   "title": "Graph view"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -350,8 +350,8 @@
   },
   "active": "95c7e9d63a13471c",
   "lastOpenFiles": [
-    "Dailies/2025-04-11.md",
     "Unlinked Notes.md",
+    "Dailies/2025-04-11.md",
     "Homepage.md",
     "Tech notes/Operating Systems/Terminology/Environment Variables/Environment Variables.md",
     "Tech notes/Operating Systems/Terminology/Environment Variables/Environment Files.md",
