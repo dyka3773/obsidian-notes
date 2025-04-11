@@ -6,7 +6,7 @@ aliases:
   - Web Application Firewalls
   - WAFs
 ---
-A **Web Application Firewall (WAF)** is a security solution that monitors, filters, and blocks [[HTTP]](S) traffic to and from a web application.
+A **Web Application Firewall (WAF)** is a security solution that monitors, filters, and blocks HTTP(S) traffic to and from a web application.
 It protects applications from common web threats by inspecting requests at the **application layer (Layer 7)** of the OSI model.
 
 Unlike traditional firewalls, which focus on network-level protection, WAFs are tailored to detect and block **web-specific attacks** like [[SQL injection]], [[cross-site scripting]] ([[XSS]]), and [[CSRF]].

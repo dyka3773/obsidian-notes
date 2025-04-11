@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "WAF",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Security/WAF.md"
+    },
+    {
       "basename": "Unlinked Notes",
       "path": "Unlinked Notes.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "SEO",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/SEO.md"
-    },
-    {
-      "basename": "WAF",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Security/WAF.md"
     },
     {
       "basename": "CMS",
