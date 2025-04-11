@@ -5,6 +5,10 @@
       "path": "Unlinked Notes.md"
     },
     {
+      "basename": "2025-04-11",
+      "path": "Dailies/2025-04-11.md"
+    },
+    {
       "basename": "semver",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/semver.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "CMS",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS/CMS.md"
-    },
-    {
-      "basename": "2025-04-11",
-      "path": "Dailies/2025-04-11.md"
     },
     {
       "basename": "JAMstack",
