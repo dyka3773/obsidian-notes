@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Dailies/2025-04-11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Unlinked Notes"
+              "title": "Graph of 2025-04-11"
             }
           }
         ]
@@ -304,10 +304,24 @@
                 "id": "b51e745ec43a9fb6",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dailies/2025-04-11.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-11"
                 }
               }
             ]
@@ -316,18 +330,18 @@
         "direction": "vertical",
         "x": -1920,
         "y": 194,
-        "width": 1173,
-        "height": 1040,
+        "width": 940,
+        "height": 832,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "b51e745ec43a9fb6",
   "lastOpenFiles": [
+    "Unlinked Notes.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/semver.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/JavaScript/NodeJS/NPM.md",
-    "Unlinked Notes.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Load Balancing.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Cookies/Cookie.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Security/Security Protocols/SLO.md",
