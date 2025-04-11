@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-04-11",
-      "path": "Dailies/2025-04-11.md"
-    },
-    {
       "basename": "Unlinked Notes",
       "path": "Unlinked Notes.md"
+    },
+    {
+      "basename": "semver",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/semver.md"
+    },
+    {
+      "basename": "NPM",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/JavaScript/NodeJS/NPM.md"
+    },
+    {
+      "basename": "Load Balancing",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Load Balancing.md"
+    },
+    {
+      "basename": "Cookie",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Cookies/Cookie.md"
+    },
+    {
+      "basename": "SLO",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Security/Security Protocols/SLO.md"
+    },
+    {
+      "basename": "SAML",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Webservices/SAML.md"
+    },
+    {
+      "basename": "SEO",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/SEO.md"
+    },
+    {
+      "basename": "WAF",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Security/WAF.md"
+    },
+    {
+      "basename": "CMS",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS/CMS.md"
+    },
+    {
+      "basename": "2025-04-11",
+      "path": "Dailies/2025-04-11.md"
     },
     {
       "basename": "JAMstack",
@@ -31,10 +67,6 @@
     {
       "basename": "Microservices",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Microservices/Microservices.md"
-    },
-    {
-      "basename": "CMS",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS/CMS.md"
     },
     {
       "basename": "2025-04-06",

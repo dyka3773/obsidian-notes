@@ -31,7 +31,7 @@ Removing that head, leaving just the body (the content and [[API]]), makes it "h
 ## Drawbacks
 - More complexity: You need to build the [[Frontend Development|frontend]]
 - Steeper learning curve: Especially for non-technical users
-- Less out-of-the-box: Requires developer setup for features like preview, SEO, etc.
+- Less out-of-the-box: Requires developer setup for features like preview, [[SEO]], etc.
 - Cost: Some headless CMS platforms charge based on usage/[[API]] calls
 # When to Use a Headless CMS
 Use a headless CMS if:

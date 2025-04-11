@@ -19,7 +19,7 @@ In software development and system design, a scalable system can grow without si
 - Involves adding **more machines** (servers, nodes) to distribute the load.
 - Example: A web application adding more load-balanced servers as traffic grows.
 - **Pros:** More flexible and resilient; can scale infinitely with distributed systems.
-- **Cons:** Requires architectural changes (e.g., [[load balancing]], [[distributed databases]]).
+- **Cons:** Requires architectural changes (e.g., [[Load Balancing]], [[distributed databases]]).
 ## 3. Elastic Scalability
 - The system automatically scales up/down based on demand.
 - Example: Cloud-based applications that spin up new instances during high traffic.
