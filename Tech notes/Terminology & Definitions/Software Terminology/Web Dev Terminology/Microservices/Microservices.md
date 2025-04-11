@@ -1,6 +1,8 @@
 ---
 tags:
   - tech
+aliases:
+  - microservice
 ---
 Microservices are a popular architectural style for building applications that are resilient, highly [[Scalability|scalable]], independently deployable, and able to evolve quickly. 
 A microservices architecture consists of a collection of small, autonomous services. 

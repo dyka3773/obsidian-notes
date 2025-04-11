@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95c7e9d63a13471c",
+            "id": "5ae3439c39396dfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,40 +23,15 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
               "title": "Unlinked Notes"
             }
-          },
-          {
-            "id": "a409eaa2908e4c31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dailies/2025-04-11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-11"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "29a106e995e55d1a",
@@ -339,19 +314,29 @@
           }
         ],
         "direction": "vertical",
-        "x": 178,
-        "y": 204,
-        "width": 1112,
-        "height": 1075,
-        "maximize": true,
+        "x": -1920,
+        "y": 194,
+        "width": 1198,
+        "height": 1040,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "95c7e9d63a13471c",
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Web Dev Architectures/JAMstack.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/General Terminology/Backend Development.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/IPython/Jupyter Notebooks.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/General Terminology/Frontend Development.md",
     "Unlinked Notes.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Web Dev Architectures",
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS/Headless CMS.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Microservices/Microservices.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS/CMS.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS",
     "Dailies/2025-04-11.md",
+    "Dailies/2025-04-06.md",
     "Homepage.md",
     "Tech notes/Operating Systems/Terminology/Environment Variables/Environment Variables.md",
     "Tech notes/Operating Systems/Terminology/Environment Variables/Environment Files.md",
@@ -371,21 +356,11 @@
     "Tech notes/Terminology & Definitions/Software Terminology/DBA Terminology/Unstructured Data.md",
     "Tech notes/General Frameworks/Selenium.md",
     "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Functional testing.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Functional Tests.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Specification-based Testing.md",
     "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Test Types",
-    "Tech notes/Terminology & Definitions/Software Terminology/DevOps Terminology/DevOps.md",
-    "Tech notes/Computer Languages/Programming Languages/Domain Specific Language/Data Query Languages/XQuery/FLWOR.md",
     "Tech notes/Computer Languages/Programming Languages/Domain Specific Language/Data Query Languages/XQuery",
-    "Tech notes/Terminology & Definitions/Software Terminology/DBA Terminology/Semi-Structured Data.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/DBA Terminology/Structured vs Unstructured vs Semi-Structured Data.md",
-    "Tech notes/Data Formats/CSV.md",
-    "Dailies/2025-04-06.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/IPython",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Maintenance & Generation/Untitled",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building",
-    "Tech notes/Operating Systems/Mobile OSs",
-    "Tech notes/Operating Systems",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }

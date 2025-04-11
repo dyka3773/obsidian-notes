@@ -5,8 +5,40 @@
       "path": "Unlinked Notes.md"
     },
     {
+      "basename": "JAMstack",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Web Dev Architectures/JAMstack.md"
+    },
+    {
+      "basename": "Backend Development",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/General Terminology/Backend Development.md"
+    },
+    {
+      "basename": "Jupyter Notebooks",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/IPython/Jupyter Notebooks.md"
+    },
+    {
+      "basename": "Frontend Development",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/General Terminology/Frontend Development.md"
+    },
+    {
+      "basename": "Headless CMS",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS/Headless CMS.md"
+    },
+    {
+      "basename": "Microservices",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Microservices/Microservices.md"
+    },
+    {
+      "basename": "CMS",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS/CMS.md"
+    },
+    {
       "basename": "2025-04-11",
       "path": "Dailies/2025-04-11.md"
+    },
+    {
+      "basename": "2025-04-06",
+      "path": "Dailies/2025-04-06.md"
     }
   ],
   "omittedPaths": [],

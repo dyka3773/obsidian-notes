@@ -45,4 +45,4 @@ Markdown + Templates → [SSG] → HTML files → Static Hosting
 # Drawbacks and Limitations
 - **No dynamic content at runtime** (e.g., comments, login) unless integrated via [[JavaScript|JS]] or third-party [[API|APIs]].
 - **Build time increases** with site size (especially in large SSGs like Gatsby).
-- **Non-technical users** may struggle without a [[CMS]] unless paired with a **[[headless CMS]]**.
+- **Non-technical users** may struggle without a [[CMS]] unless paired with a **[[Headless CMS]]**.

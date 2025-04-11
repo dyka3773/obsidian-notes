@@ -95,5 +95,5 @@ public class UserDAOImpl implements UserDAO {
 
 # Alternatives to DAO
 - **[[Repository]] Pattern**: Often used in Domain-Driven Design (DDD).
-- **Microservices & APIs**: Some applications use direct API calls instead of DAOs.
+- **[[Microservices]] & APIs**: Some applications use direct API calls instead of DAOs.
 - **Active Record Pattern**: Used in frameworks like [[Rails]] and [[Laravel]].

@@ -4,6 +4,7 @@ tags:
 aliases:
   - back-end
   - backend
+  - backends
 ---
 Backend development is one of the most central web development terms you will come across during any website development project.
 It refers to the server-side coding and structuring that goes into developing and maintaining a website.

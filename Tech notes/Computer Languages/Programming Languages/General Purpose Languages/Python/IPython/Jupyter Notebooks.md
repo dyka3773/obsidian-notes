@@ -31,13 +31,13 @@ Jupyter is widely used in **data science**, **machine learning**, **education**,
     - **[[Markdown]] Cells**: Contain text and formatting.
     - **Raw Cells**: Unprocessed text for advanced use cases.
 # Ecosystem and Tools
-| Tool           | Description                                                                    |
-| -------------- | ------------------------------------------------------------------------------ |
-| **JupyterLab** | Modern UI and [[IDEs and Editors\|IDE]]-like experience for Jupyter notebooks. |
-| **nbconvert**  | Convert notebooks to [[HTML]], PDF, scripts.                                   |
-| **Voila**      | Turn notebooks into standalone web apps.                                       |
-| **Kernels**    | Backend engines for different languages (e.g., [[IPython]], [[Julia]], [[R]]). |
-| **JupyterHub** | Multi-user Jupyter notebook server for teams or classrooms.                    |
+| Tool           | Description                                                                                              |
+| -------------- | -------------------------------------------------------------------------------------------------------- |
+| **JupyterLab** | Modern UI and [[IDEs and Editors\|IDE]]-like experience for Jupyter notebooks.                           |
+| **nbconvert**  | Convert notebooks to [[HTML]], PDF, scripts.                                                             |
+| **Voila**      | Turn notebooks into standalone web apps.                                                                 |
+| **Kernels**    | [[Backend Development\|back-end]] engines for different languages (e.g., [[IPython]], [[Julia]], [[R]]). |
+| **JupyterHub** | Multi-user Jupyter notebook server for teams or classrooms.                                              |
 # Pros and Cons
 
 ## Advantages
