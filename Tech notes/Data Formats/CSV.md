@@ -5,6 +5,7 @@ aliases:
   - Comma-Separated Values
   - TSV
   - Tab-Separated Values
+  - CSVs
 ---
 CSV (Comma-Separated Values) is a **simple file format** used to store **tabular data** in plain text.
 Each line in a CSV file represents a **row**, and values within a row are separated by **commas** (`,`) or other delimiters like **semicolons** (`;`) or **tabs** (sometimes called TSV).

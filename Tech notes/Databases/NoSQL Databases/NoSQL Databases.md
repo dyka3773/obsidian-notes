@@ -13,7 +13,7 @@ Unlike traditional **[[Relational Databases|SQL (relational) databases]]**, NoSQ
 - **Schema-less** (flexible structure)
 - **Horizontally [[Scalability|scalable]]** (distributed across multiple servers)
 - Designed for **high availability and fault tolerance**
-- Supports **[[Unstructured Data|unstructured]] and [[semi-structured data]]**
+- Supports **[[Unstructured Data|unstructured]] and [[Semi-Structured Data]]**
 
 # Challenges of using it
 - **No Standard Query Language**: Each [[Databases|database]] has its own querying method

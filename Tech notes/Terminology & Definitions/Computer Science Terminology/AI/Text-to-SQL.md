@@ -6,7 +6,7 @@ aliases:
   - Natural Language to SQL Conversion
   - TEXT2SQL
 ---
-Text-to-SQL is a **natural language processing (NLP) technique** that enables users to query [[relational databases]] using **plain English** (or any human language) instead of writing [[SQL]] queries.
+Text-to-SQL is a **[[NLP|natural language processing]] ([[NLP]]) technique** that enables users to query [[relational databases]] using **plain English** (or any human language) instead of writing [[SQL]] queries.
 This allows non-technical users to interact with [[databases]] **without knowing [[SQL]] syntax**.
 #### **Example:**
 **User Input (Natural Language Query):**  
@@ -26,7 +26,7 @@ AND department = 'IT';
 
 # How Text-to-SQL Works
 ## Key Components
-- **Natural Language Processing (NLP):** Understands and processes user input.
+- **[[NLP|Natural Language Processing]] ([[NLP]]):** Understands and processes user input.
 - **Semantic Parsing:** Converts text into a structured format.
 - **[[SQL]] Generation:** Translates structured format into [[SQL]] queries.
 - **[[Databases|Database]] Execution:** Runs the query and retrieves results..
@@ -46,7 +46,7 @@ AND department = 'IT';
 - Models like **Transformers, Seq2Seq, BERT, T5, and GPT** generate [[SQL]] queries.
 - **More flexible** but requires **large datasets** and **training**.
 ## 3. Hybrid Approach
-- Combines **rule-based methods** with **ML/NLP models**.
+- Combines **rule-based methods** with **ML/[[NLP]] models**.
 - **Best of both worlds** – good accuracy and flexibility.
 # Challenges in Text-to-SQL
 - **Complex Queries & Joins**: Handling multiple tables, subqueries, and aggregations.

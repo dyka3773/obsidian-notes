@@ -11,7 +11,7 @@ It is similar to [[SQL]] but works specifically with [[XML]], allowing structure
 - **Extracts & filters [[XML]] data** like [[SQL]] does for [[relational databases]].
 - **Supports [[XPath]]** expressions for navigation.
 - **Performs transformations** similar to [[XSLT]].
-- **Handles structured & [[semi-structured data]]** efficiently.
+- **Handles structured & [[Semi-Structured Data]]** efficiently.
 - **Works with [[XML Databases]]** such as BaseX, eXistDB, and MarkLogic.
 # Elements & Syntax
 | **XQuery Feature**        | **Description**                                      | **Example**                                                             |

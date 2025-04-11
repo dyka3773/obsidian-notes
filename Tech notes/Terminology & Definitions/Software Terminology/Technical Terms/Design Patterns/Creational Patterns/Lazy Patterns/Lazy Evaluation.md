@@ -12,7 +12,7 @@ The benefits of lazy evaluation include:
 - The ability to define potentially infinite data structures. This allows for more straightforward implementation of some algorithms.
 - The ability to define partly-defined data structures where some elements are errors. This allows for rapid prototyping.
 
-Lazy evaluation is often combined with [[memoization]].
+Lazy evaluation is often combined with [[Memoization]].
 After a function's value is computed for that parameter or set of parameters, the result is stored in a [[lookup table]] that is [[Database Index|indexed]] by the values of those parameters. 
 The next time the function is called, the table is consulted to determine whether the result for that combination of parameter values is already available.
 If so, the stored result is simply returned.
@@ -29,7 +29,7 @@ The `Supplier` interface and its `get()` method in the `java.util.function` lib
 
 ### [[JavaScript]]
 In [[JavaScript]], lazy evaluation can be simulated by using a generator.
-For example, the stream of all Fibonacci numbers can be written, using [[memoization]], as:
+For example, the stream of all Fibonacci numbers can be written, using [[Memoization]], as:
 ```javascript
 /**
  * Generator functions return generator objects, which reify lazy evaluation.

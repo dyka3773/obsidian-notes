@@ -18,7 +18,7 @@ Key Characteristics:
 - Diverse formats: Can be text, multimedia, logs, or machine-generated data.
 - Harder to process and analyze: Requires advanced tools like AI, [[NLP]], and big data technologies.
 
-> **Semi-structured data** (like [[JSON]], [[XML]]) falls between structured and unstructured data because it has some organization but no strict schema.
+> **[[Semi-structured data]]** (like [[JSON]], [[XML]]) falls between structured and unstructured data because it has some organization but no strict schema.
 
 # How to Store and Process Unstructured Data
 ## A. Storage Solutions
@@ -31,7 +31,7 @@ Since traditional [[databases]] don’t work well for unstructured data, organiz
 - Apache [[Hadoop]] (HDFS)
 - [[Databricks]] / Delta Lake
 - Snowflake / AWS Redshift
-### [[NoSQL Databases]] (for semi-structured data)
+### [[NoSQL Databases]] (for [[semi-structured data]])
 - [[MongoDB]] (stores [[JSON]]-like documents)
 - [[Elasticsearch]] (search & indexing unstructured text)
 - [[Cassandra]] (distributed [[NoSQL Databases|NoSQL]] storage)
@@ -41,7 +41,7 @@ Key Technologies for Handling Unstructured Data:
 
 | Technology                                             | Use Case                                                |
 | ------------------------------------------------------ | ------------------------------------------------------- |
-| **Natural Language Processing ([[NLP]])**              | Analyzing text (emails, social media, customer reviews) |
+| **[[NLP\|Natural Language Processing]] ([[NLP]])**     | Analyzing text (emails, social media, customer reviews) |
 | **Machine Learning (ML)**                              | Identifying patterns in images, audio, video            |
 | **Big Data Processing (Apache [[Spark]], [[Hadoop]])** | Large-scale data analysis                               |
 | **Search & Indexing ([[Elasticsearch]], [[Solr]])**    | Fast text-based search                                  |
