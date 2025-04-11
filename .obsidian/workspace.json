@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dailies/2025-04-11.md",
+                "file": "Unlinked Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-04-11"
+              "title": "Outgoing links from Unlinked Notes"
             }
           },
           {
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-04-11.md",
+                "file": "Unlinked Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-04-11"
+              "title": "Graph of Unlinked Notes"
             }
           }
         ]
@@ -323,8 +323,19 @@
                   "icon": "lucide-file",
                   "title": "2025-04-11"
                 }
+              },
+              {
+                "id": "b51e745ec43a9fb6",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -337,7 +348,7 @@
       }
     ]
   },
-  "active": "a409eaa2908e4c31",
+  "active": "95c7e9d63a13471c",
   "lastOpenFiles": [
     "Dailies/2025-04-11.md",
     "Unlinked Notes.md",
