@@ -11,23 +11,11 @@
             "id": "5ae3439c39396dfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "recipe-view",
               "state": {
-                "file": "Cooking/Recipes/Pastry/Tsoureki.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Cooking/Recipes/Pastry/Tsoureki.md"
               },
-              "icon": "lucide-file",
+              "icon": "chef-hat",
               "title": "Tsoureki"
             }
           }
