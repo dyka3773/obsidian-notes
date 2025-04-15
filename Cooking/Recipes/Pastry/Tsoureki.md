@@ -14,7 +14,7 @@ aliases:
 # Ingredients
 For 5kgs
 - [ ] 1/2 kgs All Purpose Flour for the sourdough
-- [ ] 2kgs flour for the 
+- [ ] 2kgs flour for the rest
 - [ ] 125g Baker's yeast
 - [ ] 650g Lukewarm water
 - [ ] 850g Sugar
@@ -22,9 +22,10 @@ For 5kgs
 - [ ] 200g Sunseed oil
 - [ ] 100g Condensed milk
 - [ ] 10 Eggs
-- [ ] 3-4g Vanillin
-- [ ] 16g Mahlab
+- [ ] 3-4 capsules Vanillin
+- [ ] 16g Mahleb
 - [ ] 8g Cardamom
+- [ ] 8g Mastich
 
 # Directions
 1. το μισο κιλο αλευρι τη μαγια και το νερο γινεται προζυμι
