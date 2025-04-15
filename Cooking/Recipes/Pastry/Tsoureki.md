@@ -13,16 +13,17 @@ aliases:
 ---
 # Ingredients
 For 5kgs
-- [ ] 2.5kgs All Purpose Flour
-- [ ] 125g baker's yeast
-- [ ] 650g lukewarm water
+- [ ] 2 1/2 kgs All Purpose Flour
+- [ ] 125g Baker's yeast
+- [ ] 650g Lukewarm water
 - [ ] 850g Sugar
-- [ ] 250g butter
-- [ ] 200g sunseed oil
-- [ ] 100g condensed milk
-- [ ] 10 eggs
-- [ ] 3-4 vanillin
-- [ ] 16g 
+- [ ] 250g Butter
+- [ ] 200g Sunseed oil
+- [ ] 100g Condensed milk
+- [ ] 10 Eggs
+- [ ] 3-4g Vanillin
+- [ ] 16g Mahlab
+- [ ] 8g Cardamom
 
 # Directions
 1. 

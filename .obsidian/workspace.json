@@ -23,8 +23,8 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": false
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
