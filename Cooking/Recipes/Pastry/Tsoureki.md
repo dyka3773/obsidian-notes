@@ -22,7 +22,7 @@ For 5kgs
 - [ ] 200g Sunseed oil
 - [ ] 100g Condensed milk
 - [ ] 10 Eggs
-- [ ] 3-4 capsules Vanillin
+- [ ] 9-12g Vanillin
 - [ ] 16g Mahleb
 - [ ] 8g Cardamom
 - [ ] 8g Mastich
