@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech notes/Terminology & Definitions/Software Terminology/Security/WAF.md",
+                "file": "Dailies/2025-04-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "WAF"
+              "title": "2025-04-15"
             }
           }
         ]
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tech notes/Terminology & Definitions/Software Terminology/Security/WAF.md",
+                "file": "Dailies/2025-04-15.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of WAF"
+              "title": "Graph of 2025-04-15"
             }
           }
         ]
@@ -290,6 +290,8 @@
   },
   "active": "5ae3439c39396dfc",
   "lastOpenFiles": [
+    "Tech notes/Terminology & Definitions/Software Terminology/Security/WAF.md",
+    "Dailies/2025-04-15.md",
     "Unlinked Notes.md",
     "Dailies/2025-04-11.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/semver.md",
@@ -301,7 +303,6 @@
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Webservices/SAML.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/SEO.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Security",
-    "Tech notes/Terminology & Definitions/Software Terminology/Security/WAF.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS/CMS.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Web Dev Architectures/JAMstack.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/General Terminology/Backend Development.md",
@@ -322,7 +323,6 @@
     "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Regression Testing.md",
     "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Software Testing Types.md",
     "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Sanity Testing.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Sanity Testing vs Smoke Testing.md",
     "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Test Types",
     "Tech notes/Computer Languages/Programming Languages/Domain Specific Language/Data Query Languages/XQuery",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/IPython",
