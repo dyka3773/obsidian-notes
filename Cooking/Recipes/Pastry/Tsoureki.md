@@ -13,8 +13,8 @@ aliases:
 ---
 # Ingredients
 For 5kgs
-- [ ] 1/2 kgs All Purpose Flour for the sourdough
-- [ ] 2kgs flour for the rest
+- [ ] 1/2 kg All Purpose Flour for the sourdough
+- [ ] 2kg flour for the rest
 - [ ] 125g Baker's yeast
 - [ ] 650g Lukewarm water
 - [ ] 850g Sugar
