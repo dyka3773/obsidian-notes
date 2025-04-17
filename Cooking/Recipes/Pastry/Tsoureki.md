@@ -1,31 +1,30 @@
 ---
-calories: 
-protein: 
-fat: 
-carbs: 
-sodium: 
-fiber: 
-cholesterol: 
+calories: 358
+protein: 9
+fat: 11
+carbs: 54
+sodium: 0.07
+fiber: 1.9
+cholesterol: 0
 tags:
   - "#food"
   - recipe
 aliases:
 ---
 # Ingredients
-For 5kgs
-- [ ] 1/2 kg All Purpose Flour for the sourdough
-- [ ] 2kg flour for the rest
-- [ ] 125g Baker's yeast
-- [ ] 650g Lukewarm water
-- [ ] 850g Sugar
-- [ ] 250g Butter
-- [ ] 200g Sunseed oil
-- [ ] 100g Condensed milk
-- [ ] 10 Eggs
-- [ ] 9-12g Vanillin
-- [ ] 16g Mahleb
-- [ ] 8g Cardamom
-- [ ] 8g Mastich
+For 2.5kgs (2-3 Tsourekia)
+- [ ] 1/4 kg All Purpose Flour for the sourdough
+- [ ] 1kg flour for the rest
+- [ ] 63g Baker's yeast
+- [ ] 325g Lukewarm water
+- [ ] 425g Sugar
+- [ ] 125g Butter
+- [ ] 100g Sunflower oil
+- [ ] 50g Condensed milk
+- [ ] 5 Eggs
+- [ ] 5-6g Vanillin
+- [ ] 8g Mahlab
+- [ ] 4g Cardamom
 
 # Directions
 1. το μισο κιλο αλευρι τη μαγια και το νερο γινεται προζυμι
@@ -35,10 +34,10 @@ For 5kgs
 5. ανακατευουμε τα παντα με το υπολοιπο αλευρι
 6. το αφηνουμε να ξεκουραστει και να διπλασιαστει
 7. το κοβω σε μπαλακια και τα αφηνω να ξεκουραστουνε αρκετη ωρα (τουλαχιστον 15-20)
-8. τα απλωνω σε τσουτσουνια
+8. τα απλωνω σε φυτίλια
 9. φροντιζοντας να μη μαζευει η ζυμη, αν μαζευει αστα κιαλλο
 10. σκεπαζω παντα τα ζυμαρια για να παραμενουν ζεστα
-11. πλεκω τα τσουσουνια σε τσουρεκι
+11. πλεκω τα φυτίλια σε τσουρεκι
 12. αφηνω το τσουρεκι να ξεκουραστει παλι μεχρι να ειναι λιγο wobbly
 13. αλειφω με αυγο
 14. τα βαζω στον φουρνο στους 170-180 για ~35 λεπτα
@@ -46,13 +45,11 @@ For 5kgs
 
 Inspiration/Source: my dad
 # Macros
-Per portion of ?g
+Per portion of 130g
 ```foodiary
-
+Tsoureki 130
 ```
-# Preferred Ingredients (if any)
-- Use Tsoureki Flour
+# Preferred Ingredients
+- Use Tsoureki Flour (if available)
 - Use some orange juice for the smell
-
-# Other Notes (if any)
-
+- Feel free to add 8g of Mastich to the spice mix if you want
