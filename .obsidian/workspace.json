@@ -11,12 +11,24 @@
             "id": "5ae3439c39396dfc",
             "type": "leaf",
             "state": {
-              "type": "recipe-view",
+              "type": "markdown",
               "state": {
-                "file": "Cooking/Recipes/Pastry/Tsoureki.md"
+                "file": "Dailies/2025-04-17.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "chef-hat",
-              "title": "Tsoureki"
+              "icon": "lucide-file",
+              "title": "2025-04-17"
             }
           }
         ]
@@ -202,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cooking/Recipes/Pastry/Tsoureki.md",
+                "file": "Dailies/2025-04-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Tsoureki"
+              "title": "Graph of 2025-04-17"
             }
           }
         ]
@@ -279,7 +291,7 @@
   "active": "5ae3439c39396dfc",
   "lastOpenFiles": [
     "Cooking/Recipes/Pastry/Tsoureki.md",
-    "Cooking/Recipes/Pastry/Tsoureki.md",
+    "Dailies/2025-04-17.md",
     "Dailies/2025-04-15.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Security/WAF.md",
     "Unlinked Notes.md",
@@ -310,7 +322,6 @@
     "Tech notes/Computer Languages/Programming Languages/CLI Languages/Batch/Batch.md",
     "Tech notes/Operating Systems/Terminology",
     "Tech notes/Terminology & Definitions/Computer Science Terminology/Untitled",
-    "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Types/Regression Testing.md",
     "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Test Types",
     "Tech notes/Computer Languages/Programming Languages/Domain Specific Language/Data Query Languages/XQuery",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/IPython",
