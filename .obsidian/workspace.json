@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-04-17.md",
+                "file": "Cooking/Recipes/Pastry/Tsoureki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-17"
+              "title": "Tsoureki"
             }
           }
         ]
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-04-17.md",
+                "file": "Cooking/Recipes/Pastry/Tsoureki.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-04-17"
+              "title": "Graph of Tsoureki"
             }
           }
         ]
@@ -290,8 +290,8 @@
   },
   "active": "5ae3439c39396dfc",
   "lastOpenFiles": [
-    "Cooking/Recipes/Pastry/Tsoureki.md",
     "Dailies/2025-04-17.md",
+    "Cooking/Recipes/Pastry/Tsoureki.md",
     "Dailies/2025-04-15.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Security/WAF.md",
     "Unlinked Notes.md",
