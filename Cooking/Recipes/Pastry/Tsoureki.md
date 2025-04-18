@@ -9,6 +9,7 @@ cholesterol: 0
 tags:
   - "#food"
   - recipe
+  - pastry
 aliases:
 ---
 # Ingredients

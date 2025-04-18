@@ -9,6 +9,7 @@ cholesterol:
 tags:
   - "#food"
   - recipe
+  - main-course
 aliases:
   - White Sauce Chicken Penne
 ---

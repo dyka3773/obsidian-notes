@@ -9,6 +9,7 @@ cholesterol:
 tags:
   - "#food"
   - recipe
+  - breakfast
 aliases:
   - penirli
 ---
