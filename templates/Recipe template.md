@@ -7,7 +7,7 @@ sodium:
 fiber: 
 cholesterol: 
 tags:
-  - "#food"
+  - food
   - recipe
 aliases:
 ---

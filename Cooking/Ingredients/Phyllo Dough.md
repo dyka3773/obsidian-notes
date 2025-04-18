@@ -1,13 +1,6 @@
 ---
-calories: 
-protein: 
-fat: 
-carbs: 
-sodium: 
-fiber: 
-cholesterol: 
 tags:
-  - "#food"
+  - food
   - recipe
   - ingredient
 aliases:
@@ -25,11 +18,6 @@ For how many?
 1. Mix all the ingredients together and you're ready
 
 Inspiration/Source [here](https://www.gastronomos.gr/syntagh/to-spitiko-cheiropoiito-fyllo-gia-pites/103541/) 
-# Macros
-Per portion of ?g
-```foodiary
-
-```
 # Preferred Ingredients (if any)
 - 
 
