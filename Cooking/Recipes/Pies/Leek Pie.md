@@ -31,7 +31,7 @@ For how many?
 # Directions
 1. 
 
-Inspiration/Source (if any) [here]() 
+Inspiration/Source [here](https://akispetretzikis.com/recipe/3612/prasopita) 
 # Macros
 Per portion of 180g
 ```foodiary
