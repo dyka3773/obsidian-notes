@@ -79,8 +79,7 @@
               "title": "Recipes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cooking/Recipes/Pies/Leek Pie.md",
+                "file": "Cooking/Ingredients/Phyllo Dough.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,7 +312,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Leek Pie"
+              "title": "Graph of Phyllo Dough"
             }
           }
         ]
@@ -337,10 +336,10 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "active": "f9ac87f00d994094",
+  "active": "5ae3439c39396dfc",
   "lastOpenFiles": [
-    "templates/Recipe template.md",
     "Cooking/Recipes/Pies/Leek Pie.md",
+    "templates/Recipe template.md",
     "Cooking/Ingredients/Phyllo Dough.md",
     "Cooking/Recipes/Recipes.md",
     "Cooking/Recipes/Breakfast/Peinirli.md",
