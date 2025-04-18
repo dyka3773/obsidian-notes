@@ -5,6 +5,10 @@
       "path": "Cooking/Recipes/Pies/Leek Pie.md"
     },
     {
+      "basename": "Recipe template",
+      "path": "templates/Recipe template.md"
+    },
+    {
       "basename": "Phyllo Dough",
       "path": "Cooking/Ingredients/Phyllo Dough.md"
     },

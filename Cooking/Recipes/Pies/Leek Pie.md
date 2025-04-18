@@ -1,17 +1,18 @@
 ---
-calories: 
-protein: 
-fat: 
-carbs: 
-sodium: 
-fiber: 
-cholesterol: 
+calories: 227
+protein: 6.7
+fat: 11
+carbs: 23
+sodium: 0.53
+fiber: 2.2
+cholesterol: 0.113
 tags:
   - "#food"
   - recipe
   - breakfast
   - side
 aliases:
+  - Prasopita
 ---
 # Ingredients
 For how many?
@@ -23,7 +24,7 @@ For how many?
 - [ ] ? Garlic
 - [ ] ? Olive Oil
 - [ ] ? Feta (Optional)
-- [ ] ? Parmiggiano Reggiano (Optional)
+- [ ] ? Partigiano Reggiano (Optional)
 - [ ] Salt
 - [ ] Pepper
 
@@ -32,12 +33,12 @@ For how many?
 
 Inspiration/Source (if any) [here]() 
 # Macros
-Per portion of ?g
+Per portion of 180g
 ```foodiary
-
+Leek Pie 180
 ```
 # Preferred Ingredients (if any)
 - 
 
 # Other Notes (if any)
-
+- 
