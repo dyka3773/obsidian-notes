@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Domain Model",
+      "path": "Tech Books/Cosmic Python/Domain Model.md"
+    },
+    {
+      "basename": "Design Patterns",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md"
+    },
+    {
       "basename": "Tech Notes TODO",
       "path": "Tech notes/Tech Notes TODO.md"
+    },
+    {
+      "basename": "Layered Architecture",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Layered Architecture.md"
+    },
+    {
+      "basename": "Architecture Design Patterns",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Design Patterns.md"
     },
     {
       "basename": "General TODO Notes",

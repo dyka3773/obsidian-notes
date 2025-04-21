@@ -18,6 +18,8 @@ While these patterns typically affect system-level concerns, the distinction bet
 Architecture styles typically include a vocabulary of component and connector types, as well as semantic models for interpreting the system's properties.
 These styles represent the most coarse-grained level of system organization.
 
+Most of the architecture styles also follow some version of  [[Layered Architecture]].
+
 # Examples of architecture styles
 - [[Event-driven architecture]]
 - [[Microservices]]
