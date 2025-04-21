@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Leek Pie",
+      "path": "Cooking/Recipes/Pies/Leek Pie.md"
+    },
+    {
       "basename": "2025-04-21",
       "path": "Dailies/2025-04-21.md"
     },
@@ -9,16 +13,12 @@
       "path": "Cooking/Ingredients/Phyllo Dough.md"
     },
     {
-      "basename": "Recipe template",
-      "path": "templates/Recipe template.md"
-    },
-    {
-      "basename": "Leek Pie",
-      "path": "Cooking/Recipes/Pies/Leek Pie.md"
-    },
-    {
       "basename": "Recipes",
       "path": "Cooking/Recipes/Recipes.md"
+    },
+    {
+      "basename": "Recipe template",
+      "path": "templates/Recipe template.md"
     },
     {
       "basename": "Peinirli",

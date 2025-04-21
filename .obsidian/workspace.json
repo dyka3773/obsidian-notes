@@ -54,32 +54,9 @@
               "icon": "lucide-file",
               "title": "Leek Pie"
             }
-          },
-          {
-            "id": "629e2888e431fa7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cooking/Recipes/Recipes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Recipes"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Cooking/Recipes/Pies/Leek Pie.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Unlinked Notes"
+              "title": "Outgoing links from Leek Pie"
             }
           },
           {
@@ -262,7 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-04-21.md",
+                "file": "Cooking/Recipes/Pies/Leek Pie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -312,7 +289,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-04-21"
+              "title": "Graph of Leek Pie"
             }
           }
         ]
@@ -336,13 +313,48 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "active": "5ae3439c39396dfc",
+  "floating": {
+    "id": "214efee7ff327a5f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6bbb5f8782916f30",
+        "type": "window",
+        "children": [
+          {
+            "id": "5d4a45b9e56d4039",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "28b0d9e65cf52cf9",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1715,
+        "y": 170,
+        "width": 1110,
+        "height": 1074,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
-    "Cooking/Ingredients/Phyllo Dough.md",
     "Dailies/2025-04-21.md",
-    "templates/Recipe template.md",
-    "Cooking/Recipes/Pies/Leek Pie.md",
+    "Cooking/Ingredients/Phyllo Dough.md",
     "Cooking/Recipes/Recipes.md",
+    "Cooking/Recipes/Pies/Leek Pie.md",
+    "templates/Recipe template.md",
     "Cooking/Recipes/Breakfast/Peinirli.md",
     "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md",
     "Cooking/Recipes/Pastry/Tsoureki.md",
