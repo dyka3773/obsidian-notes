@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General TODO Notes.md",
+                "file": "Tech notes/Tech Notes TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "General TODO Notes"
+              "title": "Tech Notes TODO"
             }
           }
         ],
@@ -348,6 +348,7 @@
   },
   "active": "28b0d9e65cf52cf9",
   "lastOpenFiles": [
+    "Tech notes/Tech Notes TODO.md",
     "General TODO Notes.md",
     "Dailies/2025-04-17.md",
     "Unlinked Notes.md",
@@ -376,7 +377,6 @@
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS/CMS.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Web Dev Architectures/JAMstack.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/General Terminology/Backend Development.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/IPython/Jupyter Notebooks.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Web Dev Architectures",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS",
     "Tech notes/Operating Systems/Terminology/Environment Variables",

@@ -7,6 +7,9 @@ tags:
 - [ ] [[Camunda]]
 - [ ] [[Flask]]
 - [ ] [[struts]]
+- [ ] [[TDD]]
+- [ ] [[DDD]]
+- [ ] [[Event-driven architecture]]
 
 ## Unlinked mentions in each file
 
