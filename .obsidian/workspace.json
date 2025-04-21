@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ae3439c39396dfc",
+            "id": "334ebbad8f84e4ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-04-21.md",
+                "file": "Unlinked Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-21"
+              "title": "Unlinked Notes"
             }
           },
           {
-            "id": "f9ac87f00d994094",
+            "id": "4996c65c1aea0a12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking/Recipes/Pies/Leek Pie.md",
+                "file": "General TODO Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Leek Pie"
+              "title": "General TODO Notes"
             }
           }
         ],
@@ -76,7 +76,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -158,12 +158,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cooking/Recipes/Pies/Leek Pie.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Leek Pie"
+              "title": "Outgoing links"
             }
           },
           {
@@ -239,7 +238,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cooking/Recipes/Pies/Leek Pie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,7 +287,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Leek Pie"
+              "title": "Graph view"
             }
           }
         ]
@@ -339,31 +337,32 @@
           }
         ],
         "direction": "vertical",
-        "x": -1715,
-        "y": 170,
-        "width": 1110,
-        "height": 1074,
-        "maximize": true,
+        "x": -1920,
+        "y": 194,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "28b0d9e65cf52cf9",
   "lastOpenFiles": [
+    "General TODO Notes.md",
+    "Dailies/2025-04-17.md",
+    "Unlinked Notes.md",
     "Dailies/2025-04-21.md",
+    "Cooking/Recipes/Pies/Leek Pie.md",
     "Cooking/Ingredients/Phyllo Dough.md",
     "Cooking/Recipes/Recipes.md",
-    "Cooking/Recipes/Pies/Leek Pie.md",
     "templates/Recipe template.md",
     "Cooking/Recipes/Breakfast/Peinirli.md",
     "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md",
     "Cooking/Recipes/Pastry/Tsoureki.md",
     "Dailies/2025-04-18.md",
     "Cooking/Recipes/Pies",
-    "Dailies/2025-04-17.md",
     "Dailies/2025-04-15.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Security/WAF.md",
-    "Unlinked Notes.md",
     "Dailies/2025-04-11.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/semver.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/JavaScript/NodeJS/NPM.md",
@@ -378,7 +377,6 @@
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Web Dev Architectures/JAMstack.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/General Terminology/Backend Development.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/IPython/Jupyter Notebooks.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/General Terminology/Frontend Development.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Web Dev Architectures",
     "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS",
     "Tech notes/Operating Systems/Terminology/Environment Variables",
