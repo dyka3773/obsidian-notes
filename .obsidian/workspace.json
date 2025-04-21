@@ -158,11 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tech notes/Tech Notes TODO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Tech Notes TODO"
             }
           },
           {
@@ -226,7 +227,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "29a106e995e55d1a",
@@ -238,6 +239,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Tech notes/Tech Notes TODO.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,7 +289,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Tech Notes TODO"
             }
           }
         ]
@@ -346,7 +348,7 @@
       }
     ]
   },
-  "active": "28b0d9e65cf52cf9",
+  "active": "0217eb2598258f44",
   "lastOpenFiles": [
     "Tech notes/Tech Notes TODO.md",
     "General TODO Notes.md",
