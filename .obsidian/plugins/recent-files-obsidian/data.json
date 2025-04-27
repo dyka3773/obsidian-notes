@@ -5,36 +5,72 @@
       "path": "Dailies/2025-04-27.md"
     },
     {
-      "basename": "Domain Model",
-      "path": "Tech Books/Cosmic Python/Domain Model.md"
+      "basename": "Unlinked Notes",
+      "path": "Unlinked Notes.md"
     },
     {
-      "basename": "Design Patterns",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md"
+      "basename": "GPT",
+      "path": "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Supervised Learning/Model Architectures/GPT.md"
+    },
+    {
+      "basename": "JShell",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/JShell.md"
+    },
+    {
+      "basename": "Static Import",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Static Import.md"
     },
     {
       "basename": "Tech Notes TODO",
       "path": "Tech notes/Tech Notes TODO.md"
     },
     {
-      "basename": "Layered Architecture",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Layered Architecture.md"
+      "basename": "General TODO Notes",
+      "path": "General TODO Notes.md"
+    },
+    {
+      "basename": "Flask vs Django vs FastAPI",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries & Frameworks/Downloaded/Web Frameworks/Flask vs Django vs FastAPI.md"
+    },
+    {
+      "basename": "Flask",
+      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries & Frameworks/Downloaded/Web Frameworks/Flask.md"
+    },
+    {
+      "basename": "Event-driven architecture",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Patterns/Event-driven architecture.md"
     },
     {
       "basename": "Architecture Design Patterns",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Design Patterns.md"
     },
     {
-      "basename": "General TODO Notes",
-      "path": "General TODO Notes.md"
+      "basename": "DDD",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Methodologies/DDD.md"
     },
     {
-      "basename": "Unlinked Notes",
-      "path": "Unlinked Notes.md"
+      "basename": "Domain Model",
+      "path": "Tech Books/Cosmic Python/Domain Model.md"
+    },
+    {
+      "basename": "Layered Architecture",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Methodologies/Layered Architecture.md"
+    },
+    {
+      "basename": "TDD",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Development Methodologies/TDD.md"
+    },
+    {
+      "basename": "Testing Frameworks",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Frameworks.md"
     },
     {
       "basename": "2025-04-21",
       "path": "Dailies/2025-04-21.md"
+    },
+    {
+      "basename": "Design Patterns",
+      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md"
     },
     {
       "basename": "Leek Pie",

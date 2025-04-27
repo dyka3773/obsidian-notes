@@ -1,6 +1,8 @@
 ---
 tags:
   - tech
+aliases:
+  - Domain Models
 ---
 The _domain_ is a fancy way of saying _the problem you’re trying to solve._ 
 Your authors currently work for an online retailer of furniture. 

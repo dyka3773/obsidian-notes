@@ -43,7 +43,7 @@ AND department = 'IT';
 - **Limitations:** Cannot handle complex queries or ambiguous user input.
 ## 2. Machine Learning-Based Approach
 - Uses **supervised learning on large datasets** (e.g., Spider, WikiSQL).
-- Models like **Transformers, Seq2Seq, BERT, T5, and GPT** generate [[SQL]] queries.
+- Models like **Transformers, Seq2Seq, BERT, T5, and [[GPT]]** generate [[SQL]] queries.
 - **More flexible** but requires **large datasets** and **training**.
 ## 3. Hybrid Approach
 - Combines **rule-based methods** with **ML/[[NLP]] models**.

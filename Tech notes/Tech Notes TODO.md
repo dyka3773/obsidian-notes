@@ -5,11 +5,7 @@ tags:
 ---
 
 - [ ] [[Camunda]]
-- [ ] [[Flask]]
 - [ ] [[struts]]
-- [ ] [[TDD]]
-- [ ] [[DDD]]
-- [ ] [[Event-driven architecture]]
 - [ ] [[Dependency Inversion Principle]]
 
 ## Unlinked mentions in each file

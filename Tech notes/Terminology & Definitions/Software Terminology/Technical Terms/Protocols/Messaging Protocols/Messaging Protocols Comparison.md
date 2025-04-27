@@ -14,4 +14,4 @@ tags:
 # Conclusion
 - **Use [[AMQP]] if:** You need **guaranteed message delivery, complex routing, and high reliability**.
 - **Use MQTT if:** You need **lightweight messaging for IoT or mobile applications**.
-- **Use [[Kafka]] if:** You need **high-throughput event-driven architecture**.
+- **Use [[Kafka]] if:** You need **high-throughput [[event-driven architecture]]**.

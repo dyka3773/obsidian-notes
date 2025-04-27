@@ -32,79 +32,19 @@
             }
           },
           {
-            "id": "4996c65c1aea0a12",
+            "id": "c44cd4da820146e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Tech notes/Tech Notes TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "currentVersion": "1.8.10"
               },
-              "icon": "lucide-file",
-              "title": "Tech Notes TODO"
-            }
-          },
-          {
-            "id": "dba9538719073de0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Books/Cosmic Python/Domain Model.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Domain Model"
-            }
-          },
-          {
-            "id": "28b0d9e65cf52cf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dailies/2025-04-27.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-27"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -377,10 +317,24 @@
                 "id": "938cd8b6b4fa8c3e",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dailies/2025-04-27.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-27"
                 }
               }
             ]
@@ -389,51 +343,50 @@
         "direction": "vertical",
         "x": -1920,
         "y": 194,
-        "width": 874,
+        "width": 928,
         "height": 832,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "28b0d9e65cf52cf9",
+  "active": "938cd8b6b4fa8c3e",
   "lastOpenFiles": [
+    "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Supervised Learning/Model Architectures/GPT.md",
+    "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Supervised Learning/Model Architectures",
+    "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Unsupervised Learning",
+    "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Supervised Learning",
+    "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Unsupervised Learning/Reinforcement Learning",
+    "Unlinked Notes.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/JShell.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Static Import.md",
+    "Tech notes/Tech Notes TODO.md",
+    "General TODO Notes.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries & Frameworks/Downloaded/Web Frameworks/Flask vs Django vs FastAPI.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries & Frameworks/Downloaded/Web Frameworks/Flask.md",
+    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries & Frameworks/Downloaded/Web Frameworks",
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Patterns/Event-driven architecture.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Design Patterns.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Patterns",
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Methodologies/DDD.md",
     "Tech Books/Cosmic Python/Domain Model.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Methodologies/Layered Architecture.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Methodologies",
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Development Methodologies/TDD.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Frameworks.md",
+    "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Untitled",
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Development Methodologies",
     "Dailies/2025-04-27.md",
+    "Dailies/2025-04-21.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md",
     "Tech Books/Cosmic Python",
-    "Tech Books",
-    "Tech notes/Tech Notes TODO.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Layered Architecture.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Design Patterns.md",
-    "General TODO Notes.md",
     "Dailies/2025-04-17.md",
-    "Unlinked Notes.md",
-    "Dailies/2025-04-21.md",
     "Cooking/Recipes/Pies/Leek Pie.md",
     "Cooking/Ingredients/Phyllo Dough.md",
     "Cooking/Recipes/Recipes.md",
     "templates/Recipe template.md",
     "Cooking/Recipes/Breakfast/Peinirli.md",
     "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md",
-    "Cooking/Recipes/Pastry/Tsoureki.md",
-    "Dailies/2025-04-18.md",
-    "Cooking/Recipes/Pies",
-    "Dailies/2025-04-15.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Security/WAF.md",
-    "Dailies/2025-04-11.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/semver.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/JavaScript/NodeJS/NPM.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Load Balancing.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Cookies/Cookie.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Security/Security Protocols/SLO.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Security/Untitled",
-    "Tech notes/Terminology & Definitions/Software Terminology/Security",
-    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Web Dev Architectures",
-    "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS",
-    "Tech notes/Operating Systems/Terminology/Environment Variables",
-    "Tech notes/Operating Systems/Terminology",
-    "Tech notes/Terminology & Definitions/Computer Science Terminology/Untitled",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }

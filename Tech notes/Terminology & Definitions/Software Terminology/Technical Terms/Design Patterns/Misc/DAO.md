@@ -94,6 +94,6 @@ public class UserDAOImpl implements UserDAO {
 - **No need for raw [[SQL]]** – Queries are written in [[HQL]] ([[Hibernate Query Language]]).
 
 # Alternatives to DAO
-- **[[Repository]] Pattern**: Often used in Domain-Driven Design (DDD).
+- **[[Repository]] Pattern**: Often used in Domain-Driven Design ([[DDD]]).
 - **[[Microservices]] & APIs**: Some applications use direct API calls instead of DAOs.
 - **Active Record Pattern**: Used in frameworks like [[Rails]] and [[Laravel]].
