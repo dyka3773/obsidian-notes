@@ -365,14 +365,14 @@
         "direction": "vertical",
         "x": -1920,
         "y": 194,
-        "width": 1091,
-        "height": 1040,
+        "width": 874,
+        "height": 832,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "dba9538719073de0",
+  "active": "28b0d9e65cf52cf9",
   "lastOpenFiles": [
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md",
     "Tech Books/Cosmic Python/Domain Model.md",
