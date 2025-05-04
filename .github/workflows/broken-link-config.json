@@ -13,6 +13,9 @@
       "pattern": "^https://foodstories.com.cy/"
     },
     {
+      "pattern": "^https://stackoverflow.com/"
+    },
+    {
       "pattern": "127.0.0.1"
     },
     {
