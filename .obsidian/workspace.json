@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-07-17.md",
+                "file": "Cooking/Recipes/Pastry/Chocolate Cake.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-17"
+              "title": "Chocolate Cake"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech notes/General Tools/Misc Tools/Misc Tools.md",
+                "file": "Cooking/Recipes/Pastry/Chocolate Cake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Misc Tools"
+              "title": "Backlinks for Chocolate Cake"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Cooking/Recipes/Pastry/Chocolate Cake.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Unlinked Notes"
+              "title": "Outgoing links from Chocolate Cake"
             }
           },
           {
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-07-17.md",
+                "file": "Cooking/Recipes/Pastry/Chocolate Cake.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -264,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-07-17"
+              "title": "Graph of Chocolate Cake"
             }
           }
         ]
@@ -290,8 +290,9 @@
   },
   "active": "334ebbad8f84e4ab",
   "lastOpenFiles": [
-    "Unlinked Notes.md",
     "Dailies/2025-07-17.md",
+    "Cooking/Recipes/Pastry/Chocolate Cake.md",
+    "Unlinked Notes.md",
     "Dailies/2025-04-27.md",
     "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Supervised Learning/Model Architectures/GPT.md",
     "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Supervised Learning/Model Architectures",
@@ -325,7 +326,6 @@
     "Cooking/Recipes/Recipes.md",
     "templates/Recipe template.md",
     "Cooking/Recipes/Breakfast/Peinirli.md",
-    "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }
