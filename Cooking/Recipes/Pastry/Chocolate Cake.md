@@ -29,7 +29,11 @@ For a medium sized tray
 3. Add the butter and the chocolate cut in pieces to allow them to melt easier
 4. Close the lid
 5. When they fully melt, start mixing them with a mixer
-6. 
+6. Remove a fairly big cup from the mixture and keep it as glaze for later
+7. Now add the rest of the ingredients slowly, while mixing them
+8. Cover the baking tray with olive oil
+9. Pour the cake mixture in the tray and put in a preheated oven (180 C) for 30 mins
+10. As soon as it is baked, cut in pieces and pour the glaze over it to absorb some
 
 Inspiration/Source: myself
 # Macros
