@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unlinked Notes.md",
+                "file": "Dailies/2025-07-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Unlinked Notes"
-            }
-          },
-          {
-            "id": "c44cd4da820146e5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "2025-07-17"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dailies/2025-04-27.md",
+                "file": "Unlinked Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-04-27"
+              "title": "Outgoing links from Unlinked Notes"
             }
           },
           {
@@ -215,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "29a106e995e55d1a",
@@ -227,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-04-27.md",
+                "file": "Dailies/2025-07-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-04-27"
+              "title": "Graph of 2025-07-17"
             }
           }
         ]
@@ -301,63 +288,16 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "floating": {
-    "id": "214efee7ff327a5f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6bbb5f8782916f30",
-        "type": "window",
-        "children": [
-          {
-            "id": "5d4a45b9e56d4039",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "938cd8b6b4fa8c3e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dailies/2025-04-27.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-04-27"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1920,
-        "y": 194,
-        "width": 928,
-        "height": 832,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "938cd8b6b4fa8c3e",
+  "active": "334ebbad8f84e4ab",
   "lastOpenFiles": [
+    "Unlinked Notes.md",
+    "Dailies/2025-07-17.md",
+    "Dailies/2025-04-27.md",
     "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Supervised Learning/Model Architectures/GPT.md",
     "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Supervised Learning/Model Architectures",
     "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Unsupervised Learning",
     "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Supervised Learning",
     "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Unsupervised Learning/Reinforcement Learning",
-    "Unlinked Notes.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/JShell.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Static Import.md",
     "Tech notes/Tech Notes TODO.md",
@@ -376,7 +316,6 @@
     "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Frameworks.md",
     "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Untitled",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Development Methodologies",
-    "Dailies/2025-04-27.md",
     "Dailies/2025-04-21.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md",
     "Tech Books/Cosmic Python",
