@@ -5,6 +5,22 @@
       "path": "Dailies/2025-10-29.md"
     },
     {
+      "basename": "Databases",
+      "path": "Tech notes/Databases/Databases.md"
+    },
+    {
+      "basename": "NoSQL vs SQL Databases",
+      "path": "Tech notes/Databases/NoSQL vs SQL Databases.md"
+    },
+    {
+      "basename": "Relational Databases",
+      "path": "Tech notes/Databases/Relational Databases/Relational Databases.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "Tech notes/Computer Languages/Programming Languages/Domain Specific Language/Data Query Languages/SQL.md"
+    },
+    {
       "basename": "Chocolate Cake",
       "path": "Cooking/Recipes/Pastry/Chocolate Cake.md"
     },
@@ -183,10 +199,6 @@
     {
       "basename": "Microservices",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Microservices/Microservices.md"
-    },
-    {
-      "basename": "2025-04-06",
-      "path": "Dailies/2025-04-06.md"
     }
   ],
   "omittedPaths": [],

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76d16453ddf4ca31",
+        "id": "0c6c4d23138c4f6b",
         "type": "tabs",
         "children": [
           {
-            "id": "334ebbad8f84e4ab",
+            "id": "cc96798c8ae9dfe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -114,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cooking/Recipes/Pastry/Chocolate Cake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chocolate Cake"
+              "title": "Backlinks"
             }
           },
           {
@@ -133,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cooking/Recipes/Pastry/Chocolate Cake.md",
+                "file": "Dailies/2025-10-29.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chocolate Cake"
+              "title": "Outgoing links from 2025-10-29"
             }
           },
           {
@@ -162,13 +161,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Text-to-SQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Text-to-SQL"
+              "title": "Outline"
             }
           },
           {
@@ -202,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "29a106e995e55d1a",
@@ -259,7 +257,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0534979423868356,
+                  "scale": 0.7514342322277611,
                   "close": true
                 }
               },
@@ -275,6 +273,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
@@ -288,10 +287,14 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "active": "334ebbad8f84e4ab",
+  "active": "cc96798c8ae9dfe9",
   "lastOpenFiles": [
-    "Cooking/Recipes/Pastry/Chocolate Cake.md",
+    "Tech notes/Databases/Databases.md",
+    "Tech notes/Databases/NoSQL vs SQL Databases.md",
+    "Tech notes/Databases/Relational Databases/Relational Databases.md",
+    "Tech notes/Computer Languages/Programming Languages/Domain Specific Language/Data Query Languages/SQL.md",
     "Dailies/2025-10-29.md",
+    "Cooking/Recipes/Pastry/Chocolate Cake.md",
     "Dailies/2025-07-17.md",
     "Unlinked Notes.md",
     "Dailies/2025-04-27.md",
@@ -322,10 +325,6 @@
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md",
     "Tech Books/Cosmic Python",
     "Dailies/2025-04-17.md",
-    "Cooking/Recipes/Pies/Leek Pie.md",
-    "Cooking/Ingredients/Phyllo Dough.md",
-    "Cooking/Recipes/Recipes.md",
-    "templates/Recipe template.md",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }
