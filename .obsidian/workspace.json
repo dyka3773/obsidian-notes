@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "29a106e995e55d1a",
@@ -287,7 +287,7 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "active": "cc96798c8ae9dfe9",
+  "active": "c0830193669c0283",
   "lastOpenFiles": [
     "Tech notes/Databases/Databases.md",
     "Tech notes/Databases/NoSQL vs SQL Databases.md",
