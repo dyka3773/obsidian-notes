@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       tagId: 'G-21037M996S' 
     },
     locale: "en-US",
-    baseUrl: "dyka3773.github.io/obsidian-notes",
+    baseUrl: "obsidian.irakliskonsoulas.site",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
