@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/DnD.md",
+                "file": "DnD/Shared Resources/Shared Resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "DnD"
+              "title": "Shared Resources"
             }
           }
         ]
@@ -233,7 +233,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DnD/DnD.md",
+                "file": "DnD/Shared Resources/Shared Resources.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,7 +283,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of DnD"
+              "title": "Graph of Shared Resources"
             }
           },
           {
@@ -329,6 +329,29 @@
   },
   "active": "8928bbd07e751031",
   "lastOpenFiles": [
+    "DnD/DnD.md",
+    "DnD/Campaigns/Your First One-Shot/Campaign.md",
+    "DnD/Campaigns/Campaign Index.md",
+    "DnD/Shared Resources/5e Rules & References/5e Rules Index.md",
+    "DnD/Shared Resources/5e Rules & References/Running Your First One-Shot.md",
+    "DnD/Shared Resources/5e Rules & References/DM Quick Reference.md",
+    "DnD/Campaigns/Your First One-Shot/Loot & Rewards",
+    "DnD/Campaigns/Your First One-Shot/Locations",
+    "DnD/Campaigns/Your First One-Shot/Encounters",
+    "DnD/Campaigns/Your First One-Shot/NPCs",
+    "DnD/Campaigns/Your First One-Shot/Sessions",
+    "DnD/Campaigns/Your First One-Shot",
+    "DnD/Shared Resources/Shared Resources.md",
+    "templates/Loot template.md",
+    "templates/Location template.md",
+    "templates/Encounter template.md",
+    "templates/NPC template.md",
+    "templates/Session template.md",
+    "templates/Campaign template.md",
+    "DnD/Shared Resources/Magic Items",
+    "DnD/Shared Resources/Monsters",
+    "DnD/Shared Resources/5e Rules & References",
+    "DnD/Shared Resources",
     "DnD/Test.md",
     "DnD/Decks/Tarot/06-TheLovers.png",
     "DnD/Decks/Tarot/02-TheHighPriestess.png",
@@ -340,10 +363,6 @@
     "DnD/Decks/Tarot/17-TheStar.png",
     "DnD/Decks/Tarot/16-TheTower.png",
     "DnD/Decks/Tarot/15-TheDevil.png",
-    "DnD/Decks/Tarot",
-    "DnD/Decks/Standard",
-    "DnD/Decks",
-    "DnD/DnD.md",
     "templates/DnD note template.md",
     "Tech notes/Tech Notes.md",
     "templates/Tech note template.md",
@@ -352,27 +371,9 @@
     "templates/Ingredient template.md",
     "templates/Daily note template.md",
     "Dailies/2026-02-06.md",
-    "DnD",
     "Dailies/2025-10-29.md",
     "Tech notes/Databases/Databases.md",
     "Tech notes/Databases/NoSQL vs SQL Databases.md",
-    "Tech notes/Databases/Relational Databases/Relational Databases.md",
-    "Tech notes/Computer Languages/Programming Languages/Domain Specific Language/Data Query Languages/SQL.md",
-    "Cooking/Recipes/Pastry/Chocolate Cake.md",
-    "Dailies/2025-07-17.md",
-    "Unlinked Notes.md",
-    "Dailies/2025-04-27.md",
-    "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Supervised Learning/Model Architectures/GPT.md",
-    "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Supervised Learning/Model Architectures",
-    "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Unsupervised Learning",
-    "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Supervised Learning",
-    "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Unsupervised Learning/Reinforcement Learning",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/JShell.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Static Import.md",
-    "Tech notes/Tech Notes TODO.md",
-    "General TODO Notes.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries & Frameworks/Downloaded/Web Frameworks/Flask vs Django vs FastAPI.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries & Frameworks/Downloaded/Web Frameworks",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Patterns"
+    "Tech notes/Databases/Relational Databases/Relational Databases.md"
   ]
 }

@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Shared Resources",
+      "path": "DnD/Shared Resources/Shared Resources.md"
+    },
+    {
       "basename": "DnD",
       "path": "DnD/DnD.md"
+    },
+    {
+      "basename": "Campaign",
+      "path": "DnD/Campaigns/Your First One-Shot/Campaign.md"
+    },
+    {
+      "basename": "Campaign Index",
+      "path": "DnD/Campaigns/Campaign Index.md"
     },
     {
       "basename": "06-TheLovers",
@@ -187,14 +199,6 @@
     {
       "basename": "2025-04-11",
       "path": "Dailies/2025-04-11.md"
-    },
-    {
-      "basename": "semver",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/semver.md"
-    },
-    {
-      "basename": "NPM",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/JavaScript/NodeJS/NPM.md"
     }
   ],
   "omittedPaths": [],
