@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DM Quick Reference",
+      "path": "DnD/Shared Resources/5e Rules & References/DM Quick Reference.md"
+    },
+    {
       "basename": "Shared Resources",
       "path": "DnD/Shared Resources/Shared Resources.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "WAF",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Security/WAF.md"
-    },
-    {
-      "basename": "2025-04-11",
-      "path": "Dailies/2025-04-11.md"
     }
   ],
   "omittedPaths": [],
