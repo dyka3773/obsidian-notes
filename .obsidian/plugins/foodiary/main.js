@@ -1975,7 +1975,7 @@ var FoodiaryCodeBlock = class {
       title: "",
       weight: 0
     };
-    input = input.trim();
+    input = input.replace(/#.*|\/\/.*/g, "").trim();
     if (input != "") {
       const inputParts = input.split(" ");
       if (inputParts.length > 1) {

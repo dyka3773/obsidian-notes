@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Test.md",
+                "file": "DnD/DnD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "DnD"
             }
           }
         ]
@@ -221,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       },
       {
         "id": "29a106e995e55d1a",
@@ -233,7 +233,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DnD/Test.md",
+                "file": "DnD/DnD.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,7 +283,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Test"
+              "title": "Graph of DnD"
             }
           },
           {
@@ -323,15 +323,16 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "98b970dfc18b3465",
+  "active": "8928bbd07e751031",
   "lastOpenFiles": [
+    "DnD/Test.md",
     "DnD/Decks/Tarot/06-TheLovers.png",
     "DnD/Decks/Tarot/02-TheHighPriestess.png",
     "DnD/Decks/Tarot/00-TheFool.png",
-    "DnD/Test.md",
     "DnD/Decks/Tarot/21-TheWorld.png",
     "DnD/Decks/Tarot/20-Judgement.png",
     "DnD/Decks/Tarot/19-TheSun.png",
@@ -339,7 +340,6 @@
     "DnD/Decks/Tarot/17-TheStar.png",
     "DnD/Decks/Tarot/16-TheTower.png",
     "DnD/Decks/Tarot/15-TheDevil.png",
-    "DnD/Decks/Tarot/14-Temperance.png",
     "DnD/Decks/Tarot",
     "DnD/Decks/Standard",
     "DnD/Decks",
