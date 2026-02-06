@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DnD",
+      "path": "DnD/DnD.md"
+    },
+    {
       "basename": "2026-02-06",
       "path": "Dailies/2026-02-06.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Frontend Development",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/General Terminology/Frontend Development.md"
-    },
-    {
-      "basename": "Headless CMS",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS/Headless CMS.md"
     }
   ],
   "omittedPaths": [],
