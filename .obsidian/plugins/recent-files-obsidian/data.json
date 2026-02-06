@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-06",
+      "path": "Dailies/2026-02-06.md"
+    },
+    {
       "basename": "2025-10-29",
       "path": "Dailies/2025-10-29.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Headless CMS",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS/Headless CMS.md"
-    },
-    {
-      "basename": "Microservices",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Microservices/Microservices.md"
     }
   ],
   "omittedPaths": [],

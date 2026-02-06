@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-10-29.md",
+                "file": "Dailies/2026-02-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-29"
+              "title": "2026-02-06"
             }
           }
         ]
@@ -212,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2025-10-29.md",
+                "file": "Dailies/2026-02-06.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-10-29"
+              "title": "Graph of 2026-02-06"
             }
           }
         ]
@@ -287,13 +287,14 @@
       "recipe-view:Toggle recipe view": false
     }
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "cc96798c8ae9dfe9",
   "lastOpenFiles": [
+    "Dailies/2025-10-29.md",
+    "Dailies/2026-02-06.md",
     "Tech notes/Databases/Databases.md",
     "Tech notes/Databases/NoSQL vs SQL Databases.md",
     "Tech notes/Databases/Relational Databases/Relational Databases.md",
     "Tech notes/Computer Languages/Programming Languages/Domain Specific Language/Data Query Languages/SQL.md",
-    "Dailies/2025-10-29.md",
     "Cooking/Recipes/Pastry/Chocolate Cake.md",
     "Dailies/2025-07-17.md",
     "Unlinked Notes.md",
@@ -324,7 +325,6 @@
     "Dailies/2025-04-21.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Design Patterns.md",
     "Tech Books/Cosmic Python",
-    "Dailies/2025-04-17.md",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }
