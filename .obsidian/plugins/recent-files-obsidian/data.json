@@ -5,6 +5,18 @@
       "path": "DnD/Test.md"
     },
     {
+      "basename": "06-TheLovers",
+      "path": "DnD/Decks/Tarot/06-TheLovers.png"
+    },
+    {
+      "basename": "02-TheHighPriestess",
+      "path": "DnD/Decks/Tarot/02-TheHighPriestess.png"
+    },
+    {
+      "basename": "00-TheFool",
+      "path": "DnD/Decks/Tarot/00-TheFool.png"
+    },
+    {
       "basename": "DnD",
       "path": "DnD/DnD.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "NPM",
       "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/JavaScript/NodeJS/NPM.md"
-    },
-    {
-      "basename": "Load Balancing",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Buzzwords/Load Balancing.md"
-    },
-    {
-      "basename": "Cookie",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Cookies/Cookie.md"
-    },
-    {
-      "basename": "SLO",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Security/Security Protocols/SLO.md"
     }
   ],
   "omittedPaths": [],

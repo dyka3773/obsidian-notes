@@ -30,146 +30,8 @@
               "icon": "lucide-file",
               "title": "Test"
             }
-          },
-          {
-            "id": "ef24e159d95ca420",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [
-                [
-                  {
-                    "name": "Troll",
-                    "source": "5e SRD",
-                    "size": "Large",
-                    "type": "giant",
-                    "subtype": "",
-                    "alignment": "chaotic evil",
-                    "ac": 15,
-                    "hp": 84,
-                    "hit_dice": "8d10 + 40",
-                    "speed": "30 ft.",
-                    "stats": [
-                      18,
-                      13,
-                      20,
-                      7,
-                      9,
-                      7
-                    ],
-                    "skillsaves": [
-                      {
-                        "perception": 2
-                      }
-                    ],
-                    "damage_vulnerabilities": "",
-                    "damage_resistances": "",
-                    "damage_immunities": "",
-                    "condition_immunities": "",
-                    "senses": "darkvision 60 ft., passive Perception 12",
-                    "languages": "Giant",
-                    "cr": "5",
-                    "bestiary": true,
-                    "traits": [
-                      {
-                        "name": "Keen Smell",
-                        "desc": "The troll has advantage on Wisdom (Perception) checks that rely on smell.",
-                        "attack_bonus": 0
-                      },
-                      {
-                        "name": "Regeneration",
-                        "desc": "The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.",
-                        "attack_bonus": 0
-                      },
-                      {
-                        "name": "Variant: Loathsome Limbs",
-                        "desc": "Whenever the troll takes at least 15 slashing damage at one time, roll a d20 to determine what else happens to it:\n1-10: Nothing else happens.\n11-14: One leg is severed from the troll if it has any legs left.\n15- 18: One arm is severed from the troll if it has any arms left.\n19-20: The troll is decapitated, but the troll dies only if it can't regenerate. If it dies, so does the severed head.\nIf the troll finishes a short or long rest without reattaching a severed limb or head, the part regrows. At that point, the severed part dies. Until then, a severed part acts on the troll's initiative and has its own action and movement. A severed part has AC 13, 10 hit points, and the troll's Regeneration trait.\nA severed leg is unable to attack and has a speed of 5 feet.\nA severed arm has a speed of 5 feet and can make one claw attack on its turn, with disadvantage on the attack roll unless the troll can see the arm and its target. Each time the troll loses an arm, it loses a claw attack.\nIf its head is severed, the troll loses its bite attack and its body is blinded unless the head can see it. The severed head has a speed of 0 feet and the troll's Keen Smell trait. It can make a bite attack but only against a target in its space.\nThe troll's speed is halved if it's missing a leg. If it loses both legs, it falls prone. If it has both arms, it can crawl. With only one arm, it can still crawl, but its speed is halved. With no arms or legs, its speed is 0, and it can't benefit from bonuses to speed.",
-                        "attack_bonus": 0
-                      }
-                    ],
-                    "actions": [
-                      {
-                        "name": "Multiattack",
-                        "desc": "The troll makes three attacks: one with its bite and two with its claws.",
-                        "attack_bonus": 0
-                      },
-                      {
-                        "name": "Bite",
-                        "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.",
-                        "attack_bonus": 7,
-                        "damage_dice": "1d6",
-                        "damage_bonus": 4
-                      },
-                      {
-                        "name": "Claw",
-                        "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.",
-                        "attack_bonus": 7,
-                        "damage_dice": "2d6",
-                        "damage_bonus": 4
-                      }
-                    ],
-                    "friendly": false
-                  },
-                  1
-                ],
-                [
-                  {
-                    "name": "Frog",
-                    "source": "5e SRD",
-                    "size": "Tiny",
-                    "type": "beast",
-                    "subtype": "",
-                    "alignment": "unaligned",
-                    "ac": 11,
-                    "hp": 1,
-                    "hit_dice": "1d4 + -2",
-                    "speed": "20 ft., swim 20 ft.",
-                    "stats": [
-                      1,
-                      13,
-                      8,
-                      1,
-                      8,
-                      3
-                    ],
-                    "skillsaves": [
-                      {
-                        "perception": 1
-                      },
-                      {
-                        "stealth": 3
-                      }
-                    ],
-                    "damage_vulnerabilities": "",
-                    "damage_resistances": "",
-                    "damage_immunities": "",
-                    "condition_immunities": "",
-                    "senses": "darkvision 30 ft., passive Perception 11",
-                    "languages": "",
-                    "cr": "0",
-                    "bestiary": true,
-                    "traits": [
-                      {
-                        "name": "Amphibious",
-                        "desc": "The frog can breathe air and water",
-                        "attack_bonus": 0
-                      },
-                      {
-                        "name": "Standing Leap",
-                        "desc": "The frog's long jump is up to 10 ft. and its high jump is up to 5 ft., with or without a running start.",
-                        "attack_bonus": 0
-                      }
-                    ]
-                  },
-                  6
-                ]
-              ],
-              "icon": "intiative-tracker-encounter-builder",
-              "title": "Encounter Builder"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -347,9 +209,19 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "f71978fe9b54bf87",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {},
+              "icon": "srt-ribbon",
+              "title": "Solo RPG Toolkit"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       },
       {
         "id": "29a106e995e55d1a",
@@ -450,63 +322,27 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "floating": {
-    "id": "280eafab176229d7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c097ff3b383302b3",
-        "type": "window",
-        "children": [
-          {
-            "id": "124e8de5da66017c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3c48001952205b37",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {},
-                  "icon": "lucide-view",
-                  "title": "Player View"
-                }
-              }
-            ]
-          },
-          {
-            "id": "d8971a36ef7adcb3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a5604efd95fa475b",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-view",
-                  "state": {},
-                  "icon": "initiative-tracker",
-                  "title": "Initiative Tracker"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1409,
-        "y": 251,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a5604efd95fa475b",
+  "active": "98b970dfc18b3465",
   "lastOpenFiles": [
+    "DnD/Decks/Tarot/06-TheLovers.png",
+    "DnD/Decks/Tarot/02-TheHighPriestess.png",
+    "DnD/Decks/Tarot/00-TheFool.png",
     "DnD/Test.md",
+    "DnD/Decks/Tarot/21-TheWorld.png",
+    "DnD/Decks/Tarot/20-Judgement.png",
+    "DnD/Decks/Tarot/19-TheSun.png",
+    "DnD/Decks/Tarot/18-TheMoon.png",
+    "DnD/Decks/Tarot/17-TheStar.png",
+    "DnD/Decks/Tarot/16-TheTower.png",
+    "DnD/Decks/Tarot/15-TheDevil.png",
+    "DnD/Decks/Tarot/14-Temperance.png",
+    "DnD/Decks/Tarot",
+    "DnD/Decks/Standard",
+    "DnD/Decks",
     "DnD/DnD.md",
     "templates/DnD note template.md",
     "Tech notes/Tech Notes.md",
@@ -536,12 +372,7 @@
     "Tech notes/Tech Notes TODO.md",
     "General TODO Notes.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries & Frameworks/Downloaded/Web Frameworks/Flask vs Django vs FastAPI.md",
-    "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries & Frameworks/Downloaded/Web Frameworks/Flask.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries & Frameworks/Downloaded/Web Frameworks",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Patterns",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Methodologies",
-    "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Untitled",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Development Methodologies",
-    "node_modules/psl/browserstack-logo.svg"
+    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Patterns"
   ]
 }
