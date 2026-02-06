@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Test",
+      "path": "DnD/Test.md"
+    },
+    {
       "basename": "DnD",
       "path": "DnD/DnD.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SLO",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Security/Security Protocols/SLO.md"
-    },
-    {
-      "basename": "SAML",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Webservices/SAML.md"
     }
   ],
   "omittedPaths": [],
