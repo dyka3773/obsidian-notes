@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Shared Resources/5e Rules & References/DM Quick Reference.md",
+                "file": "templates/Loot template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DM Quick Reference"
+              "title": "Loot template"
             }
           }
         ]
@@ -233,7 +233,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DnD/Shared Resources/5e Rules & References/DM Quick Reference.md",
+                "file": "templates/Loot template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,7 +283,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of DM Quick Reference"
+              "title": "Graph of Loot template"
             }
           },
           {
@@ -329,13 +329,18 @@
   },
   "active": "8928bbd07e751031",
   "lastOpenFiles": [
+    "templates/Location template.md",
+    "templates/Encounter template.md",
+    "templates/NPC template.md",
+    "templates/Session template.md",
+    "templates/Campaign template.md",
+    "DnD/Shared Resources/5e Rules & References/Running Your First One-Shot.md",
+    "DnD/Campaigns/Campaign Index.md",
     "DnD/Shared Resources/Shared Resources.md",
+    "DnD/Shared Resources/5e Rules & References/DM Quick Reference.md",
     "DnD/Shared Resources/5e Rules & References/5e Rules Index.md",
     "DnD/DnD.md",
     "DnD/Campaigns/Your First One-Shot/Campaign.md",
-    "DnD/Campaigns/Campaign Index.md",
-    "DnD/Shared Resources/5e Rules & References/Running Your First One-Shot.md",
-    "DnD/Shared Resources/5e Rules & References/DM Quick Reference.md",
     "DnD/Campaigns/Your First One-Shot/Loot & Rewards",
     "DnD/Campaigns/Your First One-Shot/Locations",
     "DnD/Campaigns/Your First One-Shot/Encounters",
@@ -343,11 +348,6 @@
     "DnD/Campaigns/Your First One-Shot/Sessions",
     "DnD/Campaigns/Your First One-Shot",
     "templates/Loot template.md",
-    "templates/Location template.md",
-    "templates/Encounter template.md",
-    "templates/NPC template.md",
-    "templates/Session template.md",
-    "templates/Campaign template.md",
     "DnD/Shared Resources/Magic Items",
     "DnD/Shared Resources/Monsters",
     "DnD/Shared Resources/5e Rules & References",

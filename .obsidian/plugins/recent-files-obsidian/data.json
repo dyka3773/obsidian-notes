@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "DM Quick Reference",
-      "path": "DnD/Shared Resources/5e Rules & References/DM Quick Reference.md"
+      "basename": "Loot template",
+      "path": "templates/Loot template.md"
+    },
+    {
+      "basename": "Location template",
+      "path": "templates/Location template.md"
+    },
+    {
+      "basename": "Encounter template",
+      "path": "templates/Encounter template.md"
+    },
+    {
+      "basename": "NPC template",
+      "path": "templates/NPC template.md"
+    },
+    {
+      "basename": "Session template",
+      "path": "templates/Session template.md"
+    },
+    {
+      "basename": "Campaign template",
+      "path": "templates/Campaign template.md"
+    },
+    {
+      "basename": "Running Your First One-Shot",
+      "path": "DnD/Shared Resources/5e Rules & References/Running Your First One-Shot.md"
+    },
+    {
+      "basename": "Campaign Index",
+      "path": "DnD/Campaigns/Campaign Index.md"
     },
     {
       "basename": "Shared Resources",
@@ -15,10 +43,6 @@
     {
       "basename": "Campaign",
       "path": "DnD/Campaigns/Your First One-Shot/Campaign.md"
-    },
-    {
-      "basename": "Campaign Index",
-      "path": "DnD/Campaigns/Campaign Index.md"
     },
     {
       "basename": "06-TheLovers",
@@ -175,30 +199,6 @@
     {
       "basename": "Recipes",
       "path": "Cooking/Recipes/Recipes.md"
-    },
-    {
-      "basename": "Peinirli",
-      "path": "Cooking/Recipes/Breakfast/Peinirli.md"
-    },
-    {
-      "basename": "Penne with Chicken, Pepper and White Sauce",
-      "path": "Cooking/Recipes/Main Course/Penne with Chicken, Pepper and White Sauce.md"
-    },
-    {
-      "basename": "Tsoureki",
-      "path": "Cooking/Recipes/Pastry/Tsoureki.md"
-    },
-    {
-      "basename": "2025-04-18",
-      "path": "Dailies/2025-04-18.md"
-    },
-    {
-      "basename": "2025-04-15",
-      "path": "Dailies/2025-04-15.md"
-    },
-    {
-      "basename": "WAF",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Security/WAF.md"
     }
   ],
   "omittedPaths": [],

@@ -62,4 +62,3 @@ SORT file.name DESC
 ## Resources
 - [[DnD|Main DnD Hub]]
 - [[Shared Resources]]
-- [[5e Rules & References]]

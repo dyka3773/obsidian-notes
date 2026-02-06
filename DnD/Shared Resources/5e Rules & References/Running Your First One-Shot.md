@@ -47,70 +47,7 @@ For each location, prepare:
 
 ## Running the Session
 
-### Opening (First 10 Minutes)
-1. **Greet everyone**, get them seated
-2. **Quick recap** of house rules (if any)
-3. **Describe the opening scene**: "You find yourselves in..."
-4. **Ask**: "What do you do?"
-5. **Then react** to their choice
-
-**Opening Hook Ideas**:
-- They're hired for a job
-- They witness something strange
-- They're accused of something
-- A friend is in trouble
-- They find a mysterious item
-
-### During Play
-- **Listen to your players** - they'll surprise you with cool ideas
-- **When they ask "Can I do X?"** - answer "Yes, if you...[some check/consequence]"
-- **When uncertain** - call a break, look it up, come back
-- **Keep the energy** - if something isn't working, skip ahead
-- **Use voices** - doesn't need to be fancy, just different
-
-### Combat
-1. **Roll initiative** (1d20 + DEX)
-2. **Start of round**: Describe enemy position/intent
-3. **Go round by round**: Each player acts, then enemies
-4. **Resolve**: Attacks, saves, damage
-5. **Repeat** until enemies down or fleeing
-
-**Don't stress combat balance** - if combat is deadly, offer a way to surrender or escape.
-
-### Social Encounters
-- **Ask what they say**: "What do you do?"
-- **Tell them the NPC's response**
-- **Roll only if risky**: Persuasion vs. Insight, etc.
-- **Don't railroad**: Let them negotiate, threaten, befriend
-
 ---
-
-## Common Problems & Solutions
-
-### "That's Too Easy/Hard"
-- **Too easy?** Add more enemies, complications, time pressure
-- **Too hard?** Enemies get captured, retreat, offer surrender
-- **Remember**: It's not about winning - it's about fun
-
-### "Someone's Hogging the Spotlight"
-- Directly ask quieter players: "What does your character do?"
-- Give each PC a moment in the spotlight
-
-### "Players Ignored My Big Plot Point"
-- **Don't panic** - just move it forward differently
-- Save that NPC/location for another session
-- Most players won't notice!
-
-### "I Forgot What I Prepped"
-- Keep notes in front of you
-- It's okay to say "Give me a second to check my notes"
-- Players won't know if you skip or change things
-
-### "They Want to Do Something Not Planned"
-- **This is good!** The best D&D moments are improvised
-- Call for a check
-- Describe the outcome
-- Keep moving
 
 ---
 
@@ -127,19 +64,6 @@ For each location, prepare:
 
 ---
 
-## Tips for Success
-
-✓ **Be prepared but flexible** - know your encounters but adapt on the fly
-✓ **Start combat immediately** if things drag - action keeps energy up
-✓ **Describe with senses** - "what do you see/hear?" not just map positioning
-✓ **Make failure interesting** - failed check = plot twist, not "nothing happens"
-✓ **Let players be heroes** - give them moments where they're incredibly cool
-✓ **Have NPCs react** to cool stuff players do - makes them feel awesome
-✓ **Admit mistakes** - "Actually, that's not how that works" is fine
-✓ **Move on** - don't get stuck on rules, keep the story moving
-
----
-
 ## One-Shot Length Guide
 
 **Typical one-shot**: 3-5 hours
@@ -153,18 +77,4 @@ For each location, prepare:
 
 ---
 
-## Your First Session Checklist
-- [ ] Campaign created and named
-- [ ] NPCs created (at least 3)
-- [ ] Encounters designed (2-3)
-- [ ] Locations described
-- [ ] Opening hook ready
-- [ ] Stat blocks gathered
-- [ ] Session template ready to fill out
-- [ ] You're physically/mentally ready to run
-
-**Most important**: Have fun! D&D is collaborative storytelling.
-
----
-
-See also: [[DM Quick Reference]] | [[Campaign Index]]
+See also: [[Campaign Index]]
