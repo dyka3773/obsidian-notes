@@ -5,6 +5,34 @@
       "path": "DnD/DnD.md"
     },
     {
+      "basename": "DnD note template",
+      "path": "templates/DnD note template.md"
+    },
+    {
+      "basename": "Tech Notes",
+      "path": "Tech notes/Tech Notes.md"
+    },
+    {
+      "basename": "Tech note template",
+      "path": "templates/Tech note template.md"
+    },
+    {
+      "basename": "Tech Tool template",
+      "path": "templates/Tech Tool template.md"
+    },
+    {
+      "basename": "Recipe template",
+      "path": "templates/Recipe template.md"
+    },
+    {
+      "basename": "Ingredient template",
+      "path": "templates/Ingredient template.md"
+    },
+    {
+      "basename": "Daily note template",
+      "path": "templates/Daily note template.md"
+    },
+    {
       "basename": "2026-02-06",
       "path": "Dailies/2026-02-06.md"
     },
@@ -121,10 +149,6 @@
       "path": "Cooking/Recipes/Recipes.md"
     },
     {
-      "basename": "Recipe template",
-      "path": "templates/Recipe template.md"
-    },
-    {
       "basename": "Peinirli",
       "path": "Cooking/Recipes/Breakfast/Peinirli.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "SAML",
       "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Webservices/SAML.md"
-    },
-    {
-      "basename": "SEO",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/SEO.md"
-    },
-    {
-      "basename": "CMS",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Website Building/CMS/CMS.md"
-    },
-    {
-      "basename": "JAMstack",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/Web Dev Architectures/JAMstack.md"
-    },
-    {
-      "basename": "Backend Development",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/General Terminology/Backend Development.md"
-    },
-    {
-      "basename": "Jupyter Notebooks",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/IPython/Jupyter Notebooks.md"
-    },
-    {
-      "basename": "Frontend Development",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Web Dev Terminology/General Terminology/Frontend Development.md"
     }
   ],
   "omittedPaths": [],

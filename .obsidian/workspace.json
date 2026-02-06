@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c6c4d23138c4f6b",
+        "id": "35410b7d744554ea",
         "type": "tabs",
         "children": [
           {
-            "id": "e3999379787c1df7",
+            "id": "f0e639f581224fc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -199,6 +199,26 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "a5604efd95fa475b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "e8c63c8761a2775a",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
         "currentTab": 5
@@ -265,8 +285,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph of DnD"
             }
+          },
+          {
+            "id": "e3999379787c1df7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -286,13 +317,25 @@
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "recipe-view:Toggle recipe view": false
+      "recipe-view:Toggle recipe view": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "e3999379787c1df7",
+  "active": "98b970dfc18b3465",
   "lastOpenFiles": [
-    "Dailies/2026-02-06.md",
+    "templates/DnD note template.md",
     "DnD/DnD.md",
+    "Tech notes/Tech Notes.md",
+    "templates/Tech note template.md",
+    "templates/Tech Tool template.md",
+    "templates/Recipe template.md",
+    "templates/Ingredient template.md",
+    "templates/Daily note template.md",
+    "Dailies/2026-02-06.md",
     "DnD",
     "Dailies/2025-10-29.md",
     "Tech notes/Databases/Databases.md",
@@ -316,17 +359,10 @@
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries & Frameworks/Downloaded/Web Frameworks/Flask.md",
     "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries & Frameworks/Downloaded/Web Frameworks",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Patterns/Event-driven architecture.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Design Patterns.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Patterns",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Methodologies/DDD.md",
-    "Tech Books/Cosmic Python/Domain Model.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Methodologies/Layered Architecture.md",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Methodologies",
-    "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Development Methodologies/TDD.md",
-    "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Testing Frameworks.md",
     "Tech notes/Terminology & Definitions/Software Terminology/QA Terminology/Untitled",
     "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Development Methodologies",
-    "Dailies/2025-04-21.md",
     "node_modules/psl/browserstack-logo.svg"
   ]
 }
