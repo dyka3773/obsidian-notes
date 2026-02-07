@@ -87,7 +87,8 @@ SORT file.name DESC
 - [[DnD|Main DnD Hub]]
 - [[Campaign Index]]
 - [[Shared Resources]]
-- [[5e Rules & References]]
+- [[Plugin Quick-Start Guide]] - How to use your D&D plugins
+- [[Using Your DnD Plugins]] - Full plugin documentation
 
 ## Tips for One-Shots
 - Keep it focused: one main plot thread

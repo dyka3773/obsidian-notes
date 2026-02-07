@@ -12,7 +12,15 @@ FROM #dnd
 #### Quick Navigation
 - **[[Campaign Index]]** - View all campaigns and create new ones
 - **[[Shared Resources]]** - Rules, monsters, magic items shared across campaigns
+- **[[Plugin Quick-Start Guide]]** ⭐ - Using D&D plugins during sessions
 - **[[Decks]]** - Your existing decks folder
+
+#### Plugin Highlights
+You have these D&D plugins installed and ready:
+- **Fantasy Statblocks** - Beautiful 5e stat blocks
+- **Initiative Tracker** - Track combat initiative & HP
+- **Dice Roller** - Roll dice in your notes
+- See: **[[Using Your DnD Plugins]]** for full guide
 
 #### Things left TODO
 
