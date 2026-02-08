@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Campaigns/Your First One-Shot/NPCs/Example NPC - Elderyn Mossvale.md",
+                "file": "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Example NPC - Elderyn Mossvale"
+              "title": "Dimitris"
             }
           }
         ]
@@ -114,17 +114,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/DnD.md",
+                "file": "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DnD"
+              "title": "Backlinks for Dimitris"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/DnD.md",
+                "file": "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DnD"
+              "title": "Outgoing links from Dimitris"
             }
           },
           {
@@ -231,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "29a106e995e55d1a",
@@ -243,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DnD/Campaigns/Your First One-Shot/NPCs/Example NPC - Elderyn Mossvale.md",
+                "file": "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,7 +293,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Example NPC - Elderyn Mossvale"
+              "title": "Graph of Dimitris"
             }
           },
           {
@@ -339,27 +339,32 @@
   },
   "active": "8928bbd07e751031",
   "lastOpenFiles": [
+    "DnD/Campaigns/Your First One-Shot/NPCs/Nikos.md",
+    "DnD/Campaigns/Your First One-Shot/NPCs/High Priest Vasilis.md",
+    "DnD/Campaigns/Your First One-Shot/Loot & Rewards/The Crown of Kings.md",
+    "NPC - Nikos.md",
+    "DnD/Campaigns/Your First One-Shot/Campaign - The Relic of Alexander.md",
+    "DnD/DnD.md",
+    "DnD/Shared Resources/Plugin Quick-Start Guide.md",
+    "DnD/Shared Resources/Using Your DnD Plugins.md",
+    "DnD/Shared Resources/Shared Resources.md",
+    "DnD/Shared Resources/Monsters/Example Monster - Goblin.md",
+    "DnD/Shared Resources/Monsters/Example Monster - Bugbear.md",
+    "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The High Priests Betrayal.md",
+    "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Nikias Guardian of Crown.md",
+    "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Stone Sentries.md",
+    "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Infiltrating the Catacombs.md",
+    "DnD/Campaigns/Your First One-Shot/NPCs/Example NPC - Elderyn Mossvale.md",
+    "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md",
+    "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md",
     "DnD/Campaigns/Your First One-Shot/Locations/Example Location - Forest Road.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Example Encounter - Forest Ambush.md",
-    "DnD/Shared Resources/Monsters/Example Monster - Bugbear.md",
-    "DnD/Shared Resources/Monsters/Example Monster - Goblin.md",
-    "DnD/Shared Resources/Shared Resources.md",
-    "DnD/Shared Resources/Plugin Quick-Start Guide.md",
-    "DnD/Campaigns/Your First One-Shot/Campaign.md",
-    "DnD/DnD.md",
     "DnD/Shared Resources/Your DnD System Overview.md",
-    "DnD/Shared Resources/Using Your DnD Plugins.md",
-    "DnD/Campaigns/Your First One-Shot/NPCs/Example NPC - Elderyn Mossvale.md",
     "templates/Loot template.md",
     "templates/Location template.md",
     "templates/Encounter template.md",
     "templates/NPC template.md",
     "templates/Session template.md",
-    "templates/Campaign template.md",
-    "DnD/Shared Resources/5e Rules & References/Running Your First One-Shot.md",
-    "DnD/Campaigns/Campaign Index.md",
-    "DnD/Shared Resources/5e Rules & References/DM Quick Reference.md",
-    "DnD/Shared Resources/5e Rules & References/5e Rules Index.md",
     "DnD/Campaigns/Your First One-Shot/Loot & Rewards",
     "DnD/Campaigns/Your First One-Shot/Locations",
     "DnD/Campaigns/Your First One-Shot/Encounters",
@@ -370,7 +375,6 @@
     "DnD/Shared Resources/Monsters",
     "DnD/Shared Resources/5e Rules & References",
     "DnD/Shared Resources",
-    "DnD/Test.md",
     "DnD/Decks/Tarot/06-TheLovers.png",
     "DnD/Decks/Tarot/02-TheHighPriestess.png",
     "DnD/Decks/Tarot/00-TheFool.png",
@@ -380,10 +384,6 @@
     "DnD/Decks/Tarot/18-TheMoon.png",
     "DnD/Decks/Tarot/17-TheStar.png",
     "DnD/Decks/Tarot/16-TheTower.png",
-    "DnD/Decks/Tarot/15-TheDevil.png",
-    "templates/DnD note template.md",
-    "Tech notes/Tech Notes.md",
-    "templates/Tech note template.md",
-    "templates/Tech Tool template.md"
+    "DnD/Decks/Tarot/15-TheDevil.png"
   ]
 }

@@ -59,14 +59,6 @@ SORT file.name
 If you want to reuse NPCs or organizations across campaigns, add them here and link to campaign-specific versions.
 
 ---
-
-## Resources by Topic
-
-### 5e Building Blocks
-- [[5e Rules & References]] - Mechanics and how-tos
-- [[Monsters]] - Create stat blocks as you need them
-- [[Magic Items]] - Track special loot
-
 ### Quick Reference Ideas
 Create notes for things you look up frequently:
 - Terrain & Difficult Terrain
