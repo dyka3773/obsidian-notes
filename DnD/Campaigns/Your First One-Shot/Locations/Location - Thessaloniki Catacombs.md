@@ -11,15 +11,15 @@ historical_period: Hellenistic Era
 
 # Location: Thessaloniki Catacombs
 
-An ancient underground labyrinth beneath Thessaloniki, dating back to Alexander's era. It serves as the hidden resting place of the Crown of Kings and the domain of its eternal guardian, Nikias.
+An ancient underground labyrinth beneath Thessaloniki, dating back to Alexander's era. It serves as the hidden resting place of [[the Crown of Kings]] and the domain of its eternal guardian, Nikias.
 
 ## Quick Overview
-Beneath the bustling streets of Thessaloniki lies a vast maze of catacombs—burial chambers, mysterious tunnels, and forgotten shrines. The air is cold and damp. Ancient statues line the walls, some animate with magical protection. In its deepest chamber lies the Crown of Kings, hidden from the world for over two thousand years.
+Beneath the bustling streets of Thessaloniki lies a vast maze of catacombs & burial chambers, mysterious tunnels, and forgotten shrines. The air is cold and damp. Ancient statues line the walls, some animate with magical protection. In its deepest chamber lies [[the Crown of Kings]], hidden from the world for over two thousand years.
 
 ## General Description
 The catacombs smell of earth and age. Water drips from carved stone ceilings, creating echoes that make any sound feel amplified. Faint phosphorescent moss glows on portions of the walls, providing dim light. The air is thin and cool.
 
-The walls are carved with ancient Greek inscriptions and intricate reliefs depicting Alexander's conquests, military campaigns, and mystical imagery. Many walls show signs of deliberate craftsmanship—these catacombs were built with purpose, not accident.
+The walls are carved with ancient Greek inscriptions and intricate reliefs depicting Alexander's conquests, military campaigns, and mystical imagery. Many walls show signs of deliberate craftsmanship. Τhese catacombs were built with purpose, not accident.
 
 As you venture deeper, the air grows colder. Magical auras shimmer faintly around certain areas. The deeper you go, the more you sense something _old_ and _aware_ watching you.
 
@@ -34,7 +34,7 @@ As you venture deeper, the air grows colder. Magical auras shimmer faintly aroun
 - Several side passages (some lead nowhere, some loop back)
 - Ancient frescoes depicting funeral rites
 
-**Access**: Dimitri should provide directions to the hidden entrance. The monastery is known to locals as dangerous (correct—there are traps).
+**Access**: [[Dimitris]] should provide directions to the hidden entrance. The monastery is known to locals as dangerous (correct, there are traps).
 
 ### Mid-Level: The Guardian's Passages
 **Atmosphere**: Becomes more mystical, temperature drops, magical auras visible
@@ -54,8 +54,8 @@ As you venture deeper, the air grows colder. Magical auras shimmer faintly aroun
 **Atmosphere**: Sacred, ominous, otherworldly
 **Features**:
 - Circular chamber with high vaulted ceiling
-- The Crown of Kings displayed on a stone pedestal in the center
-- Nikias's vigil station (a chair, a small shrine, books)
+- [[The Crown of Kings]] displayed on a stone pedestal in the center
+- [[Nikos]]'s vigil station (a chair, a small shrine, books)
 - Murals depicting Darius III's defeat and burial curses
 - Magical glyphs arranged in protective circles around the relic
 
@@ -73,7 +73,6 @@ Multiple animated statues protect the catacombs:
 Throughout the catacombs are ancient Greek inscriptions. Some say:
 - "Here lies the burden of the world's mightiest king"
 - "Let no hand take what conquers all hands"
-- "Darius sleeps, awaiting his reckoning"
 
 ### The Water
 Underground streams run through the catacombs. Some areas have:
@@ -84,15 +83,15 @@ Underground streams run through the catacombs. Some areas have:
 ## Encounters in This Area
 
 ### Infiltration Challenge
-[[Encounter: Infiltrating the Catacombs]] - Sneaking past guards and obstacles
+[[Encounter - Infiltrating the Catacombs| Encounter: Infiltrating the Catacombs]] - Sneaking past guards and obstacles
 
 ### Guardian Encounters
-- [[Encounter: The Stone Sentries]] - Defeating or bypassing animated statues
-- [[Encounter: Peritas's Trial]] - Confronting Alexander's ghost dog
-- [[Encounter: The Drakofido]] - The final guardian before reaching Nikias
+- [[Encounter - The Stone Sentries]] - Defeating or bypassing animated statues
+- [[Encounter - Peritas's Trial]] - Confronting Alexander's ghost dog
+- [[Encounter - The Drakofido]] - The final guardian before reaching [[Nikos]]
 
 ### The Champion's Test
-[[Encounter: Nikias, Guardian of the Crown]] - Boss encounter with the eternal guardian
+[[Encounter - Nikias Guardian of Crown]] - Boss encounter with the eternal guardian
 
 ### The Betrayal
 [[Encounter: The High Priest's Arrival]] - Confronting [[High Priest Vasilis|Vasilis]] in the relic chamber
@@ -123,7 +122,7 @@ Underground streams run through the catacombs. Some areas have:
 One section of the catacombs contains murals depicting Darius III's supposed burial. The party might realize the High Priest could be trying to reverse a curse or ritual.
 
 ### The Oath
-Inscribed in the deepest chamber is the ancient oath taken by Alexander's general: "I and my line shall guard this until the world is ready." This is key to understanding Nikias's motivation.
+Inscribed in the deepest chamber is the ancient oath taken by Alexander's general: "I and my line shall guard this until the world is ready." This is key to understanding [[Nikos]]'s motivation.
 
 ## Atmosphere Tips for DM
 

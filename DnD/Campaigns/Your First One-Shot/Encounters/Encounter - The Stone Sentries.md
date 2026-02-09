@@ -27,7 +27,7 @@ As the party ventures deeper into the catacombs, they enter a wide chamber lined
 ## Setup
 
 ### Visual Description
-> "The chamber opens into a vast hall, almost a cathedral of stone. The walls are lined with elaborate statues—roaring lions in mid-pounce, soldiers with spears raised, warriors in ancient armor. Frescoes on the ceiling depict battles and conquests. The air is cold, and you sense a prickling at the back of your neck.
+> "The chamber opens into a vast hall, almost a cathedral of stone. The walls are lined with elaborate statues, roaring lions in mid-pounce, soldiers with spears raised, warriors in ancient armor. Frescoes on the ceiling depict battles and conquests. The air is cold, and you sense a prickling at the back of your neck.
 >
 > As your footsteps echo, the nearest lion statue's eyes glow with faint blue light. Stone grinds against stone as it shifts, cracks forming in the floor where it stands. Others begin to stir."
 

@@ -23,7 +23,7 @@ The party must sneak through the upper catacombs entrance and past a guard patro
 - **Estimated Duration**: 20-30 minutes
 
 ## Setup
-The party has been given directions by Dimitri to the hidden monastery entrance. They arrive at dusk. The entrance is a collapsed section of the monastery basement that leads down into the catacombs.
+The party has been given directions by [[Dimitris]] to the hidden monastery entrance. They arrive at dusk. The entrance is a collapsed section of the monastery basement that leads down into the catacombs.
 
 **The Obstacle**:
 - **Option A (Combat Path)**: 2 cultist guards stationed at the entrance (they're expecting trouble)
@@ -37,7 +37,7 @@ The party has been given directions by Dimitri to the hidden monastery entrance.
 - 60 feet down to the first chamber
 
 ### Visual Description
-> "The monastery is a shell—centuries of decay have crumbled its walls. You find the loose stone Dimitri mentioned, revealing a passage down into darkness. Cold air rises from below, carrying the smell of age and earth. You can see faint torchlight dancing on stone walls far below. Your heart pounds as you realize this is the point of no return."
+> "The monastery is a shell, centuries of decay have crumbled its walls. You find the loose stone [[Dimitris]] mentioned, revealing a passage down into darkness. Cold air rises from below, carrying the smell of age and earth. You can see faint torchlight dancing on stone walls far below. Your heart pounds as you realize this is the point of no return."
 
 ## The Guard Station (Upper Catacombs Entrance)
 
@@ -45,6 +45,21 @@ The party has been given directions by Dimitri to the hidden monastery entrance.
 If a guard encounter occurs, use these stats:
 
 **Cultist Guard (2-3)**
+```statblock
+name: Cultist Guard
+size: Medium
+type: humanoid
+ac: 14
+hp: 5
+speed: 30 ft.
+stats: [10, 12, 10, 10, 10, 10]
+skills:
+ - perception: +2
+actions:
+ - name: Shortsword
+   desc: "Melee Weapon Attack: `dice: 1d20+2` to hit, reach 5 ft., one target. Hit: `dice: 1d6` slashing damage."
+```
+
 ```
 AC 14 (leather armor)
 HP 5 each
@@ -53,7 +68,7 @@ Attack: Shortsword +2 to hit, 1d6 damage
 Skills: Perception +2
 ```
 
-They're not elite warriors—just hired muscle. They'll surrender or flee if outmatched.
+They're not elite warriors, just hired muscle. They'll surrender or flee if outmatched.
 
 ### Guard Behavior
 - **Alert**: If they hear the party, they call for backup (1d4 cultists arrive in 2 rounds)
@@ -111,7 +126,7 @@ If you want to add complexity without combat, there might be **magical wards**:
 
 ### If Stealth Succeeds
 - Party enters the mid-level catacombs undetected
-- Continue to [[Encounter: The Stone Sentries]]
+- Continue to [[Encounter - The Stone Sentries]]
 
 ### If Combat Occurs
 - 2-3 cultists are defeated/fled
@@ -151,7 +166,7 @@ traits:
 - Stealth and role-playing should be rewarded
 - If combat happens, it should be quick and easy
 - The goal is for the party to reach the relic chamber with time for the major encounters
-- Don't spend too long here—move the story forward
+- Don't spend too long here. Move the story forward
 
 ## Encounter Progression
 
@@ -164,4 +179,4 @@ traits:
 
 **Campaign**: [[Campaign - The Relic of Alexander|The Relic of Alexander]]
 **Location**: [[Location - Thessaloniki Catacombs]]
-**Next Encounter**: [[Encounter: The Stone Sentries]]
+**Next Encounter**: [[Encounter - The Stone Sentries]]
