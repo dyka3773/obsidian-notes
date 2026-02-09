@@ -8,7 +8,6 @@ region: Thessaloniki
 type_of_location: Ancient Catacombs
 historical_period: Hellenistic Era
 ---
-
 # Location: Thessaloniki Catacombs
 
 An ancient underground labyrinth beneath Thessaloniki, dating back to Alexander's era. It serves as the hidden resting place of [[the Crown of Kings]] and the domain of its eternal guardian, Nikias.
@@ -35,21 +34,46 @@ As you venture deeper, the air grows colder. Magical auras shimmer faintly aroun
 - Ancient frescoes depicting funeral rites
 - Christian and pre-Christian elements mixed (the catacombs predate the church)
 
-**Access**: [[Dimitris]] should provide directions to the hidden entrance inside the church. The catacombs are known to locals as dangerous and forbidden (correct, there are cultist guards and traps).
+**Access**: [[Dimitris]] should provide directions to the hidden entrance inside the church. The catacombs are known to locals as dangerous and forbidden (correct, there are [[Cultist Guard|cultist guards]] and traps).
 
 ### Mid-Level: The Guardian's Passages
 **Atmosphere**: Becomes more mystical, temperature drops, magical auras visible
-**Features**:
+
+**The Three Doors**:
+After completing [[Encounter - Infiltrating the Catacombs]], the party reaches a chamber with **three archways**, each sealed by a heavy stone door carved with different symbols:
+
+- **Left Door** (carved with two rampant lions): Leads to [[Encounter - The Stone Sentries]]
+  - *Difficulty*: Medium - Combat with animated stone lions
+  - *Estimated time*: 20-25 minutes
+  
+- **Middle Door** (carved with a hunting dog): Leads to [[Encounter - Peritas's Trial]]
+  - *Difficulty*: Medium - Combat/social/skill challenge with Alexander's spectral hound
+  - *Estimated time*: 20-30 minutes
+  
+- **Right Door** (carved with a coiled serpent): Leads to [[Encounter - The Drakofido]]
+  - *Difficulty*: Hard - Combat with puzzle elements against serpentine construct
+  - *Estimated time*: 25-35 minutes
+
+**Important**: The party must choose ONE door. All three paths eventually converge at the Junction Chamber before the relic chamber. They will only face one of these three guardian challenges.
+
+**General Features** (common to all paths):
 - Wider passages with high ceilings
 - Statuary lining the walls (some animate)
 - Pools of clear water (cold, deep, mysterious)
-- Carved archways with inscriptions
-- Signs of habitation: a bedroll, simple supplies, a fire pit
-
-**Encounters**:
-- Patrolling [[Cultist Guard|cultist guards]] (if [[High Priest Vasilis|Vasilis]] sent reinforcements)
-- The animated stone guardians (lions, horse statues, etc.)
+- Carved archways with ancient Greek inscriptions
+- Signs of ancient habitation: bedrolls, simple supplies, fire pits
 - Environmental hazards (unstable floors, hidden water channels)
+
+### The Junction Chamber
+**Atmosphere**: Transitional, all three paths converge here
+**Features**:
+- Medium-sized chamber where the three guardian paths meet
+- Ancient scorch marks and claw scratches on the walls (evidence of past guardians)
+- A small shrine with offerings (coins, flowers long dead, a rusted sword)
+- Inscriptions in three languages: Greek, Persian, Egyptian
+- Short rest opportunity (relatively safe, guardians don't patrol here)
+
+**Purpose**: This gives the party a moment to catch their breath, heal, and prepare before facing [[Nikos]]. They might also realize that each path was equally dangerous, just in different ways.
 
 ### The Relic Chamber (Deepest Level)
 **Atmosphere**: Sacred, ominous, otherworldly
@@ -84,12 +108,16 @@ Underground streams run through the catacombs. Some areas have:
 ## Encounters in This Area
 
 ### Infiltration Challenge
-[[Encounter - Infiltrating the Catacombs| Encounter: Infiltrating the Catacombs]] - Sneaking past guards and obstacles
+[[Encounter - Infiltrating the Catacombs| Encounter: Infiltrating the Catacombs]] - Sneaking past guards and obstacles to reach the Three Doors
 
-### Guardian Encounters
-- [[Encounter - The Stone Sentries]] - Defeating or bypassing animated statues
-- [[Encounter - Peritas's Trial]] - Confronting Alexander's ghost dog
-- [[Encounter - The Drakofido]] - The final guardian before reaching [[Nikos]]
+### Guardian Encounters (Choose ONE Path)
+After infiltration, the party must choose **one of three doors**. They will only face **one** of these encounters:
+
+- **Left Path**: [[Encounter - The Stone Sentries]] - Combat with animated stone lions (Medium difficulty)
+- **Middle Path**: [[Encounter - Peritas's Trial]] - Test of courage/loyalty with spectral hound (Medium difficulty, multiple solutions)
+- **Right Path**: [[Encounter - The Drakofido]] - Combat + puzzle with serpentine construct (Hard difficulty)
+
+*All three paths converge at the Junction Chamber afterward.*
 
 ### The Champion's Test
 [[Encounter - Nikos Guardian of Crown]] - Boss encounter with the eternal guardian
@@ -109,9 +137,10 @@ Underground streams run through the catacombs. Some areas have:
 - [[High Priest Vasilis]] (arrives in final act)
 
 ## Travel & Time
-- **From monastery entrance to mid-level**: 20 minutes of careful exploration (or 5 minutes if running)
-- **From mid-level to relic chamber**: 15 minutes (or 3 minutes if rushing)
-- **Total descent time**: ~30-45 minutes of session time (includes encounters)
+- **From church entrance to Three Doors chamber**: 15-20 minutes (includes infiltration encounter)
+- **From Three Doors through chosen path to Junction Chamber**: 20-35 minutes (includes one guardian encounter)
+- **From Junction Chamber to relic chamber**: 5 minutes (includes preparation/roleplay)
+- **Total descent time**: ~40-60 minutes of session time (includes encounters and exploration)
 
 ## Secrets & Hidden Elements
 

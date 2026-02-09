@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c17c3366671b6ee",
+            "id": "ac85afc63d1dcdd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Campaigns/Your First One-Shot/Loot & Rewards/The Crown of Kings.md",
+                "file": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "The Crown of Kings"
+              "title": "Encounter - The Drakofido"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Campaigns/Your First One-Shot/Loot & Rewards/The Crown of Kings.md",
+                "file": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Crown of Kings"
+              "title": "Backlinks for Encounter - The Drakofido"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Campaigns/Your First One-Shot/Loot & Rewards/The Crown of Kings.md",
+                "file": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Crown of Kings"
+              "title": "Outgoing links from Encounter - The Drakofido"
             }
           },
           {
@@ -243,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DnD/Campaigns/Your First One-Shot/Loot & Rewards/The Crown of Kings.md",
+                "file": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,7 +293,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Crown of Kings"
+              "title": "Graph of Encounter - The Drakofido"
             }
           },
           {
@@ -339,9 +339,16 @@
   },
   "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
+    "DnD/Shared Resources/Monsters/The Drakofido.md",
+    "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md",
+    "DnD/Shared Resources/Spells/S/Shield.md",
+    "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Peritas's Trial.md",
+    "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Stone Sentries.md",
     "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md",
-    "DnD/Campaigns/Your First One-Shot/NPCs/High Priest Vasilis.md",
     "DnD/Campaigns/Your First One-Shot/Campaign - The Relic of Alexander.md",
+    "DnD/Campaigns/Your First One-Shot/NPCs/Nikos.md",
+    "DnD/Campaigns/Your First One-Shot/Loot & Rewards/The Crown of Kings.md",
+    "DnD/Campaigns/Your First One-Shot/NPCs/High Priest Vasilis.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The High Priests Betrayal.md",
     "DnD/Shared Resources/Spells/H/Hold Person.md",
     "DnD/Shared Resources/Spells/R/Resurrection.md",
@@ -362,16 +369,9 @@
     "DnD/Shared Resources/Spells/V",
     "DnD/Shared Resources/Spells/U/Unseen Servant.md",
     "DnD/Shared Resources/Spells/U",
-    "DnD/Shared Resources/Spells/K/Kyrzin_s Ooze.md",
-    "DnD/Shared Resources/Spells/K/Knock.md",
-    "DnD/Shared Resources/Spells/K/Kinetic Jaunt.md",
-    "DnD/Shared Resources/Spells/K/Keycharm.md",
     "DnD/Shared Resources/Spells/K",
-    "DnD/Shared Resources/Spells/J/Jump.md",
-    "DnD/Shared Resources/Spells/J/Jallarzi_s Storm of Radiance.md",
     "DnD/Shared Resources/Spells/J",
     "DnD/Shared Resources/Spells/add_tags.py",
-    "DnD/Shared Resources/Spells/S/Shield.md",
     "DnD/Shared Resources/Spells/W",
     "DnD/Shared Resources/Spells/T",
     "DnD/Shared Resources/Spells/S",

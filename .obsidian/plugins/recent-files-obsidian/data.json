@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "The Crown of Kings",
-      "path": "DnD/Campaigns/Your First One-Shot/Loot & Rewards/The Crown of Kings.md"
+      "basename": "Encounter - The Drakofido",
+      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md"
+    },
+    {
+      "basename": "The Drakofido",
+      "path": "DnD/Shared Resources/Monsters/The Drakofido.md"
+    },
+    {
+      "basename": "Shield",
+      "path": "DnD/Shared Resources/Spells/S/Shield.md"
+    },
+    {
+      "basename": "Encounter - Peritas's Trial",
+      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Peritas's Trial.md"
+    },
+    {
+      "basename": "Encounter - The Stone Sentries",
+      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Stone Sentries.md"
     },
     {
       "basename": "Location - Thessaloniki Catacombs",
       "path": "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md"
     },
     {
-      "basename": "High Priest Vasilis",
-      "path": "DnD/Campaigns/Your First One-Shot/NPCs/High Priest Vasilis.md"
-    },
-    {
       "basename": "Campaign - The Relic of Alexander",
       "path": "DnD/Campaigns/Your First One-Shot/Campaign - The Relic of Alexander.md"
+    },
+    {
+      "basename": "Nikos",
+      "path": "DnD/Campaigns/Your First One-Shot/NPCs/Nikos.md"
+    },
+    {
+      "basename": "The Crown of Kings",
+      "path": "DnD/Campaigns/Your First One-Shot/Loot & Rewards/The Crown of Kings.md"
+    },
+    {
+      "basename": "High Priest Vasilis",
+      "path": "DnD/Campaigns/Your First One-Shot/NPCs/High Priest Vasilis.md"
     },
     {
       "basename": "Encounter - The High Priests Betrayal",
@@ -45,16 +69,8 @@
       "path": "DnD/Shared Resources/Spells/H/Heal.md"
     },
     {
-      "basename": "Shield",
-      "path": "DnD/Shared Resources/Spells/S/Shield.md"
-    },
-    {
       "basename": "Encounter - Infiltrating the Catacombs",
       "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Infiltrating the Catacombs.md"
-    },
-    {
-      "basename": "Nikos",
-      "path": "DnD/Campaigns/Your First One-Shot/NPCs/Nikos.md"
     },
     {
       "basename": "Cultist Guard",
@@ -67,10 +83,6 @@
     {
       "basename": "Encounter - Nikos Guardian of Crown",
       "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Nikos Guardian of Crown.md"
-    },
-    {
-      "basename": "Encounter - The Stone Sentries",
-      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Stone Sentries.md"
     },
     {
       "basename": "DnD",
@@ -187,18 +199,6 @@
     {
       "basename": "Unlinked Notes",
       "path": "Unlinked Notes.md"
-    },
-    {
-      "basename": "2025-04-27",
-      "path": "Dailies/2025-04-27.md"
-    },
-    {
-      "basename": "GPT",
-      "path": "Tech notes/Terminology & Definitions/Computer Science Terminology/AI/Supervised Learning/Model Architectures/GPT.md"
-    },
-    {
-      "basename": "JShell",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/JShell.md"
     }
   ],
   "omittedPaths": [],

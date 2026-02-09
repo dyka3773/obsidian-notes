@@ -108,6 +108,20 @@ Unstable tiles in the center
 Passage to relic chamber at far end
 ```
 
+### Map
+```
+|---20ft----|-10ft-|----20ft----|
+|LL       PP         PP       LL|
+|LL                           LL|
+|         PP         PP         |
+|+++++++++++++++++++++++++++++++|
+|+++++++++++++++++++++++++++++++|
+|         PP         PP         |
+| PP                         PP |
+|                               |
+|___________| 10FT |____________|
+```
+
 ### Tactical Notes for DM
 - **Lion Behavior**: Lions pursue the closest PC initially, then focus on whoever deals the most damage
 - **Movement**: Lions can move around pillars; use verticality if possible
@@ -173,7 +187,7 @@ If the party wants to avoid combat:
 ## What Comes Next
 
 After defeating the lions:
-- The passage to the relic chamber opens
+- The passage continues forward, eventually reaching the Junction Chamber where all three paths converge
 - Party recovers briefly (1-2 minutes to catch breath, heal, etc.)
 - They can hear something in the deeper chamber: footsteps, or the faint sound of water
 - Continue to [[Encounter - Nikos Guardian of Crown]]
@@ -181,6 +195,11 @@ After defeating the lions:
 ---
 
 **Campaign**: [[Campaign - The Relic of Alexander|The Relic of Alexander]]
-**Location**: [[Location - Thessaloniki Catacombs]] (mid-level)
+**Location**: [[Location - Thessaloniki Catacombs]] (mid-level, left path)
 **Previous Encounter**: [[Encounter - Infiltrating the Catacombs]]
 **Next Encounter**: [[Encounter - Nikos Guardian of Crown]]
+
+**Alternate Encounter**: This encounter is one of three possible mid-level challenges. The party will only face one of:
+- [[Encounter - The Stone Sentries]] (left path - medium difficulty)
+- [[Encounter - Peritas's Trial]] (middle path - medium difficulty, multiple solutions)
+- [[Encounter - The Drakofido]] (right path - hard difficulty)
