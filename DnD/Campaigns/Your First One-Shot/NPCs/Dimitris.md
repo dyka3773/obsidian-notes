@@ -81,6 +81,25 @@ He's not built for combat and will flee if violence starts. Perfectly ordinary h
 - He's useful for delivering messages/information later
 - His fear of the High Priest makes him easy to manipulate once the truth is revealed
 
+
+## Make the offer Irresistible
+
+### For Greedy Characters:
+Dimitri offers 50 gp upfront, 100 gp on completion (that's a LOT for level 1!)
+"You could buy weapons, armor, a horse, lodging for weeks..."
+
+### For Heroic Characters:
+Dimitri adds: "The High Priest helps the poor and sick. He needs this to keep the city safe."
+"Without the relic secured, dangerous forces might claim it."
+
+### For Curious/Lore Characters:
+"An ancient artifact from Alexander the Great's era! Think of the history!"
+"You might be the first to see something lost for 2000 years."
+
+### For Cautious Characters:
+"The High Priest is well-respected. You can meet him before accepting."
+"You're not alone—he'll provide maps, information, supplies."
+
 ---
 
 **Campaign**: [[Campaign - The Relic of Alexander|The Relic of Alexander]]

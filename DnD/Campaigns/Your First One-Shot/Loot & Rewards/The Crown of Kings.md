@@ -34,9 +34,9 @@ When dormant, it appears to be beautiful but not remarkable, something a king mi
 
 ### Command Dominion
 When attuned to the Crown and wearing it, you gain:
-- **Telepathic Command**: You can cast *Command* at will, no spell slots required
-- **Mass Suggestion**: You can cast *Suggestion* on up to 5 creatures simultaneously (rather than 1)
-- **Dominate Person**: You can cast *Dominate Person* once per long rest
+- **Telepathic Command**: You can cast *[[Command]]* at will, no spell slots required
+- **[[Mass Suggestion]]**: You can cast *[[Suggestion]]* on up to 5 creatures simultaneously (rather than 1)
+- **[[Dominate Person]]**: You can cast *[[Dominate Person]]* once per long rest
 - **Aura of Authority**: Creatures within 30 feet of you have disadvantage on saves against your Charisma-based spells
 
 ### Historical Knowledge
@@ -69,7 +69,7 @@ The Crown is fundamentally corrupting. Wearing it for extended periods causes:
 
 **After 24 hours of wear**:
 - You cannot remove the Crown willingly
-- You need a *Remove Curse* spell (DC 17) or divine intervention to remove it
+- You need a *[[Remove Curse]]* spell (DC 17) or divine intervention to remove it
 - The Crown's voice becomes louder than your own thoughts
 
 ## History
@@ -84,25 +84,25 @@ After Alexander's death, his general ([[Nikos]]'s ancestor) took the Crown and h
 
 That oath passed through generations. [[Nikos]] now carries it.
 
-### The Resurrection Attempt
+### The [[Resurrection]] Attempt
 Recently, a scholar discovered writings about Darius III, Alexander's greatest enemy. The scholar became obsessed with the idea of resurrecting Darius III "to correct history." He turned to dark practices, eventually becoming the [[High Priest Vasilis]].
 
-[[High Priest Vasilis|Vasilis]] has spent years researching the Crown and the resurrection ritual. He believes Darius III was wronged. With the Crown and the resurrection, he could control Darius III and use him to build a new empire.
+[[High Priest Vasilis|Vasilis]] has spent years researching the Crown and the [[resurrection]] ritual. He believes Darius III was wronged. With the Crown and the [[resurrection]], he could control Darius III and use him to build a new empire.
 
 ## How to Destroy the Crown
 
 If the party wants to destroy the Crown and end the threat:
 
 ### Option A: Dispel the Magic
-- Requires a powerful mage to cast *Dispel Magic* at 5th level or higher
+- Requires a powerful mage to cast *[[Dispel Magic]]* at 5th level or higher
 - DC 17 Arcana check to succeed
 - Destroys the Crown permanently
 - Cannot be undone
 
-### Option B: Drown It in the Holy Waters
-- The Temple of Asclepius has sacred waters blessed centuries ago
-- Submerging the Crown in these waters for 24 hours destroys it
-- Risk: The ritual requires a willing sacrifice (a life force)
+### Option B: Consecrate It in the Holy Waters
+- The Church of St. Dimitrios has an ancient spring beneath its crypt (the *Myrovlytes* miraculous spring)
+- Submerging the Crown in these blessed waters for 24 hours destroys it
+- Risk: The ritual requires a willing sacrifice (a life force to contain the released dark energy)
 
 ### Option C: Shatter It
 - The Crown can be physically destroyed (AC 18, 25 HP)

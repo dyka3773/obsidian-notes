@@ -17,12 +17,12 @@ A charismatic religious leader secretly working to resurrect Darius III. He's be
 ## Basic Info
 - **Race/Type**: Human
 - **Age**: 52
-- **Role**: High Priest of the Temple of Asclepius (publicly); Cult Leader (secretly)
+- **Role**: High Priest of the Church of St. Dimitrios (publicly); Cult Leader (secretly)
 - **Allegiance**: Evil/Self-serving
 - **Status**: Alive (until confrontation)
 
 ## Appearance
-Vasilis is a striking figure, tall and lean with silver-streaked dark hair that he keeps immaculate. He wears fine robes of crimson and gold, the colors of the Temple of Asclepius. A golden amulet hangs from his neck (contains a fragment of [[the Crown of Kings]], for [[scrying]]). His eyes are calm and kind on the surface, but there's something unsettling in their depths, a hunger that doesn't quite match his warm smile.
+Vasilis is a striking figure, tall and lean with silver-streaked dark hair that he keeps immaculate. He wears fine robes of deep purple and gold, the ceremonial colors of the Church of St. Dimitrios. A golden amulet hangs from his neck (contains a fragment of [[the Crown of Kings]], for [[scrying]]). His eyes are calm and kind on the surface, but there's something unsettling in their depths, a hunger that doesn't quite match his warm smile.
 
 ## Personality & Mannerisms
 - **Quirks**:
@@ -46,7 +46,7 @@ Vasilis is a striking figure, tall and lean with silver-streaked dark hair that 
 ## Backstory
 Vasilis was not always a villain. As a young scholar, he became obsessed with the life of Darius III, convinced that history had been written by Alexander's victors. He researched for decades, eventually discovering [[the Crown of Kings]] was real and hidden in the catacombs beneath Thessaloniki.
 
-Over time, his academic fascination turned into an obsession, then a conviction: Darius III was the rightful ruler, and Alexander was a tyrant. Moving to Thessaloniki, he gradually gained influence in the Temple of Asclepius, eventually becoming High Priest. All the while, he built a secret cult devoted to his cause.
+Over time, his academic fascination turned into an obsession, then a conviction: Darius III was the rightful ruler, and Alexander was a tyrant. Moving to Thessaloniki, he gradually gained influence in the Church of St. Dimitrios, eventually becoming High Priest. All the while, he built a secret cult devoted to his cause.
 
 Now, with the relic within reach, he's ready to resurrect his "rightful lord."
 

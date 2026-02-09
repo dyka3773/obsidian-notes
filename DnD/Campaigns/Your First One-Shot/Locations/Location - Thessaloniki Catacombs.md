@@ -28,13 +28,14 @@ As you venture deeper, the air grows colder. Magical auras shimmer faintly aroun
 ### The Upper Catacombs (Entry Level)
 **Atmosphere**: Burial chambers, can still smell the outside world
 **Features**:
-- Main entrance: Hidden beneath a 500-year-old monastery (now a ruin)
+- Main entrance: Inside the Church of St. Dimitrios, through a hidden passage in the crypt
 - Multiple burial alcoves carved into walls
 - Stone sarcophagi with faded names
 - Several side passages (some lead nowhere, some loop back)
 - Ancient frescoes depicting funeral rites
+- Christian and pre-Christian elements mixed (the catacombs predate the church)
 
-**Access**: [[Dimitris]] should provide directions to the hidden entrance. The monastery is known to locals as dangerous (correct, there are traps).
+**Access**: [[Dimitris]] should provide directions to the hidden entrance inside the church. The catacombs are known to locals as dangerous and forbidden (correct, there are cultist guards and traps).
 
 ### Mid-Level: The Guardian's Passages
 **Atmosphere**: Becomes more mystical, temperature drops, magical auras visible
@@ -144,8 +145,8 @@ Inscribed in the deepest chamber is the ancient oath taken by Alexander's genera
 - The sensation of being watched
 
 ## Connections
-- **Temple of Asclepius**: Above ground, where the party meets [[High Priest Vasilis|Vasilis]] and where the entrance is hidden
-- **Thessaloniki streets**: The way travelers reach the monastery
+- **Church of St. Dimitrios**: Above ground, where the party meets [[High Priest Vasilis|Vasilis]] and where the entrance to the catacombs is hidden
+- **Thessaloniki streets**: The way travelers reach the church
 - **The relic chamber**: Heart of mystery, where fates are decided
 
 ---

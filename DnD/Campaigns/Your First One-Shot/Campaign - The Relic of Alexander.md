@@ -31,7 +31,7 @@ A cult leader disguises themselves as a benevolent religious figure, manipulatin
 - Party must stop the resurrection and decide the relic's fate
 
 ## The Core Story
-**The Setup**: A noble religious figure, the High Priest of the Temple of Asclepius, hires adventurers to infiltrate the catacombs beneath Thessaloniki. An ancient relic, [[the Crown of Kings]], is being guarded by a mysterious warrior. The relic, he claims, should be in the temple's vault for safekeeping. It's too dangerous in the hands of one person.
+**The Setup**: A noble religious figure, the High Priest of the Church of St. Dimitrios, hires adventurers to infiltrate the ancient catacombs beneath the church. An ancient relic, [[the Crown of Kings]], is being guarded by a mysterious warrior. The relic, he claims, should be in the church's vault for safekeeping. It's too dangerous in the hands of one person.
 
 **The Infiltration**: The party sneaks through the catacombs, facing animated stone guardians and the spirits of Alexander's companions. It's challenging but doable for level 1 characters.
 
