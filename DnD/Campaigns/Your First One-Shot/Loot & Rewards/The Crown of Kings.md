@@ -161,5 +161,5 @@ If the party wants to destroy the Crown and end the threat:
 **Villain's Goal**: [[High Priest Vasilis]]
 **Location**: [[Location - Thessaloniki Catacombs]]
 **Related Encounters**: 
-- [[Encounter: Nikos Guardian of Crown]]
-- [[Encounter: The High Priests Betrayal]]
+- [[Encounter - Nikos Guardian of Crown]]
+- [[Encounter - The High Priests Betrayal]]

@@ -40,12 +40,12 @@ A cult leader disguises themselves as a benevolent religious figure, manipulatin
 **The Twist**: If the High Priest gets the relic, he can command armies/reality itself to resurrect Darius III. The guardian has been protecting it for generations. The party must decide: destroy the relic, help the guardian, or find a third path.
 
 ### Key NPCs
-- **[[NPC: High Priest Vasilis]]** - The villain (disguised as benevolent religious leader)
-- **[[NPC: Nikias]]** - Guardian of the relic (Alexander's descendant)
-- **[[NPC: The Informant]]** - Quest-giver who brings party to the High Priest
+- **[[High Priest Vasilis]]** - The villain (disguised as benevolent religious leader)
+- **[[Nikos]]** - Guardian of the relic (Alexander's descendant)
+- **[[Dimitris]]** - Quest-giver who brings party to the High Priest
 
 ## Key Locations
-- **[[Location: Thessaloniki Catacombs]]** - Ancient underground network beneath the city
+- **[[Location - Thessaloniki Catacombs]]** - Ancient underground network beneath the city
 - **Part 1**: The upper catacombs (burial chambers, exploring)
 - **Part 2**: The guardian's domain (stone statues, puzzles)
 - **Part 3**: The relic chamber (final guardian battle)

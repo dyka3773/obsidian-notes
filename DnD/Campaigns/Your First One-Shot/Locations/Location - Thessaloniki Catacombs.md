@@ -46,7 +46,7 @@ As you venture deeper, the air grows colder. Magical auras shimmer faintly aroun
 - Signs of habitation: a bedroll, simple supplies, a fire pit
 
 **Encounters**:
-- Patrolling cultist guards (if [[High Priest Vasilis|Vasilis]] sent reinforcements)
+- Patrolling [[Cultist Guard|cultist guards]] (if [[High Priest Vasilis|Vasilis]] sent reinforcements)
 - The animated stone guardians (lions, horse statues, etc.)
 - Environmental hazards (unstable floors, hidden water channels)
 
@@ -91,10 +91,10 @@ Underground streams run through the catacombs. Some areas have:
 - [[Encounter - The Drakofido]] - The final guardian before reaching [[Nikos]]
 
 ### The Champion's Test
-[[Encounter - Nikias Guardian of Crown]] - Boss encounter with the eternal guardian
+[[Encounter - Nikos Guardian of Crown]] - Boss encounter with the eternal guardian
 
 ### The Betrayal
-[[Encounter: The High Priest's Arrival]] - Confronting [[High Priest Vasilis|Vasilis]] in the relic chamber
+[[Encounter - The High Priests Betrayal]] - Confronting [[High Priest Vasilis|Vasilis]] in the relic chamber
 
 ## NPCs & Inhabitants
 
@@ -104,7 +104,7 @@ Underground streams run through the catacombs. Some areas have:
 - Peritas (ghost, non-communicative, protective)
 
 ### Temporary (if employed by [[High Priest Vasilis|Vasilis]])
-- 2-4 cultist guards
+- 2-4 [[Cultist Guard|cultist guards]]
 - [[High Priest Vasilis]] (arrives in final act)
 
 ## Travel & Time

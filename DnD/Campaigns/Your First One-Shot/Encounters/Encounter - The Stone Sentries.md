@@ -33,7 +33,7 @@ As the party ventures deeper into the catacombs, they enter a wide chamber lined
 
 ## The Combatants
 
-### Animated Stone Lions (2-3)
+### Animated Stone Lions (1-2)
 These lion constructs are remnants of ancient magic, bound to protect the relic.
 
 ```
@@ -60,6 +60,35 @@ Legendary Actions (1/turn if reduced to 11 HP or less):
 - Attack once
 ```
 
+```statblock
+name: Animated Stone Lion
+size: Large
+type: Construct
+ac: 15 (stone body)
+hp: 22 each
+speed: 40 ft.
+stats: [ 16, 10, 14, 0, 0, 0 ]
+traits:
+    - name: Immovable
+      desc: "Advantage on saves against being moved"
+    - name: Fragile
+      desc: "Takes extra 5 damage from thunder/force damage"
+    - name: Stone Form
+      desc: "Resistance to piercing and slashing damage (from weapons)"
+actions:
+    - name: Bite
+      desc: "Melee Weapon Attack: `dice: 1d20+5` to hit, reach 5 ft., one target. Hit: `dice: 1d10+3` piercing damage."
+    - name: Claw
+      desc: "Melee Weapon Attack: `dice: 1d20+5` to hit, reach 5 ft., one target. Hit: `dice: 1d8+3` slashing damage."
+    - name: Pounce
+      desc: "Can move up to 20 ft. and attack as one action."
+legendary_actions:
+    - name: Move
+      desc: "Move up to half speed."
+    - name: Attack
+      desc: "Attack once."
+```
+
 ### Environmental Hazard: Unstable Floor
 In the chamber, several tiles are unstable. When combat begins, they crack and become difficult terrain.
 
@@ -82,7 +111,7 @@ Passage to relic chamber at far end
 ### Tactical Notes for DM
 - **Lion Behavior**: Lions pursue the closest PC initially, then focus on whoever deals the most damage
 - **Movement**: Lions can move around pillars; use verticality if possible
-- **Difficulty**: 2 lions = Medium difficulty; 3 lions = Hard difficulty (adjust based on party performance)
+- **Difficulty**: 2 lions = Medium difficulty
 - **Motivation**: Lions are mindless constructs; they fight to the death
 
 ## Combat Flow
@@ -122,11 +151,9 @@ If the party wants to avoid combat:
 
 ### XP
 - 2 lions: 100 XP total (25 XP per PC for 4 players)
-- 3 lions: 150 XP total (37 XP per PC for 4 players)
 
 ### Loot
 - 10-15 gp in ancient coins (from the rubble)
-- 1-2 chunks of stone (could be crafted into weapons/armor later, or sold for 5 gp)
 
 ## Encounter Progression
 
@@ -139,7 +166,7 @@ If the party wants to avoid combat:
 ## DM Notes
 - This encounter is meant to be the "real fight" of the one-shot
 - Let the party experience combat mechanics (HP damage, healing, using abilities)
-- Don't make it too hard—level 1 characters are fragile
+- Don't make it too hard, level 1 characters are fragile
 - Reward creative solutions (using the environment, clever tactics, etc.)
 - If the party is struggling, lions can take reduced damage or one can be destroyed early
 
@@ -149,11 +176,11 @@ After defeating the lions:
 - The passage to the relic chamber opens
 - Party recovers briefly (1-2 minutes to catch breath, heal, etc.)
 - They can hear something in the deeper chamber: footsteps, or the faint sound of water
-- Continue to [[Encounter: Nikias, Guardian of the Crown]]
+- Continue to [[Encounter - Nikos Guardian of Crown]]
 
 ---
 
 **Campaign**: [[Campaign - The Relic of Alexander|The Relic of Alexander]]
 **Location**: [[Location - Thessaloniki Catacombs]] (mid-level)
-**Previous Encounter**: [[Encounter: Infiltrating the Catacombs]]
-**Next Encounter**: [[Encounter: Nikias, Guardian of the Crown]]
+**Previous Encounter**: [[Encounter - Infiltrating the Catacombs]]
+**Next Encounter**: [[Encounter - Nikos Guardian of Crown]]

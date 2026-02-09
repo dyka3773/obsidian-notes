@@ -22,7 +22,7 @@ A charismatic religious leader secretly working to resurrect Darius III. He's be
 - **Status**: Alive (until confrontation)
 
 ## Appearance
-Vasilis is a striking figure, tall and lean with silver-streaked dark hair that he keeps immaculate. He wears fine robes of crimson and gold, the colors of the Temple of Asclepius. A golden amulet hangs from his neck (contains a fragment of [[the Crown of Kings]], for scrying). His eyes are calm and kind on the surface, but there's something unsettling in their depths, a hunger that doesn't quite match his warm smile.
+Vasilis is a striking figure, tall and lean with silver-streaked dark hair that he keeps immaculate. He wears fine robes of crimson and gold, the colors of the Temple of Asclepius. A golden amulet hangs from his neck (contains a fragment of [[the Crown of Kings]], for [[scrying]]). His eyes are calm and kind on the surface, but there's something unsettling in their depths, a hunger that doesn't quite match his warm smile.
 
 ## Personality & Mannerisms
 - **Quirks**:
@@ -58,26 +58,6 @@ Now, with the relic within reach, he's ready to resurrect his "rightful lord."
 
 ## Game Stats (if combat ensues)
 Vasilis is a powerful spellcaster (treat as a 5th-level wizard):
-
-```
-Name: High Priest Vasilis
-AC: 14 (robes)
-HP: 33 (6d8 + 6)
-Speed: 30 ft.
-Stats: [9, 12, 13, 17, 16, 15]
-Saves: Int+5, Wis+4
-Skills: Arcana+5, History+5, Insight+4, Persuasion+4
-Spells Known:
-- Cantrips: Fire Bolt, Light, Mage Hand
-- 1st (4 slots): Magic Missile, Charm Person, Identify
-- 2nd (3 slots): Scorching Ray, Hold Person, Suggestion
-- 3rd (3 slots): Fireball, Counterspell, Geas
-
-Traits:
-- Spellcasting Focus: Staff
-- Amulet Fragment: Can sense the Crown within 1 mile
-```
-
 ```statblock
 name: High Priest Vasilis
 type: Humanoid (Human)
@@ -107,8 +87,28 @@ spells:
   - 3rd Level (3 slots): Fireball, Counterspell, Geas
 ```
 
+
+```
+Name: High Priest Vasilis
+AC: 14 (robes)
+HP: 33 (6d8 + 6)
+Speed: 30 ft.
+Stats: [9, 12, 13, 17, 16, 15]
+Saves: Int+5, Wis+4
+Skills: Arcana+5, History+5, Insight+4, Persuasion+4
+Spells Known:
+- Cantrips: Fire Bolt, Light, Mage Hand
+- 1st (4 slots): Magic Missile, Charm Person, Identify
+- 2nd (3 slots): Scorching Ray, Hold Person, Suggestion
+- 3rd (3 slots): Fireball, Counterspell, Geas
+
+Traits:
+- Spellcasting Focus: Staff
+- Amulet Fragment: Can sense the Crown within 1 mile
+```
+
 ## For the Confrontation
-- **In the catacombs**, he arrives with 4 cultist guards (use commoner/bandit stat blocks)
+- **In the catacombs**, he arrives with 4 [[Cultist Guard|cultist guards]] (use commoner/bandit stat blocks)
 - **His goal**: Activate the Crown in the relic chamber
 - **His weakness**: Relies on magic; if you strip spell components, he's vulnerable
 - **His advantage**: His cult followers and knowledge of the catacombs
@@ -125,4 +125,4 @@ spells:
 
 **Campaign**: [[Campaign - The Relic of Alexander|The Relic of Alexander]]
 **First Appearance**: Session 1 (in the temple)
-**Final Confrontation**: [[Encounter: The High Priest's Betrayal]]
+**Final Confrontation**: [[Encounter - The High Priests Betrayal]]

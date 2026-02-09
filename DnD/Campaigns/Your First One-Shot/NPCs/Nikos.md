@@ -155,6 +155,5 @@ Legendary Actions (3/turn):
 ---
 
 **Campaign**: [[Campaign - The Relic of Alexander|The Relic of Alexander]]
-**First Appearance**: [[Encounter - The Guardian's Test]]
-**Boss Battle**: Guardian of the relic chamber
+**First Appearance**: [[Encounter - Nikos Guardian of Crown]]
 **Potential Ally**: If party proves trustworthy

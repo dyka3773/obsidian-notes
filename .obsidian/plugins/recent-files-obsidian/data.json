@@ -1,36 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "Encounter - The Stone Sentries",
-      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Stone Sentries.md"
-    },
-    {
-      "basename": "Encounter - Infiltrating the Catacombs",
-      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Infiltrating the Catacombs.md"
-    },
-    {
-      "basename": "Location - Thessaloniki Catacombs",
-      "path": "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md"
-    },
-    {
-      "basename": "Dimitris",
-      "path": "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md"
-    },
-    {
-      "basename": "Nikos",
-      "path": "DnD/Campaigns/Your First One-Shot/NPCs/Nikos.md"
+      "basename": "Encounter - The High Priests Betrayal",
+      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The High Priests Betrayal.md"
     },
     {
       "basename": "High Priest Vasilis",
       "path": "DnD/Campaigns/Your First One-Shot/NPCs/High Priest Vasilis.md"
     },
     {
-      "basename": "The Crown of Kings",
-      "path": "DnD/Campaigns/Your First One-Shot/Loot & Rewards/The Crown of Kings.md"
+      "basename": "Hold Person",
+      "path": "DnD/Shared Resources/Spells/H/Hold Person.md"
+    },
+    {
+      "basename": "Resurrection",
+      "path": "DnD/Shared Resources/Spells/R/Resurrection.md"
+    },
+    {
+      "basename": "Disguise Self",
+      "path": "DnD/Shared Resources/Spells/D/Disguise Self.md"
+    },
+    {
+      "basename": "Scatter",
+      "path": "DnD/Shared Resources/Spells/S/Scatter.md"
+    },
+    {
+      "basename": "Magic Missile",
+      "path": "DnD/Shared Resources/Spells/M/Magic Missile.md"
+    },
+    {
+      "basename": "Heal",
+      "path": "DnD/Shared Resources/Spells/H/Heal.md"
+    },
+    {
+      "basename": "Shield",
+      "path": "DnD/Shared Resources/Spells/S/Shield.md"
+    },
+    {
+      "basename": "Encounter - Infiltrating the Catacombs",
+      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Infiltrating the Catacombs.md"
+    },
+    {
+      "basename": "Nikos",
+      "path": "DnD/Campaigns/Your First One-Shot/NPCs/Nikos.md"
+    },
+    {
+      "basename": "Cultist Guard",
+      "path": "DnD/Campaigns/Your First One-Shot/NPCs/Cultist Guard.md"
     },
     {
       "basename": "Campaign - The Relic of Alexander",
       "path": "DnD/Campaigns/Your First One-Shot/Campaign - The Relic of Alexander.md"
+    },
+    {
+      "basename": "Dimitris",
+      "path": "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md"
+    },
+    {
+      "basename": "Location - Thessaloniki Catacombs",
+      "path": "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md"
+    },
+    {
+      "basename": "Encounter - Nikos Guardian of Crown",
+      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Nikos Guardian of Crown.md"
+    },
+    {
+      "basename": "Encounter - The Stone Sentries",
+      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Stone Sentries.md"
+    },
+    {
+      "basename": "The Crown of Kings",
+      "path": "DnD/Campaigns/Your First One-Shot/Loot & Rewards/The Crown of Kings.md"
     },
     {
       "basename": "DnD",
@@ -159,46 +199,6 @@
     {
       "basename": "JShell",
       "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/JShell.md"
-    },
-    {
-      "basename": "Static Import",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Java/Features/Static Import.md"
-    },
-    {
-      "basename": "Tech Notes TODO",
-      "path": "Tech notes/Tech Notes TODO.md"
-    },
-    {
-      "basename": "General TODO Notes",
-      "path": "General TODO Notes.md"
-    },
-    {
-      "basename": "Flask vs Django vs FastAPI",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries & Frameworks/Downloaded/Web Frameworks/Flask vs Django vs FastAPI.md"
-    },
-    {
-      "basename": "Flask",
-      "path": "Tech notes/Computer Languages/Programming Languages/General Purpose Languages/Python/Libraries & Frameworks/Downloaded/Web Frameworks/Flask.md"
-    },
-    {
-      "basename": "Event-driven architecture",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Patterns/Event-driven architecture.md"
-    },
-    {
-      "basename": "Architecture Design Patterns",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Patterns/Architecture Design Patterns.md"
-    },
-    {
-      "basename": "DDD",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Methodologies/DDD.md"
-    },
-    {
-      "basename": "Domain Model",
-      "path": "Tech Books/Cosmic Python/Domain Model.md"
-    },
-    {
-      "basename": "Layered Architecture",
-      "path": "Tech notes/Terminology & Definitions/Software Terminology/Technical Terms/Design Methodologies/Layered Architecture.md"
     }
   ],
   "omittedPaths": [],

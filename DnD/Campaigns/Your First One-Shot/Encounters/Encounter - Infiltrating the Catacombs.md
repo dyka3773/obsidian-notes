@@ -26,7 +26,7 @@ The party must sneak through the upper catacombs entrance and past a guard patro
 The party has been given directions by [[Dimitris]] to the hidden monastery entrance. They arrive at dusk. The entrance is a collapsed section of the monastery basement that leads down into the catacombs.
 
 **The Obstacle**:
-- **Option A (Combat Path)**: 2 cultist guards stationed at the entrance (they're expecting trouble)
+- **Option A (Combat Path)**: 2 [[Cultist Guard|cultist guards]] stationed at the entrance (they're expecting trouble)
 - **Option B (Stealth Path)**: No guards visible, but magical wards might alert the cultists if triggered
 - **Option C (Social Path)**: A young guard who is sympathetic to the party and can be persuaded/tricked
 
@@ -44,7 +44,7 @@ The party has been given directions by [[Dimitris]] to the hidden monastery entr
 ### Stat Blocks
 If a guard encounter occurs, use these stats:
 
-**Cultist Guard (2-3)**
+**[[Cultist Guard]] (2-3)**
 ```statblock
 name: Cultist Guard
 size: Medium
@@ -141,7 +141,7 @@ If you want to add complexity without combat, there might be **magical wards**:
 
 ## Combat Stats (If Needed)
 
-**Cultist Guard**
+**[[Cultist Guard]]**
 ```statblock
 name: Cultist Guard
 size: Medium

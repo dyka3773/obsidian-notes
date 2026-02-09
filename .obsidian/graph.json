@@ -36,10 +36,17 @@
       }
     },
     {
+      "query": "tag:#spell",
+      "color": {
+        "a": 1,
+        "rgb": 16775777
+      }
+    },
+    {
       "query": "tag:#dnd  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 5419488
       }
     }
   ],
@@ -53,6 +60,6 @@
   "repelStrength": 12.5,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3823010968770065,
+  "scale": 0.1945002269061712,
   "close": true
 }

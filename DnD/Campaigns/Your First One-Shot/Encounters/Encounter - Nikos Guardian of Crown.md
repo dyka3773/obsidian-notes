@@ -10,12 +10,12 @@ encounter_type: Combat/Boss Battle/Social
 status: planned
 ---
 
-# Encounter: Nikias, Guardian of the Crown
+# Encounter: [[Nikos]], Guardian of the Crown
 
-The party reaches the relic chamber and confronts Nikias, an ancient warrior sworn to protect the Crown of Kings. This is the pivotal encounter—combat, negotiation, or alliance are all possible.
+The party reaches the relic chamber and confronts [[Nikos]], an ancient warrior sworn to protect [[the Crown of Kings]]. This is the pivotal encounter. Combat, negotiation, or alliance are all possible.
 
 ## Overview
-The party enters a circular chamber of breathtaking beauty. At its center, on a stone pedestal, rests the Crown of Kings—glowing with subtle magical light. Before the pedestal stands Nikias, a scarred warrior who has watched over this relic for centuries. He will not let it leave willingly.
+The party enters a circular chamber of breathtaking beauty. At its center, on a stone pedestal, rests [[the Crown of Kings]], glowing with subtle magical light. Before the pedestal stands [[Nikos]], a scarred warrior who has watched over this relic for centuries. He will not let it leave willingly.
 
 ## Encounter Type
 - **Type**: Boss Battle / Negotiation / Alliance Opportunity
@@ -27,24 +27,24 @@ The party enters a circular chamber of breathtaking beauty. At its center, on a 
 ## Initial Encounter
 
 ### Visual Description
-> "The chamber opens before you, and your breath catches. It's vast, with a vaulted ceiling 40 feet high. Starlight seems to filter through cracks in the stone above, impossible as you are deep underground. The walls are covered in murals—scenes of Alexander conquering nations, then scenes of him dying. Central to it all is a stone pedestal, and on it rests a crown. It's small, elegant, simple—but it radiates power. You can feel it even from a distance, a weight pressing on your mind.
+> "The chamber opens before you, and your breath catches. It's vast, with a vaulted ceiling 40 feet high. Starlight seems to filter through cracks in the stone above, impossible as you are deep underground. The walls are covered in murals, scenes of Alexander conquering nations, then scenes of him dying. Central to it all is a stone pedestal, and on it rests a crown. It's small, elegant, simple, but it radiates power. You can feel it even from a distance, a weight pressing on your mind.
 >
 > Before the pedestal stands a man in ancient armor, scarred and weathered, his gray eyes fixed on the crown. He doesn't turn as you enter. His voice, when he speaks, is like stone grinding against stone.
 >
 > 'I have waited two hundred years for intruders. I did not think they would come in my lifetime. The crown does not leave this place. Not while I draw breath.'"
 
-### Nikias's Initial Reaction
+### [[Nikos]]'s Initial Reaction
 - He does NOT immediately attack
 - He waits for the party to speak or act
-- His tone is grave, weary, but not hostile—yet
+- His tone is grave, weary, but not hostile... yet
 - He's testing them, trying to understand their intentions
 
-## Nikias Combat Stats
+## [[Nikos]] Combat Stats
 
 See [[Nikos]] for full stat block, but here are key abilities:
 
 ```
-Nikias, Guardian of the Crown
+Nikos, Guardian of the Crown
 AC: 18 | HP: 52 | Speed: 30 ft.
 STR: 16 (+5) | DEX: 14 (+2) | CON: 15 (+2) | WIS: 15 (+2)
 
@@ -61,7 +61,7 @@ Legendary Actions (3/turn if combat begins):
 
 ## Three Paths Forward
 
-### Path 1: Combat (Nikias Fights)
+### Path 1: Combat ([[Nikos]] Fights)
 
 **When does it happen?**
 - Party immediately attacks without talking
@@ -69,18 +69,18 @@ Legendary Actions (3/turn if combat begins):
 - Party insults Alexander or the relic disrespectfully
 
 **The Fight**:
-1. **Round 1**: Nikias draws his sword and moves to intercept the crown-grabber
+1. **Round 1**: [[Nikos]] draws his sword and moves to intercept the crown-grabber
 2. **Rounds 2+**: He fights defensively, trying to stop the party from reaching the crown rather than killing them
 3. **His Strategy**: He uses terrain (pillars, the pedestal), stays between party and crown, uses Parry and Second Wind to stay alive
 
-**If Party Defeats Nikias**:
+**If Party Defeats [[Nikos]]**:
 - He falls to one knee, armor cracked, bleeding
 - His final words: "At least... you proved worthy. The crown... will not serve you as you wish. Remember... the oath..."
 - He dies (or can be saved with healing, unlikely at level 1)
 - The crown is there, but now [[High Priest Vasilis|Vasilis]] will arrive in minutes
 
 **If Party is Defeated**:
-- Nikias doesn't kill them; he disarms them and forces them away
+- [[Nikos]] doesn't kill them; he disarms them and forces them away
 - "You are not ready. Leave this place. Before I am forced to end you."
 - They must flee or negotiate
 
@@ -92,24 +92,24 @@ Legendary Actions (3/turn if combat begins):
 - "We don't want the crown. We just want to understand"
 - "Someone sent us. We think they might be dangerous"
 
-**Nikias's Response** (Insight DC 12 to sense he's telling the truth):
+**[[Nikos]]'s Response** (Insight DC 12 to sense he's telling the truth):
 If the party approaches with respect and curiosity:
-> "I am Nikias, and I have walked this earth for 150 years, bound by an oath my ancestor swore. Alexander's general hid this crown, knowing its power would corrupt any who wielded it. It grants dominion—the ability to command armies, bend minds, reshape reality itself in a limited sphere."
+> "I am [[Nikos]], and I have walked this earth for 150 years, bound by an oath my ancestor swore. Alexander's general hid this crown, knowing its power would corrupt any who wielded it. It grants dominion, the ability to command armies and bend minds."
 >
 > "Whoever sent you... seeks to use it. I can feel the darkness approaching. A religious leader, yes? I have sensed him scheming for months. He plans something terrible."
 
 **Information He Provides**:
 - The High Priest is not what he seems
-- The crown can resurrect the dead—specifically, Darius III
-- If Darius III returns, his hatred for Alexander is eternal—he would destroy this region
-- Nikias has protected the crown to prevent this exact scenario
+- The crown can resurrect the dead. Specifically, Darius III
+- If Darius III returns, his hatred for Alexander is eternal, he would destroy this region
+- [[Nikos]] has protected the crown to prevent this exact scenario
 - The oath: "I and my line will guard this until the world is ready for its truth"
 
-**Nikias's Bargain**:
+**[[Nikos]]'s Bargain**:
 If the party proves they want to stop the High Priest:
-> "Help me. Stop those who would use this crown. Allow me to keep it safe—or better yet, help me destroy it. This relic has caused enough suffering. It should never have been created."
+> "Help me. Stop those who would use this crown. Allow me to keep it safe, or better yet, help me destroy it. This relic has caused enough suffering. It should never have been created."
 
-**Result**: Nikias becomes an ally. He can:
+**Result**: [[Nikos]] becomes an ally. He can:
 - Fight alongside the party against [[High Priest Vasilis|Vasilis]]
 - Provide tactical knowledge of the catacombs
 - Use the crown to amplify his own power temporarily
@@ -117,31 +117,31 @@ If the party proves they want to stop the High Priest:
 
 ### Path 3: Steal the Crown (Tricky)
 
-**If the party tries to grab the crown while Nikias watches**:
-- Nikias moves faster than expected (reaction action)
-- Grapple check: Party vs. Nikias's Strength check (+5 bonus)
-- If party wins: They have the crown, but Nikias is enraged and attacks
-- If Nikias wins: He wrestles them away, combat begins
+**If the party tries to grab the crown while [[Nikos]] watches**:
+- [[Nikos]] moves faster than expected (reaction action)
+- Grapple check: Party vs. [[Nikos]]'s Strength check (+5 bonus)
+- If party wins: They have the crown, but [[Nikos]] is enraged and attacks
+- If [[Nikos]] wins: He wrestles them away, combat begins
 
-**Note**: The crown itself is NOT trapped with curses; it's just protected by Nikias.
+**Note**: The crown itself is NOT trapped with curses; it's just protected by [[Nikos]].
 
-## The Deeper Truth (If Nikias Reveals It)
+## The Deeper Truth (If [[Nikos]] Reveals It)
 
-**The Crown's Power**:
+**[[The Crown of Kings| The Crown]]'s Power**:
 - It belonged to Alexander
 - It grants absolute dominion over others' minds (command armies, control individuals, reshape perceptions)
-- It's also a burden—wearing it corrupts the user, slowly driving them mad
+- It's also a burden. Wearing it corrupts the user, slowly driving them mad
 - Alexander himself was corrupted by it before he died
 
-**Why Nikias Guards It**:
+**Why [[Nikos]] Guards It**:
 - The last person who tried to use it became obsessed with resurrecting Darius III as a vessel to control
-- Nikias stopped them, sealed the crown away
+- [[Nikos]] stopped them, sealed the crown away
 - He's been guarding it ever since, waiting for someone worth the responsibility
 
 **The Resurrection Ritual**:
 - The High Priest has been researching Darius III's burial curse (kept in a hidden chamber nearby)
 - Using the crown's power combined with ancient rituals, Darius III could be resurrected
-- If resurrected, he would remember his hatred of Alexander—and destroy everything
+- If resurrected, he would remember his hatred of Alexander and destroy everything
 - The crown amplifies this; it would make him nearly unstoppable
 
 ## Encounter Progression
@@ -153,25 +153,25 @@ If the party proves they want to stop the High Priest:
 - **5 minutes**: Resolution and preparation for next encounter
 
 ### What Happens Next
-- **If Combat Ensues**: Nikias is defeated or victorious, then [[High Priest Vasilis|Vasilis]] arrives (minutes later)
-- **If Negotiation Succeeds**: Nikias joins the party, [[High Priest Vasilis|Vasilis]] arrives, final confrontation begins
-- **If Theft Succeeds**: Nikias pursues, leading to combat while [[High Priest Vasilis|Vasilis]] also arrives (chaos!)
+- **If Combat Ensues**: [[Nikos]] is defeated or victorious, then [[High Priest Vasilis|Vasilis]] arrives (minutes later)
+- **If Negotiation Succeeds**: [[Nikos]] joins the party, [[High Priest Vasilis|Vasilis]] arrives, final confrontation begins
+- **If Theft Succeeds**: [[Nikos]] pursues, leading to combat while [[High Priest Vasilis|Vasilis]] also arrives (chaos!)
 
 ## The Moral Choice
 
-**Key Moment**: If Nikias trusts the party and they ally with him, they face a choice later:
+**Key Moment**: If [[Nikos]] trusts the party and they ally with him, they face a choice later:
 - Destroy the crown (ending the threat but losing immense power)
-- Keep it safe (Nikias watches over it, but temptation remains)
-- Try to use it (dangerous—corrupting)
-- Hide it elsewhere (Nikias refuses unless they prove themselves)
+- Keep it safe ([[Nikos]] watches over it, but temptation remains)
+- Try to use it (dangerous & corrupting)
+- Hide it elsewhere ([[Nikos]] refuses unless they prove themselves)
 
 ## DM Notes
 - This is the emotional heart of the one-shot
-- Nikias is NOT evil; he's a protector burdened by duty
+- [[Nikos]] is NOT evil; he's a protector burdened by duty
 - The party can defeat him, but they should feel guilty about it
 - His monologue about the oath should move the table
 - The crown should feel both wondrous and dangerous
-- If Nikias becomes an ally, the final battle becomes much easier—reward the party's roleplay!
+- If [[Nikos]] becomes an ally, the final battle becomes much easier, reward the party's roleplay!
 
 ---
 
@@ -179,5 +179,5 @@ If the party proves they want to stop the High Priest:
 **Location**: [[Location - Thessaloniki Catacombs]] (relic chamber)
 **NPC**: [[Nikos]]
 **The Relic**: [[The Crown of Kings]]
-**Previous Encounter**: [[Encounter: The Stone Sentries]]
-**Next Encounter**: [[Encounter: The High Priest's Betrayal]]
+**Previous Encounter**: [[Encounter - The Stone Sentries]]
+**Next Encounter**: [[Encounter - The High Priests Betrayal]]
