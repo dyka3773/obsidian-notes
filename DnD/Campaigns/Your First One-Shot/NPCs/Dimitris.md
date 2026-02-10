@@ -98,7 +98,7 @@ Dimitri adds: "The High Priest helps the poor and sick. He needs this to keep th
 
 ### For Cautious Characters:
 "The High Priest is well-respected. You can meet him before accepting."
-"You're not alone—he'll provide maps, information, supplies."
+"You're not alone. He'll provide maps, information, supplies."
 
 ---
 
