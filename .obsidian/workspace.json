@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md",
+                "file": "Dailies/2026-02-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Encounter - The Drakofido"
+              "title": "2026-02-10"
             }
           }
         ]
@@ -331,16 +331,14 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "calendarium:Open Calendarium": false
+      "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "ac85afc63d1dcdd7",
   "lastOpenFiles": [
-    "DnD/Shared Resources/Monsters/The Drakofido.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md",
+    "Dailies/2026-02-10.md",
+    "DnD/Shared Resources/Monsters/The Drakofido.md",
     "DnD/Shared Resources/Spells/S/Shield.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Peritas's Trial.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Stone Sentries.md",
@@ -367,7 +365,6 @@
     "DnD/Shared Resources/Spells/V/Ventilating Lungs.md",
     "DnD/Shared Resources/Spells/V/Vicious Mockery.md",
     "DnD/Shared Resources/Spells/V",
-    "DnD/Shared Resources/Spells/U/Unseen Servant.md",
     "DnD/Shared Resources/Spells/U",
     "DnD/Shared Resources/Spells/K",
     "DnD/Shared Resources/Spells/J",
