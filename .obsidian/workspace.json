@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md",
+                "file": "Dailies/2026-02-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dimitris"
+              "title": "2026-02-12"
             }
           }
         ]
@@ -335,11 +335,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "98c5c445d169a124",
   "lastOpenFiles": [
+    "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md",
+    "Dailies/2026-02-12.md",
     "DnD/Campaigns/Your First One-Shot/NPCs/Nikos.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Peritas's Trial.md",
-    "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md",
     "Dailies/2026-02-10.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md",
     "DnD/Shared Resources/Monsters/The Drakofido.md",
@@ -364,7 +365,6 @@
     "DnD/Shared Resources/Spells/V/Vortex Warp.md",
     "DnD/Shared Resources/Spells/V/Vampiric Touch.md",
     "DnD/Shared Resources/Spells/V/Vitriolic Sphere.md",
-    "DnD/Shared Resources/Spells/V/Ventilating Lungs.md",
     "DnD/Shared Resources/Spells/V",
     "DnD/Shared Resources/Spells/U",
     "DnD/Shared Resources/Spells/K",
