@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "93fdcda9da62b39e",
+        "id": "32d5edfc5cd99786",
         "type": "tabs",
         "children": [
           {
-            "id": "98c5c445d169a124",
+            "id": "2df5d9d1eec60137",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dailies/2026-02-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-12"
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
             }
           }
         ]
@@ -335,15 +321,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "98c5c445d169a124",
+  "active": "2df5d9d1eec60137",
   "lastOpenFiles": [
-    "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md",
+    "DnD/Shared Resources/Monsters/The Drakofido.md",
     "Dailies/2026-02-12.md",
+    "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md",
     "DnD/Campaigns/Your First One-Shot/NPCs/Nikos.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Peritas's Trial.md",
     "Dailies/2026-02-10.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md",
-    "DnD/Shared Resources/Monsters/The Drakofido.md",
     "DnD/Shared Resources/Spells/S/Shield.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Stone Sentries.md",
     "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md",
