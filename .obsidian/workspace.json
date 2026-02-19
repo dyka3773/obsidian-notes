@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2df5d9d1eec60137",
+            "id": "8505a066a4aeb73a",
             "type": "leaf",
             "state": {
               "type": "fantasy-statblocks-creature-pane",
@@ -16,8 +16,33 @@
               "icon": "skull",
               "title": "Combatant"
             }
+          },
+          {
+            "id": "26a6c1dec16c45f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/2026-02-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-19"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -321,8 +346,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2df5d9d1eec60137",
+  "active": "26a6c1dec16c45f8",
   "lastOpenFiles": [
+    "Dailies/2026-02-19.md",
     "DnD/Shared Resources/Monsters/The Drakofido.md",
     "Dailies/2026-02-12.md",
     "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md",
@@ -350,7 +376,6 @@
     "DnD/Shared Resources/Spells/Y",
     "DnD/Shared Resources/Spells/V/Vortex Warp.md",
     "DnD/Shared Resources/Spells/V/Vampiric Touch.md",
-    "DnD/Shared Resources/Spells/V/Vitriolic Sphere.md",
     "DnD/Shared Resources/Spells/V",
     "DnD/Shared Resources/Spells/U",
     "DnD/Shared Resources/Spells/K",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-19",
+      "path": "Dailies/2026-02-19.md"
+    },
+    {
       "basename": "The Drakofido",
       "path": "DnD/Shared Resources/Monsters/The Drakofido.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SQL",
       "path": "Tech notes/Computer Languages/Programming Languages/Domain Specific Language/Data Query Languages/SQL.md"
-    },
-    {
-      "basename": "Chocolate Cake",
-      "path": "Cooking/Recipes/Pastry/Chocolate Cake.md"
     }
   ],
   "omittedPaths": [],
