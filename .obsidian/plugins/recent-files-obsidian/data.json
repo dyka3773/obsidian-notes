@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Location - Thessaloniki Catacombs",
+      "path": "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md"
+    },
+    {
+      "basename": "Encounter - Nikos Guardian of Crown",
+      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Nikos Guardian of Crown.md"
+    },
+    {
+      "basename": "Encounter - The Drakofido",
+      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md"
+    },
+    {
+      "basename": "Encounter - Peritas's Trial",
+      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Peritas's Trial.md"
+    },
+    {
+      "basename": "Encounter - The Stone Sentries",
+      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Stone Sentries.md"
+    },
+    {
+      "basename": "Encounter - Infiltrating the Catacombs",
+      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Infiltrating the Catacombs.md"
+    },
+    {
+      "basename": "Campaign - The Relic of Alexander",
+      "path": "DnD/Campaigns/Your First One-Shot/Campaign - The Relic of Alexander.md"
+    },
+    {
       "basename": "2026-02-19",
       "path": "Dailies/2026-02-19.md"
     },
@@ -21,32 +49,12 @@
       "path": "DnD/Campaigns/Your First One-Shot/NPCs/Nikos.md"
     },
     {
-      "basename": "Encounter - Peritas's Trial",
-      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Peritas's Trial.md"
-    },
-    {
       "basename": "2026-02-10",
       "path": "Dailies/2026-02-10.md"
     },
     {
-      "basename": "Encounter - The Drakofido",
-      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md"
-    },
-    {
       "basename": "Shield",
       "path": "DnD/Shared Resources/Spells/S/Shield.md"
-    },
-    {
-      "basename": "Encounter - The Stone Sentries",
-      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Stone Sentries.md"
-    },
-    {
-      "basename": "Location - Thessaloniki Catacombs",
-      "path": "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md"
-    },
-    {
-      "basename": "Campaign - The Relic of Alexander",
-      "path": "DnD/Campaigns/Your First One-Shot/Campaign - The Relic of Alexander.md"
     },
     {
       "basename": "The Crown of Kings",
@@ -85,16 +93,8 @@
       "path": "DnD/Shared Resources/Spells/H/Heal.md"
     },
     {
-      "basename": "Encounter - Infiltrating the Catacombs",
-      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Infiltrating the Catacombs.md"
-    },
-    {
       "basename": "Cultist Guard",
       "path": "DnD/Campaigns/Your First One-Shot/NPCs/Cultist Guard.md"
-    },
-    {
-      "basename": "Encounter - Nikos Guardian of Crown",
-      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Nikos Guardian of Crown.md"
     },
     {
       "basename": "DnD",

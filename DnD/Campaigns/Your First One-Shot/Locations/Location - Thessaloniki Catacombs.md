@@ -42,11 +42,11 @@ As you venture deeper, the air grows colder. Magical auras shimmer faintly aroun
 **The Three Doors**:
 After completing [[Encounter - Infiltrating the Catacombs]], the party reaches a chamber with **three archways**, each sealed by a heavy stone door carved with different symbols:
 
-- **Left Door** (carved with two rampant lions): Leads to [[Encounter - The Stone Sentries]]
+- **Middle Door** (carved with two rampant lions): Leads to [[Encounter - The Stone Sentries]]
   - *Difficulty*: Medium - Combat with animated stone lions
   - *Estimated time*: 20-25 minutes
   
-- **Middle Door** (carved with a hunting dog): Leads to [[Encounter - Peritas's Trial]]
+- **Left Door** (carved with a hunting dog): Leads to [[Encounter - Peritas's Trial]]
   - *Difficulty*: Medium - Combat/social/skill challenge with Alexander's spectral hound
   - *Estimated time*: 20-30 minutes
   
