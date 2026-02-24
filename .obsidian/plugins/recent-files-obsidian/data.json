@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Location - Thessaloniki Catacombs",
-      "path": "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md"
+      "basename": "2026-02-24",
+      "path": "Dailies/2026-02-24.md"
     },
     {
       "basename": "Encounter - Nikos Guardian of Crown",
       "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Nikos Guardian of Crown.md"
+    },
+    {
+      "basename": "Location - Thessaloniki Catacombs",
+      "path": "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md"
     },
     {
       "basename": "Encounter - The Drakofido",
@@ -195,10 +199,6 @@
     {
       "basename": "Relational Databases",
       "path": "Tech notes/Databases/Relational Databases/Relational Databases.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Tech notes/Computer Languages/Programming Languages/Domain Specific Language/Data Query Languages/SQL.md"
     }
   ],
   "omittedPaths": [],

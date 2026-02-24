@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Nikos Guardian of Crown.md",
+                "file": "Dailies/2026-02-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Encounter - Nikos Guardian of Crown"
+              "title": "2026-02-24"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -384,9 +384,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9cec9eb1d52f6fb7",
+  "active": "01b47a2f059a8c92",
   "lastOpenFiles": [
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Nikos Guardian of Crown.md",
+    "Dailies/2026-02-24.md",
     "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Peritas's Trial.md",
@@ -412,7 +413,6 @@
     "DnD/Shared Resources/Spells/Z/Zone of Truth.md",
     "DnD/Shared Resources/Spells/Z/Zephyr Strike.md",
     "DnD/Shared Resources/Spells/Z",
-    "DnD/Shared Resources/Spells/Y/Yolande_s Regal Presence.md",
     "DnD/Shared Resources/Spells/Y",
     "DnD/Shared Resources/Spells/V",
     "DnD/Shared Resources/Spells/U",
