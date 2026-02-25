@@ -10,16 +10,12 @@ region: Greece
 city_type: Hub City
 ---
 # Thessaloniki (Hub City)
-
 The party's starting location and primary base of operations.
-
----
-
 ## Overview
 
 **Type**: City-State (mix of medieval + ancient Greek systems)
 **Population**: ~30,000-40,000 (a major regional hub)
-**Government**: Council of Nobles + Elected Archon (chief magistrate)
+**Government**: Council of Nobles + Elected Archon
 **Religion**: Primarily Olympian pantheon, with Christian minority
 **Economy**: Trade port, craftsmanship, agriculture from surrounding regions
 **Military**: City guard (~500), small navy (15-20 ships)
@@ -28,31 +24,27 @@ The party's starting location and primary base of operations.
 - **Home base** for the party
 - **Neutral ground** where factions operate openly
 - **Information hub** (sailors, merchants, spies all pass through)
-- **Starting point** of the Relic Race
-
----
-
+- **Starting point** of [[the Relic Race]]
 ## Geography & Layout
 
 ### Physical Location
-- **Northeastern Greece**, on the **Thermaic Gulf** (Aegean Sea)
+- **Northeastern Greece**, on the **Thermaikos Gulf** (Aegean Sea)
 - Natural harbor (excellent for trade and naval power)
 - Surrounded by fertile plains (Chalkidiki region to the east)
 - Close to Mount Olympus (mythological significance)
+### City Places
 
-### City Districts
-
-#### 1. **The Harbor District**
+#### 1. Ladadika & Limani District**
 **Vibe**: Bustling, multicultural, occasionally dangerous
 
 **Features**:
 - Docks with ships from across the Mediterranean
 - Warehouses, taverns, fish markets
 - Sailors' guilds and shipping companies
-- **Dimitris's territory** (information flows through here)
+- **[[DnD/Campaigns/The Relic Race/NPCs/Dimitris|Dimitris]]'s territory** (information flows through here)
 
 **Key Locations**:
-- **The Salty Trident** (tavern where [[Dimitris]] operates)
+- **The Salty Trident** (tavern where [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] operates)
 - Harbormaster's Office
 - Black market contacts (smuggling, stolen goods, questionable deals)
 
@@ -62,31 +54,29 @@ The party's starting location and primary base of operations.
 - Sailors with rumors about uncharted islands
 
 ---
-
-#### 2. **The Temple Quarter**
+#### 2. **The Temples**
 **Vibe**: Sacred, peaceful, politically powerful
 
 **Features**:
 - Temples to the Twelve Olympians (Zeus, Athena, Apollo most prominent)
 - [[Church of St. Dimitrios]] (Christian minority temple, where the one-shot started)
-- Oracle's shrine (divination services for a price)
+- Oracle's shrine ([[divination]] services for a price)
 - Priest housing and religious schools
 
 **Key Locations**:
 - **Temple of Athena** (largest, most influential)
-- **Church of St. Dimitrios** (entrance to [[Location - Thessaloniki Catacombs]])
+- **[[Church of St. Dimitrios]]** (entrance to [[Location - Thessaloniki Catacombs]])
 - **Oracle's Shrine** (party can pay for cryptic prophecies)
 
 **Encounters**:
 - Religious processions
 - Priests offering blessings (minor healing, information)
-- Cult of Vasilis remnants hiding in plain sight (disguised as worshippers)
+- Cult of [[High Priest Vasilis|Vasilis]] remnants hiding in plain sight (disguised as worshippers)
 
 **Political Note**: 
-After the one-shot, the Church of St. Dimitrios is under scrutiny (High Priest Vasilis's betrayal was public).
+After the one-shot, the [[Church of St. Dimitrios]] is under scrutiny ([[High Priest Vasilis]]'s betrayal was public).
 
 ---
-
 #### 3. **The Agora (Market & Government)**
 **Vibe**: Civic, commercial, loud
 
@@ -107,13 +97,12 @@ After the one-shot, the Church of St. Dimitrios is under scrutiny (High Priest V
 - City guard investigating crimes (possibly the party's actions)
 
 **Political Note**:
-The Council is split on how to handle the Relic Race:
+The Council is split on how to handle [[the Relic Race]]:
 - Some want to sell relics to the highest bidder
 - Others want to hoard them for Thessaloniki's power
 - Some want nothing to do with it (too dangerous)
 
 ---
-
 #### 4. **The Artisan Quarter**
 **Vibe**: Skilled, industrious, middle-class
 
@@ -124,7 +113,7 @@ The Council is split on how to handle the Relic Race:
 - Residential areas for craftspeople
 
 **Key Locations**:
-- **The Forge of Hephaestus** (best blacksmith in the city—Ornn-trained apprentice works here?)
+- **The Forge of Hephaestus** (best blacksmith in the city. An Ornn-trained apprentice works here?)
 - **Alchemist's Row** (potions, components, poisons)
 - **The Enchanter's Guild** (commission minor enchantments)
 
@@ -137,8 +126,7 @@ The Council is split on how to handle the Relic Race:
 The party's **dwarf artificer** might apprentice here temporarily or have contacts.
 
 ---
-
-#### 5. **The Wealthy Estates**
+#### 5. **The Panorama, Peraia & Kalamaria Estates**
 **Vibe**: Opulent, guarded, exclusive
 
 **Features**:
@@ -156,12 +144,8 @@ The party's **dwarf artificer** might apprentice here temporarily or have contac
 - Assassination attempts or sabotage
 - Nobles hiring the party for discreet work
 
-**Faction Influence**:
-Nobles are courted by [[Northern Power (Macedonian Bloc)]], [[Maritime City-State]], and [[Scholarly Order]].
-
 ---
-
-#### 6. **The Slums (Lower City)**
+#### 6. **Western Thessaloniki (Evosmos, Ampelokipoi etc.)**
 **Vibe**: Poverty, desperation, crime
 
 **Features**:
@@ -181,8 +165,7 @@ Nobles are courted by [[Northern Power (Macedonian Bloc)]], [[Maritime City-Stat
 - Cultists recruiting the desperate
 
 ---
-
-#### 7. **The Collegiate (Magic Academy)**
+#### 7. **The University (Magic Academy)**
 **Vibe**: Scholarly, exclusive, slightly isolated
 
 **Features**:
@@ -204,12 +187,11 @@ Nobles are courted by [[Northern Power (Macedonian Bloc)]], [[Maritime City-Stat
 Faculty members might approach the party for information about [[The Crown of Kings]].
 
 ---
-
 ## Key NPCs in Thessaloniki
 
-### [[Dimitris]]
+### [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]]
 **Role**: Information broker, quest-giver
-**Location**: The Salty Trident (Harbor District)
+**Location**: The Salty Trident (Ladadika District)
 **Disposition**: Neutral (friendly if paid, hostile if crossed)
 **Campaign Use**: 
 - Recurring contact for rumors, jobs, black market goods
@@ -217,7 +199,6 @@ Faculty members might approach the party for information about [[The Crown of Ki
 - Can broker meetings with faction representatives
 
 ---
-
 ### The Archon (City Leader)
 **Name**: [TBD - design when party meets them]
 **Role**: Elected chief magistrate
@@ -229,19 +210,17 @@ Faculty members might approach the party for information about [[The Crown of Ki
 - Might arrest the party if they break laws
 
 ---
-
 ### High Priestess of Athena
 **Name**: [TBD]
 **Role**: Most powerful religious figure in Thessaloniki
 **Location**: Temple of Athena
-**Disposition**: Suspicious of the party (they exposed Vasilis, but also disrupted the Church)
+**Disposition**: Suspicious of the party (they exposed [[High Priest Vasilis|Vasilis]], but also disrupted the Church)
 **Campaign Use**:
 - Source of divine magic services (healing, blessings)
 - Potential ally if party proves their intentions
 - Rival if party aligns with anti-religious factions
 
 ---
-
 ### Master Artisan (Forge of Hephaestus)
 **Name**: [TBD]
 **Role**: Best blacksmith in the city
@@ -250,10 +229,9 @@ Faculty members might approach the party for information about [[The Crown of Ki
 **Campaign Use**:
 - Craft/repair weapons and armor
 - Commission minor magic items (for a price)
-- Knows [[Master Ornn]]'s reputation (respects the dwarf artificer)
+- Knows [[Ornn|Master Ornn]]'s reputation (respects the dwarf artificer)
 
 ---
-
 ### Collegiate Headmaster
 **Name**: [TBD]
 **Role**: Leader of Thessaloniki's magic academy
@@ -265,106 +243,56 @@ Faculty members might approach the party for information about [[The Crown of Ki
 - Offers sanctuary if the party needs a safe place
 
 ---
-
-## Thessaloniki's Role in the Relic Race
+## Thessaloniki's Role in [[the Relic Race]]
 
 ### Why Factions Care About Thessaloniki
-
 1. **It's where the Crown was found** (the city has historical significance)
 2. **Strategic port** (controls access to northern Aegean)
-3. **Neutral ground** (no single faction controls it—yet)
+3. **Neutral ground** (no single faction controls it yet)
 4. **Information hub** (sailors bring rumors from across the Mediterranean)
-
-### Faction Presence in the City
-
-**[[Northern Power (Macedonian Bloc)]]**:
-- Embassy in the Wealthy Estates
-- Recruiters in the Agora
-- Goal: Pressure Thessaloniki to ally with them
-
-**[[Maritime City-State]]**:
-- Merchant ships in the Harbor
-- Spies in the docks and warehouses
-- Goal: Control trade routes through the harbor
-
-**[[Cult of Vasilis (Remnants)]]**:
-- Hidden cells in the Slums
-- Infiltrators in the Temple Quarter
-- Goal: Recover the Crown or take revenge on the party
-
-**[[Scholarly Order]]**:
-- Contacts in the Collegiate
-- Scholars researching in the Temple libraries
-- Goal: Document relic discoveries, prevent misuse
-
----
-
 ## Adventure Hooks in Thessaloniki
 
-### 1. "Dimitris's Next Job"
-[[Dimitris]] hires the party again (this time, to investigate Cult safe houses or retrieve smuggled goods).
-
+### 1. "[[DnD/Campaigns/The Relic Race/NPCs/Dimitris|Dimitris]]'s Next Job"
+[[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] hires the party again (this time, to investigate Cult safe houses or retrieve smuggled goods).
 ### 2. "The Archon's Dilemma"
 The Archon summons the party: two factions are pressuring the city to take sides. The party must navigate political intrigue.
-
 ### 3. "Cult Revenge"
 Surviving cultists attempt to assassinate the party in the Slums. Fight or investigate?
-
 ### 4. "The Oracle's Prophecy"
-The party pays for a prophecy—it's cryptic but hints at the next relic location.
-
-### 5. "Faction Recruitment"
-Representatives from [[Northern Power (Macedonian Bloc)]] and [[Maritime City-State]] both approach the party on the same day. Who do they choose?
-
-### 6. "The Collegiate's Request"
+The party pays for a prophecy. It's cryptic but hints at the next relic location.
+### 5. "The Professor's Request"
 A professor hires the party to escort them to a ruin (research trip turns into an encounter).
 
 ---
-
 ## Thessaloniki as a Safe Haven
 
 ### Services Available
-
 **Healing**: Temple of Athena, Church of St. Dimitrios
 **Shopping**: Agora (common items), Artisan Quarter (magic items up to uncommon)
-**Information**: Dimitris, sailors, scholars
+**Information**: [[DnD/Campaigns/The Relic Race/NPCs/Dimitris|Dimitris]], sailors, scholars
 **Sanctuary**: The Collegiate (if the party has good standing)
-**Resurrection** (if needed): High Priestess of Athena (expensive, requires favor)
-
+**[[Resurrection]]** (if needed): High Priestess of Athena (expensive, requires favor)
 ### When It's Not Safe
-
 **The city becomes dangerous if**:
 - The party makes enemies of the City Guard
 - Factions openly hunt the party
 - Cult assassins strike in public
-
 If Thessaloniki becomes hostile, the party can flee to:
 - [[Skouries & Chalkidiki]] (dwarf's destination)
 - Aegean islands (pirate havens)
 - Other city-states (Athens, Corinth, Delphi)
 
 ---
-
 ## DM Notes: Running Thessaloniki
 
 ### Atmosphere Tips
 - **Bustling and alive** (always something happening)
 - **Politically tense** (factions operate openly but carefully)
 - **Mix of old and new** (ancient temples next to medieval markets)
-
 ### Random Thessaloniki Encounters (d6)
-
 1. **Street preacher** warns that "the relics will doom us all"
 2. **Noble's carriage** nearly runs over the party (accident or intimidation?)
 3. **Thieves** attempt to pickpocket the party
 4. **Faction spy** follows the party (Insight check to notice)
 5. **Merchant** offers to buy any relics the party has (suspiciously high price)
 6. **City guard** questions the party about recent crimes
-
----
-
-## Navigation
-← Back to [[📊 CAMPAIGN DASHBOARD]]
-← Back to [[Campaign Overview]]
-→ See [[Dimitris]] for recurring contact
-→ See [[Church of St. Dimitrios]] and [[Location - Thessaloniki Catacombs]] (one-shot locations)

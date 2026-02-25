@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Dimitris",
-      "path": "DnD/Campaigns/The Relic Race/NPCs & Allies/Dimitris.md"
+      "basename": "Known Relics",
+      "path": "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md"
     },
     {
-      "basename": "Campaign Index",
-      "path": "DnD/Campaigns/Campaign Index.md"
+      "basename": "Aegean Piracy Overview",
+      "path": "DnD/Campaigns/The Relic Race/Pirates & the Seas/Aegean Piracy Overview.md"
+    },
+    {
+      "basename": "Magical Academies",
+      "path": "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies.md"
+    },
+    {
+      "basename": "How Magic Works",
+      "path": "DnD/Campaigns/The Relic Race/Magic & Faith/How Magic Works.md"
+    },
+    {
+      "basename": "Continual Flame",
+      "path": "DnD/Shared Resources/Spells/C/Continual Flame.md"
+    },
+    {
+      "basename": "Thessaloniki (Hub City)",
+      "path": "DnD/Campaigns/The Relic Race/Locations/Thessaloniki (Hub City).md"
+    },
+    {
+      "basename": "Faction Overview",
+      "path": "DnD/Campaigns/The Relic Race/Factions/Faction Overview.md"
+    },
+    {
+      "basename": "The Relic Race",
+      "path": "DnD/Campaigns/The Relic Race/The Relic Race.md"
+    },
+    {
+      "basename": "Dimitris",
+      "path": "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md"
     },
     {
       "basename": "📊 CAMPAIGN DASHBOARD",
@@ -14,7 +42,11 @@
     },
     {
       "basename": "Dimitris",
-      "path": "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md"
+      "path": "DnD/Campaigns/The Relic Race/NPCs/Dimitris.md"
+    },
+    {
+      "basename": "Campaign Index",
+      "path": "DnD/Campaigns/Campaign Index.md"
     },
     {
       "basename": "Location - Thessaloniki Catacombs",
@@ -167,38 +199,6 @@
     {
       "basename": "00-TheFool",
       "path": "DnD/Decks/Tarot/00-TheFool.png"
-    },
-    {
-      "basename": "DnD note template",
-      "path": "templates/DnD note template.md"
-    },
-    {
-      "basename": "Tech Notes",
-      "path": "Tech notes/Tech Notes.md"
-    },
-    {
-      "basename": "Tech note template",
-      "path": "templates/Tech note template.md"
-    },
-    {
-      "basename": "Tech Tool template",
-      "path": "templates/Tech Tool template.md"
-    },
-    {
-      "basename": "Recipe template",
-      "path": "templates/Recipe template.md"
-    },
-    {
-      "basename": "Ingredient template",
-      "path": "templates/Ingredient template.md"
-    },
-    {
-      "basename": "Daily note template",
-      "path": "templates/Daily note template.md"
-    },
-    {
-      "basename": "2026-02-06",
-      "path": "Dailies/2026-02-06.md"
     }
   ],
   "omittedPaths": [],

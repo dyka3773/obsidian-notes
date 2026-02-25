@@ -34,7 +34,7 @@ As you venture deeper, the air grows colder. Magical auras shimmer faintly aroun
 - Ancient frescoes depicting funeral rites
 - Christian and pre-Christian elements mixed (the catacombs predate the church)
 
-**Access**: [[Dimitris]] should provide directions to the hidden entrance inside the church. The catacombs are known to locals as dangerous and forbidden (correct, there are [[Cultist Guard|cultist guards]] and traps).
+**Access**: [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris]] should provide directions to the hidden entrance inside the church. The catacombs are known to locals as dangerous and forbidden (correct, there are [[Cultist Guard|cultist guards]] and traps).
 
 ### Mid-Level: The Guardian's Passages
 **Atmosphere**: Becomes more mystical, temperature drops, magical auras visible

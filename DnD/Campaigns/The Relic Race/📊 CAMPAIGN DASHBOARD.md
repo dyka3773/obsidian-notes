@@ -6,7 +6,7 @@ tags:
 campaign: The Relic Race
 status: active
 ---
-# 📊 Campaign Dashboard: The Relic Race
+# 📊 Campaign Dashboard: [[The Relic Race]]
 
 > **Campaign Start Date**: [Session 1 date]
 > **Current Session**: [Number]
@@ -14,11 +14,10 @@ status: active
 > **Setting**: Fantasy Medieval Earth (Starting in Thessaloniki, Greece)
 
 ---
-
 ## Quick Navigation
 
 ### 🎯 Core Campaign Info
-- [[Campaign Overview]] - Post-one-shot setup, stakes, and trajectory
+- [[The Relic Race]] - Post-one-shot setup, stakes, and trajectory
 - [[Faction Overview]] - The four powers competing for relics
 
 ### 🗺️ World Building
@@ -38,7 +37,7 @@ status: active
 4. [[Scholarly Order]] - Arcane balance keepers
 
 ### 👥 Key NPCs
-- [[Dimitris]] - Information broker (from one-shot)
+- [[DnD/Campaigns/The Relic Race/NPCs/Dimitris|Dimitris]] - Information broker (from one-shot)
 - [[Master Ornn]] - Legendary artificer
 - [Add more as encountered]
 
@@ -70,7 +69,6 @@ WHERE type = "faction"
 ```
 
 ---
-
 ## Party Status
 
 ### Current Party Composition
@@ -84,49 +82,10 @@ WHERE type = "faction"
 
 ### Resources & Assets
 - Gold: [Amount]
-- Notable Items: [[The Crown of Kings]] (status: [with party / hidden / contested])
+- Notable Items: [[The Crown of Kings]] (status: [with party / hidden / destroyed])
 - Reputation: [Faction standings]
 
 ---
-
-## Campaign Themes & Tone
-
-**Core Themes**:
-- **The Relic Race** - Competition for ancient power
-- **Gray Morality** - No clear villains, just competing interests
-- **Exploration & Discovery** - Uncharted seas, lost civilizations
-- **Political Intrigue** - Navigating faction alliances
-
-**Tone Balance**:
-- Historical fantasy grounded in real geography
-- Magic is rare but respected (party is exceptional)
-- Pirate adventure meets political thriller
-- Room for humor and player-driven chaos
-
----
-
-## DM Notes & Prep
-
-### Next Session Prep
-- [ ] Review faction movements
-- [ ] Prepare NPC interactions
-- [ ] Design encounter/location
-- [ ] Update rumor mill
-
-### Open Plot Threads
-- Status of [[The Crown of Kings]] after one-shot
-- Cult of Vasilis survivors - where are they now?
-- Dimitris's network - what information does he have?
-- Northern Power's response to relic discovery
-- [Add player-generated threads]
-
-### Player Interests
-- [Player Name] loves pirates → Emphasize naval content
-- [Player Name] loves Harry Potter → Academy connections
-- [Player Name] is Ornn's apprentice → Artificer/smith NPCs
-
----
-
 ## Campaign Resources
 
 ### Tools & References

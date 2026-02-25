@@ -23,7 +23,7 @@ The party must sneak through the upper catacombs entrance and past a guard patro
 - **Estimated Duration**: 20-30 minutes
 
 ## Setup
-The party has been given directions by [[Dimitris]] to the hidden monastery entrance. They arrive at dusk. The entrance is a collapsed section of the monastery basement that leads down into the catacombs.
+The party has been given directions by [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris]] to the hidden monastery entrance. They arrive at dusk. The entrance is a collapsed section of the monastery basement that leads down into the catacombs.
 
 **The Obstacle**:
 - **Option A (Combat Path)**: 2 [[Cultist Guard|cultist guards]] stationed at the entrance (they're expecting trouble)
@@ -37,7 +37,7 @@ The party has been given directions by [[Dimitris]] to the hidden monastery entr
 - 60 feet down to the first chamber
 
 ### Visual Description
-> "The monastery is a shell, centuries of decay have crumbled its walls. You find the loose stone [[Dimitris]] mentioned, revealing a passage down into darkness. Cold air rises from below, carrying the smell of age and earth. You can see faint torchlight dancing on stone walls far below. Your heart pounds as you realize this is the point of no return."
+> "The monastery is a shell, centuries of decay have crumbled its walls. You find the loose stone [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris]] mentioned, revealing a passage down into darkness. Cold air rises from below, carrying the smell of age and earth. You can see faint torchlight dancing on stone walls far below. Your heart pounds as you realize this is the point of no return."
 
 ## The Guard Station (Upper Catacombs Entrance)
 

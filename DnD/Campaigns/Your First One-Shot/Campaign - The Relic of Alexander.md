@@ -42,7 +42,7 @@ A cult leader disguises themselves as a benevolent religious figure, manipulatin
 ### Key NPCs
 - **[[High Priest Vasilis]]** - The villain (disguised as benevolent religious leader)
 - **[[Nikos of the Catacombs]]** - Guardian of the relic (Alexander's descendant)
-- **[[Dimitris]]** - Quest-giver who brings party to the High Priest
+- **[[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris]]** - Quest-giver who brings party to the High Priest
 
 ## Key Locations
 - **[[Location - Thessaloniki Catacombs]]** - Ancient underground network beneath the city
