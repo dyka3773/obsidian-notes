@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Dimitris",
+      "path": "DnD/Campaigns/The Relic Race/NPCs & Allies/Dimitris.md"
+    },
+    {
+      "basename": "Campaign Index",
+      "path": "DnD/Campaigns/Campaign Index.md"
+    },
+    {
+      "basename": "📊 CAMPAIGN DASHBOARD",
+      "path": "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md"
+    },
+    {
+      "basename": "Dimitris",
+      "path": "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md"
+    },
+    {
+      "basename": "Location - Thessaloniki Catacombs",
+      "path": "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md"
+    },
+    {
       "basename": "2026-02-25",
       "path": "Dailies/2026-02-25.md"
     },
@@ -27,10 +47,6 @@
     {
       "basename": "Encounter - Infiltrating the Catacombs",
       "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Infiltrating the Catacombs.md"
-    },
-    {
-      "basename": "Location - Thessaloniki Catacombs",
-      "path": "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md"
     },
     {
       "basename": "2026-02-24",
@@ -63,10 +79,6 @@
     {
       "basename": "2026-02-12",
       "path": "Dailies/2026-02-12.md"
-    },
-    {
-      "basename": "Dimitris",
-      "path": "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md"
     },
     {
       "basename": "2026-02-10",
@@ -145,10 +157,6 @@
       "path": "DnD/Shared Resources/5e Rules & References/Running Your First One-Shot.md"
     },
     {
-      "basename": "Campaign Index",
-      "path": "DnD/Campaigns/Campaign Index.md"
-    },
-    {
       "basename": "06-TheLovers",
       "path": "DnD/Decks/Tarot/06-TheLovers.png"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2026-02-06",
       "path": "Dailies/2026-02-06.md"
-    },
-    {
-      "basename": "2025-10-29",
-      "path": "Dailies/2025-10-29.md"
-    },
-    {
-      "basename": "Databases",
-      "path": "Tech notes/Databases/Databases.md"
     }
   ],
   "omittedPaths": [],
