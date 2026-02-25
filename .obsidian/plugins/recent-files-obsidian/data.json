@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "📊 CAMPAIGN DASHBOARD",
+      "path": "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md"
+    },
+    {
+      "basename": "Everbright Lantern",
+      "path": "DnD/Shared Resources/Spells/E/Everbright Lantern.md"
+    },
+    {
       "basename": "Known Relics",
       "path": "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "Dimitris",
       "path": "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md"
-    },
-    {
-      "basename": "📊 CAMPAIGN DASHBOARD",
-      "path": "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md"
     },
     {
       "basename": "Dimitris",
@@ -195,10 +199,6 @@
     {
       "basename": "02-TheHighPriestess",
       "path": "DnD/Decks/Tarot/02-TheHighPriestess.png"
-    },
-    {
-      "basename": "00-TheFool",
-      "path": "DnD/Decks/Tarot/00-TheFool.png"
     }
   ],
   "omittedPaths": [],

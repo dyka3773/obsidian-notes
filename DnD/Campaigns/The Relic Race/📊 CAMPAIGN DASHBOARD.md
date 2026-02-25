@@ -28,26 +28,13 @@ status: active
 
 ### 🏛️ Relics & Mysteries
 - [[Known Relics]] - Confirmed artifacts and their powers
-- [[Relic Rumors & Legends]] - Hooks, rumors, and quest seeds
-
-### 🎭 Factions (The Four Powers)
-1. [[Northern Power (Macedonian Bloc)]] - Alexander's heirs
-2. [[Maritime City-State]] - Naval dominance and trade
-3. [[Cult of Vasilis (Remnants)]] - Zealots seeking historical justice
-4. [[Scholarly Order]] - Arcane balance keepers
 
 ### 👥 Key NPCs
 - [[DnD/Campaigns/The Relic Race/NPCs/Dimitris|Dimitris]] - Information broker (from one-shot)
-- [[Master Ornn]] - Legendary artificer
+- [[Ornn|Master Ornn]] - Legendary artificer
 - [Add more as encountered]
 
-### 🗺️ Exploration Hooks
-- [[Alexander's Lost Records]]
-- [[The Uncharted Islands]]
-- [[The Lost Fleet]]
-
 ---
-
 ## Recent Activity
 
 ### Last Session Summary

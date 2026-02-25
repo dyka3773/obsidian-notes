@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cec9eb1d52f6fb7",
+            "id": "9402d5384ab94c8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md",
+                "file": "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Known Relics"
+              "title": "📊 CAMPAIGN DASHBOARD"
             }
           }
         ]
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md",
+                "file": "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Known Relics"
+              "title": "Outgoing links from 📊 CAMPAIGN DASHBOARD"
             }
           },
           {
@@ -335,8 +335,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "9402d5384ab94c8c",
   "lastOpenFiles": [
+    "DnD/Shared Resources/Spells/E/Everbright Lantern.md",
+    "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md",
+    "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md",
     "DnD/Campaigns/The Relic Race/Pirates & the Seas/Aegean Piracy Overview.md",
     "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies.md",
     "DnD/Campaigns/The Relic Race/Magic & Faith/How Magic Works.md",
@@ -345,11 +348,9 @@
     "DnD/Campaigns/The Relic Race/Factions/Faction Overview.md",
     "DnD/Campaigns/The Relic Race/The Relic Race.md",
     "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md",
-    "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md",
     "DnD/Campaigns/The Relic Race/NPCs/Dimitris.md",
     "DnD/Campaigns/Campaign Index.md",
     "DnD/Campaigns/The Relic Race/NPCs",
-    "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md",
     "DnD/Campaigns/The Relic Race/Relics & Rumors",
     "DnD/Campaigns/The Relic Race/Pirates & the Seas",
     "DnD/Campaigns/The Relic Race/Locations",
@@ -370,7 +371,6 @@
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Peritas's Trial.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Stone Sentries.md",
-    "Dailies/2026-02-19.md",
     "DnD/Shared Resources/Spells/Z",
     "DnD/Shared Resources/Spells/Y",
     "DnD/Decks/Tarot/06-TheLovers.png",
