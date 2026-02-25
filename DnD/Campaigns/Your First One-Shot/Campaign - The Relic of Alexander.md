@@ -15,7 +15,7 @@ aliases:
 # Campaign: The Relic of Alexander
 
 ## Overview
-A cult leader disguises themselves as a benevolent religious figure, manipulating the party into stealing an ancient artifact from a hidden guardian. The twist: they're trying to resurrect Alexander's greatest enemy to enslave the world. The party must uncover the truth, survive the guardian's wrath, and stop a catastrophic resurrection.
+A cult leader disguises themselves as a benevolent religious figure, manipulating the party into stealing an ancient artifact from a hidden guardian. The twist: they're trying to resurrect Alexander's greatest enemy to enslave the world. The party must uncover the truth, survive the guardian's wrath, and stop a catastrophic [[resurrection]].
 
 ## Campaign Status
 - **Started**: [Date]
@@ -28,7 +28,7 @@ A cult leader disguises themselves as a benevolent religious figure, manipulatin
 ## Main Plot Hook
 - Party is hired by a charismatic religious leader to steal an artifact from a "dangerous warlord"
 - The truth: The leader is a cultist, the "warlord" is a protector, and the relic can resurrect Darius III
-- Party must stop the resurrection and decide the relic's fate
+- Party must stop the [[resurrection]] and decide the relic's fate
 
 ## The Core Story
 **The Setup**: A noble religious figure, the High Priest of the Church of St. Dimitrios, hires adventurers to infiltrate the ancient catacombs beneath the church. An ancient relic, [[the Crown of Kings]], is being guarded by a mysterious warrior. The relic, he claims, should be in the church's vault for safekeeping. It's too dangerous in the hands of one person.
@@ -41,7 +41,7 @@ A cult leader disguises themselves as a benevolent religious figure, manipulatin
 
 ### Key NPCs
 - **[[High Priest Vasilis]]** - The villain (disguised as benevolent religious leader)
-- **[[Nikos]]** - Guardian of the relic (Alexander's descendant)
+- **[[Nikos of the Catacombs]]** - Guardian of the relic (Alexander's descendant)
 - **[[Dimitris]]** - Quest-giver who brings party to the High Priest
 
 ## Key Locations
@@ -52,7 +52,7 @@ A cult leader disguises themselves as a benevolent religious figure, manipulatin
 
 ## Encounters
 - **Infiltration Encounter**: Sneaking through catacombs with guards patrolling
-- **Guardian Battles**: Stone lions, Peritas the ghost hound, the Drakofido
+- **Guardian Battles**: Stone lions, Peritas the ghost hound, [[the Drakofido]]
 - **Nikias Boss Battle**: The guardian (can be fought or negotiated with)
 - **Final Confrontation**: High Priest tries to activate the relic
 

@@ -23,7 +23,7 @@ An ancient artifact of immense power, created by an unknown master craftsman for
 - **Requires Attunement**: Yes (dangerous)
 - **Source**: Created in ancient times; belongs to Alexander the Great
 - **Current Location**: [[Location - Thessaloniki Catacombs]], relic chamber
-- **Guardian**: [[Nikos]] (eternal protection)
+- **Guardian**: [[Nikos of the Catacombs]] (eternal protection)
 
 ## Appearance
 The Crown is surprisingly simple for a legendary artifact. It's a circlet of pure gold, about 2 inches tall, topped with five jewels of various colors, emerald, sapphire, ruby, amethyst, and pearl. The band is inscribed with ancient Greek text in a language nearly as old as civilization itself.
@@ -80,9 +80,9 @@ The Crown was created by an unknown master, some sources claim a god, others cla
 Alexander wore the Crown and achieved unprecedented conquest. With it, he bent the wills of kings, commanded vast armies, and reshaped the world. But the Crown corrupted him slowly. In the end, perhaps it killed him on his deathbed in Babylon. Or perhaps he finally removed it and died of shame at what he'd become.
 
 ### The Hiding
-After Alexander's death, his general ([[Nikos]]'s ancestor) took the Crown and hid it. He knew its power was too great. He swore an oath: "I and my line will guard this until the world is ready for its truth."
+After Alexander's death, his general ([[Nikos of the Catacombs]]'s ancestor) took the Crown and hid it. He knew its power was too great. He swore an oath: "I and my line will guard this until the world is ready for its truth."
 
-That oath passed through generations. [[Nikos]] now carries it.
+That oath passed through generations. [[Nikos of the Catacombs]] now carries it.
 
 ### The [[Resurrection]] Attempt
 Recently, a scholar discovered writings about Darius III, Alexander's greatest enemy. The scholar became obsessed with the idea of resurrecting Darius III "to correct history." He turned to dark practices, eventually becoming the [[High Priest Vasilis]].
@@ -124,11 +124,11 @@ If the party wants to destroy the Crown and end the threat:
 - Corruption mechanics kick in (use the Corruption rules above)
 - They need to find a way to either destroy it or live with it
 
-### If [[Nikos]] Keeps It
+### If [[Nikos of the Catacombs]] Keeps It
 - He returns to his eternal vigil
 - But the party might check on him later
 - The cult seeks revenge and tries again
-- Or [[Nikos]] eventually asks them for help destroying it (sets up a campaign arc)
+- Or [[Nikos of the Catacombs]] eventually asks them for help destroying it (sets up a campaign arc)
 
 ### If They Destroy It
 - The immediate threat is over
@@ -147,7 +147,7 @@ If the party wants to destroy the Crown and end the threat:
 - **Make the Crown feel important**: Describe its presence, its aura, its history
 - **The choice at the end defines the campaign**:
   - Party keeps it → corruption arc
-  - [[Nikos]] keeps it → protection arc (he becomes an ally)
+  - [[Nikos of the Catacombs]] keeps it → protection arc (he becomes an ally)
   - Destroy it → climactic choice (sacrifice/power)
 - **Don't let them ignore it**: The Crown is central to whether your campaign continues
 - **Use the corruption gradually**: Don't jump from "I wear it for 1 hour" to "you're evil" instantly
@@ -157,7 +157,7 @@ If the party wants to destroy the Crown and end the threat:
 ---
 
 **Campaign**: [[Campaign - The Relic of Alexander|The Relic of Alexander]]
-**Guardian**: [[Nikos]]
+**Guardian**: [[Nikos of the Catacombs]]
 **Villain's Goal**: [[High Priest Vasilis]]
 **Location**: [[Location - Thessaloniki Catacombs]]
 **Related Encounters**: 

@@ -60,7 +60,7 @@ skills:
 
 ## Related NPCs
 - [[High Priest Vasilis]] - Their leader and the one they serve
-- [[Nikos]] - The eternal guardian they may be ordered to confront
+- [[Nikos of the Catacombs]] - The eternal guardian they may be ordered to confront
 
 ---
 **Campaign**: [[Campaign - The Relic of Alexander|The Relic of Alexander]]

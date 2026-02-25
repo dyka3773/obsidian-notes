@@ -28,12 +28,12 @@ The climactic battle. [[High Priest Vasilis|Vasilis]] arrives at the relic chamb
 
 ### [[High Priest Vasilis|Vasilis]] Arrives
 
-**Trigger**: The party reaches the relic chamber and has dealt with [[Nikos]] (however they handled it). Suddenly, more footsteps echo from the passage. Torchlight flickers on distant walls.
+**Trigger**: The party reaches the relic chamber and has dealt with [[Nikos of the Catacombs]] (however they handled it). Suddenly, more footsteps echo from the passage. Torchlight flickers on distant walls.
 
 **Visual Description**:
 > "The footsteps grow louder. Shadows dance on the walls, many shadows. [[High Priest Vasilis|Vasilis]] enters, flanked by four [[Cultist Guard|cultist guards]]. His crimson robes flow around him, and his golden amulet glows with mystical power. His expression is one of triumph and benevolence.
 >
-> 'Ah, you've retrieved the crown for me. Excellent. I knew I could trust you.' He pauses, his eyes narrowing as he takes in the scene, perhaps [[Nikos]]'s body, or the party's battle-worn appearance.
+> 'Ah, you've retrieved the crown for me. Excellent. I knew I could trust you.' He pauses, his eyes narrowing as he takes in the scene, perhaps [[Nikos of the Catacombs]]'s body, or the party's battle-worn appearance.
 >
 > 'Or perhaps... you've changed your minds?' A smile plays across his lips, and suddenly he doesn't seem benevolent at all. 'No matter. I am done asking nicely.'"
 
@@ -113,7 +113,7 @@ Narrow passages limit movement
 ### Rounds 2-3
 - Guards engage party members in melee
 - [[High Priest Vasilis|Vasilis]] continues spellcasting
-- If [[Nikos]] is alive and allied, he fights guards while party targets [[High Priest Vasilis|Vasilis]]
+- If [[Nikos of the Catacombs]] is alive and allied, he fights guards while party targets [[High Priest Vasilis|Vasilis]]
 
 ### Rounds 4+
 - Guards may start fleeing (they're not fanatics)
@@ -140,7 +140,7 @@ If [[High Priest Vasilis|Vasilis]] reaches the crown and makes contact with it, 
 ### Party Victory ([[High Priest Vasilis|Vasilis]] Defeated)
 - [[High Priest Vasilis|Vasilis]] falls, his cultists either die or scatter
 - The crown remains on the pedestal, inert
-- If [[Nikos]] survived, he thanks them
+- If [[Nikos of the Catacombs]] survived, he thanks them
 - Party must decide what to do with the crown
 
 ### Ritual Completes (Darius III Rises)
@@ -214,14 +214,14 @@ Legendary Actions:
 ## What Happens After Victory
 
 ### If Party Defeats [[High Priest Vasilis|Vasilis]]
-1. **[[Nikos]] lives**: He assumes guardianship of the crown and thanks the party
-2. **[[Nikos]] died**: Party inherits the burden. What do they do with the crown?
+1. **[[Nikos of the Catacombs]] lives**: He assumes guardianship of the crown and thanks the party
+2. **[[Nikos of the Catacombs]] died**: Party inherits the burden. What do they do with the crown?
 3. **Guards talk**: If captured, they reveal more about the cult (for campaign continuation)
 
 ### The Crown Decision
 - **Destroy it**: Removes the threat forever but loses immense power
 - **Guard it**: Party becomes the new guardian (hooks for campaign)
-- **Hide it**: [[Nikos]] or party chooses a new location
+- **Hide it**: [[Nikos of the Catacombs]] or party chooses a new location
 - **Study it**: Take it to scholars in the city (danger: the cult will hunt them)
 
 ### Ending Scenes

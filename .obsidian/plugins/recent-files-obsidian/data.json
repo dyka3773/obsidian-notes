@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-25",
+      "path": "Dailies/2026-02-25.md"
+    },
+    {
+      "basename": "Oorrnn",
+      "path": "DnD/Campaigns/Your First One-Shot/PCs/Oorrnn.md"
+    },
+    {
+      "basename": "Nikos of the Catacombs",
+      "path": "DnD/Campaigns/Your First One-Shot/NPCs/Nikos of the Catacombs.md"
+    },
+    {
+      "basename": "Resurrection",
+      "path": "DnD/Shared Resources/Spells/R/Resurrection.md"
+    },
+    {
+      "basename": "Campaign - The Relic of Alexander",
+      "path": "DnD/Campaigns/Your First One-Shot/Campaign - The Relic of Alexander.md"
+    },
+    {
+      "basename": "The Crown of Kings",
+      "path": "DnD/Campaigns/Your First One-Shot/Loot & Rewards/The Crown of Kings.md"
+    },
+    {
+      "basename": "Encounter - Infiltrating the Catacombs",
+      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Infiltrating the Catacombs.md"
+    },
+    {
+      "basename": "Location - Thessaloniki Catacombs",
+      "path": "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md"
+    },
+    {
       "basename": "2026-02-24",
       "path": "Dailies/2026-02-24.md"
     },
     {
       "basename": "Encounter - Nikos Guardian of Crown",
       "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Nikos Guardian of Crown.md"
-    },
-    {
-      "basename": "Location - Thessaloniki Catacombs",
-      "path": "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md"
     },
     {
       "basename": "Encounter - The Drakofido",
@@ -23,14 +51,6 @@
     {
       "basename": "Encounter - The Stone Sentries",
       "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Stone Sentries.md"
-    },
-    {
-      "basename": "Encounter - Infiltrating the Catacombs",
-      "path": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Infiltrating the Catacombs.md"
-    },
-    {
-      "basename": "Campaign - The Relic of Alexander",
-      "path": "DnD/Campaigns/Your First One-Shot/Campaign - The Relic of Alexander.md"
     },
     {
       "basename": "2026-02-19",
@@ -49,20 +69,12 @@
       "path": "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md"
     },
     {
-      "basename": "Nikos",
-      "path": "DnD/Campaigns/Your First One-Shot/NPCs/Nikos.md"
-    },
-    {
       "basename": "2026-02-10",
       "path": "Dailies/2026-02-10.md"
     },
     {
       "basename": "Shield",
       "path": "DnD/Shared Resources/Spells/S/Shield.md"
-    },
-    {
-      "basename": "The Crown of Kings",
-      "path": "DnD/Campaigns/Your First One-Shot/Loot & Rewards/The Crown of Kings.md"
     },
     {
       "basename": "High Priest Vasilis",
@@ -75,10 +87,6 @@
     {
       "basename": "Hold Person",
       "path": "DnD/Shared Resources/Spells/H/Hold Person.md"
-    },
-    {
-      "basename": "Resurrection",
-      "path": "DnD/Shared Resources/Spells/R/Resurrection.md"
     },
     {
       "basename": "Disguise Self",
@@ -191,14 +199,6 @@
     {
       "basename": "Databases",
       "path": "Tech notes/Databases/Databases.md"
-    },
-    {
-      "basename": "NoSQL vs SQL Databases",
-      "path": "Tech notes/Databases/NoSQL vs SQL Databases.md"
-    },
-    {
-      "basename": "Relational Databases",
-      "path": "Tech notes/Databases/Relational Databases/Relational Databases.md"
     }
   ],
   "omittedPaths": [],

@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26a6c1dec16c45f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Campaigns/Your First One-Shot/Campaign - The Relic of Alexander.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Campaign - The Relic of Alexander"
-            }
-          },
-          {
             "id": "9cec9eb1d52f6fb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md",
+                "file": "Dailies/2026-02-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Location - Thessaloniki Catacombs"
-            }
-          },
-          {
-            "id": "01b47a2f059a8c92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dailies/2026-02-24.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-24"
+              "title": "2026-02-25"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md",
+                "file": "Dailies/2026-02-25.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dimitris"
+              "title": "Outgoing links from 2026-02-25"
             }
           },
           {
@@ -280,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "29a106e995e55d1a",
@@ -384,34 +335,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "01b47a2f059a8c92",
+  "active": "9cec9eb1d52f6fb7",
   "lastOpenFiles": [
-    "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Nikos Guardian of Crown.md",
-    "Dailies/2026-02-24.md",
+    "DnD/Campaigns/Your First One-Shot/PCs/Oorrnn.md",
+    "Dailies/2026-02-25.md",
+    "DnD/Campaigns/Your First One-Shot/NPCs/Nikos of the Catacombs.md",
+    "DnD/Campaigns/Your First One-Shot/PCs",
+    "DnD/Shared Resources/Spells/R/Resurrection.md",
+    "DnD/Campaigns/Your First One-Shot/Campaign - The Relic of Alexander.md",
+    "DnD/Campaigns/Your First One-Shot/Loot & Rewards/The Crown of Kings.md",
+    "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Infiltrating the Catacombs.md",
     "DnD/Campaigns/Your First One-Shot/Locations/Location - Thessaloniki Catacombs.md",
+    "Dailies/2026-02-24.md",
+    "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Nikos Guardian of Crown.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Peritas's Trial.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Stone Sentries.md",
-    "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Infiltrating the Catacombs.md",
-    "DnD/Campaigns/Your First One-Shot/Campaign - The Relic of Alexander.md",
     "Dailies/2026-02-19.md",
     "DnD/Shared Resources/Monsters/The Drakofido.md",
     "Dailies/2026-02-12.md",
     "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md",
-    "DnD/Campaigns/Your First One-Shot/NPCs/Nikos.md",
     "Dailies/2026-02-10.md",
     "DnD/Shared Resources/Spells/S/Shield.md",
-    "DnD/Campaigns/Your First One-Shot/Loot & Rewards/The Crown of Kings.md",
     "DnD/Campaigns/Your First One-Shot/NPCs/High Priest Vasilis.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The High Priests Betrayal.md",
     "DnD/Shared Resources/Spells/H/Hold Person.md",
-    "DnD/Shared Resources/Spells/R/Resurrection.md",
     "DnD/Shared Resources/Spells/D/Disguise Self.md",
     "DnD/Shared Resources/Spells/S/Scatter.md",
     "DnD/Shared Resources/Spells/M/Magic Missile.md",
     "DnD/Shared Resources/Spells/H/Heal.md",
-    "DnD/Shared Resources/Spells/Z/Zone of Truth.md",
-    "DnD/Shared Resources/Spells/Z/Zephyr Strike.md",
     "DnD/Shared Resources/Spells/Z",
     "DnD/Shared Resources/Spells/Y",
     "DnD/Shared Resources/Spells/V",
@@ -421,7 +373,6 @@
     "DnD/Shared Resources/Spells/add_tags.py",
     "DnD/Shared Resources/Spells/W",
     "DnD/Shared Resources/Spells/T",
-    "DnD/Shared Resources/Spells/S",
     "DnD/Decks/Tarot/06-TheLovers.png",
     "DnD/Decks/Tarot/02-TheHighPriestess.png",
     "DnD/Decks/Tarot/00-TheFool.png",

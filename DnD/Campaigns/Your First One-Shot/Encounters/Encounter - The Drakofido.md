@@ -175,7 +175,7 @@ If [[the Drakofido]] is reduced to half HP (16 or fewer), stone debris falls fro
   - DC 14 Investigation check: Find a **spell scroll of [[Shield]]** wedged between its stone scales (left by a previous adventurer who didn't make it)
 
 ### Story Reward
-- If the party solves the puzzle, [[Nikos]] later acknowledges their intelligence: "Few think to use their minds in these halls. Most rely on steel alone." (This can provide a small bonus during negotiation.)
+- If the party solves the puzzle, [[Nikos of the Catacombs]] later acknowledges their intelligence: "Few think to use their minds in these halls. Most rely on steel alone." (This can provide a small bonus during negotiation.)
 
 ## DM Notes & Tips
 

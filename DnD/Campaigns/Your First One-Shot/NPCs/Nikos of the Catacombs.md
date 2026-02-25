@@ -6,6 +6,8 @@ type: npc
 campaign: The Relic of Alexander
 role: Guardian / Protector
 allegiance: Neutral Good
+aliases:
+  - Nikos
 ---
 
 # Nikos of the Catacombs
@@ -37,7 +39,7 @@ Around his wrist is an ancient bronze bracelet inscribed with Greek text, a magi
   - If the party shows genuine honor: "Perhaps... there is hope yet."
 - **Motivations**:
   - Fulfill the oath he swore generations ago
-  - Prevent the resurrection of Darius III (he knows what happened if it occurred)
+  - Prevent the [[resurrection]] of Darius III (he knows what happened if it occurred)
   - Protect innocents from the relic's power
 - **Fears**:
   - That his sacrifice will be meaningless

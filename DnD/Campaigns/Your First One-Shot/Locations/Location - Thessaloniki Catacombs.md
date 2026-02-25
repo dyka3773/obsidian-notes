@@ -10,7 +10,7 @@ historical_period: Hellenistic Era
 ---
 # Location: Thessaloniki Catacombs
 
-An ancient underground labyrinth beneath Thessaloniki, dating back to Alexander's era. It serves as the hidden resting place of [[the Crown of Kings]] and the domain of its eternal guardian, Nikias.
+An ancient underground labyrinth beneath Thessaloniki, dating back to Alexander's era. It serves as the hidden resting place of [[the Crown of Kings]] and the domain of its eternal guardian, [[Nikos of the Catacombs]].
 
 ## Quick Overview
 Beneath the bustling streets of Thessaloniki lies a vast maze of catacombs & burial chambers, mysterious tunnels, and forgotten shrines. The air is cold and damp. Ancient statues line the walls, some animate with magical protection. In its deepest chamber lies [[the Crown of Kings]], hidden from the world for over two thousand years.
@@ -73,14 +73,14 @@ After completing [[Encounter - Infiltrating the Catacombs]], the party reaches a
 - Inscriptions in three languages: Greek, Persian, Egyptian
 - Short rest opportunity (relatively safe, guardians don't patrol here)
 
-**Purpose**: This gives the party a moment to catch their breath, heal, and prepare before facing [[Nikos]]. They might also realize that each path was equally dangerous, just in different ways.
+**Purpose**: This gives the party a moment to catch their breath, heal, and prepare before facing [[Nikos of the Catacombs]]. They might also realize that each path was equally dangerous, just in different ways.
 
 ### The Relic Chamber (Deepest Level)
 **Atmosphere**: Sacred, ominous, otherworldly
 **Features**:
 - Circular chamber with high vaulted ceiling
 - [[The Crown of Kings]] displayed on a stone pedestal in the center
-- [[Nikos]]'s vigil station (a chair, a small shrine, books)
+- [[Nikos of the Catacombs]]'s vigil station (a chair, a small shrine, books)
 - Murals depicting Darius III's defeat and burial curses
 - Magical glyphs arranged in protective circles around the relic
 
@@ -92,7 +92,7 @@ After completing [[Encounter - Infiltrating the Catacombs]], the party reaches a
 Multiple animated statues protect the catacombs:
 - **Stone Lions** (2-4): Carved replicas of Alexander's companions, animated by ancient magic
 - **Peritas the Hound** (spectral): Alexander's legendary dog, manifested as a ghostly guardian
-- **The Drakofido** (in the deepest chamber): A massive serpentine dragon sculpture that animates to defend the relic chamber
+- **[[The Drakofido]]** (in the deepest chamber): A massive serpentine dragon sculpture that animates to defend the relic chamber
 
 ### The Inscriptions
 Throughout the catacombs are ancient Greek inscriptions. Some say:
@@ -128,7 +128,7 @@ After infiltration, the party must choose **one of three doors**. They will only
 ## NPCs & Inhabitants
 
 ### Permanent
-- **[[Nikos]]** - The eternal guardian, patron of the catacombs
+- **[[Nikos of the Catacombs]]** - The eternal guardian, patron of the catacombs
 - Stone guardians (non-communicative, magical constructs)
 - Peritas (ghost, non-communicative, protective)
 
@@ -152,7 +152,7 @@ After infiltration, the party must choose **one of three doors**. They will only
 One section of the catacombs contains murals depicting Darius III's supposed burial. The party might realize the High Priest could be trying to reverse a curse or ritual.
 
 ### The Oath
-Inscribed in the deepest chamber is the ancient oath taken by Alexander's general: "I and my line shall guard this until the world is ready." This is key to understanding [[Nikos]]'s motivation.
+Inscribed in the deepest chamber is the ancient oath taken by Alexander's general: "I and my line shall guard this until the world is ready." This is key to understanding [[Nikos of the Catacombs]]'s motivation.
 
 ## Atmosphere Tips for DM
 
@@ -181,6 +181,6 @@ Inscribed in the deepest chamber is the ancient oath taken by Alexander's genera
 ---
 
 **Campaign**: [[Campaign - The Relic of Alexander|The Relic of Alexander]]
-**Guardian**: [[Nikos]]
+**Guardian**: [[Nikos of the Catacombs]]
 **Relic Located Here**: [[The Crown of Kings]]
 **First Visit**: During the heist/infiltration

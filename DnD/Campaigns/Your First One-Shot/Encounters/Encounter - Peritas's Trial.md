@@ -123,7 +123,7 @@ If the party tries to **evade or outsmart** Peritas rather than fight or persuad
 - None (Peritas is a spirit guardian, not a treasure hoarder)
 
 ### Story Reward
-- **Peritas's Blessing**: If the party impresses Peritas (especially through loyalty/bravery), he howls once before fading. Later, when they face [[Nikos]], if they mention Peritas approved of them, [[Nikos]] may be more willing to listen (advantage on first Persuasion check with [[Nikos]]).
+- **Peritas's Blessing**: If the party impresses Peritas (especially through loyalty/bravery), he howls once before fading. Later, when they face [[Nikos of the Catacombs]], if they mention Peritas approved of them, [[Nikos of the Catacombs]] may be more willing to listen (advantage on first Persuasion check with [[Nikos of the Catacombs]]).
 
 ## DM Notes & Tips
 
