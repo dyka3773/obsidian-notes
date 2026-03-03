@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-03-03",
+      "path": "Dailies/2026-03-03.md"
+    },
+    {
       "basename": "📊 CAMPAIGN DASHBOARD",
       "path": "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "06-TheLovers",
       "path": "DnD/Decks/Tarot/06-TheLovers.png"
-    },
-    {
-      "basename": "02-TheHighPriestess",
-      "path": "DnD/Decks/Tarot/02-TheHighPriestess.png"
     }
   ],
   "omittedPaths": [],

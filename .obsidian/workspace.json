@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "32d5edfc5cd99786",
+        "id": "976e295d8efbc299",
         "type": "tabs",
         "children": [
           {
-            "id": "9402d5384ab94c8c",
+            "id": "7a69f577be2c9f05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "📊 CAMPAIGN DASHBOARD"
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
             }
           }
         ]
@@ -335,10 +321,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9402d5384ab94c8c",
+  "active": "7a69f577be2c9f05",
   "lastOpenFiles": [
-    "DnD/Shared Resources/Spells/E/Everbright Lantern.md",
+    "Dailies/2026-03-03.md",
     "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md",
+    "DnD/Shared Resources/Spells/E/Everbright Lantern.md",
     "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md",
     "DnD/Campaigns/The Relic Race/Pirates & the Seas/Aegean Piracy Overview.md",
     "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies.md",
@@ -370,7 +357,6 @@
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Nikos Guardian of Crown.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Peritas's Trial.md",
-    "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Stone Sentries.md",
     "DnD/Shared Resources/Spells/Z",
     "DnD/Shared Resources/Spells/Y",
     "DnD/Decks/Tarot/06-TheLovers.png",
