@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Options",
+      "path": "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Characters/Options.md"
+    },
+    {
+      "basename": "Goblin Trouble",
+      "path": "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Goblin Trouble.md"
+    },
+    {
       "basename": "2026-03-07",
       "path": "Dailies/2026-03-07.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Session template",
       "path": "templates/Session template.md"
-    },
-    {
-      "basename": "Campaign template",
-      "path": "templates/Campaign template.md"
-    },
-    {
-      "basename": "Running Your First One-Shot",
-      "path": "DnD/Shared Resources/5e Rules & References/Running Your First One-Shot.md"
     }
   ],
   "omittedPaths": [],

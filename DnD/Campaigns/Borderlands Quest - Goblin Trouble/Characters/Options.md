@@ -1,0 +1,81 @@
+---
+tags:
+  - dnd
+---
+Per Role / Per Class:
+- Magic:
+	- Wizard
+		- Elf - https://www.dndbeyond.com/characters/152570683
+		- Elf - https://www.dndbeyond.com/characters/109960413
+		- Human - https://www.dndbeyond.com/characters/133058471
+		- Human - https://www.dndbeyond.com/characters/107165979
+	- Sorcerer
+	- Bard
+		- Human [Char Sheet](file:///C:/Users/Herck/OneDrive/Random%20Stuff/RPGs/DnD%205e%20-%202024/Books/Crystalline%20Trilogy/1.%20First%20Blush/1869853-Bard_1_character_sheet.pdf)
+	- Warlock
+		- Human - https://www.dndbeyond.com/characters/107693030
+- Fighter:
+	- Fighter
+		- Human - https://www.dndbeyond.com/characters/152570663
+		- Human - https://www.dndbeyond.com/characters/133055442
+		- Githyanki - https://www.dndbeyond.com/characters/107607297
+		- Elf - https://www.dndbeyond.com/characters/109965870
+	- Barbarian
+		- Goliath - https://www.dndbeyond.com/characters/152579009
+		- Human - https://www.dndbeyond.com/characters/133053421
+		- Tiefling - https://www.dndbeyond.com/characters/107606626
+	- Monk
+		- Human - https://www.dndbeyond.com/characters/133054584
+	- Paladin
+		- Human - https://www.dndbeyond.com/characters/109967628
+	- Ranger
+		- Human - https://www.dndbeyond.com/characters/133056493
+		- Half Elf [Char Sheet](file:///C:/Users/Herck/OneDrive/Random%20Stuff/RPGs/DnD%205e%20-%202024/Books/Crystalline%20Trilogy/1.%20First%20Blush/1869853-Ranger_1_character_sheet.pdf)
+- Healer
+	- Cleric
+		- Dwarf - https://www.dndbeyond.com/characters/152570649
+		- Dwarf - https://www.dndbeyond.com/characters/109960799
+		- Human - https://www.dndbeyond.com/characters/133057712
+		- Half Elf - https://www.dndbeyond.com/characters/107609898
+		- Elf [Char Sheet](file:///C:/Users/Herck/OneDrive/Random%20Stuff/RPGs/DnD%205e%20-%202024/Books/Crystalline%20Trilogy/1.%20First%20Blush/1869853-Cleric_1_character_sheet.pdf)
+	- Bard
+		- Human [Char Sheet](file:///C:/Users/Herck/OneDrive/Random%20Stuff/RPGs/DnD%205e%20-%202024/Books/Crystalline%20Trilogy/1.%20First%20Blush/1869853-Bard_1_character_sheet.pdf)
+	- Druid
+- Assassin
+	- Rogue
+		- Halfling - https://www.dndbeyond.com/characters/152570675
+		- Halfling - https://www.dndbeyond.com/characters/109963409
+		- Human - https://www.dndbeyond.com/characters/133059215
+		- Elf - https://www.dndbeyond.com/characters/107164636
+	- Bard
+		- Human [Char Sheet](file:///C:/Users/Herck/OneDrive/Random%20Stuff/RPGs/DnD%205e%20-%202024/Books/Crystalline%20Trilogy/1.%20First%20Blush/1869853-Bard_1_character_sheet.pdf)
+	- Ranger
+		- Human - https://www.dndbeyond.com/characters/133056493
+		- Half Elf [Char Sheet](file:///C:/Users/Herck/OneDrive/Random%20Stuff/RPGs/DnD%205e%20-%202024/Books/Crystalline%20Trilogy/1.%20First%20Blush/1869853-Ranger_1_character_sheet.pdf)
+
+
+- Backline/Casters:
+	- Support:
+		- Cleric
+		- Druid
+		- Bard
+	- Offensive:
+		- Wizard
+		- Sorcerer
+		- Ranger
+		- (On build) Bard
+		- (On build) Cleric
+		- (On build) Druid
+- Frontline:
+	- Tanks:
+		- Paladin
+		- Barbarian
+		- (On build) Cleric
+		- (On build) Monk
+	- Fighter (Assassin or Bruiser):
+		- Fighter
+		- Monk
+		- Warlock
+		- Rogue
+		- (On build) Barbarian
+		- (On build) Paladin

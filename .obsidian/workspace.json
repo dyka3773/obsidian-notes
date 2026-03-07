@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "bb1e7636238f5a38",
+            "id": "7ecfe69eaa06e226",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2026-03-07.md",
+                "file": "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Characters/Options.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,23 +38,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-07"
-            }
-          },
-          {
-            "id": "8cf92f01e056c2da",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "title": "Options"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md",
+                "file": "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Characters/Options.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -311,12 +299,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5359795996225961,
+                  "scale": 0.7514342322277617,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Encounter - The Drakofido"
+              "title": "Graph of Options"
             }
           },
           {
@@ -329,8 +317,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -358,8 +345,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8cf92f01e056c2da",
+  "active": "7ecfe69eaa06e226",
   "lastOpenFiles": [
+    "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Goblin Trouble.md",
+    "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Characters/Options.md",
+    "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Characters",
+    "DnD/Campaigns/Borderlands Quest - Goblin Trouble",
     "Dailies/2026-03-07.md",
     "Dailies/2026-03-03.md",
     "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md",
@@ -392,10 +383,6 @@
     "DnD/Campaigns/Your First One-Shot/Loot & Rewards/The Crown of Kings.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Infiltrating the Catacombs.md",
     "Dailies/2026-02-24.md",
-    "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Nikos Guardian of Crown.md",
-    "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - The Drakofido.md",
-    "DnD/Shared Resources/Spells/Z",
-    "DnD/Shared Resources/Spells/Y",
     "DnD/Decks/Tarot/06-TheLovers.png",
     "DnD/Decks/Tarot/02-TheHighPriestess.png",
     "DnD/Decks/Tarot/00-TheFool.png",

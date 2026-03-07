@@ -9,7 +9,7 @@ tags:
 - [[PUT]]
 - [[PATCH]]
 - [[DELETE]]
-- [[OPTIONS]]
+- [[Tech notes/Terminology & Definitions/Software Terminology/Networking/HTTP/HTTP Methods/OPTIONS]]
 - [[CONNECT]]
 - [[TRACE]]
 - [[HEAD]]
