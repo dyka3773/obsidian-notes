@@ -79,3 +79,6 @@ Per Role / Per Class:
 		- Rogue
 		- (On build) Barbarian
 		- (On build) Paladin
+	- Healer/Support:
+		- Paladin
+		- Cleric
