@@ -17,8 +17,15 @@ status: active
 ## Quick Navigation
 
 ### 🎯 Core Campaign Info
-- [[The Relic Race]] - Post-one-shot setup, stakes, and trajectory
+- [[The Relic Race]] - Campaign setup, stakes, and trajectory
+- [[Session 1 - The Crown Beneath Thessaloniki]] - Ready-to-run opening session
 - [[Faction Overview]] - The four powers competing for relics
+
+### ▶ Current Start Package
+- [[Session 1 - The Crown Beneath Thessaloniki]]
+- [[Location - Thessaloniki Catacombs (Session 1)]]
+- [[Professor Helena Markou]]
+- [[Nikos - Oathbound Guardian]]
 
 ### 🗺️ World Building
 - [[How Magic Works]] - Magic rarity, relics, and power
@@ -78,7 +85,7 @@ WHERE type = "faction"
 ### Tools & References
 - **Unearthed Arcana**: Ships & Naval Combat
 - **Published Material**: Mythic Odysseys of Theros (inspiration only)
-- **One-Shot Foundation**: [[Campaign - The Relic of Alexander]]
+- **Optional One-Shot Inspiration**: [[Campaign - The Relic of Alexander]]
 
 ### Session Log
 ```dataview

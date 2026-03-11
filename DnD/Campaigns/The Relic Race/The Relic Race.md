@@ -13,11 +13,11 @@ aliases:
 
 ## The Premise
 
-**What Happened**: During the events of [[Campaign - The Relic of Alexander|The Relic of Alexander]] one-shot, the party encountered [[High Priest Vasilis]] and the [[Cult of Vasilis (Remnants)|Cult of Vasilis]] that wanted to use [[The Crown of Kings]] to resurrect Darius III.
+**Campaign Start Mode**: This campaign begins with [[Session 1 - The Crown Beneath Thessaloniki]] (academy commission into the catacombs), independent of one-shot continuity.
 
-**What Changed**: The world learned that ancient relics of immense power are **real, accessible, and politically devastating**.
+**What Could Change**: If the Crown is exposed publicly, the world learns ancient relics are **real, accessible, and politically destabilizing**.
 
-**What Happens Now**: A race begins. Every power (nations, cults, scholars, pirates) seeks these relics for legitimacy, military advantage, or ideological purposes.
+**What Happens Now**: A race begins. Every power (city-states, cults, scholars, pirates) seeks relics for legitimacy, military advantage, or ideological purposes.
 
 ---
 ## Campaign Core Concept
@@ -29,7 +29,7 @@ After exposing Alexander's Crown, the party finds themselves at the center of a 
 
 **Campaign Length**: Open-ended (designed to continue as long as players enjoy it)
 
-**Starting Level**: 2 (post-one-shot)
+**Starting Level**: 1
 
 ---
 ## The Central Tension
@@ -47,23 +47,23 @@ The party doesn't have to *collect* all relics—they could:
 **The tension comes from**: Every choice makes enemies. Every ally has ulterior motives. Every relic changes the balance of power.
 
 ---
-## How We Got Here (One-Shot Recap)
+## Session 1 Starting Situation
 
 **The Setup**:
-- [[DnD/Campaigns/The Relic Race/NPCs/Dimitris|Dimitris]], a street informant, hired the party to infiltrate the [[Location - Thessaloniki Catacombs|Thessaloniki Catacombs]]
-- [[High Priest Vasilis]] wanted [[The Crown of Kings]], claiming it belonged in the [[Cult of Vasilis (Remnants)|Cult of Vasilis]]
-- The party discovered [[High Priest Vasilis|Vasilis]] planned to **resurrect Darius III** to "correct history"
+- [[Professor Helena Markou]] commissions the party to investigate relic signs beneath Thessaloniki.
+- The party descends into [[Location - Thessaloniki Catacombs (Session 1)]].
+- In the relic chamber, they confront [[Nikos - Oathbound Guardian]], who refuses custody to any claimant.
 
-**The Outcome**:
--  ??? **The party stopped the ritual** ([[High Priest Vasilis|Vasilis]] was defeated/captured/killed - DM decides based on actual play) ???
-- **The Crown's existence became public knowledge**
-- **The Cult fractured**??? but didn't disappear
+**The Session 1 Decision**:
+- Crown stays sealed with Nikos
+- Crown is moved into academy custody
+- Crown is hidden by the party under a provisional pact
 
-**The Fallout**:
-- Thessaloniki's church leadership is embarrassed/suspicious
-- Rumors spread: "If Alexander's Crown is real, what else exists?"
-- Factions mobilize to search for other relics
-- The party has a **reputation** now (good, bad, or both)
+**The Immediate Fallout**:
+- Multiple actors learn a relic may be real
+- City politics and academy pressure rise quickly
+- Cult remnants and maritime brokers begin probing for leverage
+- The party becomes a known variable in the relic race
 
 ---
 ## The World After the One-Shot
@@ -211,9 +211,14 @@ This decision shapes early campaign dynamics.
 ## Session 0/2 Checklist
 
 Before starting the campaign:
-- [ ] Confirm what happened in the one-shot (canonize outcomes)
+- [ ] Confirm Session 1 outcome (which Crown state is now canon)
 - [ ] Establish party's stance on [[The Crown of Kings]]
 - [ ] Introduce faction representatives (brief encounters)
 - [ ] Set campaign tone expectations (gray morality, exploration, politics)
 - [ ] Ask players: "What does your character want from relics?" (power, wealth, knowledge, safety)
 - [ ] Confirm party composition and starting location
+
+## Optional Inspiration Continuity
+
+If desired, you can pull scenes, NPC dynamics, or encounter structure from [[Campaign - The Relic of Alexander]].
+That one-shot remains separate and unchanged as a reusable design reference.

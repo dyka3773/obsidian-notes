@@ -114,9 +114,9 @@ A guide to wizarding schools and arcane institutions in *[[The Relic Race]]* wor
 **Reputation**: Philosophical magic, tied to Olympian traditions
 
 **Specializations**:
-- [[Divination]] and prophecy (works with oracles)
-- Warding and protective magic
-- Historical research
+- [[Abjuration]] and warding magic
+- Ritual law and civic protections
+- Historical and philosophical research
 
 **Size**: Small (20-30 students per year)
 
@@ -137,9 +137,9 @@ A guide to wizarding schools and arcane institutions in *[[The Relic Race]]* wor
 **Reputation**: Practical, newer, less prestigious than Athens
 
 **Specializations**:
-- Applied magic (artifice, enchantment for trade goods)
-- Naval and weather magic (port city influence)
-- Cross-cultural studies (Christian and Olympian magic coexist here)
+- [[Divination]] and prophecy (signature discipline)
+- Applied magic for trade and navigation
+- Naval omen-reading and weather interpretation
 
 **Size**: Small (similar to Athens)
 

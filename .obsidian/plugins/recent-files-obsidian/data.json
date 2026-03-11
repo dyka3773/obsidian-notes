@@ -1,40 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-03-11",
-      "path": "Dailies/2026-03-11.md"
+      "basename": "Faction Overview",
+      "path": "DnD/Campaigns/The Relic Race/Factions/Faction Overview.md"
     },
     {
-      "basename": "Options",
-      "path": "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Characters/Options.md"
-    },
-    {
-      "basename": "Goblin Trouble",
-      "path": "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Goblin Trouble.md"
-    },
-    {
-      "basename": "2026-03-07",
-      "path": "Dailies/2026-03-07.md"
-    },
-    {
-      "basename": "2026-03-03",
-      "path": "Dailies/2026-03-03.md"
-    },
-    {
-      "basename": "📊 CAMPAIGN DASHBOARD",
-      "path": "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md"
-    },
-    {
-      "basename": "Everbright Lantern",
-      "path": "DnD/Shared Resources/Spells/E/Everbright Lantern.md"
-    },
-    {
-      "basename": "Known Relics",
-      "path": "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md"
-    },
-    {
-      "basename": "Aegean Piracy Overview",
-      "path": "DnD/Campaigns/The Relic Race/Pirates & the Seas/Aegean Piracy Overview.md"
+      "basename": "Thessaloniki (Hub City)",
+      "path": "DnD/Campaigns/The Relic Race/Locations/Thessaloniki (Hub City).md"
     },
     {
       "basename": "Magical Academies",
@@ -45,16 +17,48 @@
       "path": "DnD/Campaigns/The Relic Race/Magic & Faith/How Magic Works.md"
     },
     {
+      "basename": "Dimitris",
+      "path": "DnD/Campaigns/The Relic Race/NPCs/Dimitris.md"
+    },
+    {
+      "basename": "📊 CAMPAIGN DASHBOARD",
+      "path": "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md"
+    },
+    {
+      "basename": "Known Relics",
+      "path": "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md"
+    },
+    {
+      "basename": "Aegean Piracy Overview",
+      "path": "DnD/Campaigns/The Relic Race/Pirates & the Seas/Aegean Piracy Overview.md"
+    },
+    {
+      "basename": "Goblin Trouble",
+      "path": "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Goblin Trouble.md"
+    },
+    {
+      "basename": "Options",
+      "path": "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Characters/Options.md"
+    },
+    {
+      "basename": "2026-03-11",
+      "path": "Dailies/2026-03-11.md"
+    },
+    {
+      "basename": "2026-03-07",
+      "path": "Dailies/2026-03-07.md"
+    },
+    {
+      "basename": "2026-03-03",
+      "path": "Dailies/2026-03-03.md"
+    },
+    {
+      "basename": "Everbright Lantern",
+      "path": "DnD/Shared Resources/Spells/E/Everbright Lantern.md"
+    },
+    {
       "basename": "Continual Flame",
       "path": "DnD/Shared Resources/Spells/C/Continual Flame.md"
-    },
-    {
-      "basename": "Thessaloniki (Hub City)",
-      "path": "DnD/Campaigns/The Relic Race/Locations/Thessaloniki (Hub City).md"
-    },
-    {
-      "basename": "Faction Overview",
-      "path": "DnD/Campaigns/The Relic Race/Factions/Faction Overview.md"
     },
     {
       "basename": "The Relic Race",
@@ -63,10 +67,6 @@
     {
       "basename": "Dimitris",
       "path": "DnD/Campaigns/Your First One-Shot/NPCs/Dimitris.md"
-    },
-    {
-      "basename": "Dimitris",
-      "path": "DnD/Campaigns/The Relic Race/NPCs/Dimitris.md"
     },
     {
       "basename": "Campaign Index",
