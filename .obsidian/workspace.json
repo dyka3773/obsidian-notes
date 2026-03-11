@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Characters/Options.md",
+                "file": "Dailies/2026-03-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Options"
+              "title": "2026-03-11"
             }
           }
         ],
@@ -254,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Characters/Options.md",
+                "file": "Dailies/2026-03-11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,7 +304,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Options"
+              "title": "Graph of 2026-03-11"
             }
           },
           {
@@ -347,8 +347,9 @@
   },
   "active": "7ecfe69eaa06e226",
   "lastOpenFiles": [
-    "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Goblin Trouble.md",
     "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Characters/Options.md",
+    "Dailies/2026-03-11.md",
+    "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Goblin Trouble.md",
     "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Characters",
     "DnD/Campaigns/Borderlands Quest - Goblin Trouble",
     "Dailies/2026-03-07.md",
@@ -382,7 +383,6 @@
     "DnD/Campaigns/Your First One-Shot/Campaign - The Relic of Alexander.md",
     "DnD/Campaigns/Your First One-Shot/Loot & Rewards/The Crown of Kings.md",
     "DnD/Campaigns/Your First One-Shot/Encounters/Encounter - Infiltrating the Catacombs.md",
-    "Dailies/2026-02-24.md",
     "DnD/Decks/Tarot/06-TheLovers.png",
     "DnD/Decks/Tarot/02-TheHighPriestess.png",
     "DnD/Decks/Tarot/00-TheFool.png",
