@@ -47,14 +47,14 @@ The party doesn't have to *collect* all relics—they could:
 **The tension comes from**: Every choice makes enemies. Every ally has ulterior motives. Every relic changes the balance of power.
 
 ---
-## Session 1 Starting Situation
+## [[Session 1 - The Crown Beneath Thessaloniki|Session 1]] Starting Situation
 
 **The Setup**:
 - [[Professor Helena Markou]] commissions the party to investigate relic signs beneath Thessaloniki.
 - The party descends into [[Location - Thessaloniki Catacombs (Session 1)]].
 - In the relic chamber, they confront [[Nikos - Oathbound Guardian]], who refuses custody to any claimant.
 
-**The Session 1 Decision**:
+**The [[Session 1 - The Crown Beneath Thessaloniki|Session 1]] Decision**:
 - Crown stays sealed with Nikos
 - Crown is moved into academy custody
 - Crown is hidden by the party under a provisional pact
@@ -120,7 +120,7 @@ See [[Faction Overview]] for full comparison table.
 **Focus**: Local consequences, faction introductions, early alliances
 
 **Possible Hooks**:
-- [[DnD/Campaigns/The Relic Race/NPCs/Dimitris|Dimitris]] offers another job (information gathering)
+- [[Dimitris - Information Broker|Dimitris - Information Broker]] offers another job (information gathering)
 - Northern Power sends emissaries to recruit the party
 - Cult survivors try to steal the Crown or take revenge
 - Scholarly Order investigates the party's actions
@@ -170,8 +170,8 @@ Each session, include 2-3 rumors the party can investigate:
 - "A merchant claims to have seen Alexander's fleet wreckage near X island"
 - "The Northern Power has hired mercenaries preparing for war?"
 - "A pirate captain is asking about the party by name"
-### [[DnD/Campaigns/The Relic Race/NPCs/Dimitris|Dimitris]]'s Network
-[[DnD/Campaigns/The Relic Race/NPCs/Dimitris|Dimitris]] becomes a recurring contact:
+### [[Dimitris - Information Broker|Dimitris - Information Broker]]'s Network
+[[Dimitris - Information Broker|Dimitris - Information Broker]] becomes a recurring contact:
 - Pays the party for information
 - Offers jobs (some legitimate, some morally gray)
 - Has connections to multiple factions (neutral broker)
@@ -211,14 +211,9 @@ This decision shapes early campaign dynamics.
 ## Session 0/2 Checklist
 
 Before starting the campaign:
-- [ ] Confirm Session 1 outcome (which Crown state is now canon)
+- [ ] Confirm [[Session 1 - The Crown Beneath Thessaloniki|Session 1]] outcome (which Crown state is now canon)
 - [ ] Establish party's stance on [[The Crown of Kings]]
 - [ ] Introduce faction representatives (brief encounters)
 - [ ] Set campaign tone expectations (gray morality, exploration, politics)
 - [ ] Ask players: "What does your character want from relics?" (power, wealth, knowledge, safety)
 - [ ] Confirm party composition and starting location
-
-## Optional Inspiration Continuity
-
-If desired, you can pull scenes, NPC dynamics, or encounter structure from [[Campaign - The Relic of Alexander]].
-That one-shot remains separate and unchanged as a reusable design reference.

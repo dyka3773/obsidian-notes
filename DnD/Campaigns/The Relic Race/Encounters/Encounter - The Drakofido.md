@@ -223,14 +223,6 @@ Once [[the Drakofido]] is defeated/deactivated, the exit door's magic seal break
 
 The party can catch their breath, tend wounds, and prepare for [[Encounter - Nikos Guardian of Crown]].
 
-## Connections
-- **Previous Encounter**: [[Encounter - Infiltrating the Catacombs]]
-- **Next Encounter**: [[Encounter - Nikos Guardian of Crown]]
-- **Location**: [[Location - Thessaloniki Catacombs]]
-- **Campaign**: [[Campaign - The Relic of Alexander]]
-
----
-
 **Alternate Encounter**: This encounter is one of three possible mid-level challenges. The party will only face one of:
 - [[Encounter - The Stone Sentries]] (left path - easy/medium)
 - [[Encounter - Peritas's Trial]] (middle path - medium)

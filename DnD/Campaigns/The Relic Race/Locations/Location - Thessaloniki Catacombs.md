@@ -10,10 +10,10 @@ historical_period: Hellenistic Era
 ---
 # Location: Thessaloniki Catacombs
 
-An ancient underground labyrinth beneath Thessaloniki, dating back to Alexander's era. It serves as the hidden resting place of [[the Crown of Kings]] and the domain of its eternal guardian, [[Nikos of the Catacombs]].
+An ancient underground labyrinth beneath Thessaloniki, dating back to Alexander's era. It serves as the hidden resting place of [[The Crown of Kings]] and the domain of its eternal guardian, [[Nikos - Oathbound Guardian]].
 
 ## Quick Overview
-Beneath the bustling streets of Thessaloniki lies a vast maze of catacombs & burial chambers, mysterious tunnels, and forgotten shrines. The air is cold and damp. Ancient statues line the walls, some animate with magical protection. In its deepest chamber lies [[the Crown of Kings]], hidden from the world for over two thousand years.
+Beneath the bustling streets of Thessaloniki lies a vast maze of catacombs & burial chambers, mysterious tunnels, and forgotten shrines. The air is cold and damp. Ancient statues line the walls, some animate with magical protection. In its deepest chamber lies [[The Crown of Kings]], hidden from the world for over two thousand years.
 
 ## General Description
 The catacombs smell of earth and age. Water drips from carved stone ceilings, creating echoes that make any sound feel amplified. Faint phosphorescent moss glows on portions of the walls, providing dim light. The air is thin and cool.
@@ -34,7 +34,7 @@ As you venture deeper, the air grows colder. Magical auras shimmer faintly aroun
 - Ancient frescoes depicting funeral rites
 - Christian and pre-Christian elements mixed (the catacombs predate the church)
 
-**Access**: [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris]] should provide directions to the hidden entrance inside the church. The catacombs are known to locals as dangerous and forbidden (correct, there are [[Cultist Guard|cultist guards]] and traps).
+**Access**: [[Professor Helena Markou]] should provide directions to the hidden entrance inside the church. The catacombs are known to locals as dangerous and forbidden (correct, there are [[Cultist Guard|cultist guards]] and traps).
 
 ### Mid-Level: The Guardian's Passages
 **Atmosphere**: Becomes more mystical, temperature drops, magical auras visible
@@ -73,14 +73,14 @@ After completing [[Encounter - Infiltrating the Catacombs]], the party reaches a
 - Inscriptions in three languages: Greek, Persian, Egyptian
 - Short rest opportunity (relatively safe, guardians don't patrol here)
 
-**Purpose**: This gives the party a moment to catch their breath, heal, and prepare before facing [[Nikos of the Catacombs]]. They might also realize that each path was equally dangerous, just in different ways.
+**Purpose**: This gives the party a moment to catch their breath, heal, and prepare before facing [[Nikos - Oathbound Guardian]]. They might also realize that each path was equally dangerous, just in different ways.
 
 ### The Relic Chamber (Deepest Level)
 **Atmosphere**: Sacred, ominous, otherworldly
 **Features**:
 - Circular chamber with high vaulted ceiling
 - [[The Crown of Kings]] displayed on a stone pedestal in the center
-- [[Nikos of the Catacombs]]'s vigil station (a chair, a small shrine, books)
+- [[Nikos - Oathbound Guardian]]'s vigil station (a chair, a small shrine, books)
 - Murals depicting Darius III's defeat and burial curses
 - Magical glyphs arranged in protective circles around the relic
 
@@ -88,17 +88,10 @@ After completing [[Encounter - Infiltrating the Catacombs]], the party reaches a
 
 ## Key Features
 
-### The Stone Guardians
-Multiple animated statues protect the catacombs:
-- **Stone Lions** (2-4): Carved replicas of Alexander's companions, animated by ancient magic
-- **Peritas the Hound** (spectral): Alexander's legendary dog, manifested as a ghostly guardian
-- **[[The Drakofido]]** (in the deepest chamber): A massive serpentine dragon sculpture that animates to defend the relic chamber
-
 ### The Inscriptions
 Throughout the catacombs are ancient Greek inscriptions. Some say:
 - "Here lies the burden of the world's mightiest king"
 - "Let no hand take what conquers all hands"
-
 ### The Water
 Underground streams run through the catacombs. Some areas have:
 - Deep underground pools (DC 13 Swim to cross)
@@ -122,19 +115,12 @@ After infiltration, the party must choose **one of three doors**. They will only
 ### The Champion's Test
 [[Encounter - Nikos Guardian of Crown]] - Boss encounter with the eternal guardian
 
-### The Betrayal
-[[Encounter - The High Priests Betrayal]] - Confronting [[High Priest Vasilis|Vasilis]] in the relic chamber
-
 ## NPCs & Inhabitants
 
 ### Permanent
-- **[[Nikos of the Catacombs]]** - The eternal guardian, patron of the catacombs
+- **[[Nikos - Oathbound Guardian]]** - The eternal guardian, patron of the catacombs
 - Stone guardians (non-communicative, magical constructs)
 - Peritas (ghost, non-communicative, protective)
-
-### Temporary (if employed by [[High Priest Vasilis|Vasilis]])
-- 2-4 [[Cultist Guard|cultist guards]]
-- [[High Priest Vasilis]] (arrives in final act)
 
 ## Travel & Time
 - **From church entrance to Three Doors chamber**: 15-20 minutes (includes infiltration encounter)
@@ -149,10 +135,10 @@ After infiltration, the party must choose **one of three doors**. They will only
 - A passage leads to an underground river (could be escape route if needed)
 
 ### The Burial of Darius III
-One section of the catacombs contains murals depicting Darius III's supposed burial. The party might realize the High Priest could be trying to reverse a curse or ritual.
+One section of the catacombs contains murals depicting Darius III's supposed burial.
 
 ### The Oath
-Inscribed in the deepest chamber is the ancient oath taken by Alexander's general: "I and my line shall guard this until the world is ready." This is key to understanding [[Nikos of the Catacombs]]'s motivation.
+Inscribed in the deepest chamber is the ancient oath taken by Alexander's general: "I and my line shall guard this until the world is ready." This is key to understanding [[Nikos - Oathbound Guardian]]'s motivation.
 
 ## Atmosphere Tips for DM
 
@@ -173,14 +159,9 @@ Inscribed in the deepest chamber is the ancient oath taken by Alexander's genera
 - Distant sounds (water, echoes) that aren't explained
 - The sensation of being watched
 
-## Connections
-- **Church of St. Dimitrios**: Above ground, where the party meets [[High Priest Vasilis|Vasilis]] and where the entrance to the catacombs is hidden
-- **Thessaloniki streets**: The way travelers reach the church
-- **The relic chamber**: Heart of mystery, where fates are decided
-
 ---
 
 **Campaign**: [[Campaign - The Relic of Alexander|The Relic of Alexander]]
-**Guardian**: [[Nikos of the Catacombs]]
+**Guardian**: [[Nikos - Oathbound Guardian]]
 **Relic Located Here**: [[The Crown of Kings]]
 **First Visit**: During the heist/infiltration

@@ -10,14 +10,8 @@ role: Information Broker
 location: Thessaloniki
 disposition: Neutral (transactional)
 ---
-# [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] - Information Broker
-
-**Role**: Recurring contact, information broker, quest-giver
-**From**: [[Campaign - The Relic of Alexander|The Relic of Alexander]] one-shot
+**Role**: information broker, quest-giver
 **Location**: [[Thessaloniki (Hub City)]], Harbor District (The Salty Trident tavern)
-
----
-
 ## Quick Reference
 
 **Race**: Human (Greek)
@@ -69,56 +63,28 @@ disposition: Neutral (transactional)
 - Has an escape route from every location he frequents
 
 ---
-## Background
-
-### Before the One-Shot
-- Grew up in Thessaloniki's slums
-- Learned early: information is more valuable than muscle
-- Built a network of contacts (sailors, smugglers, low-level cultists, corrupt guards)
-- Operates in moral gray zones (not a villain, not a hero)
-### During the One-Shot
-- Hired the party to infiltrate the catacombs (on behalf of [[High Priest Vasilis]])
-- Likely didn't know [[High Priest Vasilis|Vasilis]]'s true intentions (or didn't care)
-- Paid the party as promised (established credibility)
-### Post-One-Shot Status
-**Key Question**: Was [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] complicit in [[High Priest Vasilis|Vasilis]]'s plan?
-
-**Answer**: **No** (recommended interpretation for campaign use)
-- He was a middleman (hired to find capable people)
-- He didn't ask questions (plausible deniability)
-- When the truth came out, he likely felt *relieved* ([[High Priest Vasilis|Vasilis]]'s failure doesn't implicate him)
-
-**This makes him a useful recurring NPC** (not an enemy, but not entirely trustworthy).
-
----
 ## Role in the Campaign
 
 ### As a Recurring Contact
 
-**What [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] Offers**:
+**What He Offers**:
 1. **Information** (rumors, faction movements, relic locations)
 2. **Jobs** (morally gray work, smuggling, retrieval, espionage)
 3. **Introductions** (can broker meetings with faction representatives)
 4. **Black Market Access** (stolen goods, contraband, forged documents)
 5. **Escape Routes** (if the party needs to disappear from Thessaloniki)
 
-**What [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] Wants**:
+**What He Wants**:
 1. **Gold** (always)
 2. **Information** (the party's adventures are valuable gossip)
 3. **Favors** (occasionally asks the party to do something for him)
 4. **Survival** (won't work with the party if it endangers him)
 
 ---
-### Quest Hooks from [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]]
+### Quest Hooks from him
 
-#### 1. "The Cult's Remnants"
-**Hook**: [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] has information on where surviving cultists are hiding.
-**Price**: 200 gp or a favor (retrieve something he smuggled and lost)
-**Adventure**: Track down Cult safe houses in the slums
-
----
 #### 2. "The Faction Spy"
-**Hook**: [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] suspects a faction spy is operating in Thessaloniki. He'll pay the party to identify them.
+**Hook**: [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] suspects a spy is operating in Thessaloniki. He'll pay the party to identify them.
 **Price**: 300 gp + information about a relic
 **Adventure**: Investigate, gather clues, confront the spy (combat or social)
 
@@ -135,12 +101,6 @@ disposition: Neutral (transactional)
 **Adventure**: Meet the pirate captain, negotiate, or get ambushed
 
 ---
-#### 5. "[[High Priest Vasilis|Vasilis]]'s Legacy"
-**Hook**: [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] heard a rumor that [[High Priest Vasilis|Vasilis]] left behind hidden notes or research. He'll split the reward if the party retrieves it.
-**Price**: 50/50 split of whatever they find
-**Adventure**: Search [[High Priest Vasilis|Vasilis]]'s old haunts (Church, safe houses, archives)
-
----
 #### 6. "The Auction"
 **Hook**: A relic (or alleged relic) is being auctioned in a pirate haven. [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] can get the party an invitation.
 **Price**: 10% of whatever the party sells the relic for (or 500 gp upfront)
@@ -153,13 +113,8 @@ disposition: Neutral (transactional)
 - **Initial**: Neutral (transactional)
 - **If treated well**: Friendly (offers better deals, warns them of danger)
 - **If betrayed**: Hostile (cuts them off from his network, might sell information *about* them)
-### With Factions
-- **[[Northern Power (Macedonian Bloc)]]**: Has low-level contacts, but not aligned
-- **[[Maritime City-State]]**: Works with smugglers tied to them
-- **[[Cult of Vasilis (Remnants)]]**: Knows where some members hide (but won't help them)
-- **[[Scholarly Order]]**: Occasionally sells information to scholars
 
-**Key Point**: [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] doesn't take sides, he sells to everyone.
+**Key Point**: He doesn't take sides, he sells to everyone.
 
 ---
 ## Combat Stats (If Needed)

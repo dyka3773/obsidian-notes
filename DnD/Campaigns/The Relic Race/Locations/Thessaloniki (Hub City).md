@@ -41,7 +41,7 @@ The party's starting location and primary base of operations.
 - Docks with ships from across the Mediterranean
 - Warehouses, taverns, fish markets
 - Sailors' guilds and shipping companies
-- **[[DnD/Campaigns/The Relic Race/NPCs/Dimitris|Dimitris]]'s territory** (information flows through here)
+- **[[Dimitris - Information Broker|Dimitris - Information Broker]]'s territory** (information flows through here)
 
 **Key Locations**:
 - **The Salty Trident** (tavern where [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] operates)
@@ -252,7 +252,7 @@ Faculty members might approach the party for information about [[The Crown of Ki
 4. **Information hub** (sailors bring rumors from across the Mediterranean)
 ## Adventure Hooks in Thessaloniki
 
-### 1. "[[DnD/Campaigns/The Relic Race/NPCs/Dimitris|Dimitris]]'s Next Job"
+### 1. "[[Dimitris - Information Broker|Dimitris - Information Broker]]'s Next Job"
 [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] hires the party again (this time, to investigate Cult safe houses or retrieve smuggled goods).
 ### 2. "The Archon's Dilemma"
 The Archon summons the party: two factions are pressuring the city to take sides. The party must navigate political intrigue.
@@ -269,7 +269,7 @@ A professor hires the party to escort them to a ruin (research trip turns into a
 ### Services Available
 **Healing**: Temple of Athena, Church of St. Dimitrios
 **Shopping**: Agora (common items), Artisan Quarter (magic items up to uncommon)
-**Information**: [[DnD/Campaigns/The Relic Race/NPCs/Dimitris|Dimitris]], sailors, scholars
+**Information**: [[Dimitris - Information Broker|Dimitris - Information Broker]], sailors, scholars
 **Sanctuary**: The Collegiate (if the party has good standing)
 **[[Resurrection]]** (if needed): High Priestess of Athena (expensive, requires favor)
 ### When It's Not Safe

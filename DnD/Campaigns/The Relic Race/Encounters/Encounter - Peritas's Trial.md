@@ -111,7 +111,6 @@ If the party tries to **evade or outsmart** Peritas rather than fight or persuad
 ## Environmental Hazards
 - **Supernatural Cold**: Any creature starting its turn within 15 feet of Peritas takes 1d4 cold damage
 - **Narrow Space**: If someone falls unconscious, their body blocks part of the corridor (difficult terrain)
-
 ## Rewards
 
 ### Experience
@@ -162,12 +161,6 @@ This is a challenging encounter for level 1. If things go badly:
 Once passed, the corridor opens into a junction where the three paths converge. The party can see (from a distance) that the other two paths end at the same junction, implying each path had a different guardian challenge.
 
 They now proceed to [[Encounter - Nikos Guardian of Crown]].
-
-## Connections
-- **Previous Encounter**: [[Encounter - Infiltrating the Catacombs]]
-- **Next Encounter**: [[Encounter - Nikos Guardian of Crown]]
-- **Location**: [[Location - Thessaloniki Catacombs]]
-- **Campaign**: [[Campaign - The Relic of Alexander]]
 
 ---
 

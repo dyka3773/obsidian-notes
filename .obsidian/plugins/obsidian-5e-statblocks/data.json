@@ -56,6 +56,156 @@
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Cultist Guard",
+      {
+        "name": "Cultist Guard",
+        "size": "Medium",
+        "type": "humanoid",
+        "ac": 14,
+        "hp": 5,
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          12,
+          10,
+          10,
+          10,
+          10
+        ],
+        "skills": "Perception+2",
+        "actions": [
+          {
+            "name": "Shortsword",
+            "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) slashing damage."
+          },
+          {
+            "name": "Hide",
+            "desc": "The guard hides as a bonus action if outnumbered."
+          }
+        ],
+        "traits": [
+          {
+            "name": "Low Morale",
+            "desc": "If reduced to 2 HP or less, the guard attempts to flee."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Peritas",
+      {
+        "name": "Peritas",
+        "source": "5e SRD",
+        "size": "Medium",
+        "type": "undead",
+        "subtype": "",
+        "alignment": "lawful good",
+        "ac": 12,
+        "hp": 22,
+        "hit_dice": "5d8 + -1",
+        "speed": "0 ft., fly 50 ft. (hover)",
+        "stats": [
+          1,
+          14,
+          11,
+          10,
+          10,
+          11
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons",
+        "damage_immunities": "necrotic, poison",
+        "condition_immunities": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",
+        "senses": "darkvision 60 ft., passive Perception 10",
+        "languages": "understands all languages it knew in life but can't speak",
+        "cr": "1",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Incorporeal Movement",
+            "desc": "The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Sunlight Sensitivity",
+            "desc": "While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Life Drain",
+            "desc": "Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.",
+            "attack_bonus": 4,
+            "damage_dice": "3d6"
+          }
+        ],
+        "monster": "Specter",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Animated Stone Lion",
+      {
+        "name": "Animated Stone Lion",
+        "size": "Large",
+        "type": "Construct",
+        "ac": "15 (stone body)",
+        "hp": "22 each",
+        "speed": "40 ft.",
+        "stats": [
+          16,
+          10,
+          14,
+          0,
+          0,
+          0
+        ],
+        "traits": [
+          {
+            "name": "Immovable",
+            "desc": "Advantage on saves against being moved"
+          },
+          {
+            "name": "Fragile",
+            "desc": "Takes extra 5 damage from thunder/force damage"
+          },
+          {
+            "name": "Stone Form",
+            "desc": "Resistance to piercing and slashing damage (from weapons)"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: `dice: 1d20+5` to hit, reach 5 ft., one target. Hit: `dice: 1d10+3` piercing damage."
+          },
+          {
+            "name": "Claw",
+            "desc": "Melee Weapon Attack: `dice: 1d20+5` to hit, reach 5 ft., one target. Hit: `dice: 1d8+3` slashing damage."
+          },
+          {
+            "name": "Pounce",
+            "desc": "Can move up to 20 ft. and attack as one action."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Move",
+            "desc": "Move up to half speed."
+          },
+          {
+            "name": "Attack",
+            "desc": "Attack once."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
     ]
   ],
   "defaultLayouts": {},

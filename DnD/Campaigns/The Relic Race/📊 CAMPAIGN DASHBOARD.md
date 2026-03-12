@@ -21,12 +21,6 @@ status: active
 - [[Session 1 - The Crown Beneath Thessaloniki]] - Ready-to-run opening session
 - [[Faction Overview]] - The four powers competing for relics
 
-### ▶ Current Start Package
-- [[Session 1 - The Crown Beneath Thessaloniki]]
-- [[Location - Thessaloniki Catacombs (Session 1)]]
-- [[Professor Helena Markou]]
-- [[Nikos - Oathbound Guardian]]
-
 ### 🗺️ World Building
 - [[How Magic Works]] - Magic rarity, relics, and power
 - [[Magical Academies]] - Hogwarts, Beauxbatons, Durmstrang, and others
@@ -37,7 +31,7 @@ status: active
 - [[Known Relics]] - Confirmed artifacts and their powers
 
 ### 👥 Key NPCs
-- [[DnD/Campaigns/The Relic Race/NPCs/Dimitris|Dimitris]] - Information broker (from one-shot)
+- [[Dimitris - Information Broker|Dimitris - Information Broker]] - Information broker (from one-shot)
 - [[Ornn|Master Ornn]] - Legendary artificer
 - [Add more as encountered]
 
@@ -85,7 +79,7 @@ WHERE type = "faction"
 ### Tools & References
 - **Unearthed Arcana**: Ships & Naval Combat
 - **Published Material**: Mythic Odysseys of Theros (inspiration only)
-- **Optional One-Shot Inspiration**: [[Campaign - The Relic of Alexander]]
+- **One-Shot Foundation**: [[Campaign - The Relic of Alexander]]
 
 ### Session Log
 ```dataview

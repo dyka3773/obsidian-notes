@@ -9,9 +9,6 @@ party_level: 1
 encounter_type: Combat/Environmental
 status: planned
 ---
-
-# Encounter: The Stone Sentries
-
 An ancient stone lion awakens as the party approaches the mid-level catacombs. This is a combat-focused encounter that introduces the magical guardians and tests the party's combat ability.
 
 ## Overview
@@ -191,13 +188,6 @@ After defeating the lions:
 - Party recovers briefly (1-2 minutes to catch breath, heal, etc.)
 - They can hear something in the deeper chamber: footsteps, or the faint sound of water
 - Continue to [[Encounter - Nikos Guardian of Crown]]
-
----
-
-**Campaign**: [[Campaign - The Relic of Alexander|The Relic of Alexander]]
-**Location**: [[Location - Thessaloniki Catacombs]] (mid-level, left path)
-**Previous Encounter**: [[Encounter - Infiltrating the Catacombs]]
-**Next Encounter**: [[Encounter - Nikos Guardian of Crown]]
 
 **Alternate Encounter**: This encounter is one of three possible mid-level challenges. The party will only face one of:
 - [[Encounter - The Stone Sentries]] (left path - medium difficulty)

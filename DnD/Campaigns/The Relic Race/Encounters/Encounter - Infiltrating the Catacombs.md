@@ -23,7 +23,7 @@ The party must sneak through the upper catacombs entrance and past a guard patro
 - **Estimated Duration**: 20-30 minutes
 
 ## Setup
-The party has been given directions by [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris]] to the hidden monastery entrance. They arrive at dusk. The entrance is a collapsed section of the monastery basement that leads down into the catacombs.
+The party has been given directions by [[Professor Helena Markou]] to the hidden monastery entrance. They arrive at dusk. The entrance is a collapsed section of the monastery basement that leads down into the catacombs.
 
 **The Obstacle**:
 - **Option A (Combat Path)**: 2 [[Cultist Guard|cultist guards]] stationed at the entrance (they're expecting trouble)
@@ -109,7 +109,7 @@ If you want to make this less combat-heavy, the guards might include **Alexios**
 - "I'm just here for the coin, you understand? I don't want trouble."
 - "The High Priest... he seems nice in public, but down here? I'm not sure about him."
 
-## The Alarm System (Optional Twist)
+## The [[Alarm]] System (Optional Twist)
 
 If you want to add complexity without combat, there might be **magical wards**:
 - Ancient glyphs on the walls and floor
@@ -120,13 +120,12 @@ If you want to add complexity without combat, there might be **magical wards**:
 **Ways to solve**:
 - Disarm them (Arcana check DC 15)
 - Go around them (careful movement, Acrobatics DC 12)
-- Accept the alarm and prepare for combat
+- Accept the [[alarm]] and prepare for combat
 
 ## What Happens Next
 
 ### If Stealth Succeeds
 - Party enters the mid-level catacombs undetected
-- Continue to [[Encounter - The Stone Sentries]]
 
 ### If Combat Occurs
 - 2-3 cultists are defeated/fled
@@ -161,22 +160,5 @@ traits:
     desc: If reduced to 2 HP or less, the guard attempts to flee.
 ```
 
-## DM Notes
-- This encounter is designed to **not** force combat at level 1
-- Stealth and role-playing should be rewarded
-- If combat happens, it should be quick and easy
-- The goal is for the party to reach the relic chamber with time for the major encounters
-- Don't spend too long here. Move the story forward
-
-## Encounter Progression
-
-**Time Budget**: 20-30 minutes
-- 5 min: Investigation/scouting
-- 10-15 min: Stealth/social interaction
-- 5-10 min: Resolution and movement to next area
-
----
-
 **Campaign**: [[Campaign - The Relic of Alexander|The Relic of Alexander]]
 **Location**: [[Location - Thessaloniki Catacombs]]
-**Next Encounter**: [[Encounter - The Stone Sentries]]
