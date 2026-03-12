@@ -211,9 +211,9 @@ Yes, clerics and paladins of the Christian God are just as real as Olympian ones
 ## Schools of Magic (Where Wizards Learn)
 See full details in [[Magical Academies]].
 ### The Famous Three (Europe)
-1. **Hogwarts** (Britain) - Known for rigorous tradition
-2. **Beauxbatons** (France) - Known for elegance and refinement
-3. **Durmstrang** (Northern Europe) - Known for martial magic and darker studies
+1. **[[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]** (Britain) - Known for rigorous tradition
+2. **[[Beauxbatons Academy of Magic|Beauxbatons]]** (France) - Known for elegance and refinement
+3. **[[Durmstrang Institute|Durmstrang]]** (Northern Europe) - Known for martial magic and darker studies
 These are the "Ivy League" of magic & everyone's heard of them.
 ### Regional Academies
 Most countries have **one** major academy (not all are famous):
@@ -243,6 +243,6 @@ Use DMG guidelines, but:
 - Spellcasting in combat → Enemies prioritize casters (they're threats)
 - Having magic items → Thieves, collectors, or factions may try to acquire them
 ### Reputation Matters
-- "The party who stopped [[High Priest Vasilis|Vasilis]]" → Known to have power
+- "The party who discovered [[The Crown of Kings]]" → Known to have power
 - Factions *want* the party on their side
 - This gives leverage in negotiations

@@ -51,11 +51,11 @@ The party doesn't have to *collect* all relics—they could:
 
 **The Setup**:
 - [[Professor Helena Markou]] commissions the party to investigate relic signs beneath Thessaloniki.
-- The party descends into [[Location - Thessaloniki Catacombs (Session 1)]].
+- The party descends into [[Location - Thessaloniki Catacombs]].
 - In the relic chamber, they confront [[Nikos - Oathbound Guardian]], who refuses custody to any claimant.
 
 **The [[Session 1 - The Crown Beneath Thessaloniki|Session 1]] Decision**:
-- Crown stays sealed with Nikos
+- Crown stays sealed with [[Nikos - Oathbound Guardian|Nikos]]
 - Crown is moved into academy custody
 - Crown is hidden by the party under a provisional pact
 
@@ -86,32 +86,6 @@ See [[How Magic Works]] for full details.
 - **City-States** dominate Greece
 - **Regional Powers** include Macedonian successor kingdoms, maritime republics, distant empires
 - **No clear "good guys"**: competing interests with gray morality
-
----
-## The Four Powers ([[Faction Overview]])
-
-See [[Faction Overview]] for full comparison table.
-### 1. [[Northern Power (Macedonian Bloc)]]
-**Belief**: Alexander's legacy belongs to Macedonia.
-**Goal**: Centralize relics to restore regional dominance.
-**Tone**: Nationalistic, strategic, militaristic.
-**Threat Level**: High (organized, well-funded).
-### 2. [[Maritime City-State]]
-**Belief**: Control the seas, control the relics.
-**Goal**: Use relics to dominate trade routes and naval power.
-**Tone**: Mercantile, pragmatic, opportunistic.
-**Threat Level**: Medium-High (powerful navy, wealthy).
-### 3. [[Cult of Vasilis (Remnants)]]
-**Belief**: History was stolen from the rightful rulers (Persia, others).
-**Goal**: Resurrect/restore what was "unjustly taken."
-**Tone**: Ideological extremists, intellectual but dangerous.
-**Threat Level**: Medium (fractured but obsessive).
-**Status Post-One-Shot**: Underground, pursuing the party or pivoting to other relics.
-### 4. [[Scholarly Order]]
-**Belief**: Relics destabilize the balance of power and magic.
-**Goal**: Contain, study, regulate & prevent misuse.
-**Tone**: Neutral academics, some are genuinely altruistic, others are controlling.
-**Threat Level**: Low-Medium (politically influential, not militarized).
 
 ---
 ## Campaign Structure (Flexible Arcs)

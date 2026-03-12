@@ -161,7 +161,7 @@ Inscribed in the deepest chamber is the ancient oath taken by Alexander's genera
 
 ---
 
-**Campaign**: [[Campaign - The Relic of Alexander|The Relic of Alexander]]
+**Campaign**: [[The Relic Race]]
 **Guardian**: [[Nikos - Oathbound Guardian]]
 **Relic Located Here**: [[The Crown of Kings]]
 **First Visit**: During the heist/infiltration

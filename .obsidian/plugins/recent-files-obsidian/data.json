@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Encounter - The Stone Sentries",
-      "path": "DnD/Campaigns/The Relic Race/Encounters/Encounter - The Stone Sentries.md"
+      "basename": "Thessaloniki (Hub City)",
+      "path": "DnD/Campaigns/The Relic Race/Locations/Thessaloniki (Hub City).md"
+    },
+    {
+      "basename": "Known Relics",
+      "path": "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md"
+    },
+    {
+      "basename": "Dimitris - Information Broker",
+      "path": "DnD/Campaigns/The Relic Race/NPCs/Dimitris - Information Broker.md"
+    },
+    {
+      "basename": "Aegean Piracy Overview",
+      "path": "DnD/Campaigns/The Relic Race/Pirates & the Seas/Aegean Piracy Overview.md"
     },
     {
       "basename": "Encounter - Nikos Guardian of Crown",
@@ -17,28 +29,76 @@
       "path": "DnD/Campaigns/The Relic Race/Encounters/Encounter - Peritas's Trial.md"
     },
     {
+      "basename": "Location - Thessaloniki Catacombs",
+      "path": "DnD/Campaigns/The Relic Race/Locations/Location - Thessaloniki Catacombs.md"
+    },
+    {
       "basename": "Encounter - Infiltrating the Catacombs",
       "path": "DnD/Campaigns/The Relic Race/Encounters/Encounter - Infiltrating the Catacombs.md"
+    },
+    {
+      "basename": "The Relic Race",
+      "path": "DnD/Campaigns/The Relic Race/The Relic Race.md"
+    },
+    {
+      "basename": "Character Options",
+      "path": "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Characters/Character Options.md"
+    },
+    {
+      "basename": "Skouries & Chalkidiki",
+      "path": "DnD/Campaigns/The Relic Race/Locations/Skouries & Chalkidiki.md"
+    },
+    {
+      "basename": "📊 CAMPAIGN DASHBOARD",
+      "path": "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md"
+    },
+    {
+      "basename": "How Magic Works",
+      "path": "DnD/Campaigns/The Relic Race/Magic & Faith/How Magic Works.md"
+    },
+    {
+      "basename": "Magical Academies",
+      "path": "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies.md"
+    },
+    {
+      "basename": "Hogwarts School of Witchcraft and Wizardry",
+      "path": "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies/Hogwarts School of Witchcraft and Wizardry.md"
+    },
+    {
+      "basename": "Athenian Academy of the Arcane",
+      "path": "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies/Athenian Academy of the Arcane.md"
+    },
+    {
+      "basename": "Beauxbatons Academy of Magic",
+      "path": "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies/Beauxbatons Academy of Magic.md"
+    },
+    {
+      "basename": "Durmstrang Institute",
+      "path": "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies/Durmstrang Institute.md"
+    },
+    {
+      "basename": "Thessaloniki Collegiate of Magic",
+      "path": "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies/Thessaloniki Collegiate of Magic.md"
+    },
+    {
+      "basename": "Professor Helena Markou",
+      "path": "DnD/Campaigns/The Relic Race/NPCs/Professor Helena Markou.md"
+    },
+    {
+      "basename": "The Crown of Kings",
+      "path": "DnD/Campaigns/The Relic Race/Loot & Rewards/The Crown of Kings.md"
+    },
+    {
+      "basename": "Encounter - The Stone Sentries",
+      "path": "DnD/Campaigns/The Relic Race/Encounters/Encounter - The Stone Sentries.md"
     },
     {
       "basename": "Alarm",
       "path": "DnD/Shared Resources/Spells/A/Alarm.md"
     },
     {
-      "basename": "Aegean Piracy Overview",
-      "path": "DnD/Campaigns/The Relic Race/Pirates & the Seas/Aegean Piracy Overview.md"
-    },
-    {
-      "basename": "Dimitris - Information Broker",
-      "path": "DnD/Campaigns/The Relic Race/NPCs/Dimitris - Information Broker.md"
-    },
-    {
       "basename": "Nikos - Oathbound Guardian",
       "path": "DnD/Campaigns/The Relic Race/NPCs/Nikos - Oathbound Guardian.md"
-    },
-    {
-      "basename": "Professor Helena Markou",
-      "path": "DnD/Campaigns/The Relic Race/NPCs/Professor Helena Markou.md"
     },
     {
       "basename": "Divination",
@@ -49,52 +109,12 @@
       "path": "DnD/Campaigns/The Relic Race/NPCs/Cultist Guard.md"
     },
     {
-      "basename": "Location - Thessaloniki Catacombs",
-      "path": "DnD/Campaigns/The Relic Race/Locations/Location - Thessaloniki Catacombs.md"
-    },
-    {
       "basename": "Session 1 - The Crown Beneath Thessaloniki",
       "path": "DnD/Campaigns/The Relic Race/Sessions/Session 1 - The Crown Beneath Thessaloniki.md"
     },
     {
-      "basename": "The Crown of Kings",
-      "path": "DnD/Campaigns/The Relic Race/Loot & Rewards/The Crown of Kings.md"
-    },
-    {
-      "basename": "Magical Academies",
-      "path": "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies.md"
-    },
-    {
-      "basename": "📊 CAMPAIGN DASHBOARD",
-      "path": "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md"
-    },
-    {
-      "basename": "The Relic Race",
-      "path": "DnD/Campaigns/The Relic Race/The Relic Race.md"
-    },
-    {
-      "basename": "Faction Overview",
-      "path": "DnD/Campaigns/The Relic Race/Factions/Faction Overview.md"
-    },
-    {
-      "basename": "Thessaloniki (Hub City)",
-      "path": "DnD/Campaigns/The Relic Race/Locations/Thessaloniki (Hub City).md"
-    },
-    {
-      "basename": "How Magic Works",
-      "path": "DnD/Campaigns/The Relic Race/Magic & Faith/How Magic Works.md"
-    },
-    {
-      "basename": "Known Relics",
-      "path": "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md"
-    },
-    {
       "basename": "Goblin Trouble",
       "path": "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Goblin Trouble.md"
-    },
-    {
-      "basename": "Options",
-      "path": "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Characters/Options.md"
     },
     {
       "basename": "2026-03-11",

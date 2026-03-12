@@ -84,25 +84,25 @@ disposition: Neutral (transactional)
 ### Quest Hooks from him
 
 #### 2. "The Faction Spy"
-**Hook**: [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] suspects a spy is operating in Thessaloniki. He'll pay the party to identify them.
+**Hook**: He suspects a spy is operating in Thessaloniki. He'll pay the party to identify them.
 **Price**: 300 gp + information about a relic
 **Adventure**: Investigate, gather clues, confront the spy (combat or social)
 
 ---
 #### 3. "Smuggling Job"
-**Hook**: [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] needs to move contraband past the city guard. He'll pay the party to escort the shipment (or provide a distraction).
+**Hook**: He needs to move contraband past the city guard. He'll pay the party to escort the shipment (or provide a distraction).
 **Price**: 150 gp + future favor
 **Complication**: The cargo is stolen goods, a relic component, or something dangerous
 
 ---
 #### 4. "The Pirate's Message"
-**Hook**: A pirate captain wants to meet with the party. [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] brokers the introduction... for a fee.
+**Hook**: A pirate captain wants to meet with the party. He brokers the introduction... for a fee.
 **Price**: 100 gp
 **Adventure**: Meet the pirate captain, negotiate, or get ambushed
 
 ---
 #### 6. "The Auction"
-**Hook**: A relic (or alleged relic) is being auctioned in a pirate haven. [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] can get the party an invitation.
+**Hook**: A relic (or alleged relic) is being auctioned in a pirate haven. He can get the party an invitation.
 **Price**: 10% of whatever the party sells the relic for (or 500 gp upfront)
 **Adventure**: Travel to pirate haven, outbid or steal the relic
 
@@ -123,7 +123,7 @@ disposition: Neutral (transactional)
 monster: Spy
 ```
 
-**Note**: [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] avoids combat. If the party attacks him unprovoked, he'll call guards or flee.
+**Note**: He avoids combat. If the party attacks him unprovoked, he'll call guards or flee.
 
 ---
 ## Dialogue Examples
@@ -140,7 +140,7 @@ monster: Spy
 *"You broke the only rule that matters: trust. We're done. Don't come back."*
 
 ---
-## DM Notes: Using [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]]
+## DM Notes: Using Him
 
 ### When to Use Him
 - **Between adventures** (he approaches the party with a new job)
@@ -161,18 +161,18 @@ monster: Spy
 - He withholds critical information
 - He eventually cuts them off
 **If the party becomes powerful**:
-- [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] wants to stay on their good side (they're influential now)
+- He wants to stay on their good side (they're influential now)
 - He might ask them to protect him from a faction
 - He could become a loyal ally (rare, but possible)
 
 ---
-## Adventure Hooks: [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] in Danger
+## Adventure Hooks: Being in Danger
 
 ### 1. "The Hit"
-A faction puts a price on [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]]'s head (he knows too much). He begs the party to protect him.
+A faction puts a price on his head (he knows too much). He begs the party to protect him.
 ### 2. "The Betrayal"
-[[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] is arrested (for smuggling or espionage). The party must decide: rescue him, let him rot, or use him as leverage?
+He is arrested (for smuggling or espionage). The party must decide: rescue him, let him rot, or use him as leverage?
 ### 3. "The Rival"
-A rival information broker moves into Thessaloniki. [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] hires the party to "convince" them to leave.
+A rival information broker moves into Thessaloniki. He hires the party to "convince" them to leave.
 ### 4. "The Debt"
-[[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] owes money to dangerous people (pirates or a crime lord). He needs the party's help to pay or fight his way out.
+He owes money to dangerous people (pirates or a crime lord). He needs the party's help to pay or fight his way out.

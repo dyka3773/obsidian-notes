@@ -44,7 +44,7 @@ The party's starting location and primary base of operations.
 - **[[Dimitris - Information Broker|Dimitris - Information Broker]]'s territory** (information flows through here)
 
 **Key Locations**:
-- **The Salty Trident** (tavern where [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] operates)
+- **The Salty Trident** (tavern where [[Dimitris - Information Broker]] operates)
 - Harbormaster's Office
 - Black market contacts (smuggling, stolen goods, questionable deals)
 
@@ -71,10 +71,6 @@ The party's starting location and primary base of operations.
 **Encounters**:
 - Religious processions
 - Priests offering blessings (minor healing, information)
-- Cult of [[High Priest Vasilis|Vasilis]] remnants hiding in plain sight (disguised as worshippers)
-
-**Political Note**: 
-After the one-shot, the [[Church of St. Dimitrios]] is under scrutiny ([[High Priest Vasilis]]'s betrayal was public).
 
 ---
 #### 3. **The Agora (Market & Government)**
@@ -152,7 +148,6 @@ The party's **dwarf artificer** might apprentice here temporarily or have contac
 - Cramped housing, narrow alleys
 - Beggars, thieves, refugees
 - Black market more active here than in the Harbor District
-- [[Cult of Vasilis (Remnants)]] might hide here
 
 **Key Locations**:
 - Thieves' Guild hideouts
@@ -189,7 +184,7 @@ Faculty members might approach the party for information about [[The Crown of Ki
 ---
 ## Key NPCs in Thessaloniki
 
-### [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]]
+### [[Dimitris - Information Broker]]
 **Role**: Information broker, quest-giver
 **Location**: The Salty Trident (Ladadika District)
 **Disposition**: Neutral (friendly if paid, hostile if crossed)
@@ -214,7 +209,7 @@ Faculty members might approach the party for information about [[The Crown of Ki
 **Name**: [TBD]
 **Role**: Most powerful religious figure in Thessaloniki
 **Location**: Temple of Athena
-**Disposition**: Suspicious of the party (they exposed [[High Priest Vasilis|Vasilis]], but also disrupted the Church)
+**Disposition**: Suspicious of the party (they discovered [[The Crown of Kings]], but also disrupted the Church)
 **Campaign Use**:
 - Source of divine magic services (healing, blessings)
 - Potential ally if party proves their intentions
@@ -253,7 +248,7 @@ Faculty members might approach the party for information about [[The Crown of Ki
 ## Adventure Hooks in Thessaloniki
 
 ### 1. "[[Dimitris - Information Broker|Dimitris - Information Broker]]'s Next Job"
-[[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]] hires the party again (this time, to investigate Cult safe houses or retrieve smuggled goods).
+He hires the party to investigate Cult safe houses or retrieve smuggled goods.
 ### 2. "The Archon's Dilemma"
 The Archon summons the party: two factions are pressuring the city to take sides. The party must navigate political intrigue.
 ### 3. "Cult Revenge"

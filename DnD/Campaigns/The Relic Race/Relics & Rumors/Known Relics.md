@@ -69,10 +69,6 @@ These are **not** fully designed yet. Create stats when the party pursues them.
 - **Reflection**: Spells targeting you can be reflected back at the caster
 - **Cosmic Awareness**: Once per day, ask a question about the world (like *[[Legend Lore]]*)
 
-**Factions Interested**:
-- [[Scholarly Order]]: Wants to study its cosmic properties
-- [[Northern Power (Macedonian Bloc)]]: Military advantage
-
 **Adventure Hook**: 
 The party hears that a noble family in Athens has the Shield, but it's guarded heavily, and factions are already plotting to steal it.
 
@@ -92,11 +88,6 @@ The party hears that a noble family in Athens has the Shield, but it's guarded h
 - **Key**: Opens a sealed tomb or vault
 - **Prophecy**: Reveals a cryptic future event
 
-**Factions Interested**:
-- [[Scholarly Order]]: Archaeological prize
-- [[Maritime City-State]]: Could lead to naval treasures
-- Anyone seeking ancient knowledge
-
 **Adventure Hook**: 
 The party is hired to escort a scholar to Crete. She claims she's decoded the Disc.
 
@@ -115,11 +106,6 @@ The party is hired to escort a scholar to Crete. She claims she's decoded the Di
 - +3 magical trident, deals extra damage to aquatic creatures
 - **Commanding the Seas**: Cast *[[Control Water]]* and *[[Control Weather]]* (once per day each)
 - **Aquatic Supremacy**: Breathe underwater, swim speed 60 ft, communicate with sea creatures
-
-**Factions Interested**:
-- [[Maritime City-State]]: Absolute naval dominance
-- Pirates (Pirate Lords would go to war for this)
-- Coastal city-states
 
 **Adventure Hook**: 
 Sailors report an island that "wasn't there before." An oracle says Poseidon's temple has risen from the sea.
@@ -141,10 +127,6 @@ Sailors report an island that "wasn't there before." An oracle says Poseidon's t
 - **Legitimacy**: Advantage on Persuasion checks when negotiating with nobles/leaders
 - **Protection**: Grants [[resistance]] to fire and poison
 
-**Factions Interested**:
-- [[Northern Power (Macedonian Bloc)]]: Symbol of rightful kingship
-- Any faction seeking legitimacy
-
 **Adventure Hook**: 
 A merchant claims to have seen the Fleece in a dragon's hoard. The party must decide: fight the dragon or negotiate?
 
@@ -158,17 +140,11 @@ A merchant claims to have seen the Fleece in a dragon's hoard. The party must de
 **Possible Location**:
 - Persia (modern-day Iran)
 - Stolen after Darius's defeat, hidden by loyalists
-- In the possession of [[Cult of Vasilis (Remnants)]]
 
 **Possible Powers**:
 - **Rival to the Crown**: When wielded together, the Crown and Scepter grant immense power—but the wielder must choose one ideology (Greek or Persian)
 - **[[Command]] Armies**: Like the Crown, but tied to Persian legacy
 - **[[Resurrection]] Ritual**: Required component to resurrect Darius III
-
-**Factions Interested**:
-- [[Cult of Vasilis (Remnants)]]: Essential for their goals
-- [[Northern Power (Macedonian Bloc)]]: Wants to destroy it
-- [[Scholarly Order]]: Fascinated by the Crown-Scepter dynamic
 
 **Adventure Hook**: 
 The party learns the Cult is searching for the Scepter in Persia. Do they stop them or race to find it first?
@@ -198,12 +174,11 @@ Multiple factions want the same relic (creates conflict):
 
 ---
 ## Relic Rumors (Session Hooks)
-Use these as random rumors the party hears in taverns, from [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris|Dimitris]], or from scholars:
+Use these as random rumors the party hears in taverns, from [[Dimitris - Information Broker]], or from scholars:
 1. *"A fisherman pulled up a strange trident in his nets. He sold it to a merchant—now that merchant is missing."*
 2. *"Olympian priests say they've received a vision: the Shield of Achilles has been found in Troy."*
 3. *"Pirates are auctioning a golden fleece they claim came from a dragon's hoard. Real or fake?"*
 4. *"A Durmstrang scholar arrived in Thessaloniki asking about 'Alexander's lost fleet.' What's he looking for?"*
-5. *"The Cult of [[High Priest Vasilis|Vasilis]] is hiring mercenaries for an expedition to Persia. What are they after?"*
 ---
 ## Using Relics in Combat
 

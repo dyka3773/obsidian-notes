@@ -37,7 +37,7 @@ The party has been given directions by [[Professor Helena Markou]] to the hidden
 - 60 feet down to the first chamber
 
 ### Visual Description
-> "The monastery is a shell, centuries of decay have crumbled its walls. You find the loose stone [[DnD/Campaigns/Your First One-Shot/NPCs/Dimitris]] mentioned, revealing a passage down into darkness. Cold air rises from below, carrying the smell of age and earth. You can see faint torchlight dancing on stone walls far below. Your heart pounds as you realize this is the point of no return."
+> "The monastery is a shell, centuries of decay have crumbled its walls. You find the loose stone [[Professor Helena Markou]] mentioned, revealing a passage down into darkness. Cold air rises from below, carrying the smell of age and earth. You can see faint torchlight dancing on stone walls far below. Your heart pounds as you realize this is the point of no return."
 
 ## The Guard Station (Upper Catacombs Entrance)
 
@@ -160,5 +160,5 @@ traits:
     desc: If reduced to 2 HP or less, the guard attempts to flee.
 ```
 
-**Campaign**: [[Campaign - The Relic of Alexander|The Relic of Alexander]]
+**Campaign**: [[The Relic Race]]
 **Location**: [[Location - Thessaloniki Catacombs]]

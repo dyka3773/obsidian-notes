@@ -95,7 +95,7 @@ If the party approaches with respect and curiosity:
 > "Whoever sent you... seeks to use it. I can feel the darkness approaching. A religious leader, yes? I have sensed him scheming for months. He plans something terrible."
 
 **Information He Provides**:
-- [[Nikos of the Catacombs]] has protected the crown to prevent this exact scenario
+- [[Nikos - Oathbound Guardian]] has protected the crown to prevent this exact scenario
 - The oath: "I and my line will guard this until the world is ready for its truth"
 
 [[Nikos - Oathbound Guardian]]'s Bargain**:

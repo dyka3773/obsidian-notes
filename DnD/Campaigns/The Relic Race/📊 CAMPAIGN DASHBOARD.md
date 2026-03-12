@@ -19,7 +19,6 @@ status: active
 ### 🎯 Core Campaign Info
 - [[The Relic Race]] - Campaign setup, stakes, and trajectory
 - [[Session 1 - The Crown Beneath Thessaloniki]] - Ready-to-run opening session
-- [[Faction Overview]] - The four powers competing for relics
 
 ### 🗺️ World Building
 - [[How Magic Works]] - Magic rarity, relics, and power
@@ -79,7 +78,6 @@ WHERE type = "faction"
 ### Tools & References
 - **Unearthed Arcana**: Ships & Naval Combat
 - **Published Material**: Mythic Odysseys of Theros (inspiration only)
-- **One-Shot Foundation**: [[Campaign - The Relic of Alexander]]
 
 ### Session Log
 ```dataview

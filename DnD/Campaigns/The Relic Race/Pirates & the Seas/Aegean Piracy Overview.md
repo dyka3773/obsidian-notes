@@ -18,7 +18,7 @@ Pirates, privateers, and naval power in the Aegean Sea.
 
 **Why Pirates Matter to the Campaign**:
 - Relics are transported by sea → Pirates intercept them
-- [[Maritime City-State]] hires pirates as privateers
+- Maritime City-States hires pirates as privateers
 - Party might need to negotiate, fight, or join them
 - Naval adventures add variety to the campaign
 
@@ -78,7 +78,7 @@ Pirates, privateers, and naval power in the Aegean Sea.
 **Campaign Use**:
 - The party can join the Alliance (become pirates!)
 - Negotiate with Pirate Lords (for ships, information, or passage)
-- Fight the Alliance (if they're aligned with [[Maritime City-State]])
+- Fight the Alliance (if they're aligned with a Maritime City-State)
 
 ---
 ## The Aegean Compact (Pirate Alliance)
@@ -263,11 +263,11 @@ monster: Wight
 
 ### Pirate Faction Tracker
 
-| Pirate Group | Disposition to Party | Resources | Goals |
-|--------------|---------------------|-----------|-------|
-| **Independent Pirates** | Neutral (opportunistic) | Small ships, desperate | Survive, profit |
-| **Aegean Compact (Alliance)** | Neutral (test the party first) | Large fleet, safe havens | Control seas, profit from relics |
-| **[[Maritime City-State]]'s Privateers** | Depends on party's alignment | State funding, legal protection | Secure relics for the state |
+| Pirate Group                             | Disposition to Party           | Resources                       | Goals                            |
+| ---------------------------------------- | ------------------------------ | ------------------------------- | -------------------------------- |
+| **Independent Pirates**                  | Neutral (opportunistic)        | Small ships, desperate          | Survive, profit                  |
+| **Aegean Compact (Alliance)**            | Neutral (test the party first) | Large fleet, safe havens        | Control seas, profit from relics |
+| **Any Maritime City-State's Privateers** | Depends on party's alignment   | State funding, legal protection | Secure relics for the state      |
 ### When to Use Pirates
 
 **Early Campaign** (Levels 2-4):

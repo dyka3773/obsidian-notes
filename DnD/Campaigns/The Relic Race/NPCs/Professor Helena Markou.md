@@ -7,7 +7,7 @@ type: npc
 role: Quest Giver
 affiliation: Thessaloniki Collegiate of Magic
 ---
-[[Divination]] specialist at the [[Thessaloniki Collegiate]] and [[Session 1 - The Crown Beneath Thessaloniki|Session 1]] quest sponsor.
+[[Divination]] specialist at the [[Thessaloniki Collegiate of Magic|Thessaloniki Collegiate]] and [[Session 1 - The Crown Beneath Thessaloniki|Session 1]] quest sponsor.
 
 ## Role in [[Session 1 - The Crown Beneath Thessaloniki|Session 1]]
 She commissions the party to investigate relic signs beneath Thessaloniki and recover secure evidence for the academy.
