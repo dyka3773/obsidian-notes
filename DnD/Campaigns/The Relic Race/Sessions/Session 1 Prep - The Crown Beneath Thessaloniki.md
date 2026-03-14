@@ -10,7 +10,6 @@ status: ready
 duration_estimate: 3-4 hours
 level: 1
 aliases:
-  - Session 1
 ---
 # Session 1: The Crown Beneath Thessaloniki
 
@@ -29,7 +28,7 @@ In the catacombs, they meet [[Nikos - Oathbound Guardian]], who reveals his oath
 ## Start Hook (Academy Commission)
 
 ### Quest Giver
-[[Professor Helena Markou]] ([[Divination]] Chair at the Thessaloniki Collegiate)
+[[Professor Helena Markou]] ([[Divination]] Chair at the [[Thessaloniki Collegiate of Magic|Thessaloniki Collegiate]])
 ### The Offer
 - 40 gp upfront per character
 - 60 gp on return

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2026-03-14.md",
+                "file": "DnD/Campaigns/The Relic Race/Sessions/Session 1 Prep - The Crown Beneath Thessaloniki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,141 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-14"
+              "title": "Session 1 Prep - The Crown Beneath Thessaloniki"
+            }
+          },
+          {
+            "id": "69403e3758efcab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Campaigns/The Relic Race/Encounters/Encounter - Peritas's Trial.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Encounter - Peritas's Trial"
+            }
+          },
+          {
+            "id": "1c661a31ed6200be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Campaigns/The Relic Race/NPCs/Professor Helena Markou.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Professor Helena Markou"
+            }
+          },
+          {
+            "id": "f32f31245935500c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Campaigns/The Relic Race/Encounters/Encounter - Infiltrating the Catacombs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Encounter - Infiltrating the Catacombs"
+            }
+          },
+          {
+            "id": "c0ef25d16fecd552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Campaigns/The Relic Race/Locations/Thessaloniki (Hub City).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Thessaloniki (Hub City)"
+            }
+          },
+          {
+            "id": "101f350cccfc9928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Campaigns/The Relic Race/Magic & Faith/How Magic Works.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How Magic Works"
+            }
+          },
+          {
+            "id": "eb842092d8eadd5f",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,11 +263,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DnD/Campaigns/The Relic Race/Encounters/Encounter - Peritas's Trial.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Encounter - Peritas's Trial"
             }
           },
           {
@@ -229,7 +361,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "29a106e995e55d1a",
@@ -332,35 +464,37 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a8b1da25fc0e28be",
+  "active": "69403e3758efcab5",
   "lastOpenFiles": [
+    "DnD/Shared Resources/Magic Items/Laya's Eye.md",
+    "DnD/Campaigns/The Relic Race/Sessions/Session 1 Prep - The Crown Beneath Thessaloniki.md",
+    "DnD/Campaigns/The Relic Race/NPCs/Professor Helena Markou.md",
+    "DnD/Shared Resources/Spells/N/Nystul_s Magic Aura.md",
+    "DnD/Shared Resources/Spells/D/Detect Magic.md",
+    "DnD/Campaigns/The Relic Race/Magic & Faith/How Magic Works.md",
+    "DnD/Campaigns/The Relic Race/Party/Artemios.md",
+    "DnD/Campaigns/The Relic Race/Party/Laya.md",
+    "DnD/Campaigns/The Relic Race/Party/Valyria.md",
+    "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies.md",
+    "DnD/Campaigns/The Relic Race/Party",
+    "DnD/Shared Resources/Magic Items/Ersatz Eye.md",
+    "DnD/Campaigns/The Relic Race/Loot & Rewards/The Crown of Kings.md",
+    "DnD/Campaigns/The Relic Race/Sessions/Notes/Session 1.md",
+    "DnD/Campaigns/The Relic Race/Sessions/Notes",
     "DnD/Campaigns/The Relic Race/Locations/Thessaloniki (Hub City).md",
+    "DnD/Campaigns/The Relic Race/NPCs/Cultist Guard.md",
+    "DnD/Campaigns/The Relic Race/Encounters/Encounter - Infiltrating the Catacombs.md",
+    "DnD/Campaigns/The Relic Race/NPCs/Nikos - Oathbound Guardian.md",
+    "DnD/Campaigns/The Relic Race/NPCs/Dimitris - Information Broker.md",
     "Dailies/2026-03-14.md",
     "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md",
-    "DnD/Campaigns/The Relic Race/NPCs/Dimitris - Information Broker.md",
     "DnD/Campaigns/The Relic Race/Pirates & the Seas/Aegean Piracy Overview.md",
     "DnD/Campaigns/The Relic Race/Encounters/Encounter - Nikos Guardian of Crown.md",
     "DnD/Campaigns/The Relic Race/Encounters/Encounter - The Drakofido.md",
     "DnD/Campaigns/The Relic Race/Encounters/Encounter - Peritas's Trial.md",
     "DnD/Campaigns/The Relic Race/Locations/Location - Thessaloniki Catacombs.md",
-    "DnD/Campaigns/The Relic Race/Encounters/Encounter - Infiltrating the Catacombs.md",
     "DnD/Campaigns/The Relic Race/The Relic Race.md",
-    "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Characters/Character Options.md",
-    "DnD/Campaigns/The Relic Race/Locations/Skouries & Chalkidiki.md",
-    "Dimitris.md",
-    "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md",
-    "DnD/Campaigns/The Relic Race/Magic & Faith/How Magic Works.md",
-    "DnD/Campaigns/The Relic Race/Factions/Faction Overview.md",
-    "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies.md",
-    "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies/Hogwarts School of Witchcraft and Wizardry.md",
-    "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies/Athenian Academy of the Arcane.md",
-    "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies/Beauxbatons Academy of Magic.md",
-    "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies/Durmstrang Institute.md",
-    "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies/Thessaloniki Collegiate of Magic.md",
-    "DnD/Campaigns/The Relic Race/NPCs/Professor Helena Markou.md",
     "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies",
-    "DnD/Campaigns/The Relic Race/Loot & Rewards/The Crown of Kings.md",
-    "DnD/Campaigns/The Relic Race/Encounters/Encounter - The Stone Sentries.md",
     "DnD/Campaigns/The Relic Race/Encounters",
     "DnD/Campaigns/The Relic Race/Sessions",
     "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Characters",
@@ -368,8 +502,6 @@
     "DnD/Campaigns/The Relic Race/NPCs",
     "DnD/Campaigns/The Relic Race/Relics & Rumors",
     "DnD/Campaigns/The Relic Race/Pirates & the Seas",
-    "DnD/Campaigns/The Relic Race/Locations",
-    "DnD/Campaigns/The Relic Race/Magic & Faith",
     "DnD/Decks/Tarot/06-TheLovers.png",
     "DnD/Decks/Tarot/02-TheHighPriestess.png",
     "DnD/Decks/Tarot/00-TheFool.png",

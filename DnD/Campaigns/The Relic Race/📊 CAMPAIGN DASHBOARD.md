@@ -18,7 +18,7 @@ status: active
 
 ### 🎯 Core Campaign Info
 - [[The Relic Race]] - Campaign setup, stakes, and trajectory
-- [[Session 1 - The Crown Beneath Thessaloniki]] - Ready-to-run opening session
+- [[Session 1 Prep - The Crown Beneath Thessaloniki]] - Ready-to-run opening session
 
 ### 🗺️ World Building
 - [[How Magic Works]] - Magic rarity, relics, and power

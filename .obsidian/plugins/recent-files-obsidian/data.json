@@ -1,20 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-03-14",
-      "path": "Dailies/2026-03-14.md"
+      "basename": "Encounter - Peritas's Trial",
+      "path": "DnD/Campaigns/The Relic Race/Encounters/Encounter - Peritas's Trial.md"
+    },
+    {
+      "basename": "Laya's Eye",
+      "path": "DnD/Shared Resources/Magic Items/Laya's Eye.md"
+    },
+    {
+      "basename": "Session 1 Prep - The Crown Beneath Thessaloniki",
+      "path": "DnD/Campaigns/The Relic Race/Sessions/Session 1 Prep - The Crown Beneath Thessaloniki.md"
+    },
+    {
+      "basename": "Professor Helena Markou",
+      "path": "DnD/Campaigns/The Relic Race/NPCs/Professor Helena Markou.md"
+    },
+    {
+      "basename": "Nystul_s Magic Aura",
+      "path": "DnD/Shared Resources/Spells/N/Nystul_s Magic Aura.md"
+    },
+    {
+      "basename": "Detect Magic",
+      "path": "DnD/Shared Resources/Spells/D/Detect Magic.md"
+    },
+    {
+      "basename": "How Magic Works",
+      "path": "DnD/Campaigns/The Relic Race/Magic & Faith/How Magic Works.md"
+    },
+    {
+      "basename": "Artemios",
+      "path": "DnD/Campaigns/The Relic Race/Party/Artemios.md"
+    },
+    {
+      "basename": "Laya",
+      "path": "DnD/Campaigns/The Relic Race/Party/Laya.md"
+    },
+    {
+      "basename": "Valyria",
+      "path": "DnD/Campaigns/The Relic Race/Party/Valyria.md"
+    },
+    {
+      "basename": "Magical Academies",
+      "path": "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies.md"
+    },
+    {
+      "basename": "Ersatz Eye",
+      "path": "DnD/Shared Resources/Magic Items/Ersatz Eye.md"
+    },
+    {
+      "basename": "The Crown of Kings",
+      "path": "DnD/Campaigns/The Relic Race/Loot & Rewards/The Crown of Kings.md"
+    },
+    {
+      "basename": "Session 1",
+      "path": "DnD/Campaigns/The Relic Race/Sessions/Notes/Session 1.md"
     },
     {
       "basename": "Thessaloniki (Hub City)",
       "path": "DnD/Campaigns/The Relic Race/Locations/Thessaloniki (Hub City).md"
     },
     {
-      "basename": "Known Relics",
-      "path": "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md"
+      "basename": "Cultist Guard",
+      "path": "DnD/Campaigns/The Relic Race/NPCs/Cultist Guard.md"
+    },
+    {
+      "basename": "Encounter - Infiltrating the Catacombs",
+      "path": "DnD/Campaigns/The Relic Race/Encounters/Encounter - Infiltrating the Catacombs.md"
+    },
+    {
+      "basename": "Nikos - Oathbound Guardian",
+      "path": "DnD/Campaigns/The Relic Race/NPCs/Nikos - Oathbound Guardian.md"
     },
     {
       "basename": "Dimitris - Information Broker",
       "path": "DnD/Campaigns/The Relic Race/NPCs/Dimitris - Information Broker.md"
+    },
+    {
+      "basename": "2026-03-14",
+      "path": "Dailies/2026-03-14.md"
+    },
+    {
+      "basename": "Known Relics",
+      "path": "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md"
     },
     {
       "basename": "Aegean Piracy Overview",
@@ -29,16 +97,8 @@
       "path": "DnD/Campaigns/The Relic Race/Encounters/Encounter - The Drakofido.md"
     },
     {
-      "basename": "Encounter - Peritas's Trial",
-      "path": "DnD/Campaigns/The Relic Race/Encounters/Encounter - Peritas's Trial.md"
-    },
-    {
       "basename": "Location - Thessaloniki Catacombs",
       "path": "DnD/Campaigns/The Relic Race/Locations/Location - Thessaloniki Catacombs.md"
-    },
-    {
-      "basename": "Encounter - Infiltrating the Catacombs",
-      "path": "DnD/Campaigns/The Relic Race/Encounters/Encounter - Infiltrating the Catacombs.md"
     },
     {
       "basename": "The Relic Race",
@@ -55,14 +115,6 @@
     {
       "basename": "📊 CAMPAIGN DASHBOARD",
       "path": "DnD/Campaigns/The Relic Race/📊 CAMPAIGN DASHBOARD.md"
-    },
-    {
-      "basename": "How Magic Works",
-      "path": "DnD/Campaigns/The Relic Race/Magic & Faith/How Magic Works.md"
-    },
-    {
-      "basename": "Magical Academies",
-      "path": "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies.md"
     },
     {
       "basename": "Hogwarts School of Witchcraft and Wizardry",
@@ -85,14 +137,6 @@
       "path": "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies/Thessaloniki Collegiate of Magic.md"
     },
     {
-      "basename": "Professor Helena Markou",
-      "path": "DnD/Campaigns/The Relic Race/NPCs/Professor Helena Markou.md"
-    },
-    {
-      "basename": "The Crown of Kings",
-      "path": "DnD/Campaigns/The Relic Race/Loot & Rewards/The Crown of Kings.md"
-    },
-    {
       "basename": "Encounter - The Stone Sentries",
       "path": "DnD/Campaigns/The Relic Race/Encounters/Encounter - The Stone Sentries.md"
     },
@@ -101,20 +145,8 @@
       "path": "DnD/Shared Resources/Spells/A/Alarm.md"
     },
     {
-      "basename": "Nikos - Oathbound Guardian",
-      "path": "DnD/Campaigns/The Relic Race/NPCs/Nikos - Oathbound Guardian.md"
-    },
-    {
       "basename": "Divination",
       "path": "DnD/Shared Resources/Spells/D/Divination.md"
-    },
-    {
-      "basename": "Cultist Guard",
-      "path": "DnD/Campaigns/The Relic Race/NPCs/Cultist Guard.md"
-    },
-    {
-      "basename": "Session 1 - The Crown Beneath Thessaloniki",
-      "path": "DnD/Campaigns/The Relic Race/Sessions/Session 1 - The Crown Beneath Thessaloniki.md"
     },
     {
       "basename": "Goblin Trouble",
@@ -167,38 +199,6 @@
     {
       "basename": "2026-02-12",
       "path": "Dailies/2026-02-12.md"
-    },
-    {
-      "basename": "2026-02-10",
-      "path": "Dailies/2026-02-10.md"
-    },
-    {
-      "basename": "Shield",
-      "path": "DnD/Shared Resources/Spells/S/Shield.md"
-    },
-    {
-      "basename": "Hold Person",
-      "path": "DnD/Shared Resources/Spells/H/Hold Person.md"
-    },
-    {
-      "basename": "Disguise Self",
-      "path": "DnD/Shared Resources/Spells/D/Disguise Self.md"
-    },
-    {
-      "basename": "Scatter",
-      "path": "DnD/Shared Resources/Spells/S/Scatter.md"
-    },
-    {
-      "basename": "Magic Missile",
-      "path": "DnD/Shared Resources/Spells/M/Magic Missile.md"
-    },
-    {
-      "basename": "Heal",
-      "path": "DnD/Shared Resources/Spells/H/Heal.md"
-    },
-    {
-      "basename": "DnD",
-      "path": "DnD/DnD.md"
     }
   ],
   "omittedPaths": [],

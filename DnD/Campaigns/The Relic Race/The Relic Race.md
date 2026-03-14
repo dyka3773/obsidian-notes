@@ -13,7 +13,7 @@ aliases:
 
 ## The Premise
 
-**Campaign Start Mode**: This campaign begins with [[Session 1 - The Crown Beneath Thessaloniki]] (academy commission into the catacombs), independent of one-shot continuity.
+**Campaign Start Mode**: This campaign begins with [[Session 1 Prep - The Crown Beneath Thessaloniki]] (academy commission into the catacombs), independent of one-shot continuity.
 
 **What Could Change**: If the Crown is exposed publicly, the world learns ancient relics are **real, accessible, and politically destabilizing**.
 
@@ -47,14 +47,14 @@ The party doesn't have to *collect* all relics—they could:
 **The tension comes from**: Every choice makes enemies. Every ally has ulterior motives. Every relic changes the balance of power.
 
 ---
-## [[Session 1 - The Crown Beneath Thessaloniki|Session 1]] Starting Situation
+## [[Session 1 Prep - The Crown Beneath Thessaloniki|Session 1]] Starting Situation
 
 **The Setup**:
 - [[Professor Helena Markou]] commissions the party to investigate relic signs beneath Thessaloniki.
 - The party descends into [[Location - Thessaloniki Catacombs]].
 - In the relic chamber, they confront [[Nikos - Oathbound Guardian]], who refuses custody to any claimant.
 
-**The [[Session 1 - The Crown Beneath Thessaloniki|Session 1]] Decision**:
+**The [[Session 1 Prep - The Crown Beneath Thessaloniki|Session 1]] Decision**:
 - Crown stays sealed with [[Nikos - Oathbound Guardian|Nikos]]
 - Crown is moved into academy custody
 - Crown is hidden by the party under a provisional pact
@@ -185,7 +185,7 @@ This decision shapes early campaign dynamics.
 ## Session 0/2 Checklist
 
 Before starting the campaign:
-- [ ] Confirm [[Session 1 - The Crown Beneath Thessaloniki|Session 1]] outcome (which Crown state is now canon)
+- [ ] Confirm [[Session 1 Prep - The Crown Beneath Thessaloniki|Session 1]] outcome (which Crown state is now canon)
 - [ ] Establish party's stance on [[The Crown of Kings]]
 - [ ] Introduce faction representatives (brief encounters)
 - [ ] Set campaign tone expectations (gray morality, exploration, politics)

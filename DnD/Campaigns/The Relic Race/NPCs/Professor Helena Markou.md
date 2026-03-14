@@ -7,9 +7,9 @@ type: npc
 role: Quest Giver
 affiliation: Thessaloniki Collegiate of Magic
 ---
-[[Divination]] specialist at the [[Thessaloniki Collegiate of Magic|Thessaloniki Collegiate]] and [[Session 1 - The Crown Beneath Thessaloniki|Session 1]] quest sponsor.
+[[Divination]] specialist at the [[Thessaloniki Collegiate of Magic|Thessaloniki Collegiate]] and [[Session 1 Prep - The Crown Beneath Thessaloniki|Session 1]] quest sponsor.
 
-## Role in [[Session 1 - The Crown Beneath Thessaloniki|Session 1]]
+## Role in [[Session 1 Prep - The Crown Beneath Thessaloniki|Session 1]]
 She commissions the party to investigate relic signs beneath Thessaloniki and recover secure evidence for the academy.
 
 ## Why She Hires Adventurers
@@ -29,7 +29,7 @@ She does not initially disclose that city elites have already asked the academy 
 ## If Confronted About Secrecy
 - truthful version: "I needed you focused on retrieval, not politics."
 - defensive version: "If I gave full context, you might have sold it before sunrise."
-## Campaign Utility After [[Session 1 - The Crown Beneath Thessaloniki|Session 1]]
+## Campaign Utility After [[Session 1 Prep - The Crown Beneath Thessaloniki|Session 1]]
 - recurring employer
 - source of research and translation support
 - pressure point between scholarship and political power

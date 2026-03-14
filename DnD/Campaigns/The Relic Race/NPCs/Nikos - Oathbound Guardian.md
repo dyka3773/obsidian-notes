@@ -9,7 +9,7 @@ alignment: Lawful Neutral
 aliases:
   - Nikos
 ---
-Guardian of [[The Crown of Kings]] in the [[Session 1 - The Crown Beneath Thessaloniki|Session 1]] continuity of [[The Relic Race]].
+Guardian of [[The Crown of Kings]] in the [[Session 1 Prep - The Crown Beneath Thessaloniki|Session 1]] continuity of [[The Relic Race]].
 
 ## Basic Info
 - **Race/Type**: Human (with magical longevity)
