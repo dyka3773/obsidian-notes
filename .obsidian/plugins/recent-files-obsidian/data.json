@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-03-30",
+      "path": "Dailies/2026-03-30.md"
+    },
+    {
+      "basename": "Nikos - Oathbound Guardian",
+      "path": "DnD/Campaigns/The Relic Race/NPCs/Nikos - Oathbound Guardian.md"
+    },
+    {
+      "basename": "Encounter - Nikos Guardian of Crown",
+      "path": "DnD/Campaigns/The Relic Race/Encounters/Encounter - Nikos Guardian of Crown.md"
+    },
+    {
       "basename": "Encounter - Peritas's Trial",
       "path": "DnD/Campaigns/The Relic Race/Encounters/Encounter - Peritas's Trial.md"
     },
     {
-      "basename": "Laya's Eye",
-      "path": "DnD/Shared Resources/Magic Items/Laya's Eye.md"
+      "basename": "Encounter - Infiltrating the Catacombs",
+      "path": "DnD/Campaigns/The Relic Race/Encounters/Encounter - Infiltrating the Catacombs.md"
+    },
+    {
+      "basename": "Thessaloniki (Hub City)",
+      "path": "DnD/Campaigns/The Relic Race/Locations/Thessaloniki (Hub City).md"
+    },
+    {
+      "basename": "Cultist Guard",
+      "path": "DnD/Campaigns/The Relic Race/NPCs/Cultist Guard.md"
+    },
+    {
+      "basename": "Professor Helena Markou",
+      "path": "DnD/Campaigns/The Relic Race/NPCs/Professor Helena Markou.md"
     },
     {
       "basename": "Session 1 Prep - The Crown Beneath Thessaloniki",
       "path": "DnD/Campaigns/The Relic Race/Sessions/Session 1 Prep - The Crown Beneath Thessaloniki.md"
     },
     {
-      "basename": "Professor Helena Markou",
-      "path": "DnD/Campaigns/The Relic Race/NPCs/Professor Helena Markou.md"
+      "basename": "Laya's Eye",
+      "path": "DnD/Shared Resources/Magic Items/Laya's Eye.md"
     },
     {
       "basename": "Nystul_s Magic Aura",
@@ -57,22 +81,6 @@
       "path": "DnD/Campaigns/The Relic Race/Sessions/Notes/Session 1.md"
     },
     {
-      "basename": "Thessaloniki (Hub City)",
-      "path": "DnD/Campaigns/The Relic Race/Locations/Thessaloniki (Hub City).md"
-    },
-    {
-      "basename": "Cultist Guard",
-      "path": "DnD/Campaigns/The Relic Race/NPCs/Cultist Guard.md"
-    },
-    {
-      "basename": "Encounter - Infiltrating the Catacombs",
-      "path": "DnD/Campaigns/The Relic Race/Encounters/Encounter - Infiltrating the Catacombs.md"
-    },
-    {
-      "basename": "Nikos - Oathbound Guardian",
-      "path": "DnD/Campaigns/The Relic Race/NPCs/Nikos - Oathbound Guardian.md"
-    },
-    {
       "basename": "Dimitris - Information Broker",
       "path": "DnD/Campaigns/The Relic Race/NPCs/Dimitris - Information Broker.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "Aegean Piracy Overview",
       "path": "DnD/Campaigns/The Relic Race/Pirates & the Seas/Aegean Piracy Overview.md"
-    },
-    {
-      "basename": "Encounter - Nikos Guardian of Crown",
-      "path": "DnD/Campaigns/The Relic Race/Encounters/Encounter - Nikos Guardian of Crown.md"
     },
     {
       "basename": "Encounter - The Drakofido",
@@ -195,10 +199,6 @@
     {
       "basename": "The Drakofido",
       "path": "DnD/Shared Resources/Monsters/The Drakofido.md"
-    },
-    {
-      "basename": "2026-02-12",
-      "path": "Dailies/2026-02-12.md"
     }
   ],
   "omittedPaths": [],
