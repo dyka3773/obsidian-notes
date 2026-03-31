@@ -13,7 +13,7 @@ city_type: Hub City
 The party's starting location and primary base of operations.
 ## Overview
 
-**Type**: City-State (mix of medieval + ancient Greek systems)
+**Type**: [[The City-States|City-State]] (mix of medieval + ancient Greek systems)
 **Population**: ~30,000-40,000 (a major regional hub)
 **Government**: Council of Nobles + Elected Archon
 **Religion**: Primarily Olympian pantheon, with Christian minority
@@ -58,13 +58,13 @@ The party's starting location and primary base of operations.
 **Vibe**: Sacred, peaceful, politically powerful
 
 **Features**:
-- Temples to the Twelve Olympians (Zeus, Athena, Apollo most prominent)
+- Temples to the Twelve Olympians ([[Zeus]], [[Athena]], [[Apollo]] most prominent)
 - [[Church of St. Dimitrios]] (Christian minority temple, where the one-shot started)
 - Oracle's shrine ([[divination]] services for a price)
 - Priest housing and religious schools
 
 **Key Locations**:
-- **Temple of Athena** (largest, most influential)
+- **Temple of [[Athena]]** (largest, most influential)
 - **[[Church of St. Dimitrios]]** (entrance to [[Location - Thessaloniki Catacombs]])
 - **Oracle's Shrine** (party can pay for cryptic prophecies)
 
@@ -109,7 +109,7 @@ The Council is split on how to handle [[the Relic Race]]:
 - Residential areas for craftspeople
 
 **Key Locations**:
-- **The Forge of Hephaestus** (best blacksmith in the city. An Ornn-trained apprentice works here?)
+- **The Forge of [[Hephaestus]]** (best blacksmith in the city. An Ornn-trained apprentice works here?)
 - **Alchemist's Row** (potions, components, poisons)
 - **The Enchanter's Guild** (commission minor enchantments)
 
@@ -205,10 +205,10 @@ Faculty members might approach the party for information about [[The Crown of Ki
 - Might arrest the party if they break laws
 
 ---
-### High Priestess of Athena
+### High Priestess of [[Athena]]
 **Name**: [TBD]
 **Role**: Most powerful religious figure in Thessaloniki
-**Location**: Temple of Athena
+**Location**: Temple of [[Athena]]
 **Disposition**: Suspicious of the party (they discovered [[The Crown of Kings]], but also disrupted the Church)
 **Campaign Use**:
 - Source of divine magic services (healing, blessings)
@@ -216,7 +216,7 @@ Faculty members might approach the party for information about [[The Crown of Ki
 - Rival if party aligns with anti-religious factions
 
 ---
-### Master Artisan (Forge of Hephaestus)
+### Master Artisan (Forge of [[Hephaestus]])
 **Name**: [TBD]
 **Role**: Best blacksmith in the city
 **Location**: Artisan Quarter
@@ -262,11 +262,11 @@ A professor hires the party to escort them to a ruin (research trip turns into a
 ## Thessaloniki as a Safe Haven
 
 ### Services Available
-**Healing**: Temple of Athena, Church of St. Dimitrios
+**Healing**: Temple of [[Athena]], Church of St. Dimitrios
 **Shopping**: Agora (common items), Artisan Quarter (magic items up to uncommon)
 **Information**: [[Dimitris - Information Broker|Dimitris - Information Broker]], sailors, scholars
 **Sanctuary**: The Collegiate (if the party has good standing)
-**[[Resurrection]]** (if needed): High Priestess of Athena (expensive, requires favor)
+**[[Resurrection]]** (if needed): High Priestess of [[Athena]] (expensive, requires favor)
 ### When It's Not Safe
 **The city becomes dangerous if**:
 - The party makes enemies of the City Guard
@@ -275,7 +275,7 @@ A professor hires the party to escort them to a ruin (research trip turns into a
 If Thessaloniki becomes hostile, the party can flee to:
 - [[Skouries & Chalkidiki]] (dwarf's destination)
 - Aegean islands (pirate havens)
-- Other city-states (Athens, Corinth, Delphi)
+- Other [[The City-States|city-states]] (Athens, Corinth, Delphi)
 
 ---
 ## DM Notes: Running Thessaloniki

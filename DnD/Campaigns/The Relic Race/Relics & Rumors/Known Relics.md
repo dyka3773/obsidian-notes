@@ -57,7 +57,7 @@ These are **not** fully designed yet. Create stats when the party pursues them.
 ### The Shield of Achilles
 
 **Rumor**: 
-*"Hephaestus forged a shield for Achilles that depicted the entire world. Whoever holds it is protected not just by metal, but by the cosmos itself."*
+*"[[Hephaestus]] forged a shield for Achilles that depicted the entire world. Whoever holds it is protected not just by metal, but by the cosmos itself."*
 
 **Possible Location**:
 - Troy (ruins, if the party travels to Turkey)
@@ -92,10 +92,10 @@ The party hears that a noble family in Athens has the Shield, but it's guarded h
 The party is hired to escort a scholar to Crete. She claims she's decoded the Disc.
 
 ---
-### The Trident of Poseidon
+### The Trident of [[Poseidon]]
 
 **Rumor**: 
-*"Poseidon's weapon, said to command the seas, summon storms, and split the earth. Some say it rests in his temple beneath the waves."*
+*"[[Poseidon]]'s weapon, said to command the seas, summon storms, and split the earth. Some say it rests in his temple beneath the waves."*
 
 **Possible Location**:
 - Underwater temple (Aegean Sea)
@@ -108,7 +108,7 @@ The party is hired to escort a scholar to Crete. She claims she's decoded the Di
 - **Aquatic Supremacy**: Breathe underwater, swim speed 60 ft, communicate with sea creatures
 
 **Adventure Hook**: 
-Sailors report an island that "wasn't there before." An oracle says Poseidon's temple has risen from the sea.
+Sailors report an island that "wasn't there before." An oracle says [[Poseidon]]'s temple has risen from the sea.
 
 ---
 
@@ -155,7 +155,7 @@ The party learns the Cult is searching for the Scepter in Persia. Do they stop t
 When the party hears a rumor, create the relic using this framework:
 ### Step 1: Choose Historical/Mythological Source
 - Real historical artifacts (Crown of Kings, Disc of Phaistos)
-- Greek mythology (Trident of Poseidon, Lyre of Orpheus)
+- Greek mythology (Trident of [[Poseidon]], Lyre of Orpheus)
 - Persian/Egyptian/Roman sources (expand beyond Greece)
 ### Step 2: Assign Power Level
 - **Rare**: +1 weapon, minor magical effect (single spell once per day)
@@ -164,7 +164,7 @@ When the party hears a rumor, create the relic using this framework:
 ### Step 3: Add a Cost or Curse
 Powerful relics should have drawbacks:
 - The Crown corrupts the wearer
-- Poseidon's Trident requires a sacrifice to the sea
+- [[Poseidon]]'s Trident requires a sacrifice to the sea
 - The Lyre attracts undead (Orpheus's underworld connection)
 ### Step 4: Make It Contested
 Multiple factions want the same relic (creates conflict):

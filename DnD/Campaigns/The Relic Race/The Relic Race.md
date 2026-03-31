@@ -17,7 +17,7 @@ aliases:
 
 **What Could Change**: If the Crown is exposed publicly, the world learns ancient relics are **real, accessible, and politically destabilizing**.
 
-**What Happens Now**: A race begins. Every power (city-states, cults, scholars, pirates) seeks relics for legitimacy, military advantage, or ideological purposes.
+**What Happens Now**: A race begins. Every power ([[The City-States|city-states]], cults, scholars, pirates) seeks relics for legitimacy, military advantage, or ideological purposes.
 
 ---
 ## Campaign Core Concept
@@ -25,7 +25,7 @@ aliases:
 **Title**: *The Relic Race*
 
 **Elevator Pitch**: 
-After exposing Alexander's Crown, the party finds themselves at the center of a global competition for ancient artifacts. City-states mobilize fleets. Cults go underground. Scholars debate ethics. Pirates smell profit. The party must navigate alliances, betrayals, and the high seas to control, or destroy, relics that could reshape the world.
+After exposing Alexander's Crown, the party finds themselves at the center of a global competition for ancient artifacts. [[The City-States|City-states]] mobilize fleets. Cults go underground. Scholars debate ethics. Pirates smell profit. The party must navigate alliances, betrayals, and the high seas to control, or destroy, relics that could reshape the world.
 
 **Campaign Length**: Open-ended (designed to continue as long as players enjoy it)
 
@@ -78,12 +78,12 @@ See [[How Magic Works]] for full details.
 - Gods are real but distant (Olympian pantheon + Christian minority)
 ### Geography
 **Setting**: Fantasy medieval Earth with real geography
-- **Current Hub**: Thessaloniki, Greece (city-state system)
-- **Surrounding Region**: Greek city-states, Aegean Sea, Macedonian territories
+- **Current Hub**: Thessaloniki, Greece ([[The City-States|city-state]] system)
+- **Surrounding Region**: Greek [[The City-States|city-states]], Aegean Sea, Macedonian territories
 - **World Scale**: Full Earth exists & players can travel anywhere
 - **Key Locations**: [[Thessaloniki (Hub City)]], [[Skouries & Chalkidiki]], Aegean islands
 ### Political Structure
-- **City-States** dominate Greece
+- **[[The City-States|City-States]]** dominate Greece
 - **Regional Powers** include Macedonian successor kingdoms, maritime republics, distant empires
 - **No clear "good guys"**: competing interests with gray morality
 

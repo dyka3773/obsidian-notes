@@ -4,165 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a752c6e6eb05dc1d",
+        "id": "85e7f626880f87b2",
         "type": "tabs",
         "children": [
           {
-            "id": "a8b1da25fc0e28be",
+            "id": "e3999379787c1df7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Campaigns/The Relic Race/Sessions/Session 1 Prep - The Crown Beneath Thessaloniki.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Session 1 Prep - The Crown Beneath Thessaloniki"
-            }
-          },
-          {
-            "id": "1c661a31ed6200be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Campaigns/The Relic Race/NPCs/Professor Helena Markou.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Professor Helena Markou"
-            }
-          },
-          {
-            "id": "f32f31245935500c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Campaigns/The Relic Race/Encounters/Encounter - Nikos Guardian of Crown.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Encounter - Nikos Guardian of Crown"
-            }
-          },
-          {
-            "id": "c14177d94ebd6d16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dailies/2026-03-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-30"
-            }
-          },
-          {
-            "id": "c0ef25d16fecd552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Campaigns/The Relic Race/Locations/Thessaloniki (Hub City).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Thessaloniki (Hub City)"
-            }
-          },
-          {
-            "id": "101f350cccfc9928",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Campaigns/The Relic Race/Magic & Faith/How Magic Works.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How Magic Works"
-            }
-          },
-          {
-            "id": "eb842092d8eadd5f",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
+              "type": "graph",
               "state": {},
-              "icon": "skull",
-              "title": "Combatant"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 360.5,
+    "collapsed": true
   },
   "right": {
     "id": "6200f5690b9571f0",
@@ -263,12 +119,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dailies/2026-03-30.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-03-30"
+              "title": "Outgoing links"
             }
           },
           {
@@ -424,23 +279,13 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "e3999379787c1df7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 487.5
+    "width": 475.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -464,44 +309,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c14177d94ebd6d16",
+  "active": "e3999379787c1df7",
   "lastOpenFiles": [
-    "DnD/Campaigns/The Relic Race/NPCs/Nikos - Oathbound Guardian.md",
-    "Dailies/2026-03-30.md",
-    "DnD/Campaigns/The Relic Race/Encounters/Encounter - Nikos Guardian of Crown.md",
-    "DnD/Campaigns/The Relic Race/Encounters/Encounter - Peritas's Trial.md",
-    "DnD/Campaigns/The Relic Race/Encounters/Encounter - Infiltrating the Catacombs.md",
-    "DnD/Campaigns/The Relic Race/Locations/Thessaloniki (Hub City).md",
-    "DnD/Campaigns/The Relic Race/NPCs/Cultist Guard.md",
-    "DnD/Campaigns/The Relic Race/NPCs/Professor Helena Markou.md",
-    "DnD/Campaigns/The Relic Race/Sessions/Session 1 Prep - The Crown Beneath Thessaloniki.md",
-    "DnD/Shared Resources/Magic Items/Laya's Eye.md",
-    "DnD/Shared Resources/Spells/N/Nystul_s Magic Aura.md",
-    "DnD/Shared Resources/Spells/D/Detect Magic.md",
-    "DnD/Campaigns/The Relic Race/Magic & Faith/How Magic Works.md",
-    "DnD/Campaigns/The Relic Race/Party/Artemios.md",
-    "DnD/Campaigns/The Relic Race/Party/Laya.md",
-    "DnD/Campaigns/The Relic Race/Party/Valyria.md",
-    "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies.md",
-    "DnD/Campaigns/The Relic Race/Party",
-    "DnD/Shared Resources/Magic Items/Ersatz Eye.md",
-    "DnD/Campaigns/The Relic Race/Loot & Rewards/The Crown of Kings.md",
-    "DnD/Campaigns/The Relic Race/Sessions/Notes/Session 1.md",
-    "DnD/Campaigns/The Relic Race/Sessions/Notes",
-    "DnD/Campaigns/The Relic Race/NPCs/Dimitris - Information Broker.md",
-    "Dailies/2026-03-14.md",
-    "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md",
-    "DnD/Campaigns/The Relic Race/Pirates & the Seas/Aegean Piracy Overview.md",
-    "DnD/Campaigns/The Relic Race/Encounters/Encounter - The Drakofido.md",
-    "DnD/Campaigns/The Relic Race/Locations/Location - Thessaloniki Catacombs.md",
-    "DnD/Campaigns/The Relic Race/Magic & Faith/Magical Academies",
-    "DnD/Campaigns/The Relic Race/Encounters",
-    "DnD/Campaigns/The Relic Race/Sessions",
-    "DnD/Campaigns/Borderlands Quest - Goblin Trouble/Characters",
-    "DnD/Campaigns/Borderlands Quest - Goblin Trouble",
-    "DnD/Campaigns/The Relic Race/NPCs",
-    "DnD/Campaigns/The Relic Race/Relics & Rumors",
-    "DnD/Campaigns/The Relic Race/Pirates & the Seas",
+    "DnD/Campaigns/The Relic Race/Locations/Skouries & Chalkidiki.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Zeus.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Poseidon.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Hermes.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Hera.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Hephaestus.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Hades.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Dionysus.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Demeter.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Athena.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Artemis.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Ares.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Apollo.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Aphrodite.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Metis.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Thia.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Themis.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Tethys.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Selene.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Rhea.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Prometheus.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Phoebe.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Coeus.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Children of Gods/Pan.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Oceanus.md",
+    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Nike.md",
+    "DnD/Shared Resources/Magic Items/P",
+    "DnD/Shared Resources/Magic Items/O",
+    "DnD/Shared Resources/Magic Items/N",
+    "DnD/Shared Resources/Magic Items/M",
+    "DnD/Shared Resources/Magic Items/L",
+    "DnD/Shared Resources/Magic Items/K",
+    "DnD/Shared Resources/Magic Items/J",
+    "DnD/Shared Resources/Magic Items/I",
+    "DnD/Shared Resources/Magic Items/H",
+    "DnD/Shared Resources/Magic Items/G",
     "DnD/Decks/Tarot/06-TheLovers.png",
     "DnD/Decks/Tarot/02-TheHighPriestess.png",
     "DnD/Decks/Tarot/00-TheFool.png",

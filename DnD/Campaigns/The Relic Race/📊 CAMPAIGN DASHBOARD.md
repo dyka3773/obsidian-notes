@@ -65,7 +65,7 @@ WHERE type = "faction"
 - **[Character Name]** - [Class/Race]
 
 ### Current Location
-**Thessaloniki, Greece** - City-state hub
+**Thessaloniki, Greece** - [[The City-States|City-state]] hub
 
 ### Resources & Assets
 - Gold: [Amount]
