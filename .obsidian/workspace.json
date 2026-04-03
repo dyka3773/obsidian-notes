@@ -11,13 +11,40 @@
             "id": "e3999379787c1df7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/2026-04-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-03"
+            }
+          },
+          {
+            "id": "5c27ad3ddf4ca8c5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -309,8 +336,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e3999379787c1df7",
+  "active": "5c27ad3ddf4ca8c5",
   "lastOpenFiles": [
+    "Dailies/2026-04-03.md",
     "DnD/Shared Resources/Magic Items/R/Rival Coin.md",
     "DnD/Shared Resources/Magic Items/R/Riptide Crossbow.md",
     "DnD/Shared Resources/Magic Items/R/Rings of the True Companions.md",
@@ -336,7 +364,6 @@
     "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Dionysus.md",
     "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Demeter.md",
     "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Athena.md",
-    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Artemis.md",
     "DnD/Shared Resources/Magic Items/P",
     "DnD/Shared Resources/Magic Items/O",
     "DnD/Shared Resources/Magic Items/N",
