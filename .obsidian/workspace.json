@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2026-04-03.md",
+                "file": "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-03"
-            }
-          },
-          {
-            "id": "5c27ad3ddf4ca8c5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "title": "Broom of Animated Attack"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "right": {
     "id": "6200f5690b9571f0",
@@ -146,11 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Broom of Animated Attack"
             }
           },
           {
@@ -243,7 +230,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "29a106e995e55d1a",
@@ -255,6 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,15 +292,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Broom of Animated Attack"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 475.5,
-    "collapsed": true
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -336,8 +323,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5c27ad3ddf4ca8c5",
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
+    "DnD/Shared Resources/Monsters/The Drakofido.md",
+    "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
     "Dailies/2026-04-03.md",
     "DnD/Shared Resources/Magic Items/R/Rival Coin.md",
     "DnD/Shared Resources/Magic Items/R/Riptide Crossbow.md",
@@ -362,8 +351,6 @@
     "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Hephaestus.md",
     "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Hades.md",
     "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Dionysus.md",
-    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Demeter.md",
-    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Athena.md",
     "DnD/Shared Resources/Magic Items/P",
     "DnD/Shared Resources/Magic Items/O",
     "DnD/Shared Resources/Magic Items/N",

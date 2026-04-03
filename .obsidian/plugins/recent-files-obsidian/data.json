@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Broom of Animated Attack",
+      "path": "DnD/Shared Resources/Monsters/Broom of Animated Attack.md"
+    },
+    {
+      "basename": "The Drakofido",
+      "path": "DnD/Shared Resources/Monsters/The Drakofido.md"
+    },
+    {
+      "basename": "2026-04-03",
+      "path": "Dailies/2026-04-03.md"
+    },
+    {
       "basename": "Skouries & Chalkidiki",
       "path": "DnD/Campaigns/The Relic Race/Locations/Skouries & Chalkidiki.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Phobos",
       "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Children of Gods/Phobos.md"
-    },
-    {
-      "basename": "The Anemoi",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/The Anemoi.md"
-    },
-    {
-      "basename": "Prehistory",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/History/Prehistory.md"
-    },
-    {
-      "basename": "Gaea",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Gaea.md"
     }
   ],
   "omittedPaths": [],
