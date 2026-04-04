@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-04",
+      "path": "Dailies/2026-04-04.md"
+    },
+    {
       "basename": "Broom of Animated Attack",
       "path": "DnD/Shared Resources/Monsters/Broom of Animated Attack.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Deimos",
       "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Children of Gods/Deimos.md"
-    },
-    {
-      "basename": "Phobos",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Children of Gods/Phobos.md"
     }
   ],
   "omittedPaths": [],

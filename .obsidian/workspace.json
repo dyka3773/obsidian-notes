@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f7fea4388afcbc56",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          },
+          {
             "id": "e3999379787c1df7",
             "type": "leaf",
             "state": {
@@ -30,8 +40,33 @@
               "icon": "lucide-file",
               "title": "Broom of Animated Attack"
             }
+          },
+          {
+            "id": "badd7a674f752741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/2026-04-04.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-04"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,7 +277,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
+                "file": "Dailies/2026-04-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,7 +327,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Broom of Animated Attack"
+              "title": "Graph of 2026-04-04"
             }
           }
         ]
@@ -323,8 +358,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "badd7a674f752741",
   "lastOpenFiles": [
+    "Dailies/2026-04-04.md",
     "DnD/Shared Resources/Monsters/The Drakofido.md",
     "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
     "Dailies/2026-04-03.md",
@@ -350,7 +386,6 @@
     "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Hera.md",
     "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Hephaestus.md",
     "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Hades.md",
-    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Dionysus.md",
     "DnD/Shared Resources/Magic Items/P",
     "DnD/Shared Resources/Magic Items/O",
     "DnD/Shared Resources/Magic Items/N",
