@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-04-04",
-      "path": "Dailies/2026-04-04.md"
+      "basename": "2026-04-08",
+      "path": "Dailies/2026-04-08.md"
+    },
+    {
+      "basename": "Nikos - Oathbound Guardian",
+      "path": "DnD/Campaigns/The Relic Race/NPCs/Nikos - Oathbound Guardian.md"
+    },
+    {
+      "basename": "Known Relics",
+      "path": "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md"
     },
     {
       "basename": "Broom of Animated Attack",
       "path": "DnD/Shared Resources/Monsters/Broom of Animated Attack.md"
+    },
+    {
+      "basename": "2026-04-04",
+      "path": "Dailies/2026-04-04.md"
     },
     {
       "basename": "The Drakofido",
@@ -187,18 +199,6 @@
     {
       "basename": "Candle of Invocation",
       "path": "DnD/Shared Resources/Magic Items/C/Candle of Invocation.md"
-    },
-    {
-      "basename": "Laya's Eye",
-      "path": "DnD/Shared Resources/Magic Items/Laya's Eye.md"
-    },
-    {
-      "basename": "Abjurer_s Bangle",
-      "path": "DnD/Shared Resources/Magic Items/A/Abjurer_s Bangle.md"
-    },
-    {
-      "basename": "Deimos",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Children of Gods/Deimos.md"
     }
   ],
   "omittedPaths": [],
