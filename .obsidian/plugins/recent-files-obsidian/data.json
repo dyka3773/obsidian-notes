@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-13",
+      "path": "Dailies/2026-04-13.md"
+    },
+    {
+      "basename": "Broom of Animated Attack",
+      "path": "DnD/Shared Resources/Monsters/Broom of Animated Attack.md"
+    },
+    {
       "basename": "2026-04-08",
       "path": "Dailies/2026-04-08.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Known Relics",
       "path": "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md"
-    },
-    {
-      "basename": "Broom of Animated Attack",
-      "path": "DnD/Shared Resources/Monsters/Broom of Animated Attack.md"
     },
     {
       "basename": "2026-04-04",
@@ -195,10 +199,6 @@
     {
       "basename": "Atlas",
       "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Atlas.md"
-    },
-    {
-      "basename": "Candle of Invocation",
-      "path": "DnD/Shared Resources/Magic Items/C/Candle of Invocation.md"
     }
   ],
   "omittedPaths": [],
