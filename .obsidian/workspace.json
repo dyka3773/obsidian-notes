@@ -16,33 +16,8 @@
               "icon": "skull",
               "title": "Combatant"
             }
-          },
-          {
-            "id": "a2cec78eb8ec57b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dailies/2026-04-14.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-14"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,7 +228,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dailies/2026-04-14.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -303,10 +277,21 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2026-04-14"
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "21a3fdf3927aa455",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -334,8 +319,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a2cec78eb8ec57b3",
+  "active": "f7fea4388afcbc56",
   "lastOpenFiles": [
+    "DnD/Campaigns/Curse of Strahd/Party/Laya.md",
+    "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
+    "DnD/Shared Resources/Magic Items/Laya's Eye.md",
+    "DnD/Campaigns/Curse of Strahd/Party/Bonnie and Clod.md",
+    "Laya.jpg",
+    "Boney and Clod.png",
+    "DnD/Campaigns/Curse of Strahd/Party/Blorpo.md",
+    "DnD/Campaigns/Curse of Strahd/Curse of Strahd.md",
+    "DnD/Campaigns/Curse of Strahd/Party/Valyria.md",
+    "DnD/Campaigns/Curse of Strahd/Party/Artemios.md",
+    "DnD/Campaigns/The Relic Race/The Relic Race.md",
     "Dailies/2026-04-14.md",
     "DnD/Campaigns/Curse of Strahd",
     "DnD/Decks/Tarot/19-TheSun.png",
@@ -346,7 +342,6 @@
     "DnD/Decks/Tarot/09-TheHermit.png",
     "DnD/Decks/Tarot/06-TheLovers.png",
     "Dailies/2026-04-13.md",
-    "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
     "Dailies/2026-04-08.md",
     "DnD/Campaigns/The Relic Race/NPCs/Nikos - Oathbound Guardian.md",
     "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md",
@@ -362,14 +357,6 @@
     "DnD/Shared Resources/Magic Items/R/Ring of the Mute Mage.md",
     "DnD/Shared Resources/Magic Items/R/Ring of the Assassin Lord.md",
     "DnD/Shared Resources/Magic Items/R/Ring of the Arcane Berserker.md",
-    "DnD/Shared Resources/Magic Items/R/Ring of X-ray Vision.md",
-    "DnD/Shared Resources/Magic Items/R/Ring of Winter.md",
-    "DnD/Shared Resources/Magic Items/R/Ring of Water Walking.md",
-    "DnD/Shared Resources/Magic Items/R/Ring of Warmth.md",
-    "DnD/Shared Resources/Magic Items/R/Ring of Volleys.md",
-    "DnD/Shared Resources/Magic Items/R/Ring of Three Wishes.md",
-    "DnD/Campaigns/The Relic Race/Locations/Skouries & Chalkidiki.md",
-    "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Zeus.md",
     "DnD/Shared Resources/Magic Items/P",
     "DnD/Shared Resources/Magic Items/O",
     "DnD/Shared Resources/Magic Items/N",
@@ -379,8 +366,6 @@
     "DnD/Shared Resources/Magic Items/J",
     "DnD/Shared Resources/Magic Items/I",
     "DnD/Shared Resources/Magic Items/H",
-    "DnD/Decks/Tarot/02-TheHighPriestess.png",
-    "DnD/Decks/Tarot/00-TheFool.png",
-    "DnD/Decks/Tarot/21-TheWorld.png"
+    "DnD/Decks/Tarot/02-TheHighPriestess.png"
   ]
 }

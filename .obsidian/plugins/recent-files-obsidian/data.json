@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Laya",
+      "path": "DnD/Campaigns/Curse of Strahd/Party/Laya.md"
+    },
+    {
+      "basename": "Broom of Animated Attack",
+      "path": "DnD/Shared Resources/Monsters/Broom of Animated Attack.md"
+    },
+    {
+      "basename": "Laya's Eye",
+      "path": "DnD/Shared Resources/Magic Items/Laya's Eye.md"
+    },
+    {
+      "basename": "Bonnie and Clod",
+      "path": "DnD/Campaigns/Curse of Strahd/Party/Bonnie and Clod.md"
+    },
+    {
+      "basename": "Blorpo",
+      "path": "DnD/Campaigns/Curse of Strahd/Party/Blorpo.md"
+    },
+    {
+      "basename": "Curse of Strahd",
+      "path": "DnD/Campaigns/Curse of Strahd/Curse of Strahd.md"
+    },
+    {
+      "basename": "Valyria",
+      "path": "DnD/Campaigns/Curse of Strahd/Party/Valyria.md"
+    },
+    {
+      "basename": "Artemios",
+      "path": "DnD/Campaigns/Curse of Strahd/Party/Artemios.md"
+    },
+    {
+      "basename": "The Relic Race",
+      "path": "DnD/Campaigns/The Relic Race/The Relic Race.md"
+    },
+    {
       "basename": "2026-04-14",
       "path": "Dailies/2026-04-14.md"
     },
@@ -35,10 +71,6 @@
     {
       "basename": "2026-04-13",
       "path": "Dailies/2026-04-13.md"
-    },
-    {
-      "basename": "Broom of Animated Attack",
-      "path": "DnD/Shared Resources/Monsters/Broom of Animated Attack.md"
     },
     {
       "basename": "2026-04-08",
@@ -167,38 +199,6 @@
     {
       "basename": "Nike",
       "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Nike.md"
-    },
-    {
-      "basename": "Muses",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Children of Gods/Muses.md"
-    },
-    {
-      "basename": "Mnemosyne",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Mnemosyne.md"
-    },
-    {
-      "basename": "Leto",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Leto.md"
-    },
-    {
-      "basename": "Japet",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Japet.md"
-    },
-    {
-      "basename": "Iris",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Iris.md"
-    },
-    {
-      "basename": "Hyperion",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Hyperion.md"
-    },
-    {
-      "basename": "Hestia",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Hestia.md"
-    },
-    {
-      "basename": "Helios",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Helios.md"
     }
   ],
   "omittedPaths": [],
