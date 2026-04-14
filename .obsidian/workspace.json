@@ -118,12 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Broom of Animated Attack"
+              "title": "Outgoing links"
             }
           },
           {
@@ -216,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       },
       {
         "id": "29a106e995e55d1a",
@@ -319,8 +318,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f7fea4388afcbc56",
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
+    "DnD/Campaigns/Curse of Strahd/Party/Valyria.md",
     "DnD/Campaigns/Curse of Strahd/Party/Laya.md",
     "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
     "DnD/Shared Resources/Magic Items/Laya's Eye.md",
@@ -329,7 +329,6 @@
     "Boney and Clod.png",
     "DnD/Campaigns/Curse of Strahd/Party/Blorpo.md",
     "DnD/Campaigns/Curse of Strahd/Curse of Strahd.md",
-    "DnD/Campaigns/Curse of Strahd/Party/Valyria.md",
     "DnD/Campaigns/Curse of Strahd/Party/Artemios.md",
     "DnD/Campaigns/The Relic Race/The Relic Race.md",
     "Dailies/2026-04-14.md",

@@ -18,7 +18,7 @@ senses: blindsight 30ft (blind beyond this radius), passive Perception 7
 cr: 1/4
 traits:
   - name: Antimagic Susceptibility
-    desc: The broom is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the broom must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for l minute.
+    desc: The broom is incapacitated while in the area of an [[antimagic field]]. If targeted by [[dispel magic]], the broom must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for l minute.
   - name: False Appearance
     desc: While the broom remains motionless and isn't flying, it is indistinguishable from a normal broom.
 actions:

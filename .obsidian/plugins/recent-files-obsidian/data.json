@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Valyria",
+      "path": "DnD/Campaigns/Curse of Strahd/Party/Valyria.md"
+    },
+    {
       "basename": "Laya",
       "path": "DnD/Campaigns/Curse of Strahd/Party/Laya.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Curse of Strahd",
       "path": "DnD/Campaigns/Curse of Strahd/Curse of Strahd.md"
-    },
-    {
-      "basename": "Valyria",
-      "path": "DnD/Campaigns/Curse of Strahd/Party/Valyria.md"
     },
     {
       "basename": "Artemios",
