@@ -192,7 +192,7 @@ Pirates, privateers, and naval power in the Aegean Sea.
 **DM Tip**: Don't bog down every encounter with full ship rules, use them for major battles, simplify for minor ones.
 
 ---
-## Pirates & [[the Relic Race]]
+## Pirates & [[The Relic Race]]
 
 ### Why Pirates Care About Relics
 1. **Treasure value** (relics sell for fortunes)

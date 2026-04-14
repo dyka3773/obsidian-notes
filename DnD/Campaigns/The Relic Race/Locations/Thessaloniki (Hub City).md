@@ -24,7 +24,7 @@ The party's starting location and primary base of operations.
 - **Home base** for the party
 - **Neutral ground** where factions operate openly
 - **Information hub** (sailors, merchants, spies all pass through)
-- **Starting point** of [[the Relic Race]]
+- **Starting point** of [[The Relic Race]]
 ## Geography & Layout
 
 ### Physical Location
@@ -93,7 +93,7 @@ The party's starting location and primary base of operations.
 - City guard investigating crimes (possibly the party's actions)
 
 **Political Note**:
-The Council is split on how to handle [[the Relic Race]]:
+The Council is split on how to handle [[The Relic Race]]:
 - Some want to sell relics to the highest bidder
 - Others want to hoard them for Thessaloniki's power
 - Some want nothing to do with it (too dangerous)
@@ -238,7 +238,7 @@ Faculty members might approach the party for information about [[The Crown of Ki
 - Offers sanctuary if the party needs a safe place
 
 ---
-## Thessaloniki's Role in [[the Relic Race]]
+## Thessaloniki's Role in [[The Relic Race]]
 
 ### Why Factions Care About Thessaloniki
 1. **It's where the Crown was found** (the city has historical significance)

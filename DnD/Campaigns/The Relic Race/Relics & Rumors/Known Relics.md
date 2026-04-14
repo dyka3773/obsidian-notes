@@ -46,7 +46,7 @@ You don't need to predefine every relic. Let **rumors** drive the story, if play
 - **Reality Warping**: Reshape minor aspects of the world (very limited)
 - **Corruption**: Over time, the wearer becomes tyrannical
 
-**Campaign Significance**: The Crown is the **catalyst** for [[the Relic Race]]. Its discovery proved relics are real.
+**Campaign Significance**: The Crown is the **catalyst** for [[The Relic Race]]. Its discovery proved relics are real.
 
 ---
 ## Rumored Relics (Hooks for Adventures)

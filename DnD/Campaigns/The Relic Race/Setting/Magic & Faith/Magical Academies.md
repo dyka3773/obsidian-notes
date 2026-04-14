@@ -143,7 +143,7 @@ When the party travels, use this template:
 - They're not quest hubs, they're resources
 - Too much access = magic feels less rare
 ### Make Them Politically Neutral (Mostly)
-- Academies don't take sides in [[the Relic Race]] (officially)
+- Academies don't take sides in [[The Relic Race]] (officially)
 - Individual faculty might have opinions, but institutions stay neutral
 - This makes them safe havens and neutral meeting grounds
 ### Use Alumni as NPCs
