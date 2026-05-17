@@ -16,8 +16,33 @@
               "icon": "skull",
               "title": "Combatant"
             }
+          },
+          {
+            "id": "36a3f092f223bc76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/2026-05-18.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-18"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -318,8 +343,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "36a3f092f223bc76",
   "lastOpenFiles": [
+    "Dailies/2026-05-18.md",
     "DnD/Campaigns/Curse of Strahd/Party/Valyria.md",
     "DnD/Campaigns/Curse of Strahd/Party/Laya.md",
     "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
@@ -355,7 +381,6 @@
     "DnD/Shared Resources/Magic Items/R/Ring of the Orator.md",
     "DnD/Shared Resources/Magic Items/R/Ring of the Mute Mage.md",
     "DnD/Shared Resources/Magic Items/R/Ring of the Assassin Lord.md",
-    "DnD/Shared Resources/Magic Items/R/Ring of the Arcane Berserker.md",
     "DnD/Shared Resources/Magic Items/P",
     "DnD/Shared Resources/Magic Items/O",
     "DnD/Shared Resources/Magic Items/N",

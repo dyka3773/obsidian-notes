@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-05-18",
+      "path": "Dailies/2026-05-18.md"
+    },
+    {
       "basename": "Valyria",
       "path": "DnD/Campaigns/Curse of Strahd/Party/Valyria.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Oceanus",
       "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Oceanus.md"
-    },
-    {
-      "basename": "Nike",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Nike.md"
     }
   ],
   "omittedPaths": [],
