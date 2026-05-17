@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Feral Zombie",
+      "path": "DnD/Shared Resources/Monsters/Feral Zombie.md"
+    },
+    {
+      "basename": "Zombie Warrior",
+      "path": "DnD/Shared Resources/Monsters/Zombie Warrior.md"
+    },
+    {
+      "basename": "Zoblin Boss",
+      "path": "DnD/Shared Resources/Monsters/Zoblin Boss.md"
+    },
+    {
+      "basename": "Parsov",
+      "path": "DnD/Campaigns/Episodic - Island Explorers/NPCs/Parsov.md"
+    },
+    {
+      "basename": "Zoblin",
+      "path": "DnD/Shared Resources/Monsters/Zoblin.md"
+    },
+    {
+      "basename": "Plague Doctor’s Mask",
+      "path": "DnD/Shared Resources/Magic Items/Plague Doctor’s Mask.md"
+    },
+    {
+      "basename": "Parsov's Staff",
+      "path": "DnD/Shared Resources/Magic Items/Parsov's Staff.md"
+    },
+    {
+      "basename": "Rings of Telepathy",
+      "path": "DnD/Shared Resources/Magic Items/Rings of Telepathy.md"
+    },
+    {
       "basename": "Island Explorers",
       "path": "DnD/Campaigns/Episodic - Island Explorers/Island Explorers.md"
+    },
+    {
+      "basename": "Laya's Eye",
+      "path": "DnD/Shared Resources/Magic Items/Laya's Eye.md"
+    },
+    {
+      "basename": "Decaying Zoblin",
+      "path": "DnD/Shared Resources/Monsters/Decaying Zoblin.md"
+    },
+    {
+      "basename": "The Drakofido",
+      "path": "DnD/Shared Resources/Monsters/The Drakofido.md"
     },
     {
       "basename": "Laya",
@@ -19,10 +63,6 @@
     {
       "basename": "Broom of Animated Attack",
       "path": "DnD/Shared Resources/Monsters/Broom of Animated Attack.md"
-    },
-    {
-      "basename": "Laya's Eye",
-      "path": "DnD/Shared Resources/Magic Items/Laya's Eye.md"
     },
     {
       "basename": "Bonnie and Clod",
@@ -97,10 +137,6 @@
       "path": "Dailies/2026-04-04.md"
     },
     {
-      "basename": "The Drakofido",
-      "path": "DnD/Shared Resources/Monsters/The Drakofido.md"
-    },
-    {
       "basename": "2026-04-03",
       "path": "Dailies/2026-04-03.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "Metis",
       "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Metis.md"
-    },
-    {
-      "basename": "Thia",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Thia.md"
-    },
-    {
-      "basename": "Themis",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Themis.md"
-    },
-    {
-      "basename": "Tethys",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Tethys.md"
-    },
-    {
-      "basename": "Selene",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Selene.md"
-    },
-    {
-      "basename": "Rhea",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Rhea.md"
-    },
-    {
-      "basename": "Prometheus",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Prometheus.md"
-    },
-    {
-      "basename": "Phoebe",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Phoebe.md"
-    },
-    {
-      "basename": "Coeus",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Coeus.md"
-    },
-    {
-      "basename": "Pan",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Children of Gods/Pan.md"
     }
   ],
   "omittedPaths": [],

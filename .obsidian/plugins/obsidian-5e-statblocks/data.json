@@ -258,6 +258,258 @@
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Decaying Zoblin",
+      {
+        "name": "Decaying Zoblin",
+        "type": "Small Undead (Goblinoid)",
+        "alignment": "Neutral Evil",
+        "ac": "8 (leather armor)",
+        "hp": "10 (3d6)",
+        "speed": "25 ft",
+        "stats": [
+          10,
+          5,
+          10,
+          5,
+          7,
+          4
+        ],
+        "damage_immunities": "poison",
+        "condition_immunities": "poisoned",
+        "senses": "Darkvision 60 ft., passive Perception 8",
+        "cr": "1/8",
+        "languages": "Understands the languagues it knew in life but can't speak",
+        "traits": [
+          {
+            "name": "Undead Fortitude",
+            "desc": "If damage reduces the zoblin to 0 HP, it must make a CON saving throw with a DC of 10 + damage taken, unless the damage is radiant or from a critical hit. On success, the zoblin drops to 1HP instead"
+          },
+          {
+            "name": "Putrid",
+            "desc": "A creature that touces the zoblin or hits it with a melee attack while within 5 feet of it takes 1 necrotic damage"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Claw",
+            "desc": "Melee Weapon Attack: +2 to hit, reach 5ft, one target. Hit: 2 (1d4) slashing damage"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Zoblin",
+      {
+        "name": "Zoblin",
+        "type": "Small Undead (Goblinoid)",
+        "alignment": "Neutral Evil",
+        "ac": "10 (leather armor)",
+        "hp": "22 (4d6 +8)",
+        "speed": "30 ft",
+        "stats": [
+          12,
+          8,
+          15,
+          5,
+          7,
+          6
+        ],
+        "damage_immunities": "poison",
+        "condition_immunities": "poisoned",
+        "senses": "Darkvision 60 ft., passive Perception 8",
+        "languages": "Understands the languagues it knew in life but can't speak",
+        "cr": "1/4",
+        "traits": [
+          {
+            "name": "Undead Fortitude",
+            "desc": "If damage reduces the zoblin to 0 HP, it must make a CON saving throw with a DC of 5 + damage taken, unless the damage is radiant or from a critical hit. On success, the zoblin drops to 1HP instead"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Vicious Bite",
+            "desc": "Melee Weapon Attack: +3 to hit, reach 5ft, one target. Hit: 3 (1d4+1) piercing damage, and the zoblin attaches to the target. While attached, the zoblin doesn't attack. Instead, at the start of each of the zoblin's turns, that creature takes 5 (2d4) necrotic damage. While the zoblin is attached, that creature's movement speed is also reduced by 10ft. A creature may use its action to make a DC 11 Athletics check, prying the zoblin loose on a success."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Zoblin Boss",
+      {
+        "name": "Zoblin Boss",
+        "type": "Small Undead (Goblinoid)",
+        "alignment": "Neutral Evil",
+        "ac": "12 (chain shirt)",
+        "hp": "33 (6d6 +12)",
+        "speed": "30 ft",
+        "stats": [
+          14,
+          8,
+          14,
+          5,
+          8,
+          6
+        ],
+        "damage_immunities": "poison",
+        "condition_immunities": "poisoned",
+        "senses": "Darkvision 60 ft., passive Perception 9",
+        "languages": "Understands the languagues it knew in life but can't speak",
+        "cr": 1,
+        "traits": [
+          {
+            "name": "Undead Fortitude",
+            "desc": "If damage reduces the zoblin to 0 HP, it must make a CON saving throw with a DC of 5 + damage taken, unless the damage is radiant or from a critical hit. On success, the zoblin drops to 1HP instead"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Scimitar",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5ft, one target. Hit: 5 (1d6+2) piercing damage plus 2 (1d4) necrotic damage."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Lingering Instincts",
+            "desc": "Whenever an enemy within 5ft misses the zoblin with an attack, it can use its reaction to make a scimitar attack against that creature with disadvantage"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Necromancer",
+      {
+        "name": "Necromancer",
+        "type": "Medium Humanoid",
+        "alignment": "Lawful Evil",
+        "ac": 12,
+        "hp": "45 (7d6 +21)",
+        "speed": "30 ft",
+        "stats": [
+          8,
+          14,
+          16,
+          16,
+          10,
+          7
+        ],
+        "saves": [
+          {
+            "intelligence": 5
+          },
+          {
+            "wisdom": 2
+          }
+        ],
+        "senses": "passive Perception 10",
+        "languages": "Common, Infernal",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Spellcasting",
+            "desc": "The necromancer is an 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The necromancer has the following wizard spells prepared: - Cantrips (At Will): <STATBLOCK-WIKI-LINK>Chill touch<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>acid splash<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>mage hand<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>prestidigitation<STATBLOCK-WIKI-LINK> - 1st lvl (4 Slots): <STATBLOCK-WIKI-LINK>ray of sickness<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>witch bolt<STATBLOCK-WIKI-LINK>, tasha's hideous laughter - 2nd lvl (3 Slots): <STATBLOCK-WIKI-LINK>ray of enfeeblement<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>crown of madness<STATBLOCK-WIKI-LINK> - 3rd lvl (2 Slots): <STATBLOCK-WIKI-LINK>Animate Dead<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Vampiric Touch<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Quarterstaff",
+            "desc": "Melee Weapon Attack: +1 to hit, reach 5ft, one target. Hit: 2 (1d6-1) bludgeoning damage."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Zombie Warrior",
+      {
+        "name": "Zombie Warrior",
+        "type": "Medium Undead",
+        "alignment": "Neutral Evil",
+        "ac": "16 (chainmail)",
+        "hp": "51 (6d10 +18)",
+        "speed": "30 ft",
+        "stats": [
+          16,
+          10,
+          16,
+          6,
+          10,
+          6
+        ],
+        "damage_immunities": "poison",
+        "condition_immunities": "poisoned",
+        "senses": "Darkvision 60 ft., passive Perception 10",
+        "languages": "Understands the languagues it knew in life but can't speak",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Undead Fortitude",
+            "desc": "If damage reduces the zoblin to 0 HP, it must make a CON saving throw with a DC of 5 + damage taken, unless the damage is radiant or from a critical hit. On success, the zoblin drops to 1HP instead"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Greatsword",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5ft, one target. Hit: 10 (2d6+3) piercing damage."
+          },
+          {
+            "name": "Spew Bile (recharge 5-6)",
+            "desc": "The zombie  spews bile in a 15ft line. Each creature in that line must make a DC 12 CON save taking 17 (5d6) necrotic damage on failed save, or half as much on a successful one."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Feral Zombie",
+      {
+        "name": "Feral Zombie",
+        "type": "Medium Undead",
+        "alignment": "Neutral Evil",
+        "ac": 12,
+        "hp": "22 (3d8 +9)",
+        "speed": "30 ft",
+        "stats": [
+          12,
+          14,
+          16,
+          5,
+          7,
+          6
+        ],
+        "damage_immunities": "poison",
+        "condition_immunities": "poisoned",
+        "senses": "Darkvision 60 ft., passive Perception 8",
+        "languages": "Understands the languagues it knew in life but can't speak",
+        "cr": "1/2",
+        "traits": [
+          {
+            "name": "Undead Fortitude",
+            "desc": "If damage reduces the zoblin to 0 HP, it must make a CON saving throw with a DC of 5 + damage taken, unless the damage is radiant or from a critical hit. On success, the zoblin drops to 1HP instead"
+          },
+          {
+            "name": "Aggressive",
+            "desc": "As a bonus action, the zombie can move up to halfits speed toward a hostile creature it can see"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Ravage",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5ft, one target. Hit: 6 (1d8+2) slashing damage."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
     ]
   ],
   "defaultLayouts": {},

@@ -8,37 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7fea4388afcbc56",
+            "id": "30aad5985cebaffc",
             "type": "leaf",
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
               "icon": "skull",
               "title": "Combatant"
-            }
-          },
-          {
-            "id": "aa97ca873f730ce3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Campaigns/Episodic - Island Explorers/Island Explorers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Island Explorers"
             }
           }
         ]
@@ -342,9 +318,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "21a3fdf3927aa455",
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
+    "DnD/Shared Resources/Monsters/Feral Zombie.md",
+    "DnD/Shared Resources/Monsters/Zombie Warrior.md",
+    "DnD/Shared Resources/Monsters/Zoblin Boss.md",
+    "DnD/Campaigns/Episodic - Island Explorers/NPCs/Parsov.md",
+    "DnD/Shared Resources/Monsters/Zoblin.md",
+    "DnD/Shared Resources/Magic Items/Plague Doctor’s Mask.md",
+    "DnD/Campaigns/Episodic - Island Explorers/NPCs",
+    "DnD/Shared Resources/Magic Items/Parsov's Staff.md",
+    "DnD/Shared Resources/Magic Items/Rings of Telepathy.md",
     "DnD/Campaigns/Episodic - Island Explorers/Island Explorers.md",
+    "DnD/Shared Resources/Magic Items/Laya's Eye.md",
+    "DnD/Shared Resources/Monsters/Decaying Zoblin.md",
+    "DnD/Shared Resources/Monsters/The Drakofido.md",
     "DnD/Shared Resources/Magic Items/Pre-existing",
     "DnD/Campaigns/Curse of Strahd/Party/Laya.md",
     "DnD/Campaigns/Curse of Strahd/Party/Valyria.md",
@@ -352,7 +340,6 @@
     "DnD/Campaigns/Episodic - Island Explorers",
     "Dailies/2026-05-18.md",
     "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
-    "DnD/Shared Resources/Magic Items/Laya's Eye.md",
     "DnD/Campaigns/Curse of Strahd/Party/Bonnie and Clod.md",
     "Laya.jpg",
     "Boney and Clod.png",
@@ -373,21 +360,11 @@
     "Dailies/2026-04-08.md",
     "DnD/Campaigns/The Relic Race/NPCs/Nikos - Oathbound Guardian.md",
     "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md",
-    "Dailies/2026-04-04.md",
-    "DnD/Shared Resources/Monsters/The Drakofido.md",
-    "Dailies/2026-04-03.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/R/Rival Coin.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/R/Riptide Crossbow.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/R/Rings of the True Companions.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/R/Ring of the Split Mind.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/R/Ring of the Ram.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/R/Ring of the Orator.md",
     "DnD/Shared Resources/Magic Items/Pre-existing/P",
     "DnD/Shared Resources/Magic Items/Pre-existing/O",
     "DnD/Shared Resources/Magic Items/Pre-existing/N",
     "DnD/Shared Resources/Magic Items/Pre-existing/M",
     "DnD/Shared Resources/Magic Items/Pre-existing/L",
-    "DnD/Shared Resources/Magic Items/Pre-existing/K",
     "DnD/Decks/Tarot/02-TheHighPriestess.png"
   ]
 }
