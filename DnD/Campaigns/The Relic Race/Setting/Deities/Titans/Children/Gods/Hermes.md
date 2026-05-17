@@ -4,7 +4,7 @@ tags:
 aliases:
   - Ermis
 ---
-Symbols: caduceus, petasos (a winged widebrimmed hat), [[winged boots]]
+Symbols: caduceus, petasos (a winged widebrimmed hat), [[Winged Boots]]
 
 - God of messengers, guides, travel, herds, and invention.
 - He helped many Greek heroes in their tasks.

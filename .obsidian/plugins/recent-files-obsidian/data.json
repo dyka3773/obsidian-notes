@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-05-18",
-      "path": "Dailies/2026-05-18.md"
+      "basename": "Island Explorers",
+      "path": "DnD/Campaigns/Episodic - Island Explorers/Island Explorers.md"
+    },
+    {
+      "basename": "Laya",
+      "path": "DnD/Campaigns/Curse of Strahd/Party/Laya.md"
     },
     {
       "basename": "Valyria",
       "path": "DnD/Campaigns/Curse of Strahd/Party/Valyria.md"
     },
     {
-      "basename": "Laya",
-      "path": "DnD/Campaigns/Curse of Strahd/Party/Laya.md"
+      "basename": "2026-05-18",
+      "path": "Dailies/2026-05-18.md"
     },
     {
       "basename": "Broom of Animated Attack",
@@ -195,10 +199,6 @@
     {
       "basename": "Pan",
       "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Children of Gods/Pan.md"
-    },
-    {
-      "basename": "Oceanus",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Oceanus.md"
     }
   ],
   "omittedPaths": [],
