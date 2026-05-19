@@ -5,6 +5,46 @@
       "path": "Dailies/2026-05-19.md"
     },
     {
+      "basename": "Reliquary",
+      "path": "DnD/Campaigns/Curse of Strahd/Death House/Reliquary.md"
+    },
+    {
+      "basename": "Orb of Time",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/O/Orb of Time.md"
+    },
+    {
+      "basename": "Ruby of the War Mage",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/R/Ruby of the War Mage.md"
+    },
+    {
+      "basename": "Hat of Vermin",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/H/Hat of Vermin.md"
+    },
+    {
+      "basename": "Perfume of Bewitching",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/P/Perfume of Bewitching.md"
+    },
+    {
+      "basename": "Walloping Ammunition",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/W/Walloping Ammunition.md"
+    },
+    {
+      "basename": "Clothes of Mending",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/C/Clothes of Mending.md"
+    },
+    {
+      "basename": "Veteran_s Cane",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/V/Veteran_s Cane.md"
+    },
+    {
+      "basename": "Staff of Birdcalls",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/S/Staff of Birdcalls.md"
+    },
+    {
+      "basename": "Smoldering Armor",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/S/Smoldering Armor.md"
+    },
+    {
       "basename": "Feral Zombie",
       "path": "DnD/Shared Resources/Monsters/Feral Zombie.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "Hermes",
       "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Hermes.md"
-    },
-    {
-      "basename": "Hera",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Hera.md"
-    },
-    {
-      "basename": "Hephaestus",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Hephaestus.md"
-    },
-    {
-      "basename": "Hades",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Hades.md"
-    },
-    {
-      "basename": "Dionysus",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Dionysus.md"
-    },
-    {
-      "basename": "Demeter",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Demeter.md"
-    },
-    {
-      "basename": "Athena",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Athena.md"
-    },
-    {
-      "basename": "Artemis",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Artemis.md"
-    },
-    {
-      "basename": "Ares",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Ares.md"
-    },
-    {
-      "basename": "Apollo",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Apollo.md"
-    },
-    {
-      "basename": "Aphrodite",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Aphrodite.md"
     }
   ],
   "omittedPaths": [],

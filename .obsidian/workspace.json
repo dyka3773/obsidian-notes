@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "0c5fbc17cb84a8b9",
+            "id": "ff1ae255741af417",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -143,11 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dailies/2026-05-19.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2026-05-19"
             }
           },
           {
@@ -240,7 +241,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "29a106e995e55d1a",
@@ -339,12 +340,22 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "calendarium:Open Calendarium": false
+      "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "0c5fbc17cb84a8b9",
+  "active": "ff1ae255741af417",
   "lastOpenFiles": [
+    "DnD/Campaigns/Curse of Strahd/Death House/Reliquary.md",
+    "DnD/Shared Resources/Magic Items/Pre-existing/O/Orb of Time.md",
+    "DnD/Shared Resources/Magic Items/Pre-existing/R/Ruby of the War Mage.md",
+    "DnD/Shared Resources/Magic Items/Pre-existing/H/Hat of Vermin.md",
+    "DnD/Shared Resources/Magic Items/Pre-existing/P/Perfume of Bewitching.md",
+    "DnD/Shared Resources/Magic Items/Pre-existing/W/Walloping Ammunition.md",
+    "DnD/Shared Resources/Magic Items/Pre-existing/C/Clothes of Mending.md",
+    "DnD/Shared Resources/Magic Items/Pre-existing/V/Veteran_s Cane.md",
+    "DnD/Shared Resources/Magic Items/Pre-existing/S/Staff of Birdcalls.md",
+    "DnD/Shared Resources/Magic Items/Pre-existing/S/Smoldering Armor.md",
+    "DnD/Campaigns/Curse of Strahd/Death House",
     "Dailies/2026-05-19.md",
     "DnD/Shared Resources/Monsters/Feral Zombie.md",
     "DnD/Shared Resources/Monsters/Zombie Warrior.md",
@@ -365,15 +376,8 @@
     "DnD/Campaigns/Episodic - Island Explorers/Party",
     "DnD/Campaigns/Episodic - Island Explorers",
     "Dailies/2026-05-18.md",
-    "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
-    "DnD/Campaigns/Curse of Strahd/Party/Bonnie and Clod.md",
     "Laya.jpg",
     "Boney and Clod.png",
-    "DnD/Campaigns/Curse of Strahd/Party/Blorpo.md",
-    "DnD/Campaigns/Curse of Strahd/Curse of Strahd.md",
-    "DnD/Campaigns/Curse of Strahd/Party/Artemios.md",
-    "DnD/Campaigns/The Relic Race/The Relic Race.md",
-    "Dailies/2026-04-14.md",
     "DnD/Campaigns/Curse of Strahd",
     "DnD/Decks/Tarot/19-TheSun.png",
     "DnD/Decks/Tarot/18-TheMoon.png",
@@ -382,14 +386,10 @@
     "DnD/Decks/Tarot/14-Temperance.png",
     "DnD/Decks/Tarot/09-TheHermit.png",
     "DnD/Decks/Tarot/06-TheLovers.png",
-    "Dailies/2026-04-13.md",
-    "Dailies/2026-04-08.md",
-    "DnD/Campaigns/The Relic Race/NPCs/Nikos - Oathbound Guardian.md",
     "DnD/Shared Resources/Magic Items/Pre-existing/P",
     "DnD/Shared Resources/Magic Items/Pre-existing/O",
     "DnD/Shared Resources/Magic Items/Pre-existing/N",
     "DnD/Shared Resources/Magic Items/Pre-existing/M",
-    "DnD/Shared Resources/Magic Items/Pre-existing/L",
     "DnD/Decks/Tarot/02-TheHighPriestess.png"
   ]
 }
