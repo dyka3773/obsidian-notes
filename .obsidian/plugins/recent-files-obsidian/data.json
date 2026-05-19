@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-05-19",
+      "path": "Dailies/2026-05-19.md"
+    },
+    {
       "basename": "Feral Zombie",
       "path": "DnD/Shared Resources/Monsters/Feral Zombie.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Aphrodite",
       "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Aphrodite.md"
-    },
-    {
-      "basename": "Metis",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Metis.md"
     }
   ],
   "omittedPaths": [],
