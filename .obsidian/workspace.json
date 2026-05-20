@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "ff1ae255741af417",
+            "id": "f811c362798082db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2026-05-19.md",
+                "file": "Dailies/2026-05-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-19"
+              "title": "2026-05-20"
             }
           }
         ],
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dailies/2026-05-19.md",
+                "file": "Dailies/2026-05-20.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-05-19"
+              "title": "Outgoing links from 2026-05-20"
             }
           },
           {
@@ -340,11 +340,14 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "ff1ae255741af417",
+  "active": "f811c362798082db",
   "lastOpenFiles": [
+    "Dailies/2026-05-20.md",
+    "Dailies/2026-05-19.md",
     "DnD/Campaigns/Curse of Strahd/Death House/Reliquary.md",
     "DnD/Shared Resources/Magic Items/Pre-existing/O/Orb of Time.md",
     "DnD/Shared Resources/Magic Items/Pre-existing/R/Ruby of the War Mage.md",
@@ -356,7 +359,6 @@
     "DnD/Shared Resources/Magic Items/Pre-existing/S/Staff of Birdcalls.md",
     "DnD/Shared Resources/Magic Items/Pre-existing/S/Smoldering Armor.md",
     "DnD/Campaigns/Curse of Strahd/Death House",
-    "Dailies/2026-05-19.md",
     "DnD/Shared Resources/Monsters/Feral Zombie.md",
     "DnD/Shared Resources/Monsters/Zombie Warrior.md",
     "DnD/Shared Resources/Monsters/Zoblin Boss.md",
@@ -375,7 +377,6 @@
     "DnD/Campaigns/Curse of Strahd/Party/Valyria.md",
     "DnD/Campaigns/Episodic - Island Explorers/Party",
     "DnD/Campaigns/Episodic - Island Explorers",
-    "Dailies/2026-05-18.md",
     "Laya.jpg",
     "Boney and Clod.png",
     "DnD/Campaigns/Curse of Strahd",

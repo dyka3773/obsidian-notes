@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-05-20",
+      "path": "Dailies/2026-05-20.md"
+    },
+    {
       "basename": "2026-05-19",
       "path": "Dailies/2026-05-19.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Poseidon",
       "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Poseidon.md"
-    },
-    {
-      "basename": "Hermes",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Hermes.md"
     }
   ],
   "omittedPaths": [],
