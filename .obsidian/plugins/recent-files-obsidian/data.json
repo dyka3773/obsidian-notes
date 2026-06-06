@@ -1,32 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-05-23",
-      "path": "Dailies/2026-05-23.md"
-    },
-    {
-      "basename": "2026-05-20",
-      "path": "Dailies/2026-05-20.md"
-    },
-    {
-      "basename": "2026-05-19",
-      "path": "Dailies/2026-05-19.md"
+      "basename": "2026-06-06",
+      "path": "Dailies/2026-06-06.md"
     },
     {
       "basename": "Reliquary",
       "path": "DnD/Campaigns/Curse of Strahd/Death House/Reliquary.md"
     },
     {
-      "basename": "Orb of Time",
-      "path": "DnD/Shared Resources/Magic Items/Pre-existing/O/Orb of Time.md"
-    },
-    {
-      "basename": "Ruby of the War Mage",
-      "path": "DnD/Shared Resources/Magic Items/Pre-existing/R/Ruby of the War Mage.md"
-    },
-    {
       "basename": "Hat of Vermin",
       "path": "DnD/Shared Resources/Magic Items/Pre-existing/H/Hat of Vermin.md"
+    },
+    {
+      "basename": "Staff of Birdcalls",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/S/Staff of Birdcalls.md"
     },
     {
       "basename": "Perfume of Bewitching",
@@ -37,6 +25,26 @@
       "path": "DnD/Shared Resources/Magic Items/Pre-existing/W/Walloping Ammunition.md"
     },
     {
+      "basename": "Ersatz Eye",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/E/Ersatz Eye.md"
+    },
+    {
+      "basename": "Staff of Flowers",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/S/Staff of Flowers.md"
+    },
+    {
+      "basename": "Smoldering Armor",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/S/Smoldering Armor.md"
+    },
+    {
+      "basename": "Ruby of the War Mage",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/R/Ruby of the War Mage.md"
+    },
+    {
+      "basename": "Orb of Time",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/O/Orb of Time.md"
+    },
+    {
       "basename": "Clothes of Mending",
       "path": "DnD/Shared Resources/Magic Items/Pre-existing/C/Clothes of Mending.md"
     },
@@ -45,12 +53,16 @@
       "path": "DnD/Shared Resources/Magic Items/Pre-existing/V/Veteran_s Cane.md"
     },
     {
-      "basename": "Staff of Birdcalls",
-      "path": "DnD/Shared Resources/Magic Items/Pre-existing/S/Staff of Birdcalls.md"
+      "basename": "2026-05-23",
+      "path": "Dailies/2026-05-23.md"
     },
     {
-      "basename": "Smoldering Armor",
-      "path": "DnD/Shared Resources/Magic Items/Pre-existing/S/Smoldering Armor.md"
+      "basename": "2026-05-20",
+      "path": "Dailies/2026-05-20.md"
+    },
+    {
+      "basename": "2026-05-19",
+      "path": "Dailies/2026-05-19.md"
     },
     {
       "basename": "Feral Zombie",
@@ -187,18 +199,6 @@
     {
       "basename": "2026-04-04",
       "path": "Dailies/2026-04-04.md"
-    },
-    {
-      "basename": "2026-04-03",
-      "path": "Dailies/2026-04-03.md"
-    },
-    {
-      "basename": "Skouries & Chalkidiki",
-      "path": "DnD/Campaigns/The Relic Race/Locations/Skouries & Chalkidiki.md"
-    },
-    {
-      "basename": "Zeus",
-      "path": "DnD/Campaigns/The Relic Race/Setting/Deities/Titans/Children/Gods/Zeus.md"
     }
   ],
   "omittedPaths": [],
