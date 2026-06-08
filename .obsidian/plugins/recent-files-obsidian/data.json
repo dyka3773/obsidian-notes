@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-06-06",
-      "path": "Dailies/2026-06-06.md"
+      "basename": "2026-06-08",
+      "path": "Dailies/2026-06-08.md"
     },
     {
       "basename": "Reliquary",
       "path": "DnD/Campaigns/Curse of Strahd/Death House/Reliquary.md"
+    },
+    {
+      "basename": "Perfume of Bewitching",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/P/Perfume of Bewitching.md"
+    },
+    {
+      "basename": "Orb of Time",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/O/Orb of Time.md"
+    },
+    {
+      "basename": "2026-06-06",
+      "path": "Dailies/2026-06-06.md"
     },
     {
       "basename": "Hat of Vermin",
@@ -15,10 +27,6 @@
     {
       "basename": "Staff of Birdcalls",
       "path": "DnD/Shared Resources/Magic Items/Pre-existing/S/Staff of Birdcalls.md"
-    },
-    {
-      "basename": "Perfume of Bewitching",
-      "path": "DnD/Shared Resources/Magic Items/Pre-existing/P/Perfume of Bewitching.md"
     },
     {
       "basename": "Walloping Ammunition",
@@ -39,10 +47,6 @@
     {
       "basename": "Ruby of the War Mage",
       "path": "DnD/Shared Resources/Magic Items/Pre-existing/R/Ruby of the War Mage.md"
-    },
-    {
-      "basename": "Orb of Time",
-      "path": "DnD/Shared Resources/Magic Items/Pre-existing/O/Orb of Time.md"
     },
     {
       "basename": "Clothes of Mending",
@@ -195,10 +199,6 @@
     {
       "basename": "Known Relics",
       "path": "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md"
-    },
-    {
-      "basename": "2026-04-04",
-      "path": "Dailies/2026-04-04.md"
     }
   ],
   "omittedPaths": [],
