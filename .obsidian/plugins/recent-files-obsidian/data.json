@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-06-08",
-      "path": "Dailies/2026-06-08.md"
+      "basename": "2026-06-20",
+      "path": "Dailies/2026-06-20.md"
     },
     {
       "basename": "Reliquary",
       "path": "DnD/Campaigns/Curse of Strahd/Death House/Reliquary.md"
+    },
+    {
+      "basename": "2026-06-08",
+      "path": "Dailies/2026-06-08.md"
     },
     {
       "basename": "Perfume of Bewitching",
@@ -195,10 +199,6 @@
     {
       "basename": "Nikos - Oathbound Guardian",
       "path": "DnD/Campaigns/The Relic Race/NPCs/Nikos - Oathbound Guardian.md"
-    },
-    {
-      "basename": "Known Relics",
-      "path": "DnD/Campaigns/The Relic Race/Relics & Rumors/Known Relics.md"
     }
   ],
   "omittedPaths": [],
