@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-06-29",
+      "path": "Dailies/2026-06-29.md"
+    },
+    {
+      "basename": "Parsov",
+      "path": "DnD/Campaigns/Episodic - Island Explorers/NPCs/Parsov.md"
+    },
+    {
       "basename": "2026-06-27",
       "path": "Dailies/2026-06-27.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "Zoblin Boss",
       "path": "DnD/Shared Resources/Monsters/Zoblin Boss.md"
-    },
-    {
-      "basename": "Parsov",
-      "path": "DnD/Campaigns/Episodic - Island Explorers/NPCs/Parsov.md"
     },
     {
       "basename": "Zoblin",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-13",
       "path": "Dailies/2026-04-13.md"
-    },
-    {
-      "basename": "2026-04-08",
-      "path": "Dailies/2026-04-08.md"
     }
   ],
   "omittedPaths": [],
