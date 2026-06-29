@@ -5,8 +5,60 @@
       "path": "Dailies/2026-06-29.md"
     },
     {
+      "basename": "Modified Wand of True Polymorph",
+      "path": "DnD/Shared Resources/Magic Items/Modified Wand of True Polymorph.md"
+    },
+    {
+      "basename": "Bed Dragon Wyrmling",
+      "path": "DnD/Shared Resources/Monsters/Bed Dragon Wyrmling.md"
+    },
+    {
+      "basename": "Guz",
+      "path": "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs/Guz.md"
+    },
+    {
+      "basename": "Broom of Animated Attack",
+      "path": "DnD/Shared Resources/Monsters/Broom of Animated Attack.md"
+    },
+    {
+      "basename": "Ahmed Noke",
+      "path": "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs/Ahmed Noke.md"
+    },
+    {
       "basename": "Parsov",
-      "path": "DnD/Campaigns/Episodic - Island Explorers/NPCs/Parsov.md"
+      "path": "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence/NPCs/Parsov.md"
+    },
+    {
+      "basename": "Finethir Shinebright",
+      "path": "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs/Finethir Shinebright.md"
+    },
+    {
+      "basename": "Artemios",
+      "path": "DnD/Campaigns/Episodic - Island Explorers/Party/Artemios.md"
+    },
+    {
+      "basename": "Island Explorers",
+      "path": "DnD/Campaigns/Episodic - Island Explorers/Island Explorers.md"
+    },
+    {
+      "basename": "Rings of Telepathy",
+      "path": "DnD/Shared Resources/Magic Items/Rings of Telepathy.md"
+    },
+    {
+      "basename": "Plague Doctor’s Mask",
+      "path": "DnD/Shared Resources/Magic Items/Plague Doctor’s Mask.md"
+    },
+    {
+      "basename": "Parsov's Staff",
+      "path": "DnD/Shared Resources/Magic Items/Parsov's Staff.md"
+    },
+    {
+      "basename": "Cpt Rhak",
+      "path": "DnD/Campaigns/Episodic - Island Explorers/Party/Cpt Rhak.md"
+    },
+    {
+      "basename": "Phirdasi",
+      "path": "DnD/Campaigns/Episodic - Island Explorers/Party/Phirdasi.md"
     },
     {
       "basename": "2026-06-27",
@@ -101,22 +153,6 @@
       "path": "DnD/Shared Resources/Monsters/Zoblin.md"
     },
     {
-      "basename": "Plague Doctor’s Mask",
-      "path": "DnD/Shared Resources/Magic Items/Plague Doctor’s Mask.md"
-    },
-    {
-      "basename": "Parsov's Staff",
-      "path": "DnD/Shared Resources/Magic Items/Parsov's Staff.md"
-    },
-    {
-      "basename": "Rings of Telepathy",
-      "path": "DnD/Shared Resources/Magic Items/Rings of Telepathy.md"
-    },
-    {
-      "basename": "Island Explorers",
-      "path": "DnD/Campaigns/Episodic - Island Explorers/Island Explorers.md"
-    },
-    {
       "basename": "Laya's Eye",
       "path": "DnD/Shared Resources/Magic Items/Laya's Eye.md"
     },
@@ -141,10 +177,6 @@
       "path": "Dailies/2026-05-18.md"
     },
     {
-      "basename": "Broom of Animated Attack",
-      "path": "DnD/Shared Resources/Monsters/Broom of Animated Attack.md"
-    },
-    {
       "basename": "Bonnie and Clod",
       "path": "DnD/Campaigns/Curse of Strahd/Party/Bonnie and Clod.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "2026-04-14",
       "path": "Dailies/2026-04-14.md"
-    },
-    {
-      "basename": "19-TheSun",
-      "path": "DnD/Decks/Tarot/19-TheSun.png"
-    },
-    {
-      "basename": "18-TheMoon",
-      "path": "DnD/Decks/Tarot/18-TheMoon.png"
-    },
-    {
-      "basename": "11-Justice",
-      "path": "DnD/Decks/Tarot/11-Justice.png"
-    },
-    {
-      "basename": "04-TheEmperor",
-      "path": "DnD/Decks/Tarot/04-TheEmperor.png"
-    },
-    {
-      "basename": "14-Temperance",
-      "path": "DnD/Decks/Tarot/14-Temperance.png"
-    },
-    {
-      "basename": "09-TheHermit",
-      "path": "DnD/Decks/Tarot/09-TheHermit.png"
-    },
-    {
-      "basename": "06-TheLovers",
-      "path": "DnD/Decks/Tarot/06-TheLovers.png"
-    },
-    {
-      "basename": "2026-04-13",
-      "path": "Dailies/2026-04-13.md"
     }
   ],
   "omittedPaths": [],

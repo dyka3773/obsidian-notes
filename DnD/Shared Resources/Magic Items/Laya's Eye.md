@@ -9,7 +9,7 @@ item_type: Eye
 attunement_required: true
 ---
 ## Description
-A magical eye, forged by [[Artemios]] , worn by [[Laya]]. 
+A magical eye, forged by [[DnD/Campaigns/Curse of Strahd/Party/Artemios]] , worn by [[Laya]]. 
 
 ## Properties & Effects
 It grants the wearer the ability to perceive magic aura in spells and magical items, within 30ft of themselves, as if casting the [[Detect Magic]] spell but without being able to know more details about the magic they are seeing.

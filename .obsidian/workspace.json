@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "acfec9eb865dfd6f",
+            "id": "785dcbee0883c8d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -130,7 +130,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Campaigns/Episodic - Island Explorers/NPCs/Parsov.md",
+                "file": "Dailies/2026-06-29.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Parsov"
+              "title": "Outgoing links from 2026-06-29"
             }
           },
           {
@@ -320,7 +320,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 677.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -340,12 +340,29 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "calendarium:Open Calendarium": false
+      "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "acfec9eb865dfd6f",
+  "active": "785dcbee0883c8d0",
   "lastOpenFiles": [
+    "DnD/Shared Resources/Magic Items/Modified Wand of True Polymorph.md",
+    "DnD/Shared Resources/Monsters/Bed Dragon Wyrmling.md",
+    "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs/Guz.md",
+    "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
+    "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs/Ahmed Noke.md",
+    "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence/NPCs/Parsov.md",
+    "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs/Finethir Shinebright.md",
+    "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs",
+    "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase",
+    "DnD/Campaigns/Episodic - Island Explorers/Adventures",
+    "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence",
+    "DnD/Campaigns/Episodic - Island Explorers/Party/Artemios.md",
+    "DnD/Campaigns/Episodic - Island Explorers/Island Explorers.md",
+    "DnD/Shared Resources/Magic Items/Rings of Telepathy.md",
+    "DnD/Shared Resources/Magic Items/Plague Doctor’s Mask.md",
+    "DnD/Shared Resources/Magic Items/Parsov's Staff.md",
+    "DnD/Campaigns/Episodic - Island Explorers/Party/Cpt Rhak.md",
+    "DnD/Campaigns/Episodic - Island Explorers/Party/Phirdasi.md",
     "Dailies/2026-06-29.md",
     "Dailies/2026-06-27.md",
     "Dailies/2026-06-20.md",
@@ -358,22 +375,8 @@
     "DnD/Shared Resources/Magic Items/Pre-existing/S/Staff of Birdcalls.md",
     "DnD/Shared Resources/Magic Items/Pre-existing/W/Walloping Ammunition.md",
     "DnD/Shared Resources/Magic Items/Pre-existing/E/Ersatz Eye.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/S/Staff of Flowers.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/S/Smoldering Armor.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/R/Ruby of the War Mage.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/C/Clothes of Mending.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/V/Veteran_s Cane.md",
-    "Dailies/2026-05-23.md",
-    "Dailies/2026-05-20.md",
-    "Dailies/2026-05-19.md",
     "DnD/Campaigns/Curse of Strahd/Death House",
-    "DnD/Shared Resources/Monsters/Feral Zombie.md",
-    "DnD/Shared Resources/Monsters/Zombie Warrior.md",
-    "DnD/Shared Resources/Monsters/Zoblin Boss.md",
-    "DnD/Campaigns/Episodic - Island Explorers/NPCs/Parsov.md",
-    "DnD/Shared Resources/Monsters/Zoblin.md",
-    "DnD/Shared Resources/Magic Items/Plague Doctor’s Mask.md",
-    "DnD/Campaigns/Episodic - Island Explorers/NPCs",
+    "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence/NPCs",
     "DnD/Shared Resources/Magic Items/Pre-existing",
     "DnD/Campaigns/Episodic - Island Explorers/Party",
     "DnD/Campaigns/Episodic - Island Explorers",
@@ -387,10 +390,6 @@
     "DnD/Decks/Tarot/14-Temperance.png",
     "DnD/Decks/Tarot/09-TheHermit.png",
     "DnD/Decks/Tarot/06-TheLovers.png",
-    "DnD/Shared Resources/Magic Items/Pre-existing/P",
-    "DnD/Shared Resources/Magic Items/Pre-existing/O",
-    "DnD/Shared Resources/Magic Items/Pre-existing/N",
-    "DnD/Shared Resources/Magic Items/Pre-existing/M",
     "DnD/Decks/Tarot/02-TheHighPriestess.png"
   ]
 }

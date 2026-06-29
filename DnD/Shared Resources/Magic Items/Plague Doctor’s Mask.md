@@ -18,9 +18,6 @@ Once this feature has been used, it cannot be used again until the next dawn.
 
 ### Activation
 Attunement
-## Who Has It
-- **Current Owner**: [[Parsov]]
-- **Carrier**: ?
 
 ---
 **Campaign**: [[Island Explorers]]

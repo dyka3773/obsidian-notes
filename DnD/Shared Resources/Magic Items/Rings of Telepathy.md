@@ -15,9 +15,6 @@ Each creature attuned to one of these rings can communicate telepathically with 
 
 ### Activation
 Attunement
-## Who Has It
-- **Current Owner**: ?
-- **Carrier**: ?
 
 ---
 **Campaign**: [[Island Explorers]]

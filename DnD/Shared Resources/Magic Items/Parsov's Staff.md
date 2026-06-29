@@ -16,9 +16,6 @@ This staff has 7 charges and regains 1d6 + 1 expended charges daily at dawn. If 
 
 ### Activation
 Attunement
-## Who Has It
-- **Current Owner**: [[Parsov]]
-- **Carrier**: ?
 
 ---
 **Campaign**: [[Island Explorers]]
