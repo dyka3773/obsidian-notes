@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Fortunes Of Ravenloft",
+      "path": "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md"
+    },
+    {
+      "basename": "Holy Symbol of Ravenkind",
+      "path": "DnD/Shared Resources/Magic Items/Pre-existing/H/Holy Symbol of Ravenkind.md"
+    },
+    {
+      "basename": "Curse of Strahd",
+      "path": "DnD/Campaigns/Curse of Strahd/Curse of Strahd.md"
+    },
+    {
       "basename": "2026-07-01",
       "path": "Dailies/2026-07-01.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Blorpo",
       "path": "DnD/Campaigns/Curse of Strahd/Party/Blorpo.md"
-    },
-    {
-      "basename": "Curse of Strahd",
-      "path": "DnD/Campaigns/Curse of Strahd/Curse of Strahd.md"
-    },
-    {
-      "basename": "Artemios",
-      "path": "DnD/Campaigns/Curse of Strahd/Party/Artemios.md"
-    },
-    {
-      "basename": "The Relic Race",
-      "path": "DnD/Campaigns/The Relic Race/The Relic Race.md"
     }
   ],
   "omittedPaths": [],

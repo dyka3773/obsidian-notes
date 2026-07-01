@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "785dcbee0883c8d0",
+            "id": "8ab005e183063a52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2026-06-29.md",
+                "file": "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-29"
+              "title": "Fortunes Of Ravenloft"
             }
           }
         ],
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dailies/2026-06-29.md",
+                "file": "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-06-29"
+              "title": "Outgoing links from Fortunes Of Ravenloft"
             }
           },
           {
@@ -340,11 +340,17 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "785dcbee0883c8d0",
+  "active": "8ab005e183063a52",
   "lastOpenFiles": [
+    "DnD/Shared Resources/Magic Items/Pre-existing/H/Holy Symbol of Ravenkind.md",
+    "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md",
+    "DnD/Campaigns/Curse of Strahd/Curse of Strahd.md",
+    "Dailies/2026-07-01.md",
+    "Dailies/2026-06-29.md",
     "DnD/Shared Resources/Magic Items/Modified Wand of True Polymorph.md",
     "DnD/Shared Resources/Monsters/Bed Dragon Wyrmling.md",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs/Guz.md",
@@ -363,7 +369,6 @@
     "DnD/Shared Resources/Magic Items/Parsov's Staff.md",
     "DnD/Campaigns/Episodic - Island Explorers/Party/Cpt Rhak.md",
     "DnD/Campaigns/Episodic - Island Explorers/Party/Phirdasi.md",
-    "Dailies/2026-06-29.md",
     "Dailies/2026-06-27.md",
     "Dailies/2026-06-20.md",
     "DnD/Campaigns/Curse of Strahd/Death House/Reliquary.md",
@@ -371,10 +376,6 @@
     "DnD/Shared Resources/Magic Items/Pre-existing/P/Perfume of Bewitching.md",
     "DnD/Shared Resources/Magic Items/Pre-existing/O/Orb of Time.md",
     "Dailies/2026-06-06.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/H/Hat of Vermin.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/S/Staff of Birdcalls.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/W/Walloping Ammunition.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/E/Ersatz Eye.md",
     "DnD/Campaigns/Curse of Strahd/Death House",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence/NPCs",
     "DnD/Shared Resources/Magic Items/Pre-existing",
