@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-07-01",
+      "path": "Dailies/2026-07-01.md"
+    },
+    {
       "basename": "2026-06-29",
       "path": "Dailies/2026-06-29.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Relic Race",
       "path": "DnD/Campaigns/The Relic Race/The Relic Race.md"
-    },
-    {
-      "basename": "2026-04-14",
-      "path": "Dailies/2026-04-14.md"
     }
   ],
   "omittedPaths": [],
