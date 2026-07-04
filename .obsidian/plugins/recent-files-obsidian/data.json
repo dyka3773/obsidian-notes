@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-07-04",
+      "path": "Dailies/2026-07-04.md"
+    },
+    {
       "basename": "Fortunes Of Ravenloft",
       "path": "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Bonnie and Clod",
       "path": "DnD/Campaigns/Curse of Strahd/Party/Bonnie and Clod.md"
-    },
-    {
-      "basename": "Blorpo",
-      "path": "DnD/Campaigns/Curse of Strahd/Party/Blorpo.md"
     }
   ],
   "omittedPaths": [],

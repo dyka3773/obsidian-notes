@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md",
+                "file": "Dailies/2026-07-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fortunes Of Ravenloft"
+              "title": "2026-07-04"
             }
           }
         ],
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md",
+                "file": "Dailies/2026-07-04.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fortunes Of Ravenloft"
+              "title": "Outgoing links from 2026-07-04"
             }
           },
           {
@@ -346,8 +346,9 @@
   },
   "active": "8ab005e183063a52",
   "lastOpenFiles": [
-    "DnD/Shared Resources/Magic Items/Pre-existing/H/Holy Symbol of Ravenkind.md",
     "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md",
+    "Dailies/2026-07-04.md",
+    "DnD/Shared Resources/Magic Items/Pre-existing/H/Holy Symbol of Ravenkind.md",
     "DnD/Campaigns/Curse of Strahd/Curse of Strahd.md",
     "Dailies/2026-07-01.md",
     "Dailies/2026-06-29.md",
@@ -375,7 +376,6 @@
     "Dailies/2026-06-08.md",
     "DnD/Shared Resources/Magic Items/Pre-existing/P/Perfume of Bewitching.md",
     "DnD/Shared Resources/Magic Items/Pre-existing/O/Orb of Time.md",
-    "Dailies/2026-06-06.md",
     "DnD/Campaigns/Curse of Strahd/Death House",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence/NPCs",
     "DnD/Shared Resources/Magic Items/Pre-existing",
