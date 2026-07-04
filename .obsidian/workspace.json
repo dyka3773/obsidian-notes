@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2026-07-04.md",
+                "file": "Cooking/Recipes/Pastry/Tsoureki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -33,12 +33,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-04"
+              "title": "Tsoureki"
             }
           }
         ],
@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 360.5,
+    "collapsed": true
   },
   "right": {
     "id": "6200f5690b9571f0",
@@ -143,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dailies/2026-07-04.md",
+                "file": "Cooking/Recipes/Pastry/Tsoureki.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-07-04"
+              "title": "Outgoing links from Tsoureki"
             }
           },
           {
@@ -346,8 +347,8 @@
   },
   "active": "8ab005e183063a52",
   "lastOpenFiles": [
-    "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md",
     "Dailies/2026-07-04.md",
+    "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md",
     "DnD/Shared Resources/Magic Items/Pre-existing/H/Holy Symbol of Ravenkind.md",
     "DnD/Campaigns/Curse of Strahd/Curse of Strahd.md",
     "Dailies/2026-07-01.md",

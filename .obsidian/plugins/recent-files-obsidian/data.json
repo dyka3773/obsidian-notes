@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Tsoureki",
+      "path": "Cooking/Recipes/Pastry/Tsoureki.md"
+    },
+    {
       "basename": "2026-07-04",
       "path": "Dailies/2026-07-04.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-18",
       "path": "Dailies/2026-05-18.md"
-    },
-    {
-      "basename": "Bonnie and Clod",
-      "path": "DnD/Campaigns/Curse of Strahd/Party/Bonnie and Clod.md"
     }
   ],
   "omittedPaths": [],
