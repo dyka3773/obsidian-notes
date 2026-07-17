@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Adult Crystal Dragon",
+      "path": "DnD/Shared Resources/Monsters/Adult Crystal Dragon.md"
+    },
+    {
+      "basename": "Valyria",
+      "path": "DnD/Campaigns/Curse of Strahd/Party/Valyria.md"
+    },
+    {
+      "basename": "Bed Dragon Wyrmling",
+      "path": "DnD/Shared Resources/Monsters/Bed Dragon Wyrmling.md"
+    },
+    {
+      "basename": "2026-07-17",
+      "path": "Dailies/2026-07-17.md"
+    },
+    {
       "basename": "Tsoureki",
       "path": "Cooking/Recipes/Pastry/Tsoureki.md"
     },
@@ -31,10 +47,6 @@
     {
       "basename": "Modified Wand of True Polymorph",
       "path": "DnD/Shared Resources/Magic Items/Modified Wand of True Polymorph.md"
-    },
-    {
-      "basename": "Bed Dragon Wyrmling",
-      "path": "DnD/Shared Resources/Monsters/Bed Dragon Wyrmling.md"
     },
     {
       "basename": "Guz",
@@ -187,18 +199,6 @@
     {
       "basename": "The Drakofido",
       "path": "DnD/Shared Resources/Monsters/The Drakofido.md"
-    },
-    {
-      "basename": "Laya",
-      "path": "DnD/Campaigns/Curse of Strahd/Party/Laya.md"
-    },
-    {
-      "basename": "Valyria",
-      "path": "DnD/Campaigns/Curse of Strahd/Party/Valyria.md"
-    },
-    {
-      "basename": "2026-05-18",
-      "path": "Dailies/2026-05-18.md"
     }
   ],
   "omittedPaths": [],

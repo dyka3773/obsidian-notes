@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30aad5985cebaffc",
+            "id": "ad5961cc5892b4f3",
             "type": "leaf",
             "state": {
               "type": "fantasy-statblocks-creature-pane",
@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "8ab005e183063a52",
+            "id": "7f936fec9a537e37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking/Recipes/Pastry/Tsoureki.md",
+                "file": "DnD/Shared Resources/Monsters/Adult Crystal Dragon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -33,16 +33,15 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Tsoureki"
+              "title": "Adult Crystal Dragon"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "right": {
     "id": "6200f5690b9571f0",
@@ -144,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cooking/Recipes/Pastry/Tsoureki.md",
+                "file": "DnD/Shared Resources/Monsters/Adult Crystal Dragon.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tsoureki"
+              "title": "Outgoing links from Adult Crystal Dragon"
             }
           },
           {
@@ -321,7 +319,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 677.5
+    "width": 677.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -345,8 +344,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8ab005e183063a52",
+  "active": "ad5961cc5892b4f3",
   "lastOpenFiles": [
+    "DnD/Campaigns/Curse of Strahd/Party/Valyria.md",
+    "DnD/Shared Resources/Monsters/Adult Crystal Dragon.md",
+    "DnD/Shared Resources/Monsters/Bed Dragon Wyrmling.md",
+    "Dailies/2026-07-17.md",
+    "Cooking/Recipes/Pastry/Tsoureki.md",
     "Dailies/2026-07-04.md",
     "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md",
     "DnD/Shared Resources/Magic Items/Pre-existing/H/Holy Symbol of Ravenkind.md",
@@ -354,7 +358,6 @@
     "Dailies/2026-07-01.md",
     "Dailies/2026-06-29.md",
     "DnD/Shared Resources/Magic Items/Modified Wand of True Polymorph.md",
-    "DnD/Shared Resources/Monsters/Bed Dragon Wyrmling.md",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs/Guz.md",
     "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs/Ahmed Noke.md",
@@ -373,10 +376,6 @@
     "DnD/Campaigns/Episodic - Island Explorers/Party/Phirdasi.md",
     "Dailies/2026-06-27.md",
     "Dailies/2026-06-20.md",
-    "DnD/Campaigns/Curse of Strahd/Death House/Reliquary.md",
-    "Dailies/2026-06-08.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/P/Perfume of Bewitching.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/O/Orb of Time.md",
     "DnD/Campaigns/Curse of Strahd/Death House",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence/NPCs",
     "DnD/Shared Resources/Magic Items/Pre-existing",
