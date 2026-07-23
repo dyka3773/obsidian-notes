@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-07-23",
+      "path": "Dailies/2026-07-23.md"
+    },
+    {
       "basename": "Adult Crystal Dragon",
       "path": "DnD/Shared Resources/Monsters/Adult Crystal Dragon.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Decaying Zoblin",
       "path": "DnD/Shared Resources/Monsters/Decaying Zoblin.md"
-    },
-    {
-      "basename": "The Drakofido",
-      "path": "DnD/Shared Resources/Monsters/The Drakofido.md"
     }
   ],
   "omittedPaths": [],
