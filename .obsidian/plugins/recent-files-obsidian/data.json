@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-07-23",
-      "path": "Dailies/2026-07-23.md"
+      "basename": "2026-07-27",
+      "path": "Dailies/2026-07-27.md"
+    },
+    {
+      "basename": "Fortunes Of Ravenloft",
+      "path": "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md"
     },
     {
       "basename": "Adult Crystal Dragon",
       "path": "DnD/Shared Resources/Monsters/Adult Crystal Dragon.md"
+    },
+    {
+      "basename": "2026-07-23",
+      "path": "Dailies/2026-07-23.md"
     },
     {
       "basename": "Valyria",
@@ -27,10 +35,6 @@
     {
       "basename": "2026-07-04",
       "path": "Dailies/2026-07-04.md"
-    },
-    {
-      "basename": "Fortunes Of Ravenloft",
-      "path": "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md"
     },
     {
       "basename": "Holy Symbol of Ravenkind",
@@ -195,10 +199,6 @@
     {
       "basename": "Laya's Eye",
       "path": "DnD/Shared Resources/Magic Items/Laya's Eye.md"
-    },
-    {
-      "basename": "Decaying Zoblin",
-      "path": "DnD/Shared Resources/Monsters/Decaying Zoblin.md"
     }
   ],
   "omittedPaths": [],
