@@ -612,6 +612,54 @@
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Pixie",
+      {
+        "name": "Pixie",
+        "type": "Tiny Fey",
+        "alignment": "Neutral Good",
+        "ac": 15,
+        "hp": "9 (6d4 - 6)",
+        "speed": "10 ft, Fly 30ft",
+        "stats": [
+          2,
+          20,
+          8,
+          10,
+          14,
+          15
+        ],
+        "skillsaves": [
+          {
+            "perception": 4
+          },
+          {
+            "stealth": 7
+          }
+        ],
+        "senses": "passive Perception 14",
+        "languages": "Sylvan",
+        "cr": "1/4",
+        "traits": [
+          {
+            "name": "Magic Resistance",
+            "desc": "The pixie has Advantage on saving throws against spells and other magical effects"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Faerie Dust",
+            "desc": "Melee or Ranged Attack Roll: +4 to hit, reach 5ft, or range 60ft. Hit: 1 radiant damage and the target has the Charmed or Poisoned condition (pixie's choice) until the start of the pixie's next turn."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "The pixie casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (Spell save DC 12): - At Will: <STATBLOCK-WIKI-LINK>Dancing Lights<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Druidcraft<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Invisibility<STATBLOCK-WIKI-LINK> - 1/day each: <STATBLOCK-WIKI-LINK>Detect Thoughts<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Fly<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Sleep<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
     ]
   ],
   "defaultLayouts": {},
