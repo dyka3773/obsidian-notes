@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2026-07-28.md",
+                "file": "Cooking/Recipes/Pastry/Chocolate & Caramel Chip Cookies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-28"
+              "title": "Chocolate & Caramel Chip Cookies"
             }
           }
         ],
@@ -167,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Shared Resources/Monsters/Adult Crystal Dragon.md",
+                "file": "Cooking/Recipes/Pastry/Chocolate & Caramel Chip Cookies.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Adult Crystal Dragon"
+              "title": "Outgoing links from Chocolate & Caramel Chip Cookies"
             }
           },
           {
@@ -265,7 +265,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "29a106e995e55d1a",
@@ -344,8 +344,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 677.5,
-    "collapsed": true
+    "width": 677.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -369,12 +368,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a692c6bf3910978f",
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
+    "Dailies/2026-07-28.md",
+    "Cooking/Recipes/Pastry/Chocolate & Caramel Chip Cookies.md",
     "DnD/Shared Resources/Monsters/Feral Zombie.md",
     "DnD/Shared Resources/Monsters/Pixie.md",
     "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md",
-    "Dailies/2026-07-28.md",
     "Dailies/2026-07-27.md",
     "DnD/Shared Resources/Monsters/Adult Crystal Dragon.md",
     "Dailies/2026-07-23.md",
@@ -400,7 +400,6 @@
     "DnD/Campaigns/Episodic - Island Explorers/Party/Artemios.md",
     "DnD/Campaigns/Episodic - Island Explorers/Island Explorers.md",
     "DnD/Shared Resources/Magic Items/Rings of Telepathy.md",
-    "DnD/Shared Resources/Magic Items/Plague Doctor’s Mask.md",
     "DnD/Campaigns/Curse of Strahd/Death House",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence/NPCs",
     "DnD/Shared Resources/Magic Items/Pre-existing",

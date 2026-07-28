@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Chocolate & Caramel Chip Cookies",
+      "path": "Cooking/Recipes/Pastry/Chocolate & Caramel Chip Cookies.md"
+    },
+    {
       "basename": "2026-07-28",
       "path": "Dailies/2026-07-28.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Zombie Warrior",
       "path": "DnD/Shared Resources/Monsters/Zombie Warrior.md"
-    },
-    {
-      "basename": "Zoblin Boss",
-      "path": "DnD/Shared Resources/Monsters/Zoblin Boss.md"
     }
   ],
   "omittedPaths": [],
