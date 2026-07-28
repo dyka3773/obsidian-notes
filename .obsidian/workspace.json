@@ -42,12 +42,12 @@
             }
           },
           {
-            "id": "70284ee9ba4be6e6",
+            "id": "2b993142d9e48fac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2026-07-27.md",
+                "file": "Dailies/2026-07-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-27"
+              "title": "2026-07-28"
             }
           }
         ],
@@ -369,8 +369,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "70284ee9ba4be6e6",
+  "active": "2b993142d9e48fac",
   "lastOpenFiles": [
+    "Dailies/2026-07-28.md",
     "Dailies/2026-07-27.md",
     "DnD/Shared Resources/Monsters/Adult Crystal Dragon.md",
     "Dailies/2026-07-23.md",
@@ -400,7 +401,6 @@
     "DnD/Shared Resources/Magic Items/Plague Doctor’s Mask.md",
     "DnD/Shared Resources/Magic Items/Parsov's Staff.md",
     "DnD/Campaigns/Episodic - Island Explorers/Party/Cpt Rhak.md",
-    "DnD/Campaigns/Episodic - Island Explorers/Party/Phirdasi.md",
     "DnD/Campaigns/Curse of Strahd/Death House",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence/NPCs",
     "DnD/Shared Resources/Magic Items/Pre-existing",

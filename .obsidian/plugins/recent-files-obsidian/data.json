@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-07-27",
-      "path": "Dailies/2026-07-27.md"
+      "basename": "2026-07-28",
+      "path": "Dailies/2026-07-28.md"
     },
     {
       "basename": "Fortunes Of Ravenloft",
       "path": "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md"
+    },
+    {
+      "basename": "2026-07-27",
+      "path": "Dailies/2026-07-27.md"
     },
     {
       "basename": "Adult Crystal Dragon",
@@ -195,10 +199,6 @@
     {
       "basename": "Zoblin",
       "path": "DnD/Shared Resources/Monsters/Zoblin.md"
-    },
-    {
-      "basename": "Laya's Eye",
-      "path": "DnD/Shared Resources/Magic Items/Laya's Eye.md"
     }
   ],
   "omittedPaths": [],
