@@ -42,12 +42,12 @@
             }
           },
           {
-            "id": "f63d14cb8204124c",
+            "id": "a692c6bf3910978f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Shared Resources/Monsters/Pixie.md",
+                "file": "Dailies/2026-07-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,10 +62,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pixie"
+              "title": "2026-07-28"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -368,7 +369,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ad5961cc5892b4f3",
+  "active": "a692c6bf3910978f",
   "lastOpenFiles": [
     "DnD/Shared Resources/Monsters/Feral Zombie.md",
     "DnD/Shared Resources/Monsters/Pixie.md",
