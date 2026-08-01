@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking/Recipes/Pastry/Chocolate & Caramel Chip Cookies.md",
+                "file": "Dailies/2026-08-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chocolate & Caramel Chip Cookies"
+              "title": "2026-08-01"
             }
           }
         ],
@@ -368,10 +368,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "a692c6bf3910978f",
   "lastOpenFiles": [
-    "Dailies/2026-07-28.md",
     "Cooking/Recipes/Pastry/Chocolate & Caramel Chip Cookies.md",
+    "Dailies/2026-08-01.md",
+    "Dailies/2026-07-28.md",
     "DnD/Shared Resources/Monsters/Feral Zombie.md",
     "DnD/Shared Resources/Monsters/Pixie.md",
     "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md",
@@ -399,7 +400,6 @@
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence",
     "DnD/Campaigns/Episodic - Island Explorers/Party/Artemios.md",
     "DnD/Campaigns/Episodic - Island Explorers/Island Explorers.md",
-    "DnD/Shared Resources/Magic Items/Rings of Telepathy.md",
     "DnD/Campaigns/Curse of Strahd/Death House",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence/NPCs",
     "DnD/Shared Resources/Magic Items/Pre-existing",
