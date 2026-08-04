@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-08-04",
+      "path": "Dailies/2026-08-04.md"
+    },
+    {
+      "basename": "Fortunes Of Ravenloft",
+      "path": "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md"
+    },
+    {
       "basename": "2026-08-01",
       "path": "Dailies/2026-08-01.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Feral Zombie",
       "path": "DnD/Shared Resources/Monsters/Feral Zombie.md"
-    },
-    {
-      "basename": "Fortunes Of Ravenloft",
-      "path": "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md"
     },
     {
       "basename": "2026-07-27",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-20",
       "path": "Dailies/2026-05-20.md"
-    },
-    {
-      "basename": "2026-05-19",
-      "path": "Dailies/2026-05-19.md"
     }
   ],
   "omittedPaths": [],

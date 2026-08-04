@@ -42,12 +42,12 @@
             }
           },
           {
-            "id": "a692c6bf3910978f",
+            "id": "dfe1ec4df6508987",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2026-08-01.md",
+                "file": "Dailies/2026-08-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,11 +62,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-01"
+              "title": "2026-08-04"
+            }
+          },
+          {
+            "id": "51ead5817d3fa5a2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -368,10 +382,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a692c6bf3910978f",
+  "active": "51ead5817d3fa5a2",
   "lastOpenFiles": [
-    "Cooking/Recipes/Pastry/Chocolate & Caramel Chip Cookies.md",
+    "Dailies/2026-08-04.md",
     "Dailies/2026-08-01.md",
+    "Cooking/Recipes/Pastry/Chocolate & Caramel Chip Cookies.md",
     "Dailies/2026-07-28.md",
     "DnD/Shared Resources/Monsters/Feral Zombie.md",
     "DnD/Shared Resources/Monsters/Pixie.md",
@@ -399,7 +414,6 @@
     "DnD/Campaigns/Episodic - Island Explorers/Adventures",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence",
     "DnD/Campaigns/Episodic - Island Explorers/Party/Artemios.md",
-    "DnD/Campaigns/Episodic - Island Explorers/Island Explorers.md",
     "DnD/Campaigns/Curse of Strahd/Death House",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence/NPCs",
     "DnD/Shared Resources/Magic Items/Pre-existing",
