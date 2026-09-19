@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-09-19",
+      "path": "Dailies/2026-09-19.md"
+    },
+    {
       "basename": "Fortunes Of Ravenloft",
       "path": "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Veteran_s Cane",
       "path": "DnD/Shared Resources/Magic Items/Pre-existing/V/Veteran_s Cane.md"
-    },
-    {
-      "basename": "2026-05-23",
-      "path": "Dailies/2026-05-23.md"
     }
   ],
   "omittedPaths": [],

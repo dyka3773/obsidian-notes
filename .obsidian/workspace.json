@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "aebfba9e72eabe3b",
+            "id": "74183d79d515b534",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md",
+                "file": "Dailies/2026-09-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,31 +38,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fortunes Of Ravenloft"
+              "title": "2026-09-19"
             }
           },
           {
-            "id": "5e627105827a53c0",
+            "id": "17cfeb95123aea64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Dailies/2026-08-10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "currentVersion": "1.13.6"
               },
-              "icon": "lucide-file",
-              "title": "2026-08-10"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.6"
             }
           }
         ],
@@ -371,8 +359,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5e627105827a53c0",
+  "active": "17cfeb95123aea64",
   "lastOpenFiles": [
+    "Dailies/2026-09-19.md",
+    "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md",
     "Dailies/2026-08-10.md",
     "Dailies/2026-08-04.md",
     "Dailies/2026-08-01.md",
@@ -380,7 +370,6 @@
     "Dailies/2026-07-28.md",
     "DnD/Shared Resources/Monsters/Feral Zombie.md",
     "DnD/Shared Resources/Monsters/Pixie.md",
-    "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md",
     "Dailies/2026-07-27.md",
     "DnD/Shared Resources/Monsters/Adult Crystal Dragon.md",
     "Dailies/2026-07-23.md",
@@ -398,7 +387,6 @@
     "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs/Ahmed Noke.md",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence/NPCs/Parsov.md",
-    "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs/Finethir Shinebright.md",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures",
