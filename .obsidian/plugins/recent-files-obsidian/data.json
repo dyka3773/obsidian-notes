@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Planar Rain",
+      "path": "DnD/Campaigns/Episodic - Island Explorers/Adventures/3. Planar Rain/Planar Rain.md"
+    },
+    {
       "basename": "2026-09-25",
       "path": "Dailies/2026-09-25.md"
     },
@@ -94,7 +98,7 @@
     },
     {
       "basename": "Guz",
-      "path": "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs/Guz.md"
+      "path": "DnD/Campaigns/Episodic - Island Explorers/Adventures/_. Wild Sheep Chase/NPCs/Guz.md"
     },
     {
       "basename": "Broom of Animated Attack",
@@ -102,7 +106,7 @@
     },
     {
       "basename": "Ahmed Noke",
-      "path": "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs/Ahmed Noke.md"
+      "path": "DnD/Campaigns/Episodic - Island Explorers/Adventures/_. Wild Sheep Chase/NPCs/Ahmed Noke.md"
     },
     {
       "basename": "Parsov",
@@ -110,7 +114,7 @@
     },
     {
       "basename": "Finethir Shinebright",
-      "path": "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs/Finethir Shinebright.md"
+      "path": "DnD/Campaigns/Episodic - Island Explorers/Adventures/_. Wild Sheep Chase/NPCs/Finethir Shinebright.md"
     },
     {
       "basename": "Artemios",
@@ -195,10 +199,6 @@
     {
       "basename": "Ruby of the War Mage",
       "path": "DnD/Shared Resources/Magic Items/Pre-existing/R/Ruby of the War Mage.md"
-    },
-    {
-      "basename": "Clothes of Mending",
-      "path": "DnD/Shared Resources/Magic Items/Pre-existing/C/Clothes of Mending.md"
     }
   ],
   "omittedPaths": [],
