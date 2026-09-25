@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "74183d79d515b534",
+            "id": "3b5f54f4eadee9a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2026-09-19.md",
+                "file": "Dailies/2026-09-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,19 +38,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-09-19"
+              "title": "2026-09-25"
             }
           },
           {
-            "id": "17cfeb95123aea64",
+            "id": "f73da2e73cb13168",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.13.6"
+                "currentVersion": "1.13.7"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.6"
+              "title": "Release Notes 1.13.7"
             }
           }
         ],
@@ -359,8 +359,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "17cfeb95123aea64",
+  "active": "f73da2e73cb13168",
   "lastOpenFiles": [
+    "Dailies/2026-09-25.md",
     "Dailies/2026-09-19.md",
     "DnD/Campaigns/Curse of Strahd/Fortunes Of Ravenloft.md",
     "Dailies/2026-08-10.md",
@@ -386,7 +387,6 @@
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs/Guz.md",
     "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs/Ahmed Noke.md",
-    "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence/NPCs/Parsov.md",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase/NPCs",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Wild Sheep Chase",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures",
