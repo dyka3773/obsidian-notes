@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Pistol of Trick Shots",
+      "path": "DnD/Shared Resources/Magic Items/Pistol of Trick Shots.md"
+    },
+    {
+      "basename": "Moonsilk Bracelet",
+      "path": "DnD/Shared Resources/Magic Items/Moonsilk Bracelet.md"
+    },
+    {
       "basename": "Planar Rain",
       "path": "DnD/Campaigns/Episodic - Island Explorers/Adventures/3. Planar Rain/Planar Rain.md"
+    },
+    {
+      "basename": "Parsov's Staff",
+      "path": "DnD/Shared Resources/Magic Items/Parsov's Staff.md"
+    },
+    {
+      "basename": "Modified Wand of True Polymorph",
+      "path": "DnD/Shared Resources/Magic Items/Modified Wand of True Polymorph.md"
     },
     {
       "basename": "2026-09-25",
@@ -93,10 +109,6 @@
       "path": "Dailies/2026-06-29.md"
     },
     {
-      "basename": "Modified Wand of True Polymorph",
-      "path": "DnD/Shared Resources/Magic Items/Modified Wand of True Polymorph.md"
-    },
-    {
       "basename": "Guz",
       "path": "DnD/Campaigns/Episodic - Island Explorers/Adventures/_. Wild Sheep Chase/NPCs/Guz.md"
     },
@@ -131,10 +143,6 @@
     {
       "basename": "Plague Doctor’s Mask",
       "path": "DnD/Shared Resources/Magic Items/Plague Doctor’s Mask.md"
-    },
-    {
-      "basename": "Parsov's Staff",
-      "path": "DnD/Shared Resources/Magic Items/Parsov's Staff.md"
     },
     {
       "basename": "Cpt Rhak",
@@ -191,14 +199,6 @@
     {
       "basename": "Staff of Flowers",
       "path": "DnD/Shared Resources/Magic Items/Pre-existing/S/Staff of Flowers.md"
-    },
-    {
-      "basename": "Smoldering Armor",
-      "path": "DnD/Shared Resources/Magic Items/Pre-existing/S/Smoldering Armor.md"
-    },
-    {
-      "basename": "Ruby of the War Mage",
-      "path": "DnD/Shared Resources/Magic Items/Pre-existing/R/Ruby of the War Mage.md"
     }
   ],
   "omittedPaths": [],

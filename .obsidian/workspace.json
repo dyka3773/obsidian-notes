@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "5d4710fb12136b76",
+            "id": "6e533539b82c54b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Campaigns/Episodic - Island Explorers/Adventures/3. Planar Rain/Planar Rain.md",
+                "file": "DnD/Shared Resources/Magic Items/Pistol of Trick Shots.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Planar Rain"
+              "title": "Pistol of Trick Shots"
+            }
+          },
+          {
+            "id": "a7aaff782b4ca9bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Shared Resources/Magic Items/Moonsilk Bracelet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Moonsilk Bracelet"
             }
           }
         ],
@@ -127,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DnD/Shared Resources/Magic Items/Pistol of Trick Shots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cooking/Recipes/Pastry/Chocolate & Caramel Chip Cookies.md",
+                "file": "DnD/Shared Resources/Magic Items/Pistol of Trick Shots.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chocolate & Caramel Chip Cookies"
+              "title": "Outgoing links"
             }
           },
           {
@@ -243,7 +268,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "29a106e995e55d1a",
@@ -255,6 +280,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "DnD/Shared Resources/Magic Items/Pistol of Trick Shots.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,7 +330,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Local graph"
             }
           },
           {
@@ -346,9 +372,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5d4710fb12136b76",
+  "active": "6e533539b82c54b0",
   "lastOpenFiles": [
+    "DnD/Shared Resources/Magic Items/Moonsilk Bracelet.md",
+    "DnD/Shared Resources/Magic Items/Pistol of Trick Shots.md",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/3. Planar Rain/Planar Rain.md",
+    "DnD/Shared Resources/Magic Items/Parsov's Staff.md",
+    "Moonsilk Bracelet.png",
+    "DnD/Shared Resources/Magic Items/Modified Wand of True Polymorph.md",
+    "DnD/Campaigns/Episodic - Island Explorers/Adventures/3. Planar Rain/Monsters",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/3. Planar Rain",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/2. Baker's Doesn't",
     "Dailies/2026-09-25.md",
@@ -372,10 +404,6 @@
     "DnD/Shared Resources/Magic Items/Pre-existing/H/Holy Symbol of Ravenkind.md",
     "DnD/Campaigns/Curse of Strahd/Curse of Strahd.md",
     "Dailies/2026-07-01.md",
-    "Dailies/2026-06-29.md",
-    "DnD/Shared Resources/Magic Items/Modified Wand of True Polymorph.md",
-    "DnD/Campaigns/Episodic - Island Explorers/Adventures/_. Wild Sheep Chase/NPCs/Guz.md",
-    "DnD/Shared Resources/Monsters/Broom of Animated Attack.md",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/_. Wild Sheep Chase/NPCs",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/_. Wild Sheep Chase",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures",
@@ -383,7 +411,6 @@
     "DnD/Campaigns/Curse of Strahd/Death House",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence/NPCs",
     "DnD/Shared Resources/Magic Items/Pre-existing",
-    "DnD/Campaigns/Episodic - Island Explorers/Party",
     "Laya.jpg",
     "Boney and Clod.png",
     "DnD/Decks/Tarot/19-TheSun.png",
@@ -392,7 +419,6 @@
     "DnD/Decks/Tarot/04-TheEmperor.png",
     "DnD/Decks/Tarot/14-Temperance.png",
     "DnD/Decks/Tarot/09-TheHermit.png",
-    "DnD/Decks/Tarot/06-TheLovers.png",
-    "DnD/Decks/Tarot/02-TheHighPriestess.png"
+    "DnD/Decks/Tarot/06-TheLovers.png"
   ]
 }
