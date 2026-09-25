@@ -37,7 +37,7 @@ Nikos starts with warning and inquiry, not immediate combat.
 ### Questions Nikos asks the party
 1. Who sent you?
 2. What will they do with it when you are gone?
-3. If they [[command]] armies with it, who stops them?
+3. If they [[Command]] armies with it, who stops them?
 If answers are thoughtful, he negotiates. If answers are evasive or arrogant, he escalates.
 ## Resolution Modes
 

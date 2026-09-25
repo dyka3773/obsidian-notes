@@ -4,7 +4,7 @@ tags:
 aliases:
   - Dias
 ---
-Symbols: eagle, [[lightning bolt]], lotus staff
+Symbols: eagle, [[Lightning Bolt]], lotus staff
 
 - Leader of the Olympians, god of thunder, sky, kingship, and justice.
 - He fathered many gods and mortal heroes on many different women (some immortal, some not), much to the annoyance of his queen [[Hera]]

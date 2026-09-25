@@ -128,5 +128,5 @@ Enemies:
 #### Scrolls
 - Scroll of [[Air Bubble]]
 - [[Moonsilk Bracelet]] (Wondrous Item)
-- Pistol of Trick Shots (Wondrous Item)
-- 
+- [[Pistol of Trick Shots]] (Wondrous Item)
+- [[Dragon Vessel]], Rare (Wondrous Item)

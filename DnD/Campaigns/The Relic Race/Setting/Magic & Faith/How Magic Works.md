@@ -23,7 +23,7 @@ Think of magic like **PhDs in the real world**:
 **In practical terms**:
 - **90-95% of people can't cast a cantrip**
 - **Every city has priests** (divine magic)
-- **Oracles are respected** ([[divination]] is valuable)
+- **Oracles are respected** ([[Divination]] is valuable)
 - **Noble courts employ a mage** (the *one* mage they can afford)
 - **Sailors believe in sea curses** (folklore rooted in truth)
 
@@ -134,7 +134,7 @@ Warlocks hide their power or lie about its source.
 **They Don't See**:
 - Fireballs exploding in streets
 - Daily magical conveniences (no magic refrigerators)
-- Teleportation or [[resurrection]] (those are *legends*)
+- Teleportation or [[Resurrection]] (those are *legends*)
 **What They Believe**:
 - Curses are real (sailors refuse to anger sea gods)
 - Ghosts exist (ancient ruins are haunted)
@@ -191,7 +191,7 @@ Warlocks hide their power or lie about its source.
 
 **Beliefs**: 
 - One God (radical in a polytheistic world)
-- Salvation, [[resurrection]], eternal life
+- Salvation, [[Resurrection]], eternal life
 
 **Cultural Position**:
 - Viewed as eccentric but harmless

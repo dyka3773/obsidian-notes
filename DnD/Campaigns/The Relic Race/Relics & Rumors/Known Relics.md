@@ -65,7 +65,7 @@ These are **not** fully designed yet. Create stats when the party pursues them.
 - In the possession of a Greek hero's descendant
 
 **Possible Powers**:
-- +3 shield, grants [[resistance]] to all damage types (for 1 minute, once per day)
+- +3 shield, grants [[Resistance]] to all damage types (for 1 minute, once per day)
 - **Reflection**: Spells targeting you can be reflected back at the caster
 - **Cosmic Awareness**: Once per day, ask a question about the world (like *[[Legend Lore]]*)
 
@@ -125,7 +125,7 @@ Sailors report an island that "wasn't there before." An oracle says [[Poseidon]]
 **Possible Powers**:
 - **Healing**: Creatures within 10 feet of the Fleece regain 1d6 HP at the start of their turn
 - **Legitimacy**: Advantage on Persuasion checks when negotiating with nobles/leaders
-- **Protection**: Grants [[resistance]] to fire and poison
+- **Protection**: Grants [[Resistance]] to fire and poison
 
 **Adventure Hook**: 
 A merchant claims to have seen the Fleece in a dragon's hoard. The party must decide: fight the dragon or negotiate?

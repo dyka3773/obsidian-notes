@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "6e533539b82c54b0",
+            "id": "a0c6f40babcfc1f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Shared Resources/Magic Items/Pistol of Trick Shots.md",
+                "file": "DnD/Shared Resources/Spells/Air Bubble.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,31 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pistol of Trick Shots"
-            }
-          },
-          {
-            "id": "a7aaff782b4ca9bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Shared Resources/Magic Items/Moonsilk Bracelet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Moonsilk Bracelet"
+              "title": "Air Bubble"
             }
           }
         ],
@@ -151,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Shared Resources/Magic Items/Pistol of Trick Shots.md",
+                "file": "DnD/Shared Resources/Spells/Air Bubble.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,8 +146,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Shared Resources/Magic Items/Pistol of Trick Shots.md",
-                "linksCollapsed": true,
+                "file": "DnD/Shared Resources/Spells/Air Bubble.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
@@ -268,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "29a106e995e55d1a",
@@ -280,7 +256,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DnD/Shared Resources/Magic Items/Pistol of Trick Shots.md",
+                "file": "DnD/Shared Resources/Spells/Air Bubble.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -372,11 +348,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6e533539b82c54b0",
+  "active": "069f6dacbcb4e8cc",
   "lastOpenFiles": [
+    "DnD/Shared Resources/Spells/Pre-existing/A/Abi-Dalzim’s Horrid Wilting.md",
+    "DnD/Shared Resources/Spells/Air Bubble.md",
+    "DnD/Shared Resources/Spells/Pre-existing/A/Absorb Elements.md",
     "DnD/Shared Resources/Magic Items/Moonsilk Bracelet.md",
-    "DnD/Shared Resources/Magic Items/Pistol of Trick Shots.md",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/3. Planar Rain/Planar Rain.md",
+    "DnD/Shared Resources/Spells/Pre-existing",
+    "DnD/Shared Resources/Magic Items/Pistol of Trick Shots.md",
     "DnD/Shared Resources/Magic Items/Parsov's Staff.md",
     "Moonsilk Bracelet.png",
     "DnD/Shared Resources/Magic Items/Modified Wand of True Polymorph.md",
@@ -401,16 +381,12 @@
     "Dailies/2026-07-17.md",
     "Cooking/Recipes/Pastry/Tsoureki.md",
     "Dailies/2026-07-04.md",
-    "DnD/Shared Resources/Magic Items/Pre-existing/H/Holy Symbol of Ravenkind.md",
-    "DnD/Campaigns/Curse of Strahd/Curse of Strahd.md",
-    "Dailies/2026-07-01.md",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/_. Wild Sheep Chase/NPCs",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/_. Wild Sheep Chase",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence",
     "DnD/Campaigns/Curse of Strahd/Death House",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/1. Zoblin Occurence/NPCs",
-    "DnD/Shared Resources/Magic Items/Pre-existing",
     "Laya.jpg",
     "Boney and Clod.png",
     "DnD/Decks/Tarot/19-TheSun.png",

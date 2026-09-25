@@ -60,7 +60,7 @@ The party's starting location and primary base of operations.
 **Features**:
 - Temples to the Twelve Olympians ([[Zeus]], [[Athena]], [[Apollo]] most prominent)
 - [[Church of St. Dimitrios]] (Christian minority temple, where the one-shot started)
-- Oracle's shrine ([[divination]] services for a price)
+- Oracle's shrine ([[Divination]] services for a price)
 - Priest housing and religious schools
 
 **Key Locations**:

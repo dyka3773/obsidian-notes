@@ -90,7 +90,7 @@ Legendary Actions (3/turn if combat begins):
 
 [[Nikos - Oathbound Guardian]]'s Response** (Insight DC 12 to sense he's telling the truth):
 If the party approaches with respect and curiosity:
-> "I am [[Nikos - Oathbound Guardian]], and I have walked this earth for 150 years, bound by an oath my ancestor swore. Alexander's general hid this crown, knowing its power would corrupt any who wielded it. It grants dominion, the ability to [[command]] armies and bend minds."
+> "I am [[Nikos - Oathbound Guardian]], and I have walked this earth for 150 years, bound by an oath my ancestor swore. Alexander's general hid this crown, knowing its power would corrupt any who wielded it. It grants dominion, the ability to [[Command]] armies and bend minds."
 >
 > "Whoever sent you... seeks to use it. I can feel the darkness approaching. A religious leader, yes? I have sensed him scheming for months. He plans something terrible."
 
@@ -121,7 +121,7 @@ If the party proves they want to stop the High Priest:
 
 **[[The Crown of Kings| The Crown]]'s Power**:
 - It belonged to Alexander
-- It grants absolute dominion over others' minds ([[command]] armies, control individuals, reshape perceptions)
+- It grants absolute dominion over others' minds ([[Command]] armies, control individuals, reshape perceptions)
 - It's also a burden. Wearing it corrupts the user, slowly driving them mad
 - Alexander himself was corrupted by it before he died
 

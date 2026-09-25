@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Pistol of Trick Shots",
-      "path": "DnD/Shared Resources/Magic Items/Pistol of Trick Shots.md"
+      "basename": "Air Bubble",
+      "path": "DnD/Shared Resources/Spells/Air Bubble.md"
+    },
+    {
+      "basename": "Abi-Dalzim’s Horrid Wilting",
+      "path": "DnD/Shared Resources/Spells/Pre-existing/A/Abi-Dalzim’s Horrid Wilting.md"
+    },
+    {
+      "basename": "Absorb Elements",
+      "path": "DnD/Shared Resources/Spells/Pre-existing/A/Absorb Elements.md"
     },
     {
       "basename": "Moonsilk Bracelet",
@@ -11,6 +19,10 @@
     {
       "basename": "Planar Rain",
       "path": "DnD/Campaigns/Episodic - Island Explorers/Adventures/3. Planar Rain/Planar Rain.md"
+    },
+    {
+      "basename": "Pistol of Trick Shots",
+      "path": "DnD/Shared Resources/Magic Items/Pistol of Trick Shots.md"
     },
     {
       "basename": "Parsov's Staff",
@@ -187,18 +199,6 @@
     {
       "basename": "Staff of Birdcalls",
       "path": "DnD/Shared Resources/Magic Items/Pre-existing/S/Staff of Birdcalls.md"
-    },
-    {
-      "basename": "Walloping Ammunition",
-      "path": "DnD/Shared Resources/Magic Items/Pre-existing/W/Walloping Ammunition.md"
-    },
-    {
-      "basename": "Ersatz Eye",
-      "path": "DnD/Shared Resources/Magic Items/Pre-existing/E/Ersatz Eye.md"
-    },
-    {
-      "basename": "Staff of Flowers",
-      "path": "DnD/Shared Resources/Magic Items/Pre-existing/S/Staff of Flowers.md"
     }
   ],
   "omittedPaths": [],

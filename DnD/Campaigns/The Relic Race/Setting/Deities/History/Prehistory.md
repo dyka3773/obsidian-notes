@@ -9,7 +9,7 @@ Her next three children were the one-eyed cyclopes, ugly in form but gifted in s
 Her next three children were even more monstrous—the hecatoncheires, fifty-headed and hundred-armed.
 [[Uranos]] looked upon the cyclopes and hecatoncheires with disgust and hurled them into Tartarus, the deepest pit under the earth. 
 [[Gaea]] was saddened at [[Uranos]]’ behavior, for she loved all of her children, and presented a sickle made of flint to the titans, asking them to make an end to [[Uranos]].
-[[Cronus]], the youngest but strongest titan, overcame his [[fear]] and attacked his father, castrating him and leaving him powerless. 
+[[Cronus]], the youngest but strongest titan, overcame his [[Fear]] and attacked his father, castrating him and leaving him powerless. 
 [[Cronus]] threw his father’s genitals into the sea and became the new lord of the universe. He le� the cyclopes and hecatoncheires in Tartarus, and this angered [[Gaea]]. 
 She plotted against [[Cronus]] just as she had against his father, knowing that one of [[Cronus]]’ sons would be stronger than [[Cronus]] just as the titan was stronger than his own father. 
 [[Cronus]] knew this truth, too, so every time his wife [[Rhea]] gave birth, he swallowed the child.

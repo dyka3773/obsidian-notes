@@ -120,7 +120,7 @@ If you want to add complexity without combat, there might be **magical wards**:
 **Ways to solve**:
 - Disarm them (Arcana check DC 15)
 - Go around them (careful movement, Acrobatics DC 12)
-- Accept the [[alarm]] and prepare for combat
+- Accept the [[Alarm]] and prepare for combat
 
 ## What Happens Next
 

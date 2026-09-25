@@ -78,7 +78,7 @@ As they step inside, ancient mechanisms grind to life. The sculpture's eyes glow
 **Challenge**: 1 (200 XP)
 
 **Traits**:
-- **Antimagic Susceptibility**: [[The Drakofido]] is incapacitated while in the area of an *[[antimagic field]]*. If targeted by *[[dispel magic]]*, it must succeed on a Constitution saving throw or fall unconscious for 1 minute.
+- **Antimagic Susceptibility**: [[The Drakofido]] is incapacitated while in the area of an *[[Antimagic Field]]*. If targeted by *[[Dispel Magic]]*, it must succeed on a Constitution saving throw or fall unconscious for 1 minute.
 - **False Appearance**: While motionless, [[the Drakofido]] is indistinguishable from a normal statue.
 - **Magical Construct**: Immune to diseases and doesn't need air, food, or sleep.
 

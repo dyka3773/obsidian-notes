@@ -8,6 +8,7 @@
     "cholesterol": "number",
     "calories": "number",
     "protein": "number",
-    "date_played": "date"
+    "date_played": "date",
+    "level": "text"
   }
 }

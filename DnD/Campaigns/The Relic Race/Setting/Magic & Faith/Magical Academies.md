@@ -88,7 +88,7 @@ We'll design these **only if the party goes there**.
 **If they visit an academy**:
 1. **Library** (historical research on relics)
    - Requires: Permission (letter of introduction, faction backing, or reputation)
-   - Benefit: Learn relic lore, [[identify]] artifacts, translate ancient texts
+   - Benefit: Learn relic lore, [[Identify]] artifacts, translate ancient texts
 
 2. **Faculty Expertise** (consultations)
    - Requires: Payment (50-500 gp depending on complexity)
@@ -114,7 +114,7 @@ Athenian Academy sends representatives to Thessaloniki, demanding the party surr
 ### 4. "The Hogwarts Alumni Network"
 A British diplomat (Hogwarts graduate) offers the party a deal: information on a relic in exchange for escorting supplies to a dangerous region.
 ### 5. "The Forbidden Tome"
-The party learns of a book in Durmstrang's library that contains relic [[resurrection]] rituals. Do they steal it, buy it, or let it be?
+The party learns of a book in Durmstrang's library that contains relic [[Resurrection]] rituals. Do they steal it, buy it, or let it be?
 
 ---
 ## Magic Schools in Other Regions (Framework)
