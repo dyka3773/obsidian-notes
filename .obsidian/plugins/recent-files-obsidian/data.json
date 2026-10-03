@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-10-03",
+      "path": "Dailies/2026-10-03.md"
+    },
+    {
       "basename": "Air Bubble",
       "path": "DnD/Shared Resources/Spells/Air Bubble.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hat of Vermin",
       "path": "DnD/Shared Resources/Magic Items/Pre-existing/H/Hat of Vermin.md"
-    },
-    {
-      "basename": "Staff of Birdcalls",
-      "path": "DnD/Shared Resources/Magic Items/Pre-existing/S/Staff of Birdcalls.md"
     }
   ],
   "omittedPaths": [],

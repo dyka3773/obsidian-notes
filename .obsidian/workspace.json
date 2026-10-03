@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Shared Resources/Spells/Air Bubble.md",
+                "file": "Dailies/2026-10-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Air Bubble"
+              "title": "2026-10-03"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Shared Resources/Spells/Air Bubble.md",
+                "file": "Dailies/2026-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -232,19 +232,9 @@
               "icon": "srt-ribbon",
               "title": "Solo RPG Toolkit"
             }
-          },
-          {
-            "id": "76d4f2d7e2c60f93",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "29a106e995e55d1a",
@@ -342,16 +332,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "recipe-view:Toggle recipe view": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "calendarium:Open Calendarium": false
+      "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "069f6dacbcb4e8cc",
+  "active": "a0c6f40babcfc1f3",
   "lastOpenFiles": [
-    "DnD/Shared Resources/Spells/Pre-existing/A/Abi-Dalzim’s Horrid Wilting.md",
     "DnD/Shared Resources/Spells/Air Bubble.md",
+    "Dailies/2026-10-03.md",
+    "DnD/Shared Resources/Spells/Pre-existing/A/Abi-Dalzim’s Horrid Wilting.md",
     "DnD/Shared Resources/Spells/Pre-existing/A/Absorb Elements.md",
     "DnD/Shared Resources/Magic Items/Moonsilk Bracelet.md",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/3. Planar Rain/Planar Rain.md",
@@ -380,7 +368,6 @@
     "DnD/Shared Resources/Monsters/Bed Dragon Wyrmling.md",
     "Dailies/2026-07-17.md",
     "Cooking/Recipes/Pastry/Tsoureki.md",
-    "Dailies/2026-07-04.md",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/_. Wild Sheep Chase/NPCs",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/_. Wild Sheep Chase",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures",
