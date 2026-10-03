@@ -16,33 +16,8 @@
               "icon": "skull",
               "title": "Combatant"
             }
-          },
-          {
-            "id": "a0c6f40babcfc1f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dailies/2026-10-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-10-03"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dailies/2026-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -335,10 +309,10 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "a0c6f40babcfc1f3",
+  "active": "ad5961cc5892b4f3",
   "lastOpenFiles": [
-    "DnD/Shared Resources/Spells/Air Bubble.md",
     "Dailies/2026-10-03.md",
+    "DnD/Shared Resources/Spells/Air Bubble.md",
     "DnD/Shared Resources/Spells/Pre-existing/A/Abi-Dalzim’s Horrid Wilting.md",
     "DnD/Shared Resources/Spells/Pre-existing/A/Absorb Elements.md",
     "DnD/Shared Resources/Magic Items/Moonsilk Bracelet.md",
