@@ -16,8 +16,33 @@
               "icon": "skull",
               "title": "Combatant"
             }
+          },
+          {
+            "id": "84fef482ac0afef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/2026-10-08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-08"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -288,7 +313,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 677.5
+    "width": 677.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -309,8 +335,9 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "ad5961cc5892b4f3",
+  "active": "84fef482ac0afef0",
   "lastOpenFiles": [
+    "Dailies/2026-10-08.md",
     "Dailies/2026-10-03.md",
     "DnD/Shared Resources/Spells/Air Bubble.md",
     "DnD/Shared Resources/Spells/Pre-existing/A/Abi-Dalzim’s Horrid Wilting.md",
@@ -341,7 +368,6 @@
     "DnD/Campaigns/Curse of Strahd/Party/Valyria.md",
     "DnD/Shared Resources/Monsters/Bed Dragon Wyrmling.md",
     "Dailies/2026-07-17.md",
-    "Cooking/Recipes/Pastry/Tsoureki.md",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/_. Wild Sheep Chase/NPCs",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures/_. Wild Sheep Chase",
     "DnD/Campaigns/Episodic - Island Explorers/Adventures",
